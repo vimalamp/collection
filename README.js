@@ -6,9 +6,10 @@ document.getElementById("readme").innerHTML=`
 The purpose of this site is to index vaishnava songs and provide a means for the public to correct and consume the content.
 Click any of the song titles from the left side to open a song.
 
-<br><br><span class="uk-text-bold">Editing Songs:</span><br>
-Click the edit icon <button class="uk-button uk-button-default uk-button-danger"><span uk-icon="pencil"></span></button> in the top right to edit the song.
-To edit a song, one must have a <a href='https://github.com' target="_blank">GitHub</a> account.
+<br><br><span class="uk-text-bold">Making chnages:</span><br>
+To do any editing, one must have a <a href='https://github.com' target="_blank">GitHub</a> account.
+Clicking this button <a class="uk-button uk-button-default uk-button-danger" uk-icon="pencil" href="https://github.com/vaishnava-songs/collection/edit/master/README.js" target="_blank"></a> will open the edit page for the this page on <a href='https://github.com' target="_blank">GitHub</a>.
+When viewing a song, look for the same button in the top right corner to edit that song.
 Once one edits the song a "pull request" will be made.
 The maintainers will review the changes and make comments or merge in the change.
 
@@ -41,7 +42,7 @@ The maintainers will review the changes and make comments or merge in the change
 </table>
 
 <br><br><span class="uk-text-bold">Delevoping:</span><br>
-The site and all the content including the songs etc is hosted on the <a href="https://getuikit.com/docs" target=_blank>Vaishnava Songs GitHub</a> repo.
+The site and all the content including the songs etc is hosted on the <a href="https://getuikit.com/docs" target="_blank">Vaishnava Songs GitHub</a> repo.
 Any helper scripts can also be found there.
-The UI elements are provided by UIKit and documentation can be found on the <a href="https://getuikit.com/docs" target=_blank>UIKit docs site</a>.
+The UI elements are provided by UIKit and documentation can be found on the <a href="https://getuikit.com/docs" target="_blank">UIKit docs site</a>.
 `

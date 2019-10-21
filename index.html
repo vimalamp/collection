@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <script type="text/javascript">
+    const NUM_OF_SONGS = 687
+
+    var songs = [];
+    var indexEls = '';
+    function push(el){
+      indexEls = indexEls + '<li><a href="javascript:show(' + songs.length + ')">' + el.title + '</a></li>'
+      songs.push(el)
+    }
+
+    function script(url){
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = url;
+      document.getElementsByTagName('head')[0].appendChild(s);
+    }
+
+    function show(index){
+      var otherKeys = '';
+      Object.keys(songs[index]).forEach((key) =>{
+        var el = document.getElementById(key)
+        if (el)
+          el.innerHTML= songs[index][key]
+        else
+          otherKeys = otherKeys + '<dt>' + key + '</dt><dd>' + songs[index][key] + '</dd>'
+      })
+      document.getElementById('otherKeys').innerHTML = otherKeys;
+      document.getElementById('edit').href = 'https://github.com/vaishnava-songs/collection/edit/master/songs/' + index + '.js';
+
+
+      var songView = document.getElementById("songView");
+      if (songView.hasAttribute('hidden')) {
+        document.getElementById("readme").setAttribute('hidden', true);
+        songView.removeAttribute('hidden');
+      }
+    }
+
+    function home(){
+      var songView = document.getElementById("songView");
+      if (!songView.hasAttribute('hidden')) {
+        document.getElementById("readme").removeAttribute('hidden');
+        songView.setAttribute('hidden', true);
+      }
+    }
+
+    var x = 0;
+    for (x; x < NUM_OF_SONGS; x++){
+      script('songs/' + x + '.js');
+    }
+  </script>
+  
+  <!-- UIkit CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.2.0/css/uikit.min.css" />
+
+  <!-- UIkit JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.2.0/js/uikit.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.2.0/js/uikit-icons.min.js"></script>
+
+  <link href="https://fonts.googleapis.com/css?family=Cinzel|Indie+Flower&display=swap" rel="stylesheet">
+  <style>
+    pre {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="uk-flex">
+    <div class="uk-width-1-4" style="overflow-x: hidden; height: 100vh; overflow-y: scroll;">
+      <button class="uk-button uk-button-default uk-width-expand uk-button-primary" onclick="home()"><span uk-icon="home"></span></button>
+      <ul class="uk-list uk-list-striped" style="margin-top: 5px;" id="songs"></ul>
+    </div>
+    <div class="uk-width-1-4 uk-width-expand" style="overflow-x: hidden; height: 100vh; overflow-y: scroll;">
+      <div class="uk-card uk-card-small uk-card-default" style='margin: 5px; padding: 5px;'>
+        <div id='readme'></div>
+        <div hidden id='songView'>
+          <div class="uk-flex">
+          <div class="uk-text-center uk-tile uk-tile-primary uk-padding-small uk-width-expand">
+              <p class="uk-h4" id='title'></p>
+          </div>
+            <a class="uk-button uk-button-default uk-button-danger" uk-icon="pencil" style="line-height: 56px;" target="_blank" id="edit"></a>
+          </div>
+          <div class="uk-text-center uk-tile uk-tile-muted uk-padding-remove">
+              <p class="uk-h4" id='author'></p>
+          </div>
+          <ul uk-accordion>
+            <li>
+                <a class="uk-accordion-title" href="#">Other details</a>
+                <div class="uk-accordion-content">
+                  <dl class="uk-description-list" id='otherKeys'>
+                  </dl>
+                </div>
+            </li>
+          </ul>
+          <pre id='verses'>1-3</pre>
+          <pre id='translation'></pre>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+<script type="text/javascript">script('README.js')</script>
+<script type="text/javascript">script('index.js')</script>
+</html>
