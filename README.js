@@ -9,6 +9,8 @@ Click any of the song titles from the left side to open a song.
 <br><br><span class="uk-text-bold">Making chnages:</span><br>
 To do any editing, one must have a <a href='https://github.com' target="_blank">GitHub</a> account.
 Clicking this button <a class="uk-button uk-button-default uk-button-danger" uk-icon="pencil" href="https://github.com/vaishnava-songs/collection/edit/master/README.js" target="_blank"></a> will open the edit page for the this page on <a href='https://github.com' target="_blank">GitHub</a>.
+When one clicks the edit button for the first time, Github will prompt one to fork the repository. 
+After forking the repository, one will be able to make edits. 
 When viewing a song, look for the same button in the top right corner to edit that song.
 Once one edits the song a "pull request" will be made.
 The maintainers will review the changes and make comments or merge in the change.
