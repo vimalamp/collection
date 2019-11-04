@@ -1,10 +1,10 @@
 push({
   "title": "rādhā-kṛṣṇa bal bal bala re sabāi",
+  "id": 361,
   "author": "bhaktivinoda",
   "category": "śrī-nagara-kīrtana",
   "language": "bengali",
-  "verses": `
-rādhā-kṛṣṇa bal bal bala re sabāi
+  "verses": `rādhā-kṛṣṇa bal bal bala re sabāi
 (ei) śikṣā diyā, saba nadīyā,
         phirache nece gaura-nitāi (1)
 
@@ -19,7 +19,5 @@ jharbe ākhi bali tāi (3)
 (rādhā-) kṛṣṇa bala, saṅge cala,
         ei-mātra bhikṣā cāi
 (jāya) sakala vipada, <b>bhaktivinoda</b>,
-        balena jakhana o-nāma gāi (4)
-`,
-  "translation": ""
+        balena jakhana o-nāma gāi (4)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "rūpānugānāṁ pravaraṁ sudāntaṁ",
+  "id": 13,
   "category": "śrīla-jagannāthāṣṭakam",
   "author": "śrīla-bhakti-rakṣaka-śrīdhara-gosvāmī-mahārāja-viracitam",
   "language": "sanskrit",
-  "verses": `
-rūpānugānāṁ pravaraṁ sudāntaṁ,
+  "verses": `rūpānugānāṁ pravaraṁ sudāntaṁ,
     śrī-gauracadra-priya-bhakta-rājam
 śrī-rādhikā-mādhava-cita-rāmaṁ,
     vande jagannātha-vibhuṁ vareṇyam (1)
@@ -47,7 +47,5 @@ māyāpure dhāmani sakta-citaṁ,
 he deva! he vaiṣṇava-sārvabhauma!
     bhaktyā parā-bhūta-mahendradhiṣṇya!
 tvadegātra-vistāravatīṁ supuṇyāṁ,
-    vande muhur-bhaktivinoda-dhārām (9)
-`,
-  "translation": ""
+    vande muhur-bhaktivinoda-dhārām (9)`
 })

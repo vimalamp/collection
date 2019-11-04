@@ -1,10 +1,10 @@
 push({
   "title": "‘hari’ bala, ‘hari’ bala, ‘hari’ bala bhāi re",
+  "id": 337,
   "author": "vinoda",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
-  "verses": `
-‘hari’ bala, ‘hari’ bala, ‘hari’ bala bhāi re
+  "verses": `‘hari’ bala, ‘hari’ bala, ‘hari’ bala bhāi re
 harināma āniyāche gaurāṅga-nitāi re (1)
 
 (modera duḥkha de’khe re)
@@ -37,7 +37,5 @@ hari-nāma vinā jīvera anya dhana nāi re
         <b>vinoda</b> bale, jāi la’ye nāmera bālāi re (8)
 
 (nāmera bālāi che’ḍe re)
-(vinoda bole, jāi la’ye, nāmera bālāi che’ḍe re) (9)
-`,
-  "translation": ""
+(vinoda bole, jāi la’ye, nāmera bālāi che’ḍe re) (9)`
 })

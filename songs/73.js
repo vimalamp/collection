@@ -1,10 +1,10 @@
 push({
   "title": "nija-pati-bhuja-daṇḍa-cchatra-bhāvaṁ prapadya",
+  "id": 73,
   "category": "śrī-govardhana-vāsa-prārthanā-daśakam",
   "author": "śrīmad-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-nija-pati-bhuja-daṇḍa-cchatra-bhāvaṁ prapadya
+  "verses": `nija-pati-bhuja-daṇḍa-cchatra-bhāvaṁ prapadya
     prati-hata-mada-dhṛṣṭod-daṇḍa-devendra-garva
 atula-pṛthula-śaila-śreṇi-bhūpa! priyaṁ me
     nija-nikaṭa-nivāsaṁ dehi govardhana! tvam (1)
@@ -57,7 +57,5 @@ iti khalu mama yogyāyogyatāṁ tām agṛhṇan
 rasada-daśakam asya śrīla-govardhanasya
     kṣiti-dhara-kula-bhartur yaḥ prayatnād adhīte
 sa sapadi sukha-de ’smin vāsam āsādya sākṣāc-
-    chubha-da-yugala-sevā-ratnam āpnoti tūrṇam (11)
-`,
-  "translation": ""
+    chubha-da-yugala-sevā-ratnam āpnoti tūrṇam (11)`
 })

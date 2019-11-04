@@ -1,10 +1,10 @@
 push({
   "title": "yat-kiṅkarīṣu bahuśaḥ khalu kāku-vāṇī",
+  "id": 85,
   "category": "śrīmatī-rādhārānī-stuti",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-yat-kiṅkarīṣu bahuśaḥ khalu kāku-vāṇī
+  "verses": `yat-kiṅkarīṣu bahuśaḥ khalu kāku-vāṇī
     nityaṁ parasya puruṣasya śikhaṇḍa-mauleḥ
 tasyāḥ kadā rasa-nidher vṛṣabhānu-jāyās
     tat-keli-kuñja-bhavanāṅgana-marjanī syām (1)
@@ -49,7 +49,5 @@ vande nanda-vraja-strīṇāṁ, pāda-reṇum abhīkṣṇaśaḥ
 yāsāṁ hari-kathodgītaṁ, punāti bhuvana-trayam (10)
 
 tavaivāsmi tavaivāsmi, na jīvāmi tvayā vinā
-iti vijñāya devi tvaṁ, naya māṁ caraṇāntikam (11)
-`,
-  "translation": ""
+iti vijñāya devi tvaṁ, naya māṁ caraṇāntikam (11)`
 })

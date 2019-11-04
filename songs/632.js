@@ -1,10 +1,10 @@
 push({
   "title": "śraddhā-devi nāma jāra du-iti svabhāva tāra",
+  "id": 632,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-śraddhā-devi nāma jāra du-iti svabhāva tāra
+  "verses": `śraddhā-devi nāma jāra du-iti svabhāva tāra
         vidhi-mūla ruci-mūla bhede
 śāstrera śāsana jabe śraddhāra udaya ho’be
         vaidhī śraddhā tāre bole bede (1)
@@ -22,7 +22,5 @@ sādhana-samaye jaiche siddhi-kāle prāpti taiche
 vaidhī bhakti dhīra gati rāgānugā tīvra ati
         ati śīghra rasāvasthā pāya
 rāga-vartma-su-sādhane ruci haya jāra mane
-        rūpānuga haite sei dhāya (4)
-`,
-  "translation": ""
+        rūpānuga haite sei dhāya (4)`
 })

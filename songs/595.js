@@ -1,30 +1,26 @@
 push({
-  "title": "ghare va’se bāula hao re mana",
-  "author": "cāda-bāulera",
+  "title": "ghare bô’se bāula hao",
+  "id": 595,
+  "author": "cā̃da-bāula (śrīla bhaktivinoda ṭhākura)",
   "category": "bāula-saṅgīta",
   "language": "bengali",
   "verses": `
-ghare va’se bāula hao re mana, 
-kena karbi duṣṭa-ācaraṇa (1)
+ghare bô’se bāula hao re mana, 
+kenô kôr_#bi duṣṭa-ācaraṇa ||1||
+mane mane rākh_#bi bāula-bhāba,
+saṅga chāḓi’ dharmmabhābe kôr_#bi biṣaya lābha; 
+jībana-ĵāpana kar_#bi, 
+hari-nāmānande sarbbakṣaṇa ||2||
 
-mane mane rākhvi bāula-bhāva, saṅga chāḍi’ dharma-
-        bhāve karbi viṣaya lābha
-jīvana jāpana karbi, hari-nāmānande sarvakṣaṇa (2)
+ĵatôdina hṛdaya-śodhana naya,
+ghara chāḓ_#le pare ‘markaṭa-bairāgī’ tā’re kaya; 
+hṛdaya-doṣe, ripura baśe, pade pade tā’ra patana ||3||
 
-jatadina hṛdaya-śodhana naya, ghara chāḍle pare
-        ‘markaṭa-vairāgī’ tā’re kaya
-hṛdaya-doṣe, ripura vaśe,
-        pade pade tā’ra patana (3)
+ẽcaḓe pākā bairāgī ĵe haya,
+parera nārī la’ye pālera godā ha’ye raya; 
+(ābāra) arthalobhe, dvāre dvāre, kare nīcera ārādhana ||4||
 
-ecaḍe pākā vairāgī je haya, parera nārī la’ye
-        pālera godā ha’ye raya
-(āvāra) arthalobhe dvāre dvāre
-        kare nīcera ārādhana (4)
-
-ghare va’se pākāo nijera mana, āra sakala-dina kara
-        harira nāma-saṅkīrtana
-tabe <b>cāda-bāulera</b> saṅge śeṣe
-        karbi saṁsāra visarjana (5)
-`,
-  "translation": ""
+ghare bô’se pākāo nijera mana,
+āra sakala dina karô harira nāma-saṅkīrttana; 
+tabe, cā̃da-bāulera saṅge śeṣe, kar_#bi saṁsāra bisarjjana ||5||`
 })

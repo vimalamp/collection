@@ -1,10 +1,10 @@
 push({
   "title": "ujvala-varaṇa-gaura-vara-dehaṁ",
+  "id": 20,
   "category": "śrī-śacī-tanayāṣṭakam",
   "author": "śrīla-sārvabhauma-bhaṭṭācārya viracitam",
   "language": "sanskrit",
-  "verses": `
-ujvala-varaṇa-gaura-vara-dehaṁ
+  "verses": `ujvala-varaṇa-gaura-vara-dehaṁ
     vilasita-niravadhi-bhāva-videham
 tri-bhuvana-pāvana-kṛpāyā leśaṁ
     taṁ praṇamāmi ca śrī-śacī-tanayam (1)
@@ -42,7 +42,5 @@ malayaja-viracita-ujvala-tilakaṁ
 nindita-aruṇa-kamala-dala-nayanaṁ
     ājānu-lambita-śrī-bhuja-yugalam
 kalevara-kaiśora-nartaka-veśaṁ
-    taṁ praṇamāmi ca śrī-śacī-tanayam (8)
-`,
-  "translation": ""
+    taṁ praṇamāmi ca śrī-śacī-tanayam (8)`
 })

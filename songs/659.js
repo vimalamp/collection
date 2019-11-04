@@ -1,27 +1,28 @@
 push({
   "title": "vraja-jana mana-sukhakārī",
-  "author": "nārāyaṇa",
+  "id": 659,
+  "author": "śrī śrīmad bhaktivedānta nārāyaṇa gosvāmī mahārāja",
   "category": "hindī-kīrtana",
   "language": "hindi",
   "verses": `
-vraja-jana mana-sukhakārī
-rādhe śyāma śyāmā-śyāma (1)
+vraja-jana mana-sukhakārī |
+rādhe śyāma śyāmā-śyāma ||dhru||
 
-mora mukuṭa makarā kṛta kuṇḍala, gala vaijayantī māla,
-caraṇe nūpura rasāla (radhe) (2)
+mora mukuṭa makarākṛta kuṇḍala,    gala vaija.yantī māla,
+caraṇe nūpura rasāla ||rādhe||(1)
 
-sundara vadana kamala dala locana, bākī citta vanahārī
-mohana vaṁśī-vihārī (radhe) (3)
+sundara vadana kamaladala locana,    bā̃kī citavanahārī |
+mohana vaṁśībihārī ||rādhe||(2)
 
-vṛndāvana me dhenu carāve, gopī-jana manahārī,
-śrī govardhana-dhārī (radhe) (4)
+vṛndāvaname dhenu carāo.ye,    gopījana manahārī,
+śrīgovarddhanadhārī ||rādhe||(3)
 
-rādhā-kṛṣṇa mili aba dou, gaura-rūpa avatārī
-kīrtana-dharama-pracārī (radhe) (5)
+rādhā-kṛṣṇa mili aba dou,    gaurarūpa avatārī |
+kīrttana-dharmmapracārī ||rādhe||(4)
 
-tuma vina mere aura na koi, nāma rūpa avatārī
-caraṇana me balihārī (radhe)
-<b>nārāyaṇa</b> balihārī (radhe) (6)
-`,
-  "translation": ""
+tuma bina mere aora na koi,    nāmarūpa avatārī |
+caraṇome~ balihārī ||rādhe||
+nārā.yaṇa balihārī ||rādhe||(5)
+
+`
 })

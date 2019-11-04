@@ -1,10 +1,10 @@
 push({
   "title": "madhuraṁ madhurebhyo ‘pi, maṅgalebhyo ‘pi maṅgalam",
+  "id": 52,
   "category": "śrī-kevalāṣṭakam",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-madhuraṁ madhurebhyo ‘pi, maṅgalebhyo ‘pi maṅgalam
+  "verses": `madhuraṁ madhurebhyo ‘pi, maṅgalebhyo ‘pi maṅgalam
 pāvanaṁ pāvanebhyo ‘pi, harer nāmaiva kevalam (1)
 
 ābrahmā-stamba-paryantaṁ, sarvaṁ māyā-mayaṁ jagat
@@ -26,7 +26,5 @@ dīyatāṁ dīyatāṁ karṇo, nīyatāṁ nīyatāṁ vacaḥ
 gīyatāṁ gīyatāṁ nityaṁ, harer nāmaiva kevalam (7)
 
 tṛṇī-kṛtya jagat sarvaṁ, rājate sakalopari
-cid-ānanda-mayaṁ śuddhaṁ, harer-nāmaiva kevalam (8)
-`,
-  "translation": ""
+cid-ānanda-mayaṁ śuddhaṁ, harer-nāmaiva kevalam (8)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "kṛṣṇa-vaṁśī-gīta śuni ’dekhi’ citra-pata-khani",
+  "id": 280,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-kṛṣṇa-vaṁśī-gīta śuni ’dekhi’ citra-pata-khani
+  "verses": `kṛṣṇa-vaṁśī-gīta śuni ’dekhi’ citra-pata-khani
         loka-mukhe guṇa śravaṇiyā
 pūrva-rāgākrānta cita unmāda-lakhaṇānvita
         sakhī-saṅge calilā dhāiyā (1)
@@ -33,7 +33,5 @@ durbhaga nā bujhe rāsa-līlā-tattva-sāra
 sūkara jemana nāhi cine muktā-hāra (7)
 
 adhikāra-hīna-jana-maṅgala cintiyā
-kīrtana karinu śeṣa kāla vicāriyā (8)
-`,
-  "translation": ""
+kīrtana karinu śeṣa kāla vicāriyā (8)`
 })

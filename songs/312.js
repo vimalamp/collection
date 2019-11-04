@@ -1,10 +1,10 @@
 push({
   "title": "jaya jaya yadu-kula-jalanidhi-candra",
+  "id": 312,
   "author": "govinda-dāsa",
   "category": "śrī-kṛṣṇa dainyabodhikā prārthanā",
   "language": "bengali",
-  "verses": `
-(suha-i-rāga)
+  "verses": `(suha-i-rāga)
 jaya jaya yadu-kula-jalanidhi-candra
 braja-kula gokula ānanda-kanda (1)
 
@@ -18,7 +18,5 @@ abanī vilambita vani vana-bāla
 madhukara jhaṅkaru tatahi rasāla (4)
 
 taruṇa aruṇa ruci pada aravinda
-nakha-maṇi nichani <b>dāsa-govinda</b> (5)
-`,
-  "translation": ""
+nakha-maṇi nichani <b>dāsa-govinda</b> (5)`
 })

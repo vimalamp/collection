@@ -1,34 +1,33 @@
 push({
-  "title": "hari he! nīra-dharma-gata, jāhnavī-salile",
+  "title": "hari he! nīradharmma-gata",
+  "id": 397,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
-<i>dṛṣṭaiḥ svabhāva-janitair-vapuṣaś-ca doṣair-
-    na prākṛta-tvam-iha bhakta-janasya paśyat
-gaṅgām-bhasāṁ na khalu budbuda-phena-paṅkair-
-    brahma-dravatvam-apagacchati nīra-dharmaiḥ</i>
+<i>dṛṣṭaiḥ svabhāvajanitairvvapuṣaśca doṣai-
+rna prākṛtattvamiha bhaktajanasya paśyet. |
+gaṅgāmbhasāṁ na khalu budbudaphenapaṅkai-
+rbrahmadravatvamapagacchati nīradharmmaiḥ ||ca||</i>
 
-hari he!
-nīra-dharma-gata, jāhnavī-salile,
-        paṅka-phena dṛṣṭa haya
-tathāpi kakhana, brahma-drava-dharma,
-        se salila nā chāḍaya (1)
+hari he! 
+nīradharmma-gata,    jāhnavī-salile,
+paṅka-phena dṛṣṭa haya |
+tathāpi kakhôna,    brahmadraba-dharmma,
+se salilô nā chāḓaya ||1||
 
-vaiṣṇava-śarīra, sadā aprākṛta,
-        svabhāva-vapura dharme
-kabhu nahe jaḍa, tathāpi je ninde,
-        paḍe se viṣamā-dharme (2)
+vaiṣṇava-śarīra,    aprākṛta sadā,
+svabhāba-bapura dharmme |
+kabhu nahe jaḓa,    tathāpi ĵe ninde,
+paḓe se biṣamādharmme ||2||
 
-sei aparādhe, jamera jātanā,
-        pāya jīva avirata
-he nanda-nandana! sei aparādhe,
-        jena nāhi hai hata (3)
+sei aparādhe,    ĵamera ĵātanā,
+pāya jība abirata |
+he nandanandana!    sei aparādhe,
+ĵenô nāhi hô_i hata ||3||
 
-tomāra vaiṣṇava, vaibhava tomāra,
-        āmāre karuna dayā
-tabe mora gati, ha’be tava prati,
-        pā’ba tava pada-chāyā (4)
-`,
-  "translation": ""
+tomāra vaiṣṇava,    baibhaba tomāra,
+āmāre karuna dayā |
+tabe mora gati,    habe taba prati,
+pā’bô taba padachāyā ||4||`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "bhādra śuklāṣṭami tithi, viśāthā nakṣe tithi",
+  "id": 242,
   "author": "Unknown",
   "category": "śrī-rādhā-janmalīlā",
   "language": "bengali",
-  "verses": `
-bhādra śuklāṣṭami tithi, viśāthā nakṣe tithi
+  "verses": `bhādra śuklāṣṭami tithi, viśāthā nakṣe tithi
         śrīmatī janama joi kāle
 madhya dina gata ravi, dekhiyā bālikā chavi
         jaya jaya dei hutūhale (1)
@@ -22,7 +22,5 @@ aneka punyera khale, daiva haila anukūle
 modera mane hena laya, eho ta manuṣa naya
         kona chale kevā janamilā
 ghana-śyama dāsa kaya, nā kariha samśaya
-        kṛṣṇa-priyā sadayā hailā (4)
-`,
-  "translation": ""
+        kṛṣṇa-priyā sadayā hailā (4)`
 })

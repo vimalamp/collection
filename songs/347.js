@@ -1,14 +1,12 @@
 push({
-  "title": "(jaya) rādhā-mādhava kuñjabihārī",
-  "author": "Unknown",
+  "title": "rādhā-mādhava kuñjabihārī",
+  "id": 347,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-(jaya) rādhā-mādhava kuñjabihārī
-gopī-jana-vallabha girivara-dhārī (1)
-
-yaśodā-nandana, vraja-jana-rañjana,
-yāmuna-tīra-vanacārī (2)
-`,
-  "translation": ""
+rādhā-mādhava kuñjabihārī |
+gopījanavallabha girivaradhārī |
+ĵaśodānandana,    vrajajanarañjana,
+ĵāmunatīra-banacārī ||`
 })

@@ -1,25 +1,24 @@
 push({
-  "title": "gāya gorā-cāda jīvera tare",
+  "title": "gāya gorācā̃da jībera tare",
+  "id": 362,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nagara-kīrtana",
   "language": "bengali",
   "verses": `
-gāya gorā-cāda jīvera tare
-hare kṛṣṇa hare (1)
+gāya gorācā̃da jībera tare | 
+hare kṛṣṇa hare ||dhru||
 
-hare kṛṣṇa hare kṛṣṇa
-        kṛṣṇa kṛṣṇa hare hare
-hare rāma hare rāma
-        rāma rāma hare hare (2)
+hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare,
+hare kṛṣṇa hare |
+hare rāma hare rāma rāma rāma hare hare 
+hare kṛṣṇa hare ||
 
-eka-bāra bala rasanā uccaiḥ-svare
-(bala) nandera nandana, yaśodā-jīvana,
-        śrī-rādhā-ramaṇa, prema-bhare (3)
+ekabāra bôlô rasanā uccaiḥsvare |
+(bôlô) nandera nandana,    ĵaśodā-jībana,
+śrīrādhāramaṇa prema-bhare ||1||
 
-(bala) śrī-madhusūdana, gopī-prāṇa-dhana,
-        muralī-vadana nṛtya kare
-(bala) agha-nisūdana, pūtanā-ghātana,
-        brahma-vimohana, ūrddhva-kare (4)
-`,
-  "translation": ""
+(bôlô) śrīmadhusūdana,    gopī-prāṇadhana,
+muralīvadana nṛtya ka’re |
+(bôlô) agha-nisūdana,    pūtanā-ghātana,
+brahma-vimohana, ūrddhva-kare ||2||`
 })

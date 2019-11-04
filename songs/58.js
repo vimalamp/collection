@@ -1,10 +1,10 @@
 push({
   "title": "vasatu mano mama madana-gopāle",
+  "id": 58,
   "author": "śrīla prabodhānanda sarasvatī",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `
-<i>vasanta rāga</i>
+  "verses": `<i>vasanta rāga</i>
 vasatu mano mama madana-gopāle
 nava-rati-keli-vilāsa-parāvadhi-rādhā-surata-rasāle (1)
 
@@ -36,7 +36,5 @@ padanakha-candra-maṇi-cchavi-lajita-manasija-koṭi-samāje
 adbhuta-keli-vilāsa-viśārada-vrajapura-navayuva-rāje (10)
 
 rasika-sarasvatī-varṇita-mādhava-rūpa-sudhā-rasa-sāre
-ramayata sādhu-budhā nija-hṛdayaṁ bramatha mudhā kim-asāre (11)
-`,
-  "translation": ""
+ramayata sādhu-budhā nija-hṛdayaṁ bramatha mudhā kim-asāre (11)`
 })

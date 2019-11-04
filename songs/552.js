@@ -1,79 +1,78 @@
 push({
-  "title": "śrī-rūpera baḍa bhāi, śrī-sanātana gosāi",
-  "author": "rādhā-ballabha-dāsa",
+  "title": "śrīrūpera baḓô bhāi",
+  "id": 552,
+  "author": "rādhāballabhadāsa",
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīla-sanātana-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
-śrī-rūpera baḍa bhāi, śrī-sanātana gosāi,
-        pātsāra ujira haiyā chilā
-śrī-rūpera patra pe’ye, vandī haite palāiye,
-        kāśī-pure gaurāṅga bheṭilā (1)
+śrīrūpera baḓô bhāi,    śrīsanātana gõsāi,
+pāt.sāra ujira hô_iyā chilā |
+śrīrūpera patra pe’ye,    bandī haite palāiye,
+kāśīpure gaurāṅga bheṭilā ||1||
 
-chiḍā kāthā aṅge mali, hāte nakha māthe culi,
-        nikaṭe jāite aṅga hele
-dui guccha tṛṇa kare, eka-guccha daten dha’re,
-        paḍilā caitanya-padatale (2)
+chĩḓā kā̃thā aṅge mali,    hāte nakha, māthe culi,
+nikaṭe ĵāite aṅga hele |
+dui guccha tṛṇa kare,    ekaguccha dante dha’re,
+pôḓilā caitanya-padatale ||2||
 
-daraveśa-rūpa dekhi’, prabhura sajala ākhi,
-        bāhu pāśariyā āise dheye
-sanātane kari’ kole, kātare gosāi bale,
-        ‘adhamere sparśa’ ki lāgiye (3)
+darabeśa-rūpa dekhi’,    prabhura sajala ā̃khi,
+bāhu paśāriyā āise dheye |
+sanātane kôri’ kole,    kātare gõsāi bale,
+“adhamere sparśa ki lāgiye ||3||
 
-aspṛśya pāmara dīna, durācāra buddhi-hīna,
-        nīca kule nīca vyavahāra
-ehena pāmara-jane, sparśa’ prabhu ki-kāraṇe,
-        yogya nahe tomā sparśivāra’ (4)
+aspṛśya, pāmara, dīna,    durācāra, buddhihīna,
+nīca-kule nīca byabahāra |
+ehenô pāmara-jane,    sparśa’ prabhu ki kāraṇe,
+ĵogya nahe tomā sparśibāra ||4||”
 
-prabhu kahe,–‘sanātana, dainya kara ki kāraṇa,
-        tava dainye phāṭe mora hiyā
-kṛṣṇera karuṇā āche, bhāla-manda nāhi vāche,
-        tomā sparśi pāvitrya lāgiyā’ (5)
+prabhu kahe, ‘sanātana,    dainya karô ki kāraṇa,
+taba dainye phāṭe mora hiyā |
+kṛṣṇera karuṇā āche,    bhālô-manda nāhi bāche,
+tomā sparśi pābitrya lāgiyā ||5||’
 
-bhoṭa-kambala dekhi’ gāya, prabhu punaḥ punaḥ cāya,
-        lajita haiyā sanātana
-gauḍīyāre bhoṭa diyā, chiḍā eka kānthā laiyā,
-        prabhu-pāśe punarāgamana (6)
+bhoṭa-kambala dekhi’ gāya,    prabhu punaḥ punaḥ cāya,
+lajjita hô_ilā sanātana |
+gauḓīyāre bhoṭa diyā,    chĩḓā eka kānthā laiyā,
+prabhupāśe punarāgamana ||6||
 
-ājñā dila rūpa-sane, dekhā ha’be vṛndāvane,
-        prabhu-ājñāya karila gamane
-gaurāṅga karuṇā kari’, rādhā-kṛṣṇa-nāma-mādhurī,
-        śikṣā karāilā sanātane (7)
+ājñā dilô rūpa-sane,    dekhā ha’be vṛndāvane,
+prabhu-ājñāya kôrilô gamane |
+gaurāṅga karuṇā kôri’,    rādhākṛṣṇa-nāma-mādhurī,
+śikṣā karāilā sanātane ||7||
 
-cheḍā kānthā, neḍā māthā, mukhe kṛṣṇa-guṇa-gāthā,
-        paridhāne cheḍā bahirvāsa
-kabhu kānde, kabhu hāse, kabhu premānande bhāse,
-        kabhu bhikṣā, kabhu upavāsa (8)
+chẽḓā kānthā, neḓā māthā,    mukhe kṛṣṇa-guṇa-gāthā,
+paridhāne chẽḓā bahirbbāsa |
+kabhu kānde, kabhu hāse,    kabhu premānande bhāse,
+kabhu bhikṣā, kabhu upabāsa ||8||
 
-ataḥpara sanātana, praveśila vṛndāvana,
-        rūpa-saṅge haila milana
-preme aśru netre bhari’, sanātanera gale dhari’,
-        kānde rūpa gadagada-vacana (9)
+ataḥpara sanātana,    prabeśilô vṛndāvana,
+rūpa-saṅge hô_ilô milana |
+preme aśru netre bhôri’,    sanātanera galā dhôri’,
+kā̃nde rūpa gadgada-bacana ||9||
 
-vrajapure ghare ghare, mādhukarī bhikṣā kare,
-        ei-rūpe goyāya sanātana
-katadine tāhā chāḍi’, kuñje kuñje rahe paḍi’,
-        phala-mūla karaye bhakṣaṇa (10)
+vrajapure ghare ghare,    mādhukarī bhikṣā kare,
+eirūpe gõyāya sanātana |
+katôdine tāhā chāḓi’,    kuñje kuñje rahe pôḓi’,
+phala-mūla karaye bhakṣaṇa ||10||
 
-uccasvare ārtanāde, rādhā-kṛṣṇa bali’ kāde,
-        hā nātha, hā nātha bali’ ḍāke
-gaurāṅgera jata guṇa, kahe rūpa-sanātana,
-        ei-rūpe katadina thāke (11)
+uccasvare ārttanāde,    rādhākṛṣṇa bôli’ kā̃de,
+‘hā nātha, hā nātha’ bôli’ ḍāke |
+gaurāṅgera ĵatô guṇa,    kahe rūpa-sanātana,
+eirūpe katôdina thāke ||11||
 
-kata-dina atarmanā, chāpānna daṇḍa bhāvanā,
-        cāri-daṇḍa nidrā vṛkṣa-tale
-kṛṣṇa-nāma-gāne thāke, svapne rādhā-kṛṣṇa dekhe,
-        avasara nahe ekatile (12)
+katôdina antarmmanā,    chāpānna-daṇḍa bhābanā,
+cāridaṇḍa nidrā bṛkṣatale |
+kṛṣṇanāma-gāne thāke,    svapne rādhākṛṣṇa dekhe,
+abasara nahe ekatile ||12||
 
-chāḍi’ bhoga-abhilāṣa, tarutale kare vāsa,
-        dui cāri dina upavāsa
-kakhanao vanera śāka, alavaṇe kari’ pāka,
-        mukhe deya dui-eka grāsa (13)
+chāḓi’ bhoga-abhilāṣa,    tarutale kare bāsa,
+dui-cāri dina upabāsa |
+kakhônao banera śāka,    alabaṇe kôri’ pāka,
+mukhe deya dui-eka grāsa ||13||
 
-sūkṣma-vastra ’rāje gāya, dhūlāya dhūsara kāya,
-        kaṇṭakete viddha haya pāśa
-e <b>rādhā-ballabha-dāsa</b>, mane kare abhilāṣa,
-        kata-dine ha’ba tā’ra dāsa (14)
-`,
-  "translation": ""
+sūkṣmabastra bāje gāya,    dhūlāya dhūsara kāya,
+kaṇṭakete biddha haya pāśa |
+e rādhāballabhadāsa,    mane kare abhilāṣa,
+katôdine ha’bô tā’ra dāsa ||14||`
 })

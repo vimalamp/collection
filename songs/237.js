@@ -1,27 +1,28 @@
 push({
   "title": "hari hari! ki mora karama anurata",
-  "author": "narottama-dāsa",
+  "id": 237,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
   "verses": `
-hari hari! ki mora karama anurata
-viṣaye kuṭila-mati, sat-saṅge nā haila rati,
-        kise āra taribāra patha (1)
+hari hari! ki mora karama anurata |
+biṣaye kuṭilamati,    sat.saṅge nā hailô rati,
+kise āra taribāra patha ||1||
 
-svarūpa, sanātana, rūpa, raghunātha, bhaṭṭa-yuga,
-        lokanātha siddhānta-sāgara
-śunitāma se-saba kathā, ghucita manera vyathā,
-        tabe bhāla haila antara (2)
+svarūpa, sanātana, rūpa,    raghunātha, bhaṭṭaĵuga,
+lokanātha siddhāntasāgara |
+śunitāma se-saba kathā,    ghucita manera byathā,
+tabe bhālô hô_itô antara ||2||
 
-jakhana gaura-nityānanda, advaitādi bhakta-vṛnda,
-        nadīyā-nagare avatāra
-takhana nā haila janma, ebe dehe kibā karma,
-        michā-mātra vahi’ phiri bhāra (3)
+ĵakhôna gaura-nityānanda,    advaitādi bhaktabṛnda,
+nadīyā-nagare abatāra |
+takhôna nā hô_ilô janma,    ebe dehe kibā karmma,
+michāmātra bahi’ phiri bhāra ||3||
 
-hari-dāsādi bule, mahotsava ādi kare,
-        nā herinu se sukha-vilāsa
-ki mora duḥkhera kathā, janama goānu vṛthā,
-        dhik dhik <b>narottama-dāsa</b> (4)
-`,
-  "translation": ""
+haridāsa-ādi bule,    mahot.saba ādi kare,
+nā herinu se sukha-bilāsa |
+ki mora duḥkhera kathā,    janama goṅānu bṛthā,
+dhik_ dhik_ narottamadāsa ||4||
+
+śabdārtha:- anurata—āsakti; bule—bhramaṇa kare |`
 })

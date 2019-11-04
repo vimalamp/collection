@@ -1,30 +1,29 @@
 push({
-  "title": "rāḍha-deśa-nāma, ekacakrā-grāma",
-  "author": "kṛṣṇadāsa",
+  "title": "rāḓhadeśa nāma",
+  "id": 141,
+  "author": "duḥkhī kṛṣṇadāsa????",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrīman-nityānanda",
   "language": "bengali",
   "verses": `
-<i>(śrī-nityānandāvirbhāva-līlā)</i>
-rāḍha-deśa-nāma, ekacakrā-grāma,
-        hāḍāi paṇḍita ghara
-śubha māgha-māsi, śuklā-trayodaśī,
-        janamilā haladhara (1)
+rāḓhadeśa nāma,    ekacakrā-grāma,
+hāḓāi paṇḍita ghara |
+śubha māgha-māsi,    śuklā-trayodaśī,
+janamilā haladhara ||1||
 
-hāḍāi paṇḍita, ati haraṣita,
-        putra-mahotsava kare
-dharaṇī-maṇḍala, kare ṭalamala,
-        ānanda nāhika dhare (2)
+hāḓāi paṇḍita,    ati haraṣita,
+putra-mahot.saba kare |
+dharaṇī-maṇḍala,    kare ṭalamala,
+ānanda nāhikô dhare ||2||
 
-śāntipura-nātha, mane haraṣita,
-        kari’ kichu anumāna
-antare jānilā, bujhi janamilā,
-        kṛṣṇera agraja rāma (3)
+śāntipura-nātha,    mane haraṣita,
+kôri’ kichu anumāna |
+antare jānilā,    bujhi janamilā,
+kṛṣṇera agraja rāma ||3||
 
-vaiṣṇavera mana, haila parasanna,
-        ānanda-sāgare bhāse
-e dīna pāmara, haibe uddhāra,
-        kahe duḥkhī <b>kṛṣṇadāse</b> (4)
-`,
-  "translation": ""
+vaiṣṇavera mana,    hailô parasanna,
+ānanda-sāgare bhāse |
+e dīna pāmara,    hô_ibe uddhāra,
+kahe duḥkhī kṛṣṇadāse ||4||`,
+  "notes": "(śrīnityānandāvirbhāva-līlā)"
 })

@@ -1,49 +1,51 @@
 push({
-  "title": "śuddha-bhakata-caraṇa-reṇu, bhajana-anukūla",
-  "author": "bhaktivinoda",
+  "title": " śuddhabhakata",
+  "id": 489,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>anukūla grahaṇala–vācika o māna-sika</i>
-śuddha-bhakata-caraṇa-reṇu, 
-        bhajana-anukūla
-bhakata-sevā, parama-siddhi,
-        prema-latikāra mūla (1)
+anukūla grahaṇa—bācika o mānasika
 
-mādhava-tithi, bhakti-jananī,
-        jatane pālana kari
-kṛṣṇa-vasati, vasati bali’,
-        parama-ādare vari (2)
+śuddhabhakata-,    caraṇa-reṇu,
+bhajana-anukūla |
+bhakata-sebā,    parama-siddhi,
+prema-latikāra mūla ||1||
 
-gaura āmāra, je-saba sthāne,
-        karala bramaṇa raṅge
-se-saba sthāna, heriba āmi,
-        praṇayi-bhakata-saṅge (3)
+mādhava-tithi,    bhakti-jananī,
+ĵatane pālana kôri |
+kṛṣṇabasati,    basati bôli’,
+parama-ādare bôri ||2||
 
-mṛdaṅga-vādya, śunite mana,
-        avasara sadā jāce
-gaura-vihita, kīrtana śuni’,
-        ānande hṛdaya nāce (4)
+gaura āmāra,    ĵe-saba sthāne,
+karalô bhramaṇa raṅge |
+se-saba sthāna,    heribô āmi,
+praṇayi-bhakata-saṅge ||3||
 
-yugala-mūrti, dekhiyā mora,
-        parama-ānanda haya
-prasāda-sevā, karite haya,
-        sakala prapañca-jaya (5)
+mṛdaṅga-bādya,    śunite mana,
+abasara sadā ĵāce |
+gaura-bihita,    kīrttana śuni’,
+ānande hṛdaya nāce ||4||
 
-je-dina gṛhe, bhajana dekhi,
-        gṛhete goloka bhāya
-caraṇa-sīdhu, dekhiyā gaṅgā,
-        sukha nā sīmā pāya (6)
+ĵugalamūrtti,    dekhiyā mora,
+parama-ānanda haya |
+prasāda-sebā,    kôrite haya,
+sakala prapañca jaya ||5||
 
-tulasī dekhi’, juḍāya prāṇa,
-        mādhava-toṣaṇī jāni’
-gaura-priya, śāka-sevane,
-        jīvana sārthaka māni
+ĵe-dina gṛhe,    bhajana dekhi,
+gṛhete goloka bhāya |
+caraṇa-sīdhu,    dekhiyā gaṅgā,
+sukha nā sīmā pāya ||6||
 
-<b>bhaktivinoda</b>, kṛṣṇa-bhajane,
-        anukūla pāya jāhā
-prati-divase, parama-sukhe,
-        svīkāra karaye tāhā (7)
-`,
-  "translation": ""
+tulasī dekhi’,    juḓāya prāṇa,
+mādhavatoṣaṇī jāni’ |
+gaura-priya,    śāka-sebane,
+jībana sārthaka māni ||7||
+
+bhakativinoda,    kṛṣṇabhajane,
+anukūla pāya ĵāhā |
+pratidibase,    parama-sukhe,
+svīkāra karaye tāhā ||8||
+
+śabdārtha:- mādhavatithi—ekādaśī, janmāṣṭamī prabhṛti; kṛṣṇabasati—śrīkṛṣṇadhāma; basati—bāsasthāna; bhāya—prakāśita haya; caraṇa-sīdhu—bhagavat.caraṇāmṛta |`
 })

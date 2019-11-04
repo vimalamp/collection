@@ -1,10 +1,10 @@
 push({
   "title": "āju ki ānanda vraja bhariyā",
+  "id": 244,
   "author": "narahariyā",
   "category": "śrī-rādhā-janmalīlā",
   "language": "bengali",
-  "verses": `
-āju ki ānanda vraja bhariyā
+  "verses": `āju ki ānanda vraja bhariyā
 nava vāsabhuṣā pari, dhāyata gopanārī
         nā pāre dhṛti dhariyā (1)
 
@@ -21,7 +21,5 @@ bāje vādya nānā bhāti gīti gāya preme māti
 ghṛta dadhi dugdha saha, haridrā salila keha ḍhāle
         kāru māthe chala kariyā
 mukharāra sādha kata, karaye maṅgala jata-
-        kautuke dekhaye <b>narahariyā</b> (4)
-`,
-  "translation": ""
+        kautuke dekhaye <b>narahariyā</b> (4)`
 })

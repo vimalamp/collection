@@ -1,11 +1,11 @@
 push({
   "title": "ke go tumi kāngāla-veśe, deśa-videśe gure veḍāo",
+  "id": 187,
   "author": "Unknown",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `
-ke go tumi kāngāla-veśe, deśa-videśe gure veḍāo
+  "verses": `ke go tumi kāngāla-veśe, deśa-videśe gure veḍāo
 ati baḍa vyathāra vyathi, (tāi) nayana-jala vaksa bhāsāo (1)
 
 adhama patita ācaṇḍāle, snehera kole laogo tule,
@@ -18,7 +18,5 @@ dhara lao ba’le premera khani, ācaṇḍāle bilāye dāo (3)
 (māyā-) mugdha-jivera bhava-ksudhā, ciratare miṭiye dāo (4)
 
 yamunāra kūle kadambera mūle, bājāte vāśī rādhā ba’le
-sei nā tumi gaura haye, nade’ ese jīva tarāo (5)
-`,
-  "translation": ""
+sei nā tumi gaura haye, nade’ ese jīva tarāo (5)`
 })

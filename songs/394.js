@@ -1,34 +1,33 @@
 push({
-  "title": "hari he! bhajane utsāha, bhaktite viśvāsa",
+  "title": "hari he! bhajane ut.sāha",
+  "id": 394,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
-<i>utsāhā-niścayād-dhairyāt
-    tat-tat-karma-pravartanāt
-saṅga-tyāgāt sato vṛtteḥ
-    ṣaḍbhir-bhaktiḥ prasidhyati</i>
+<i>ut.sāhānniścayāddhairĵyāt. 
+tattat.karmma-pravarttanāt. |
+saṅgatyāgāt. sato vṛtteḥ 
+ṣaḓ_#bhirbhaktiḥ prasidhyati ||ga||</i>
 
-hari he!
-bhajane utsāha, bhaktite viśvāsa,
-        premalābhe dhairya-dhana
-bhakti-anukūla, karma-pravartana,
-        asat-saṅga visarjana (1)
+hari he! 
+bhajane ut.sāha,    bhaktite biśvāsa,
+premalābhe dhairĵya-dhana |
+bhakti-anukūla,    karmma-prabarttana,
+asat.saṅga bisarjjana ||1||
 
-bhakti-sadācāra, ei chaya guṇa,
-        nahila āmāra nātha!
-kemane bhajiba, tomāra caraṇa,
-        chāḍiyā māyāra sātha (2)
+bhakti-sadācāra,    ei chaya guṇa,
+nahilô āmāra nātha | 
+kemône bhajibô,    tomāra caraṇa,
+chāḓiyā māyāra sātha ||2||
 
-garhita ācāre, rahilāma maji’,
-        nā karinu sādhu-saṅga
-la’ye sādhu-veśa, āne upadeśi’,
-        e baḍa māyāra raṅga (3)
+garhita ācāre,    rahilāma maji’,
+nā kôrinu sādhusaṅga |
+la’ye sādhu-beśa,    āne upadeśi,
+e baḓô māyāra raṅga ||3||
 
-e hena daśāya, ahaitukī kṛpā,
-        tomāra pāiba, hari!
-śrī-guru-āśraye, ḍākiba tomāya,
-        kabe vā minati kari’ (4)
-`,
-  "translation": ""
+e henô daśāya,    ahaitukī kṛpā,
+tomāra pāibô, hari! 
+śrīguru-āśraye,    ḍākibô tomāya,
+kabe bā minati kôri’ ||4||`
 })

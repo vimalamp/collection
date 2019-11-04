@@ -1,10 +1,10 @@
 push({
   "title": "vṛṣabha-danuja-nāśān narma-dharmokti-raṅgair",
+  "id": 71,
   "category": "śrī-rādhā-kuṇḍāṣṭakam",
   "author": "śrīmad-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-vṛṣabha-danuja-nāśān narma-dharmokti-raṅgair
+  "verses": `vṛṣabha-danuja-nāśān narma-dharmokti-raṅgair
     nikhila-nija-sakhībhir yat sva-hastena pūrṇam
 prakaṭitam api vṛndāraṇya-rājñyā pramodais
     tad ati-surabhi-rādhā-kuṇḍam evāśrayo me (1)
@@ -47,7 +47,5 @@ viharata iha yasmin dam-patī tau pramattau
 avikalam ati devyāś cāru kuṇḍāṣṭakaṁ yaḥ
     paripaṭhati tadīyollāsi-dāsyārpitātmā
 aciram iha śarīre darśayaty eva tasmai
-    madhu-ripur ati-modaiḥ śliṣyamāṇāṁ priyāṁ tām (9)
-`,
-  "translation": ""
+    madhu-ripur ati-modaiḥ śliṣyamāṇāṁ priyāṁ tām (9)`
 })

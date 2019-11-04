@@ -1,10 +1,10 @@
 push({
   "title": "darśana āśleṣanvita ānukūlya sevāśrīta",
+  "id": 653,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-darśana āśleṣanvita ānukūlya sevāśrīta
+  "verses": `darśana āśleṣanvita ānukūlya sevāśrīta
         ullāse ārūḍha jei bhāva
 yuva-dvandva hṛdi mājhe rasākāre su-virājye
         sambhogākhya tāra haya lābha (1)
@@ -22,7 +22,5 @@ khudra pravāsāvasāne sampanna samṛddhimāne
 sampanna dvi-vidha bhāva āgati o prādurbhāva
         manohara sambhoga tāhāya
 svapne āi saba bhāva jahe haya āvirbhāva
-        tabe gauṇa sambhoga jānāya (4)
-`,
-  "translation": ""
+        tabe gauṇa sambhoga jānāya (4)`
 })

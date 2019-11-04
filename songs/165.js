@@ -1,11 +1,11 @@
 push({
   "title": "prakāśa ihalā gaura canda",
+  "id": 165,
   "author": "vṛndāvana",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
-  "verses": `
-prakāśa ihalā gaura canda
+  "verses": `prakāśa ihalā gaura canda
 daśadike bāḍila ānanda (1)
 
 rupa koṭa madana jiniyā
@@ -21,7 +21,5 @@ dūre gela sakala āpada
 vyakti haila sakala sampada (5)
 
 śrī-caitanya nityānanda jāna
-<b>vṛndāvana </b>tachu pade gāna (6)
-`,
-  "translation": ""
+<b>vṛndāvana </b>tachu pade gāna (6)`
 })

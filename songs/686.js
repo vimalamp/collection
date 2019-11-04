@@ -1,21 +1,19 @@
 push({
-  "title": "veḍa helāni āma, prabhu tyaji ratnāsana",
-  "author": "Unknown",
+  "title": "beḓa helāni āma",
+  "id": 686,
+  "author": "lekhaka ajānā",
   "category": "dīna-bandhu dayitārī-janāna",
   "language": "oriya",
   "verses": `
-<i>(doṭhukī)</i>
-veḍa helāni āma, prabhu tyaji ratnāsana
-śrī-nīlācaḍa śikhari hai, patha cāhi vasilāni (1)
+beḓa helāni āma, prabhu tyaji ratnāsana |
+śrīnīḓācaḓa śikhari ha_i, patha cāhi basilāni ||1||
 
-kañja vadanī śrī-rādhā, parāṇa jugāye bādhā
-nayana-lotaka sadā gaḍāucchanti yaśodā (2)
+kañja vadanī śrīrādhā, parāṇa jugā.ye bādhā |
+na.yana-lotaka sadā gaḓa_uchanti yaśodā ||2||
 
-dvāparara avasāna, helānī jagamohana
-vaḍa deuḍe taḍe, ghaṇṭā ārati helāni (3)
+dvāparara avasāna, helānī jagamohana |
+baḓa deuḓe taḓe, ghaṇṭā ārati helāni ||3||
 
-āsa āsa nārāyaṇa, diyavāre daraśana
-kalira kaḍāra rūpa netra paṭe niśi lāni (4)
-`,
-  "translation": ""
+āsa āsa nārā.yaṇa, di.yabāre daraśana |
+kalira kaḓāra rūpa netra paṭe niśi lāni ||4||`
 })

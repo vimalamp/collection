@@ -1,10 +1,10 @@
 push({
   "title": "priyāra janama, divasa āveśe",
+  "id": 241,
   "author": "dāsa vallabhī",
   "category": "śrī-rādhā-janmalīlā",
   "language": "bengali",
-  "verses": `
-priyāra janama, divasa āveśe,
+  "verses": `priyāra janama, divasa āveśe,
         ānanda bharala tanu
 nadīyā nagare, vṛṣabhānu pure,
         udaya karala janu (1)
@@ -22,7 +22,5 @@ prayagaṇa nāce, nānā kāca kācaṇe,
 gaurāṅga nāgara, rasera sāgara,
         bhāvera taraṅga tāya
 jagat bhāsila, e hena ānanda,
-        e <b>dāsa vallabhī </b>gāya (4)
-`,
-  "translation": ""
+        e <b>dāsa vallabhī </b>gāya (4)`
 })

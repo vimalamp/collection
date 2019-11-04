@@ -1,22 +1,22 @@
 push({
-  "title": "nadīyā-godrume nityānanda mahājana",
+  "title": "nadīyā-godrume",
+  "id": 357,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nagara-kīrtana",
   "language": "bengali",
   "verses": `
-(śrī-nāmahaṭṭa–ājñāṭahala)
-nadīyā-godrume nityānanda mahājana
-pātiyāche nāma-haṭṭa jīvera kāraṇa (1)
+(śrīnāmahaṭṭa–ājñāṭahala)
 
-(śraddhāvān jana he, śraddhāvān jana he)
-prabhura ājñāya, bhāi, māgi ei bhikṣā
-bala kṛṣṇa, bhaja kṛṣṇa, kara kṛṣṇa śikṣā (2)
+nadīyā-godrume nityānanda mahājana | 
+pātiyāche nāmahaṭṭa jībera kāraṇa ||1||
 
-aparādha-śūnya ha’ye laha kṛṣṇa-nāma
-kṛṣṇa mātā, kṛṣṇa pitā, kṛṣṇa dhana-prāṇa (3)
+(śraddhābān_ jana he, śraddhābān_ jana he) 
+prabhura ājñāya bhāi, māgi ei bhikṣā |
+bôlô kṛṣṇa, bhajô kṛṣṇa, karô kṛṣṇa śikṣā ||2||
 
-kṛṣṇera saṁsāra kara chāḍi’ anācāra
-jīve dayā, kṛṣṇa-nāma sarva-dharma-sāra (4)
-`,
-  "translation": ""
+aparādha śūnya haye lahô kṛṣṇanāma | 
+kṛṣṇa mātā, kṛṣṇa pitā, kṛṣṇa dhana-prāṇa ||3||
+
+kṛṣṇera saṁsāra karô, chāḓi’ anācāra | 
+jībe dayā, kṛṣṇanāma—sarbbadharmmasāra ||4||`
 })

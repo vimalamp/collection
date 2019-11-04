@@ -1,10 +1,10 @@
 push({
   "title": "kṛṣṇa tava puṇya habe bhāi",
+  "id": 311,
   "author": "śrīla bhaktivedanta-svāmī-prabhupāda",
   "category": "śrī-kṛṣṇa dainyabodhikā prārthanā",
   "language": "bengali",
-  "verses": `
-kṛṣṇa tava puṇya habe bhāi
+  "verses": `kṛṣṇa tava puṇya habe bhāi
 e-puṇya karibe jabe rādhārāṇī khusī habe
         va ati boli tomā tāi (1)
 
@@ -51,7 +51,5 @@ kata bane chuṭāchuṭi bane khāi luṭāpuṭi
 āji se suvidhāne tomāra smaraṇa bhela
         baro āśā ḍākilāma tāi
 āmi tomāra nitya-dāsa tāi kari eta āśa
-        tumi vinā anya gati nāi (10)
-`,
-  "translation": ""
+        tumi vinā anya gati nāi (10)`
 })

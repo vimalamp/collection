@@ -1,10 +1,10 @@
 push({
   "title": "namas tri-kāla-satyāya",
+  "id": 87,
   "category": "śrī-caitanya-mahāprabhu-stuti",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-namas tri-kāla-satyāya
+  "verses": `namas tri-kāla-satyāya
     jagannātha-sutāya ca
 sa-bhṛtyāya sa-putrāya
     sa-kalatrāya te namaḥ (1)
@@ -62,7 +62,5 @@ caitanyākhyaṁ prakaṭam adhunā tad-dvayaṁ caikyam āptaṁ
 śrī-rādhāyāḥ praṇaya-mahimā kīdṛśo vānayaivā-
     svādyo yenādbhuta-madhurimā kīdṛśo vā madīyaḥ
 saukhyaṁ cāsyā mad-anubhavataḥ kīdṛśaṁ veti lobhāt
-    tad-bhāvāḍhyaḥ samajani śacī-garbha-sindhau harīnduḥ (12)
-`,
-  "translation": ""
+    tad-bhāvāḍhyaḥ samajani śacī-garbha-sindhau harīnduḥ (12)`
 })

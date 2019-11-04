@@ -1,10 +1,10 @@
 push({
   "title": "vande vṛndāṭavī-candraṁ rādhikākṣi-mahotsavam",
+  "id": 625,
   "author": "Unknown",
   "category": "kalyana-kalpataru maṅgalācaraṇa",
   "language": "bengali",
-  "verses": `
-vande vṛndāṭavī-candraṁ rādhikākṣi-mahotsavam
+  "verses": `vande vṛndāṭavī-candraṁ rādhikākṣi-mahotsavam
 brahmātmānanda-dhik-kāri-pūrṇānanda-rasālayam (1)
 
 caitanya-caraṇaṁ vande kṛṣṇa-bhakta-janāśrayam
@@ -26,7 +26,5 @@ aśrītya pādapaṁ vidvān kalyāṇam labhate phalam
 rādhā-kṛṣṇa-vilāseṣu dāsyaṁ vṛndāvane vane (7)
 
 sampūjya vaiṣṇavān viprān sarva-jīvāṁś ca nityaśaḥ
-kīrtayāmi vinīto ‘haṁ gītaṁ vraja-rasāśrītam (8)
-`,
-  "translation": ""
+kīrtayāmi vinīto ‘haṁ gītaṁ vraja-rasāśrītam (8)`
 })

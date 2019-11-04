@@ -1,19 +1,19 @@
 push({
-  "title": "baso mere nayanan me nanda-lāla",
-  "author": "Unknown",
+  "title": "baso mere na.yanan me nandalāla",
+  "id": 665,
+  "author": "mīrabāi",
   "category": "hindī-kīrtana",
   "language": "hindi",
   "verses": `
-baso mere nayanan me nanda-lāla
-mohana mūrati, śyāmarī sūrati,
-        nayanā vane viśāla
-adhara-sudhā-rasa, muralī bājata
-        ura vaijayantī māla (1)
+baso mere na.yanan me nandalāla |
 
-kṣudra ghaṇṭi kā kaṭi-taṭa śobhita,
-        nūpura śabda rasāla
-mīrā prabhu santana sukha-dāyī,
-        bhakta-vatsala gopāla (2)
-`,
-  "translation": ""
+mohana-mūrati, śyāmarī surati,
+na.yanā vane viśāla |
+adhara-sudhārasa, muralī bājata, 
+ura vaija.yantī māla ||1||
+
+kṣudra-ghaṇṭikā kaṭitaṭa-śobhita,
+nūpura-śabda rasāla |
+mīrā prabhu-santana-sukhadā.yī,
+bhakata-vat.sala gopāla ||2||`
 })

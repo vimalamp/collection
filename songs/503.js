@@ -1,30 +1,30 @@
 push({
-  "title": "hari he! ohe prabhu dayā-maya, tomāra caraṇa-dvaya",
-  "author": "bhaktivinoda",
+  "title": "hari he! ohe prabhu dayāmaya",
+  "id": 503,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
-<i>(yāmuna-bhāvāvalī)
-janmūrddhinme śruti-śiraḥsu ca bhāti jasmin-
-    nasman-manoratha-pathaḥ sakalaḥ sameti
-stoṣyāmi naḥ kuladhanaṁ kuladaivataṁ tat
-    pādāravinda-maravinda-vilocanasya</i>
+<i>ĵanmūrdhni me śrutiśiraḥsu ca bhāti ĵasmi-
+nnasmanmanorathapathaḥ sakalaḥ sameti |
+stoṣyāmi naḥ kuladhanaṁ kuladaivataṁ tat.
+pādāravindamaravinda-vilocanasya ||1||</i>
 
-hari he!
-ohe prabhu dayā-maya, tomāra caraṇa-dvaya,
-        śruti-śiropari śobhā pāya
-guru-jana-śire punaḥ, śobhā pāya śata guṇa,
-        dekhi’ āmāra parāṇa juḍāya (1)
+hari he! 
+ohe prabhu dayāmaya,    tomāra caraṇadvaya,
+śruti-śiropari śobhā pāya |
+gurujana-śire punaḥ,    śobhā pāya śata guṇa,
+dekhi’ āmāra parāṇa juḓāya ||1||
 
-jīvamanoratha-patha, tahi saba anugata,
-        jīva-vāñchā-kalpataru jathā
-jīvera se kuladhana, ati pūya sanātana,
-        jīvera caramagati tathā (2)
+jība-manoratha-patha,    tãhi saba anugata,
+jība-bāñchākalpataru ĵathā |
+jībera se kuladhana,    ati pūjya sanātana,
+jībera caramagati tathā ||2||
 
-kamalākṣa-pada-dvaya, parama-ānandamaya,
-        niṣkapaṭe seviyā satata
-e <b>bhaktivinoda</b> cāya, satata tuṣite tāya,
-        bhaktajanera ha’ye anugata (3)
-`,
-  "translation": ""
+kamalākṣa-padadvaya,    parama-ānandamaya,
+niṣkapaṭe sebiyā satata |
+e bhaktivinoda cāya,    satata tuṣite tāya,
+bhaktajanera ha’ye anugata ||3||
+
+śabdārtha:- manoratha patha—abhilāṣa-patha (ĵāhā sakala_i bhagavāne āsiyā samāpta haya) |`
 })

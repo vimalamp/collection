@@ -1,11 +1,11 @@
 push({
   "title": "ka, kali-yuge śrī-kṛṣṇa-caitanya-avatāra",
+  "id": 194,
   "author": "dāsa narottama",
   "category": "pañca-tattva-mahimā",
   "subcategory": "varṇa-mālāya śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `
-ka, kali-yuge śrī-kṛṣṇa-caitanya-avatāra
+  "verses": `ka, kali-yuge śrī-kṛṣṇa-caitanya-avatāra
 kha, khelivāra pravandhe kaila kholakaratāla (1)
 
 ga, gaḍāgaḍi yāna prabhu nija saṅkīrtane
@@ -57,7 +57,5 @@ ha, hari hari bala bhāi, kara mahā-yajña
 kṣa, kṣititale janmi’ keha nā haiya avijña (17)
 
 e’ cautriśa padāvalī je kare kīrtana
-<b>dāsa narottama</b> māge tāhāra caraṇa (18)
-`,
-  "translation": ""
+<b>dāsa narottama</b> māge tāhāra caraṇa (18)`
 })

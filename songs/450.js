@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! āra ki haibe hena janma",
+  "id": 450,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! āra ki haibe hena janma
+  "verses": `ore mana! āra ki haibe hena janma
 nā jāni ki puṇya-phale, mānuṣa-utama-kule,
         hele jā’ra nā bujhile marma (1)
 
@@ -26,7 +26,5 @@ tā goāli michā kāje, ki balibi kon lāje,
 emana sulabha kali, jāte ‘hare kṛṣṇa’ bali’,
         hena nāme nā karili rati
 <b>premānanda</b> kahe puni, e caurāśīlakṣa joni,
-        bramābe kateka durgati! (5)
-`,
-  "translation": ""
+        bramābe kateka durgati! (5)`
 })

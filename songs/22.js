@@ -1,10 +1,10 @@
 push({
   "title": "śrī-rādhikā-rūpa-guṇormi-cauraḥ",
+  "id": 22,
   "category": "śrī-gaurāṅga-stotram",
   "author": "śrīmad-bhaktideśika-ācārya-mahārāja-viracitam",
   "language": "sanskrit",
-  "verses": `
-śrī-rādhikā-rūpa-guṇormi-cauraḥ
+  "verses": `śrī-rādhikā-rūpa-guṇormi-cauraḥ
     pratapta-kārsta-vara-kānta-gauraḥ
 vedānta-vedāṅga-purāṇasāro
     jīyāt sa gauraḥ karuṇā-vatāraḥ (1)
@@ -57,7 +57,5 @@ bhaktāvalī-mānasa-rāja-haṁsaḥ
 gaura-stutiṁ gāyati bhakti-pūrvaṁ
     prāpnoti su-prema-sudhāṁ sa sarvam
 tri-tāpa-dāvānala-duḥkha-muktaḥ
-    pramodate kṛṣṇa-padābja-bhaktaḥ (11)
-`,
-  "translation": ""
+    pramodate kṛṣṇa-padābja-bhaktaḥ (11)`
 })

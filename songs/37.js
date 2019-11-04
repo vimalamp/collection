@@ -1,10 +1,10 @@
 push({
   "title": "munīndra-vṛnda-vandite tri-loka-śoka-hārini",
+  "id": 37,
   "category": "śrī-śrī-rādhā-kṛpā-kaṭākṣa-stava-rāja",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-munīndra-vṛnda-vandite tri-loka-śoka-hārini
+  "verses": `munīndra-vṛnda-vandite tri-loka-śoka-hārini
     prasanna-vaktra-paṅkaje nikuñja-bhū-vilāsini
 vrajendra-bhānu-nandini vrajendra-sūnu-saṅgate
     kadā kariṣyasīha māṁ kṛpā-kaṭākṣa-bhājanam (1)
@@ -82,7 +82,5 @@ tasya sarvārtha-siddhiḥ syāt vāksāmarthyaṁ tato labhet
 tena sā tat-kṣaṇādeva tuṣṭā date mahā-varam
     yena paśyati netrābhyāṁ tat priyaṁ śyāmasundaram
 nitya-līlā-praveśañca dadāti hi vrajādhipaḥ
-    ataḥ parataraṁ prāpyaṁ vaiṣṇavānāṁ na vidyate (16)
-`,
-  "translation": ""
+    ataḥ parataraṁ prāpyaṁ vaiṣṇavānāṁ na vidyate (16)`
 })

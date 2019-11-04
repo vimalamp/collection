@@ -1,39 +1,38 @@
 push({
-  "title": "rūpera vairāgya-kāle, sanātana vandiśāle",
-  "author": "śrī-rādhā-ballabha-dāsa",
+  "title": "rūpera bairāgyakāle",
+  "id": 551,
+  "author": "rādhāballabhadāsa",
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīla-sanātana-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
-rūpera vairāgya-kāle, sanātana vandiśāle,
-        viṣāda bhāvaye mane mane
-“śrī-rūpe karuṇā kari’, trāṇa kaila gaura-hari,
-        mo adhame nahila smaraṇe (1)
+rūpera bairāgyakāle,    sanātana bandiśāle,
+biṣāda bhābaye mane mane |
+“śrīrūpe karuṇā kôri’,    trāṇa kailô gaurahari,
+mo adhame nahilô smaraṇe ||1||
 
-mora karmadaḍi phānde, mora hāte gale vandhe,
-        rākhiyāche kārāgāre pheli’
-āpana karuṇā-phāse, dṛḍha bāndhi’ mora keśe,
-        caraṇa-nikaṭe laha tuli’ (2)
+mora karmmadaḓi-phānde,    mora hāte gale bāndhe,
+rākhiyāche kārāgāre pheli’ |
+āpana karuṇā-phā̃se,    dṛḓha bāndhi’ mora keśe,
+caraṇa-nikaṭe lahô tuli’ ||2||
 
-paścāte agādha-jala, dui pāśe dāvānala,
-        samukhe ghucila vyādha vāṇa
-kātare hariṇī ḍāke, paḍiyā viṣama pāke,
-        tumi nātha more kara trāṇa (3)
+paścāte agādha-jala,    dui pāśe dābānala,
+sammukhe ĵuḓilô byādha bāṇa |
+kātare hariṇī ḍāke,    pôḓiyā biṣama pāke,
+tumi nātha more karô trāṇa ||3||
 
-jagāi-mādhāi hele, vāsudeve ajāmile,
-        anāyāse karile uddhāra
-karuṇā ābhāsa kari, sanātane padatarī,
-        deha jena ghoṣaye saṁsāra (4)
+jagāi-mādhāi hele,    vāsudeve ajāmile,
+anāyāse kôrile uddhāra |
+karuṇā ābhāsa kôri,    sanātane padatarī,
+dehô’ ĵenô ghoṣaye saṁsāra ||4||
 
-e duḥkha-samudra-ghore, nistāra karaha more,
-        tomā vinā nāhi anyajana”
-henakāle anyajane, alakṣite sanātane,
-        patra dila rūpera likhana (5)
+e duḥkha-samudra-ghore,    nistāra karahô more,
+tomā binā nāhi anya jana |”
+henôkāle anyajane,    alakṣite sanātane,
+patra dilô rūpera likhana ||5||
 
-rūpera likhana pe’ye, mane ānandita ha’ye,
-        sadā kare gaurāṅga dheyāna
-<b>śrī-rādhā-ballabha-dāsa</b>, mane mane abhilāṣa,
-        patra pe’ye karilā payāna (6)
-`,
-  "translation": ""
+rūpera likhana pe’ye,    mane ānandita ha’ye,
+sadā kare gaurāṅga dheyāna |
+śrīrādhāballabha-dāsa,    mane kare abhilāṣa,
+patra pe’ye kôrilā payāna ||6||`
 })

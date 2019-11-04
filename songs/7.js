@@ -1,10 +1,10 @@
 push({
   "title": "namaḥ oṁ viṣṇu-pādāya ācārya-siṁha-rūpiṇe",
+  "id": 7,
   "category": "śrī-keśavācāryāṣṭakam",
   "author": "śrīmad-bhaktivedānta trivikrama-mahārājena viracitam",
   "language": "sanskrit",
-  "verses": `
-namaḥ oṁ viṣṇu-pādāya ācārya-siṁha-rūpiṇe
+  "verses": `namaḥ oṁ viṣṇu-pādāya ācārya-siṁha-rūpiṇe
 śrī-śrīmad-bhaktiprajñāna-keśava-iti-nāmine (1)
 
 śrī-sarasvatya-bhīpsitaṁ sarvathā suṣṭhu-pāline
@@ -29,7 +29,5 @@ navadvīpa-parikramā yenaiva rakṣitā sadā
 dīnaṁ prati dayā-lave tasmai śrī-gurave namaḥ (8)
 
 dehi me tava śaktis tu dīneneyaṁ suyācitā
-tava pāda-sarojebhyā matir-astu pradhāvitā (9)
-`,
-  "translation": ""
+tava pāda-sarojebhyā matir-astu pradhāvitā (9)`
 })

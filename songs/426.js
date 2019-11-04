@@ -1,27 +1,28 @@
 push({
-  "title": "mana re, dhana-mada nitānta asāra",
+  "title": "mana re, dhanamada nitānta asāra",
+  "id": 426,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
-mana re, dhana-mada nitānta asāra
-dhana jana vita jata, e dehera anugata,
-        deha gele se-sakala chāra (1)
+mana re, dhanamada nitānta asāra |
+dhana jana bitta ĵatô,    e dehera anugata,
+deha gele se-sakala chāra ||1||
 
-vidyāra jateka ceṣṭā, cikitsaka upadeṣṭā,
-        keha deha rākhibāre nāre
-ajapā haile śeṣa, deha mātra avaśeṣa,
-        jīva nāhi thākena ādhāre (2)
+bidyāra ĵateka ceṣṭā,    cikit.saka upadeṣṭā,
+kehô deha rākhibāre nāre |
+ajapā hô_ile śeṣa,    deha mātra abaśeṣa,
+jība nāhi thākena ādhāre ||2||
 
-dhane yadi prāṇa dita, dhanī rājā nā marita,
-        dharāmara haita rāvaṇa
-dhane nāhi rākhe deha, deha gele nahe keha,
-        ataeva ki karibe dhana (3)
+dhane ĵadi prāṇa ditô,    dhanī rājā nā maritô,
+dharāmara hô_itô rāvaṇa |
+dhane nāhi rākhe deha,    deha gele nahe kehô,
+ataeba ki kôribe dhana ||3||
 
-yadi thāke bahu dhana, nije ha’be akiñcana,
-        vaiṣṇavera kara upakāra
-jīve dayā anukṣaṇa, rādhā-kṛṣṇa-ārādhana,
-        kara sadā ha’ye sadācāra (4)
-`,
-  "translation": ""
+ĵadi thāke bahu dhana,    nije ha’be akiñcana,
+vaiṣṇavera karô upakāra |
+jībe dayā anukṣaṇa,    rādhākṛṣṇa-ārādhana,
+karô sadā ha’ye sadācāra ||4||
+
+śabdārtha:- ajalpā—niḥśvāsa-praśvāsa-rūpī svābhābika japa, ĵāhā sādhanarūpe japanīya nahe, arthāt. prāṇabāyu; dharāmara—dharāya amara |`
 })

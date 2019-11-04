@@ -1,10 +1,10 @@
 push({
   "title": "pañca-sakhī madhye cāra nitya-siddha rādhikāra",
+  "id": 645,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-pañca-sakhī madhye cāra nitya-siddha rādhikāra
+  "verses": `pañca-sakhī madhye cāra nitya-siddha rādhikāra
         se sakale sādhana nā kaila
 sakhī boli’ ukta jei sādhana-prabhāve tei
         vraja-rāja pure vāsa pāila (1)
@@ -27,7 +27,5 @@ nitya-sakhī-kṛpā-bale tat-sālokya-lābha-phale
 devī-gaṇa sei bhāve sakhīra sālokya-lābhe
         kṛṣṇa-sevā kare sakhī ho’ye
 vrajera vidhāna eho gopī vinā āra keha
-        nā pāibe vraja-yuva-dvaye (5)
-`,
-  "translation": ""
+        nā pāibe vraja-yuva-dvaye (5)`
 })

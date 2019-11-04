@@ -1,10 +1,10 @@
 push({
   "title": "kadamba tarura ḍāla nāmiyāche bhūme bhāla-",
+  "id": 277,
   "author": "narottama",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-kadamba tarura ḍāla nāmiyāche bhūme bhāla-
+  "verses": `kadamba tarura ḍāla nāmiyāche bhūme bhāla-
         phuṭiyāche phula sāri sari
 parimale bharala sakala vṛndāvana
         keli kare bhramarā bhramarī (1)
@@ -31,7 +31,5 @@ mṛgamada-candana kare kari sakhī-gaṇa
 hāsya-vilāsa-rasa sarala madhura bhāṣa
         <b>narottama</b>-manoratha bharū
 duhuka vicitra veśa kusume racita keśa
-        locana-mohana līlā karū (6)
-`,
-  "translation": ""
+        locana-mohana līlā karū (6)`
 })

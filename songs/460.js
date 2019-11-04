@@ -1,10 +1,10 @@
 push({
   "title": "e mana! ki kare varaṇa-kula",
+  "id": 460,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-e mana! ki kare varaṇa-kula
+  "verses": `e mana! ki kare varaṇa-kula
 jei kule kena, janama nā haya,
         kevala bhakti mūla (1)
 
@@ -31,7 +31,5 @@ yāti-kulācāre, tabe ki karila,
 śrī-kṛṣṇa-bhajane, sabe adhikārī,
         kulera garava nāi
 kahe <b>premānanda</b>, je kare garava,
-        nitānta mūrakha bhāi (6)
-`,
-  "translation": ""
+        nitānta mūrakha bhāi (6)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "śrī-kṛṣṇa-caitanya nityānanda dui prabhu",
+  "id": 210,
   "author": "vṛndāvana-dāsa",
   "category": "śrī-gaura-nityānande vijñapti",
   "language": "bengali",
-  "verses": `
-śrī-kṛṣṇa-caitanya nityānanda dui prabhu
+  "verses": `śrī-kṛṣṇa-caitanya nityānanda dui prabhu
 ei kṛpā kara yena nā pāsara kabhu (1)
 
 haila pāpiṣṭha-janma nā haila takhane
@@ -26,7 +26,5 @@ hena dina haibe caitanya-nityānanda
 dekhiba veṣṭita ki sakala bhakta-vṛnda (7)
 
 śrī-caitanya-nityānanda-cāda pahu jāna
-<b>vṛndāvana-dāsa</b> tachu padayuge gāna (8)
-`,
-  "translation": ""
+<b>vṛndāvana-dāsa</b> tachu padayuge gāna (8)`
 })

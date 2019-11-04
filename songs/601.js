@@ -1,11 +1,11 @@
 push({
   "title": "maṅgala śrī-guru-gaura maṅgala-mūrati",
+  "id": 601,
   "author": "Unknown",
   "category": "maṅgalārati",
   "subcategory": "śrī-gaura-govinda-ārati",
   "language": "bengali",
-  "verses": `
-(prabhātī sura)
+  "verses": `(prabhātī sura)
 maṅgala śrī-guru-gaura maṅgala-mūrati
 maṅgala śrī-rādhā-kṛṣṇa-yugala-pīriti (1)
 
@@ -37,7 +37,5 @@ abhāgā keśava kare nāma-saṅkīrtana (9)
 śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda (10)
 
 hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
-hare rāma hare rāma rāma rāma hare hare (11)
-`,
-  "translation": ""
+hare rāma hare rāma rāma rāma hare hare (11)`
 })

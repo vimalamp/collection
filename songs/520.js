@@ -1,29 +1,31 @@
 push({
-  "title": "hari he! aviveka-rūpa ghana, tāhe dik ācchādana",
-  "author": "bhaktivinoda",
+  "title": "hari he! abibekarūpa ghana",
+  "id": 520,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
-<i>aviveka-ghanāndhañmadukhe
-    bahudhā satanta-duḥkha-varṣiṇi
-bhagavan bhava durddine pathaḥ
-    skhalitaṁ māma-balo-kayācyuta</i>
+<i>aviveka-ghanāndha-diṅmukhe 
+bahudhā santata-duḥkhavarṣiṇi |
+bhagavan_ bhava durddine pathaḥ 
+skhalitaṁ māmabalokayācyuta ||18||</i>
 
-hari he!
-aviveka-rūpa ghana, tāhe dik ācchādana,
-        haila tā’te andhakāra ghora
-tāhe duḥkha-vṛṣṭi haya, dekhi’ cāridike bhaya,
-        patha-brama haiyāche mora (1)
+hari he! 
+abibekarūpa ghana,    tāhe dik_ ācchādana,
+hailô tā’te andhakāra ghora |
+tāhe duḥkha-bṛṣṭi haya,    dekhi’ cāridike bhaya,
+pathabhrama hô_iyāche mora ||1||
 
-nija aviveka-doṣe, paḍi’ durddinera roṣe,
-        prāṇa jāya saṁsāra-kāntāre
-patha-pradarśaka nāi, e durddaive mārā jāi,
-        ḍāki tāi, acyuta, tomāre (2)
+nija abibeka-doṣe,    pôḓi’ durddinera roṣe,
+prāṇa ĵāya saṁsāra-kāntāre |
+pathapradarśaka nāi,    e durddaibe mārā ĵāi,
+ḍāki tāi, acyuta, tomāre ||2||
 
-eka-bāra kṛpādṛṣṭi, kara āmā-prati vṛṣṭi,
-        tabe mora ghucibe durddina
-viveka sabala ha’be, e <b>bhaktivinoda</b> tabe,
-        dekhāibe patha samīcīna (3)
-`,
-  "translation": ""
+ekabāra kṛpādṛṣṭi,    karô āmā-prati bṛṣṭi,
+tabe mora ghucibe durddina |
+bibeka sabala ha’be,    e bhaktivinode tabe,
+dekhāibe patha samīcīna ||3||`,
+  "translation": {
+    "bn": "śabdārtha:- ghana—megha; kāntāra—mahā araṇya"
+  }
 })

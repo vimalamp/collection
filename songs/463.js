@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! sādhu-saṅge karaha vasati",
+  "id": 463,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! sādhu-saṅge karaha vasati
+  "verses": `ore mana! sādhu-saṅge karaha vasati
 yadi karma-pāśa-vandhe, magana karaye andhe,
         yadi kula-vihīna utpati (1)
 
@@ -26,7 +26,5 @@ yadi ithe kona kṣaṇa, bāndha tāya āmāya, mana,
 ‘rādhā’ ‘kṛṣṇa’ du’ṭī nāma, jihvā jena avirāma,
         duhu-guṇa-līlāte śravaṇa
 kahe <b>premānanda</b> dīne, duhu cintā anukṣaṇe,
-        rūpe jena thākaye nayana (5)
-`,
-  "translation": ""
+        rūpe jena thākaye nayana (5)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "jaya jaya śrī-kṛṣṇa-caitanya nityānanda",
+  "id": 350,
   "author": "narottama-dāsa",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
-  "verses": `
-jaya jaya śrī-kṛṣṇa-caitanya nityānanda
+  "verses": `jaya jaya śrī-kṛṣṇa-caitanya nityānanda
 jayādvaita-candra jaya gaura-bhakta-vṛnda (1)
 
 jaya jaya śacī-suta gaurāṅga-sundara
@@ -113,7 +113,5 @@ ei saba rasa-līlā je kare smaraṇa
 śrī-guru-vaiṣṇava-pade majāiyā mana (36)
 
 śrī-guru-vaiṣṇava-pāda-padma kari’ āśa
-nāma-saṅkīrtana kahe <b>narottama-dāsa</b> (37)
-`,
-  "translation": ""
+nāma-saṅkīrtana kahe <b>narottama-dāsa</b> (37)`
 })

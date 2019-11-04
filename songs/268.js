@@ -1,10 +1,10 @@
 push({
   "title": "varaṇe taḍita, vāsa tārāvalī",
+  "id": 268,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-varaṇe taḍita, vāsa tārāvalī,
+  "verses": `varaṇe taḍita, vāsa tārāvalī,
         ‘kamala mañjarī’ nāma
 sāḍe bāra varṣa, vayasa satata,
         svānanda-sukhada-dhāma (1)
@@ -22,7 +22,5 @@ avaśya se-rūpa, sevā pāba āmi,
 kabe vā e dāsī, saṁsiddhi labhibe,
         rādhā-kuṇḍe vāsa kari’
 rādhā-kṛṣṇa-sevā, satata karibe,
-        pūrva smṛti parihari’ (4)
-`,
-  "translation": ""
+        pūrva smṛti parihari’ (4)`
 })

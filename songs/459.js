@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! ebe tora e kemana rīta",
+  "id": 459,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! ebe tora e kemana rīta
+  "verses": `ore mana! ebe tora e kemana rīta
 je karme āili hethā, se-saba rahila kothā,
         ebe je dekhiye viparīta (1)
 
@@ -41,7 +41,5 @@ tabe jīye kibā kāja, paḍa ku tora muṇḍe vāja,
 <b>premānanda</b> kahe mana, ‘kṛṣṇa’ kaha anukṣaṇa,
         kene bhula āpanāra prabhu
 mukhe ‘hari hari’ bala, sadāi ānande dola,
-        tina-loke duḥkha nahe kabhu (8)
-`,
-  "translation": ""
+        tina-loke duḥkha nahe kabhu (8)`
 })

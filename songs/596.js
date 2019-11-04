@@ -1,27 +1,25 @@
 push({
-  "title": "balān vairāgī ṭhākura, kintu gṛhīra madhye bāhādura",
-  "author": "Unknown",
+  "title": "balān_ bairāgī ṭhākura",
+  "id": 596,
+  "author": "cā̃da-bāula (śrīla bhaktivinoda ṭhākura)",
   "category": "bāula-saṅgīta",
   "language": "bengali",
   "verses": `
-balān vairāgī ṭhākura, kintu gṛhīra madhye bāhādura
-āvāra kapni kare’, mālā dhare’,
-        vahena sevādāsīra dhūra (1)
+balān_ bairāgī ṭhākura, kintu gṛhīra madhye bāhādura |
+ābāra kapni kare’, mālā dhare’, bahenô sebādāsīra dhūra ||1||
 
-acyuta-gotra-abhimāne, bhikṣā karena sarva-sthāne,
-        ṭākā-payasā gaṇi’ dhyāne dhāraṇā pracura
-kari cuṭkī-bhikṣā, karena śikṣā,
-        vaṇigvṛti piṇḍīśūra (2)
+acyutagotra-abhimāne, bhikṣā karena sarbbasthāne,
+ṭākā-payasā gaṇi’ dhyāne dhāraṇā pracura; 
+kôri’ cuṭ_#kī bhikṣā, karena śikṣā, baṇig_#bṛtti piṇḍīśūra ||2||
 
-bale tā’re bāula-cāda, eṭā tomāra galāra phāda,
-        jīvera ei aparādha śīghra kara dūra
-yaji’ gṛhīra dharma, su-svadharma,
-        śuddha kara antaḥ-pura (3)
+bôle tā’re bāula-cā̃da, eṭā tomāra galāra phā̃da,
+jībera ei aparādha śīghra karô dūra; 
+ĵaji’ gṛhīra dharmma, su-svadharmma, śuddha karô antaḥpura ||3||
 
-nyāsi-māna-āśā tyaji’, dīna bhāve kṛṣṇa bhaji’,
-        sva-bhāvagata dharma yaji’, nāśa’ doṣāṅkura
-tabe kṛṣṇa pā’be, duḥkha jā’be,
-        ha’be tumi sucatura (4)
-`,
-  "translation": ""
+nyāsi-māna-āśā tyaji’, dīnabhābe kṛṣṇabhaji’,
+svabhābagata dharmma ĵaji’, nāśa’ doṣāṅkura; 
+tabe kṛṣṇa pā’be, duḥkha ĵā’be, ha’be tumi sucatura ||4||`,
+  "translation": {
+    "bn": "śabdārtha:- dhūra—garugāḓīra ĵe aṁśa garu kā̃dhe laya; piṇḍīśūra—piṇḍītei bīra, arthāt. bhojana-nipuṇa; nyāsi-māna-āśā—sannyāsīra sammāna āśā"
+  }
 })

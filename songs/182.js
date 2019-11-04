@@ -1,43 +1,42 @@
 push({
-  "title": "emana śacīra nandana vine",
-  "author": "śrī-śrī-caitanya-candrāmṛtam",
+  "title": "emôna śacīra nandana bine",
+  "id": 182,
+  "author": "premānandadāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-guṇa-varṇana",
   "language": "bengali",
   "verses": `
-<i>premā nāmādbhutārthaḥ śravaṇa-patha-gataḥ kasya nāmnāṁ mahimnaḥ
-    ko vetā kasya vṛndāvana-vipina-mahā-mādhurīṣu praveśaḥ
-ko vā jānāti rādhāṁ parama-rasa-camatkāra-mādhurya-sīmām-
-    ekaś-caitanya-candraḥ parama-karuṇayā sarvam-āviścakāra<i>
+<i>premā nāmādbhutārthaḥ śravaṇapathagataḥ kasya nāmnāṁ mahimnaḥ
+ko vettā kasya vṛndāvanavipina-mahāmādhurīṣu praveśaḥ |
+ko vā jānāti rādhāṁ paramarasa-camat.kāra-mādhuryasīmā-
+mekaścaitanyacandraḥ paramakaruṇayā sarvvamāviścakāra ||(śrīśrīcaitanyacandrāmṛtam)||</i>
 
-emana śacīra nandana vine
-‘prema’ bali’ nāma, ati adbhuta,
-        śruta haita kā’ra kāṇe? (1)
+emôna śacīra nandana bine |
+‘prema’ bôli’ nāma,    ati adbhuta,
+śruta hô_itô kā’ra kāṇe ??1??
 
-śrī-kṛṣṇa-nāmera, svaguṇa-mahimā,
-        kevā jānāita āra?
-vṛndā-vipinera, mahā-madhurimā,
-        praveśa haita kā’ra? (2)
+śrīkṛṣṇanāmera,    svaguṇa mahimā,
+kebā jānāitô āra? 
+vṛndā-bipinera,    mahā madhurimā,
+prabeśa hô_itô kā’ra ??2??
 
-kevā jānāita, rādhāra mādhurya,
-        rasa-yaśa camatkāra?
-tā’ra anubhava, sāttvika vikāra,
-        gocara chila vā kā’ra? (3)
+kebā jānāitô,    rādhāra mādhurĵya,
+rasa-ĵaśa camat.kāra? 
+tā’ra anubhaba,    sāttbika bikāra,
+gocara chilô bā kā’ra ??3??
 
-vraje je vilāsa, rāsa-mahārāsa,
-        prema parakīya tattva
-gopīra mahimā, vyabhicārī sīmā,
-        kā’ra avagati chila eta? (4)
+vraje ĵe-bilāsa,    rāsa-mahārāsa,
+prema parakīya tattva |
+gopīra mahimā,    vyabhicārī sīmā,
+kā’ra abagati chilô eta ??4??
 
-dhanya kali dhanya, nitāi caitanya,
-        parama karuṇā kari’
-vidhi-agocara, je-prema-vikāra,
-        prakāśe jagata-bhari’ (5)
+dhanya kali dhanya,    nitāi caitanya,
+parama karuṇā kôri’ |
+bidhi-agocara,    ĵe prema-bikāra,
+prakāśe jagata-bhôri’ ||5||
 
-uttama-adhama, kichu nā bāchila,
-        yāciyā dileka kola
-kahe <b>premānande</b>, emana gaurāṅge,
-        antare dhariyā dola (6)
-`,
-  "translation": ""
+uttama adhama,    kichu nā bāchilô,
+ĵāciyā dileka kola |
+kahe premānande,    emôna gaurāṅge,
+antare dhôriyā dola ||6||`
 })

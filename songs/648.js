@@ -1,10 +1,10 @@
 push({
   "title": "vibhāvita rati jabe kriyāpara ho’ye tabe",
+  "id": 648,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-vibhāvita rati jabe kriyāpara ho’ye tabe
+  "verses": `vibhāvita rati jabe kriyāpara ho’ye tabe
         anubhāva haya to’ udita
 citta-bhāva udghāṭiyā kare bāhya su-vikriyā
         jakhana je haya to’ ucita (1)
@@ -22,7 +22,5 @@ udbhāsvara nāma tāra dhammillyā saṁsraṇa āra
 vilāpālāpa samlāpa pralāpa o anulāpa
         apalāpa sandeśātideśa
 apadeśa upadeśa nirdeśa o vyapadeśa
-        vācikānubhāvera viśeṣa (4)
-`,
-  "translation": ""
+        vācikānubhāvera viśeṣa (4)`
 })

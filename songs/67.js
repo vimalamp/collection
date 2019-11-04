@@ -1,10 +1,10 @@
 push({
   "title": "sucāru-vaktra-maṇḍalaṁ",
+  "id": 67,
   "category": "śrī-nanda-nandanāṣṭakam",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-sucāru-vaktra-maṇḍalaṁ
+  "verses": `sucāru-vaktra-maṇḍalaṁ
     sukarṇa-ratna-kuṇḍalam
 sucarcitāṅga-candanaṁ
     namāmi nanda-nandanam (1)
@@ -47,7 +47,5 @@ jagan-manaḥ-pralobhanaṁ
 śrī-nanda-nandanāṣṭakaṁ
     paṭhed yaḥ śraddhayānvitaḥ
 tared-bhavābdhiṁ dustaraṁ
-    labhet-tad-aṅghri-yugmakam (9)
-`,
-  "translation": ""
+    labhet-tad-aṅghri-yugmakam (9)`
 })

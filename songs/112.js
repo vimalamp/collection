@@ -1,105 +1,104 @@
 push({
-  "title": "dhanya avatāra gorā nyāsi-śiromaṇi",
-  "author": "Unknown",
+  "title": "dhanya abatāra gorā",
+  "id": 112,
+  "author": "lekhaka ajānā",
   "category": "śrī-vaiṣṇava-vandanā",
   "language": "bengali",
   "verses": `
-(bhāṭyāli rāga)
-dhanya avatāra gorā nyāsi-śiromaṇi
-emana sundara nāma kothāo nā śuni (1)
+dhanya abatāra gorā nyāsi-śiromaṇi |
+emôna sundara nāma kothāo nā śuni ||dhru||
 
-sāvadhāne vando āge mādhavendra-purī
-viṣṇu-bhakti-pathera prathama avatari (2)
+sābadhāne bandõ āge mādhavendrapurī |
+viṣṇubhakti-pathera prathama abatari ||1||
 
-ācārya-gosāi vando advaita īśvara
-je ānila mahāprabhu bhuvana-bhitara (3)
+ācārĵya gosāñi vandõ advaita īśvara |
+ĵe ānilô mahāprabhu bhubana-bhitara ||2||
 
-sītā-ṭhākurāṇī vando hao ekamana
-acyatānandādi vando tāhāra nandana (4)
+sītā-ṭhākurāṇī bandõ hañā ekamana |
+acyutānandādi vandõ tā̃hāra nandana ||3||
 
-puṇḍarīka vidyānidhi bhakta-cūḍāmaṇi
-jā’ra nāma la’ye prabhu kādilā āpani (5)
+puṇḍarīka vidyānidhi bhakta-cūḓāmaṇi |
+ĵā̃’ra nāma la’ye prabhu kā̃dilā āpani ||4||
 
-vandiba śrī-śrīnivāsa ṭhākura paṇḍita
-nārada-kheyāti jā’ra bhuvana-vidita (6)
+bandibô śrīśrīnivāsa ṭhākura paṇḍita |
+nārada-kheyāti ĵā̃’ra bhubana-bidita ||5||
 
-bhakti kari’ vandiba mālinī-ṭhākurāṇī
-śrī-mukhe gaurāṅga yā’re balilā jananī (7)
+bhakti kôri’ bandibô mālinī-ṭhākurāṇī |
+śrīmukhe gaurāṅga ĵā̃’re bôlilā jananī ||6||
 
-śrī-nārāyaṇī devī vandiba sāvadhāne
-ālavāṭī prabhu yā’re karilā āpane (8)
+śrīnārāyaṇī devī bandibô sābadhāne |
+ālabāṭī prabhu ĵā̃’re kôrilā āpane ||7||
 
-haridāsa ṭhākura vando virakta-pradhāna
-dravya diyā śiśure laoyāilā harināma (9)
+haridāsa-ṭhākura vandõ birakta-pradhāna |
+drabya diyā śiśure laoŵāilā harināma ||8||
 
-gopīnātha ṭhākura vando jagata-vikhyāta
-prabhura stutipāṭhe yeha brahmā sākṣāta (10)
+gopīnātha ṭhākura bandõ jagata-bikhyāta |
+prabhura stutipāṭhe ĵẽhô brahmā sākṣāta ||9||
 
-vandiba murāri-gupta bhakti-śaktimanta
-pūrva-avatāre jā’ra nāma hanumanta (11)
+bandibô murārigupta bhakti-śaktimanta |
+pūrbba-abatāre ĵā̃’ra nāma hanumanta ||10||
 
-śrī-candraśekhara vando candra-suśītala
-ācārya-ratna bali’ jā’ra khyāti niramala (12)
+śrīcandraśekhara bandõ candra-suśītala |
+ācārĵyaratna bôli’ ĵā̃’ra khyāti niramala ||11||
 
-govinda garuḍa vando mahimā-apāra
-gaura-pade bhakti-dvāre jā’ra adhikāra (13)
+govinda garuḓa bandõ mahimā-apāra |
+gaurapade bhaktidvāre ĵā̃’ra adhikāra ||12||
 
-vandiba amvaṣṭha nāma śrī-mukunda data
-gandharva jiniyā jā’ra gānera mahattva (14)
+bandibô ambaṣṭha nāma śrīmukunda datta |
+gandharbba jiniyā ĵā̃’ra gānera mahattva ||13||
 
-śrī-govinda-dāsa vando baḍa śuddha-bhāve
-utkale yāhāre prabhu rākhilā samīpe (15)
+śrīgovindadāsa bandõ baḓô śuddhabhābe |
+ut.kale ĵā̃hāre prabhu rākhilā samīpe ||14||
 
-vando mahā-nirīha paṇḍita dāmodara
-pītāmbara vando tā’ra yaṣṭha sahodara (16)
+bandõ mahānirīha paṇḍita dāmodara |
+pītāmbara bandõ tā̃’ra jyeṣṭha sahodara ||15||
 
-vandiba śrī-jagannātha śaṅkara nārāyaṇa
-baḍa udāsīna ei bhāi pañcajana (17)
+bandibô śrījagannātha, śaṅkara, nārāyaṇa |
+baḓô udāsīna ei bhāi pañcajana ||16||
 
-vando mahāśaya cakravartī nīlāmbara
-prabhura bhaviṣya yeha kahilā satvara (18)
+bandõ mahāśaya cakravarttī nīlāmbara |
+prabhura bhabiṣya ĵẽhô kahilā satbara ||17||
 
-śrī-rāma paṇḍita vando gupta nārāyaṇa
-vando guru viṣṇu gaṅgā-dāsa sudarśana (19)
+śrīrāma paṇḍita bandõ gupta nārāyaṇa |
+bandõ guru viṣṇu, gaṅgādāsa, sudarśana ||18||
 
-vando sadā-śiva āra śrī-garbha śrī-nidhi
-buddhi-manta-khāna vando āra vidyānadhi (20)
+bandõ sadāśiva āra śrīgarbha, śrīnidhi |
+buddhimanta-khāna bandõ āra vidyānidhi ||19||
 
-vandiba dhārmika brahmacārī śuklāmbara
-prabhu yā’re dila nija prema-bhakti vara (21)
+bandibô dhārmmika brahmacārī śuklāmbara |
+prabhu ĵā̃’re dilô nija premabhakti bara ||20||
 
-nandana ācārya vando lekhaka vijaya
-vando rāma-dāsa kavi-candra mahāśaya (22)
+nandana ācārĵya bandõ lekhaka bijaya |
+bandõ rāmadāsa, kavicandra mahāśaya ||21||
 
-vando kholāvecā-khyāti paṇḍita śrī-dhara
-prabhu-saṅge jā’ra nitya kautuka kondala (23)
+bandõ kholābecā-khyāti paṇḍita śrīdhara |
+prabhu-saṅge ĵā̃’ra nitya kautuka kondala ||22||
 
-vando bhikṣu vanamālī putrera sahite
-prabhura prakāśa je dekhilā ācamvite (24)
+bandõ bhikṣu vanamālī putrera sahite |
+prabhura prakāśa ĵe dekhilā ācambite ||23||
 
-halāyudha ṭhākura vando kariyā ādara
-vandanā kariba śrīvāsudeva bhādara (25)
+halāyudha ṭhākura bandõ kôriyā ādara |
+bandanā kôribô śrīvāsudeva bhādara ||24||
 
-vandiba īśāna-dāsa karayoḍa kari’
-śacī ṭhākurāṇī yā’re sneha kaila vaḍi (26)
+bandibô īśānadāsa karaĵoḓa kôri’ |
+śacī ṭhākurāṇī ĵā̃’re sneha kailô baḓi ||25||
 
-vando jagadīśa āra śrīmān sañjaya
-garuḍa kāśīśvara vando kariyā vinaya (27)
+bandõ jagadīśa āra śrīmān_ sañjaya |
+garuḓa, kāśīśvara bandõ kôriyā binaya ||26||
 
-vandanā kariba gaṅgā-dāsa kṛṣṇānanda
-śrī-rāma mukunda vando kariyā ānanda (28)
+bandanā kôribô gaṅgādāsa, kṛṣṇānanda |
+śrīrāma mukunda bandõ kôriyā ānanda ||27||
 
-ballabha ācārya vando jagajane jāni
-jā’ra kanyā āpani śrīlakṣmī-ṭhākurāṇī (29)
+ballabha ācārĵya bandõ jagajane jāni |
+ĵā̃’ra kanyā āpani śrīlakṣmī-ṭhākurāṇī ||28||
 
-sanātana miśra vando ānandita haiyā
-jā’ra kanyā dhanyā ṭhākurāṇī viṣṇupriyā (30)
+sanātana miśra bandõ ānandita haiyā |
+ĵā̃’ra kanyā dhanyā ṭhākurāṇī viṣṇupriyā ||29||
 
-ācārya vanamālī vando dvija kāśīnātha
-mahāprabhura vivāhera ghaṭanā jā’ra sātha (31)
+ācārĵya vanamālī bandõ dvija kāśīnātha |
+mahāprabhura bibāhera ghaṭanā ĵā̃’ra sātha ||30||
 
-prabhura virahotsave chila yata jana
-tā’ sabhāra pāda-padma vandi sarvakṣaṇa (32)
-`,
-  "translation": ""
+prabhura bibāhot.sabe chilô ĵatô jana |
+tā̃’ sabhāra pādapadma bandi sarbbakṣaṇa ||31||`,
+  "notes": "(bhāṭyāli rāga)"
 })

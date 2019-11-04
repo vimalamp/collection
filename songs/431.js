@@ -1,32 +1,31 @@
 push({
-  "title": "mana, tore bali e vāratā",
+  "title": "mana, tore bôli e bāratā",
+  "id": 431,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
-mana, tore bali e vāratā
-apakva vayase hāya, vañcita vañcaka-pāya,
-        vikāile nija svantatratā (1)
+mana, tore bôli e bāratā |
+apakva bayase hāya,    bañcita bañcaka-pā-ya,
+bikāile nija svatantratā ||1||
 
-sampradāye doṣa-buddhi, jāni tumi ātma-śuddhi,
-        karibāre haile sāvadhāna
-nā nile tilaka-mālā, tyajile dīkṣāra jvālā,
-        nije kaile navīna vidhāna (2)
+sampradāye doṣa-buddhi,    jāni’ tumi ātmaśuddhi,
+kôribāre haile sābadhāna |
+nā nile tilaka-mālā,    tyajile dīkṣāra jvālā,
+nije kaile nabīna bidhāna ||2||
 
-pūrvamate tāli diyā, nijamata pracāriyā,
-        nije avatāra-buddhi dhari’
-vratācāra nā mānile, pūrvapatha jale dile,
-        mahā-jane bramadṛṣṭi kari’ (3)
+pūrbbamate tāli diyā,    nijamata pracāriyā,
+nije abatāra-buddhi dhôri’ |
+bratācāra nā mānile,    pūrbbapatha jale dile,
+mahājane bhramadṛṣṭi kôri’ ||3||
 
-phoṭā, dīkṣā, mālā dhari’, dhūrta kare sucāturī,
-        tāi tāhe tomāra virāga
-mahājana-pathe doṣa, dekhiyā tomāra roṣa,
-        patha-prati chāḍa anurāga (4)
+phõṭā dīkṣā mālā dhôri’,    dhūrtta kare sucāturī,
+tāi tāhe tomāra birāga |
+mahājana-pathe doṣa,    dekhiyā tomāra roṣa,
+patha-prati chāḓô anurāga ||4||
 
-ekhana dekhaha bhāi, svarṇa chāḍi’ laile chāi,
-        iha-kāla parakāla jāya
-kapaṭa balila sabe, bhakti vā pele kabe,
-        dehānte vā ki ha’be upāya (5)
-`,
-  "translation": ""
+ekhôna dekhahô bhāi,    svarṇa chāḓi’ laile chāi,
+ihakāla parakāla ĵāya |
+kapaṭa bôlilô sabe,    bhakati bā pele kabe,
+dehānte bā ki ha’be upāya ||5||`
 })

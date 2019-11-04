@@ -1,32 +1,33 @@
 push({
-  "title": "kali-kukura-kadana yadi cāo (he)",
+  "title": "kalikukkura-kadana ĵadi cāo",
+  "id": 335,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-kali-kukura-kadana yadi cāo (he)
-kaliyuga-pāvana, kali-bhaya-nāśana,
-        śrī-śacī-nandana gāo (he) (1)
+kalikukkura-kadana ĵadi cāo (he) |
+kaliĵuga-pābana,    kalibhaya-nāśana,
+śrīśacīnandana gāo (he) ||1||
 
-gadādhara-mādana, nitā’yera prāṇa-dhana,
-        advaitera prapūjita gorā
-nimāi viśvambhara, śrīnivāsa-īśvara,
-        bhakta-samūha-cita-corā (2)
+gadādhara-mādana,    nitā’yera prāṇadhana,
+advaitera prapūjita gorā |
+nimāñi viśvambhara,    śrīnivāsa-īśvara,
+bhaktasamūha-cita-corā ||2||
 
-nadīyā-śaśadhara, māyāpura-īśvara,
-        nāma-pravartana sura
-gṛhi-jana-śikṣaka, nyāsikula-nāyaka,
-        mādhava rādhā-bhāva-pura (3)
+nadīyā-śaśadhara,    māyāpura-īśvara,
+nāma-prabarttana sura |
+gṛhi-jana-śikṣaka,    nyāsikula-nāyaka,
+mādhava rādhābhāvapura ||3||
 
-sārva-bhauma-śodhana, gajapati-tāraṇa,
-        rāmānanda-poṣaṇa vīra
-rūpānanda-varddhana, sanātana-pālana,
-        hari-dāsa-modana dhīra (4)
+sārvvabhaumaśodhana,    gajapati-tāraṇa,
+rāmānanda-poṣaṇa bīra |
+rūpānanda-barddhana,    sanātana-pālana,
+haridāsa-modana dhīra ||4||
 
-vrajarasa-bhāvana, duṣṭamata-śātana,
-        kapaṭi-viṣātana kāma
-śuddha-bhakta-pālana, śuṣka-jñāna-tāḍana,
-        chala-bhakti-dūṣaṇa rāma (5)
-`,
-  "translation": ""
+vrajarasa-bhābana,    duṣṭamata-śātana,
+kapaṭi-bighātana kāma |
+śuddhabhakta-pālana,    śuṣkajñāna-tāḓana,
+chalabhakti-dūṣaṇa rāma ||5||
+
+śabdārtha:- kalikukkura-kadana—kalirūpa kukurera bināśa; mādana—ānandajanaka; śātana—nāśaka; bighātana—bināśana |`
 })

@@ -1,11 +1,11 @@
 push({
   "title": "devaloka pitṛloka-pāya tāra mahā-sukha",
+  "id": 561,
   "author": "narottama-dāsa",
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīmad-rūpa-gosvāmī-prabhupādenoktam",
   "language": "bengali",
-  "verses": `
-<i>śrī-nathe jānakī-nāthe abhedaḥ paramātmani
+  "verses": `<i>śrī-nathe jānakī-nāthe abhedaḥ paramātmani
 tathāpi mama sarvasvaṁ rāmaḥ kamala-locanaḥ</i>
 
 devaloka pitṛloka-pāya tāra mahā-sukha
@@ -21,7 +21,5 @@ kṛṣṇa-kathā kṛṣṇa-nāma-satya-satya rasa-dhāma
 sadā sevā-abhilāṣa-manete kari’ viśvāsa
         sadā-kāla haiya nirbhaya
 <b>narottama-dāsa</b> bole padinu asat-bhole
-        paritrāṇa kara mahāśaya (3)
-`,
-  "translation": ""
+        paritrāṇa kara mahāśaya (3)`
 })

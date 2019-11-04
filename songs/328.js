@@ -1,10 +1,10 @@
 push({
   "title": "kabe kṛṣṇa-dhana pāba, hiyāra mājhāre thaba",
+  "id": 328,
   "author": "narottama-dāsa",
   "category": "śrī-kṛṣṇa-mahimā",
   "language": "bengali",
-  "verses": `
-kabe kṛṣṇa-dhana pāba, hiyāra mājhāre thaba,
+  "verses": `kabe kṛṣṇa-dhana pāba, hiyāra mājhāre thaba,
         juḍāiba tāpita-parāṇa
 sājāiyā diba hiyā, vāsaiba prāṇa-priyā,
         nirakhiba se candra-bayāna (1)
@@ -21,7 +21,5 @@ sadaya haiyā vidhi, milāibe guṇa-nidhi,
 dāruṇa vidhira nāṭa, bhāṇgila premera hāṭa,
         tila-mātra na rākhila tā’ra
 kahe <b>narottama-dāsa</b>, ki mora jīvane āśa,
-        chāḍi’ gela vrajendra-kumāra (4)
-`,
-  "translation": ""
+        chāḍi’ gela vrajendra-kumāra (4)`
 })

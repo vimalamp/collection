@@ -1,10 +1,10 @@
 push({
   "title": "mana re, kena miche bhajicha asāra?",
+  "id": 415,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `
-mana re, kena miche bhajicha asāra?
+  "verses": `mana re, kena miche bhajicha asāra?
 bhūtamaya e saṁsāra, jīvera pakṣete chāra,
         amaṅgala-samudra pāra (1)
 
@@ -21,7 +21,5 @@ tumi ātmā-rūpī ha’ye, śrī-caitanya-samāśraye,
 nitya-kāla sakhī-saṅge, parānanda-sevā-raṅge,
         yugala-bhajana kara’ sāra
 e-hena yugala-dhana, chāḍe jei mūrkha-jana,
-        tā’ra gati nāhi dekhi āra (4)
-`,
-  "translation": ""
+        tā’ra gati nāhi dekhi āra (4)`
 })

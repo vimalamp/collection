@@ -1,11 +1,11 @@
 push({
   "title": "jaya jaya gorācādera āratiko śobhā",
+  "id": 605,
   "author": "bhaktivinoda",
   "category": "sandhyārati",
   "subcategory": "śrī-gaura-ārati",
   "language": "bengali",
-  "verses": `
-jaya jaya gorācādera āratiko śobhā
+  "verses": `jaya jaya gorācādera āratiko śobhā
 jāhnavī-taṭa-vane jaga-mano-lobhā (1)
 
 dakṣiṇe nitāi-cāda, bāme gadādhara
@@ -24,7 +24,5 @@ bahu-koṭī candra jini’ vadana ujvala
 galadeśe vanamālā kare jhalamala (6)
 
 śiva-śuka-nārada preme gadagada
-<b>bhaktivinoda</b> dekhe gorāra sampada (7)
-`,
-  "translation": ""
+<b>bhaktivinoda</b> dekhe gorāra sampada (7)`
 })

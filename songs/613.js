@@ -1,93 +1,96 @@
 push({
-  "title": "eka-dina gaurahari, śrī-guṇḍicā parihari",
+  "title": "ekadina gaurahari",
+  "id": 613,
   "category": "vrata-pāraṇe mahāprasāda-samāna-vicāra",
-  "author": "śrī-prema-vivarta",
+  "author": "śrī jagadānanda paṇḍita",
   "language": "bengali",
   "verses": `
-eka-dina gaurahari, śrī-guṇḍicā parihari,
-        ‘jagannātha-vallabhe’ basilā
-śuddhā ekādaśī-dine, kṛṣṇa-nāma-sukīrtane,
-        divasa-rajanī kāṭāilā (1)
+ekadina gaurahari,    śrīguṇḍicā parihari,
+‘jagannāthavallabhe’ bôsilā |
+śuddhā ekādaśī dine,    kṛṣṇanāma-sukīrttane,
+dibasa-rajanī kāṭāilā ||1||
 
-saṅge svarūpa-dāmodara, rāmānanda, vakreśvara,
-        āra jata kṣetra-vāsi-gaṇa
-prabhu bale,–“eka-mane, kṛṣṇa-nāma-saṅkīrtane,
-        nidrāhāra kariye varjana (2)
+saṅge svarūpadāmodara,    rāmānanda, vakreśvara,
+āra ĵatô kṣetrabāsigaṇa |
+prabhu bôle, “ekamane,    kṛṣṇanāma-saṅkīrttane,
+nidrāhāra kôriye barjjana ||2||
 
-keha kara saṅkhyā-nāma, keha daṇḍa-paraṇāma,
-        keha bala rāma-kṛṣṇa-kathā”
-yathā tathā paḍi’ sabe, ‘govinda’ ‘govinda’ rabe,
-        mahā-preme pramata sarvathā (3)
+kehô karô saṅkhyānāma,    kehô daṇḍa-paraṇāma,
+kehô bôlô rāmakṛṣṇa kathā |”
+ĵathā tathā pôḓi’ sabe,    ‘govinda’ ‘govinda’ rabe,
+mahāpreme pramatta sarbbathā ||3||
 
-hena-kāle gopīnātha, paḍichā sārvabhauma-sātha,
-        guṇḍicā-prasāda lao āila
-annavyañjana, piṭhā, pānā, paramānna, dadhi, chānā,
-        mahāprabhu-agrete dharila (4)
+henôkāle gopīnātha,    pôḓichā sārvvabhauma-sātha,
+guṇḍicā-prasāda lañā āilô |
+annabyañjana, piṭhā, pānā,    paramānna, dadhi, chānā,
+mahāprabhu-agrete dhôrilô ||4||
 
-prabhura ājñāya sabe, daṇḍavat paḍi’ tabe,
-        mahā-prasāda bandiyā bandiyā
-trijāmā rajanī sabe, mahāpreme magna-bhāve,
-        akaitave nāme kāṭāiyā (5)
+prabhura ājñāya sabe,    daṇḍabat. pôḓi’ tabe,
+mahāprasāda bandiyā bandiyā |
+triĵāmā rajanī sabe,    mahāpreme magnabhābe,
+akaitabe nāme kāṭāiyā ||5||
 
-prabhu-ājñā śire dhari’, prātaḥ-snāna sabe kari’,
-        mahāprasāda sevāya pāraṇa
-kari’ hṛṣṭa cita sabe, prabhura caraṇe tabe,
-        karajoḍe kare nivedana (6)
+prabhu-ājñā śire dhôri’,    prātaḥsnāna sabe kôri’,
+mahāprasāda sebāya pāraṇa |
+kôri’ hṛṣṭa citta sabe,    prabhura caraṇe tabe,
+karaĵoḓe kare nibedana ||6||
 
-“sarva-vrata-śiromaṇi, śrī-harivāsare jāni,
-        nirāhāre kari jāgaraṇa
-jagannātha-prasādānna, kṣetre sarvakāle mānya,
-        pāilei kariye bhakṣaṇa (7)
+“sarbbabrata-śiromaṇi,    śrīharibāsare jāni,
+nirāhāre kôri jāgaraṇa |
+jagannātha-prasādānna,    kṣetre sarbbakāle mānya,
+pāilei kôriye bhakṣaṇa ||7||
 
-e saṅkaṭe kṣetra-vāse, mane haya vaḍa trāse,
-        spaṣṭa ājñā kariye prārthanā
-sarva-veda ājñā tava, jāhā māne brahmā-śiva,
-        tāhā diyā ghucāo jātanā” (8)
+e saṅkaṭe kṣetrabāse,    mane haya baḓô trāse,
+spaṣṭa ājñā kôriye prārthanā |
+sarbbaveda ājñā taba,    ĵāhā māne brahmā-śiva,
+tāhā diyā ghucāo ĵātanā ||8||”
 
-prabhu bale,–“bhakti-aṅge, ekādaśī-māna-bhaṅge,
-        sarva-nāśa upasthita haya
-prasāda-pūjana kari’, paradine pāile tari,
-        tithi paradina nāhi raya (9)
+prabhu bôle, ‘bhakti-aṅge,    ekādaśī māna-bhaṅge,
+sarbbanāśa upasthita haya |
+prasāda-pūjana kôri’,    paradine pāile tari,
+tithi paradina nāhi raya ||9||
 
-śrī-hari-vāsara-dine, kṛṣṇa-nāma-rasapāne,
-        tṛpta haya vaiṣṇava sujana
-anya rasa nāhi laya, anya kathā nāhi kaya,
-        sarvabhoga karaye varjana (10)
+śrīharibāsara-dine,    kṛṣṇanāma-rasapāne,
+tṛpta haya vaiṣṇava sujana |
+anya rasa nāhi laya,    anya kathā nāhi kaya,
+sarbbabhoga karaye barjjana ||10||
 
-prasāda-bhojana nitya, śuddha vaiṣṇavera kṛtya,
-        aprasāda nā kare bhakṣaṇa
-śuddhā-ekādaśī jabe, nirāhāra thāke tabe,
-        pāraṇete prasāda-bhojana (11)
+prasāda-bhojana nitya,    śuddha vaiṣṇavera kṛtya,
+aprasāda nā kare bhakṣaṇa |
+śuddhā ekādaśī ĵabe,    nirāhāra thāke tabe,
+pāraṇete prasāda-bhojana ||11||
 
-anukalpa-sthāna-mātra, niranna prasāda-pātra,
-        vaiṣṇava-ke jāniha niścita
-avaiṣṇava-jana jā’rā, prasāda-chalete tā’rā,
-        bhoge haya divāniśi rata
-pāpa-puruṣera saṅge, anāhāra kare raṅge,
-        nāhi māne hari-vāsara-vrata (12)
+anukalpa-sthānamātra,    niranna prasādapātra,
+vaiṣṇavake jāniha niścita |
+avaiṣṇava jana ĵā’rā,    prasāda-chalete tā’rā,
+bhoge haya dibāniśi rata ||12||
 
-bhakti-aṅga-sadācāra, bhaktira samāna kara,
-        bhakti-devī-kṛpā-lābha habe
-avaiṣṇava-saṅga chāḍa, ekādaśī-vrata dhara,
-        nāma-vrate ekādaśī tabe (13)
+pāpa-puruṣera saṅge,    annāhāra kare raṅge,
+nāhi māne haribāsara-brata |
+bhakti-aṅga sadācāra,    bhaktira sammāna karô,
+bhaktidevī-kṛpā-lābha habe |
+avaiṣṇava-saṅga chāḓô,    ekādaśī-brata dharô,
+nāma-brate ekādaśī tabe ||13||
 
-prasāda-sevana āra śrī-hari-vāsare
-virodha nā kara kabhu bujhaha antare (14)
+prasādasebana āra śrīharibāsare |
+birodha nā karô kabhu bujhahô antare ||14||
 
-eka aṅga māne, āra anya aṅge dveṣa
-je kare, niverbādha sei jānaha viśeṣa (15)
+eka aṅga māne, āra anya aṅge dveṣa |
+ĵe kare—nirbbodha sei jānahô biśeṣa ||15||
 
-je aṅgera jei deśa-kāla-vidhi-vrata
-tāhāte ekānta-bhāve hao bhaktirata (16)
+ĵe-aṅgera ĵei deśa-kāla-bidhi-brata |
+tāhāte ekāntabhābe hao bhaktirata ||16||
 
-sarva aṅgera adhipati vrajendra-nandana
-jāhe teha tuṣṭa tāhā karaha pālana (17)
+sarbba aṅgera adhipati vrajendranandana |
+ĵāhe tẽhô tuṣṭa, tāhā karahô pālana ||17||
 
-ekādaśī-dine nidrāhāra-visarjana
-anya dine prasāda-nirmālya susevana (18)
+ekādaśī-dine nidrāhāra-bisarjjana |
+anya dine prasāda-nirmmālya susebana ||18||
 
-śrī-nāma-bhajana āra ekādaśī-vrata
-eka-tattva nitya jāni’ hao tāhe rata” (19)
-`,
-  "translation": ""
+śrīnāmabhajana āra ekādaśī-brata |
+ekatattva nitya jāni’ hao tāhe rata ||19||”`,
+  "notes": "(śrīpremavivartta)",
+  "translation": {
+    "bn": "śabdārtha:- sadācara—sadā ācaraha arthāt. sarbbadā ācaraṇa karô"
+  }
 })

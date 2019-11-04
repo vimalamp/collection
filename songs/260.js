@@ -1,10 +1,10 @@
 push({
   "title": "rādhikā śarada-indu-nindi mukha maṇḍalī",
+  "id": 260,
   "author": "Unknown",
   "category": "śrī-rādhāṣṭaka",
   "language": "bengali",
-  "verses": `
-rādhikā śarada-indu-nindi mukha maṇḍalī
+  "verses": `rādhikā śarada-indu-nindi mukha maṇḍalī
         kuntale vicitra veṇī campaka-puṣpa-śobhanī
 nīlapaṭra aṅge śobhe tāhe ādha oḍanī
         vandiye śrī-pādapadma vṛṣabhānu-nandinī (1)
@@ -42,7 +42,5 @@ kanaka-ulaṭa-rambhā jānuyuga-śobhanī
 haṁsarāja-giti jini sumanthara-calanī
         rātula caraṇe rāje kanayā supañjinī
 yugala caraṇe śobhe yāvaka surañjinī
-        vandiye śrī-pāda-padma vṛṣabhānu-nandinī (8)
-`,
-  "translation": ""
+        vandiye śrī-pāda-padma vṛṣabhānu-nandinī (8)`
 })

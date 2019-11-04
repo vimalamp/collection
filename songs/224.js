@@ -1,23 +1,24 @@
 push({
-  "title": "nadīyāra ghāṭe bhāi ki adbhuta tarī",
-  "author": "kṛṣṇa-dāsa",
+  "title": "nadīyāra ghāṭe bhāi",
+  "id": 224,
+  "author": "kṛṣṇadāsa",
   "category": "sagaṇa śrī-gaura-mahimā",
   "language": "bengali",
   "verses": `
-nadīyāra ghāṭe bhāi ki adbhuta tarī
-nitāi galuiyā tā’te caitanya kāṇḍārī (1)
+nadīyāra ghāṭe bhāi ki adbhuta tarī | 
+nitāi—galuiyā tā’te caitanya—kāṇḍārī ||1||
 
-dui raghunātha, śrī-jīva, gopāla, śrī-rūpa, sanātana
-pārera naukāya erā dāḍi chaya-jana (2)
+dui raghunātha, śrījīva, gopāla, śrīrūpa, sanātana | 
+pārera naukāya ẽrā dā̃ḓi chayajana ||2||
 
-‘ke jābi bhāi bhava-pāre’–bali’ nitāi ḍāke
-kheyāra kaḍi vinā pāra kare yā’ke tā’ke (3)
+‘ke ĵābi bhāi bhabapāre’—bôli’ nitāi ḍāke | 
+kheŵāra kaḓi binā pāra kare ĵā’ke tā’ke ||3||
 
-āture kātara vinā ke pāra kare bhāi?
-kintu pāra kare sabhe caitanya-nitāi (4)
+āture kātara binā ke pāra kare bhāi? 
+kintu pāra kare sabhe caitanya-nitāi ||4||
 
-<b>kṛṣṇa-dāsa</b> bale,–bhāi bala’ ‘hari hari’
-nitāi-caitanyara ghāṭe nāhi lāge kaḍi (5)
-`,
-  "translation": ""
+kṛṣṇadāsa bôle—bhāi bôlô’ ‘hari hari’ | 
+nitāi-caitanyera ghāṭe nāhi lāge kaḓi ||5||
+
+śabdārtha:- galui.yā—naukāya ĵini pāla ṭhika rākhena; kāṇḍāri—ĵini hāla dharena; āture kātara—paraduḥkha duḥkhī |`
 })

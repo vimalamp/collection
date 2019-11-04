@@ -1,10 +1,10 @@
 push({
   "title": "nava-nīrada-nindita-kānti-dharaṁ",
+  "id": 66,
   "category": "śrī-vraja-rāja-sutāṣṭakam",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-nava-nīrada-nindita-kānti-dharaṁ
+  "verses": `nava-nīrada-nindita-kānti-dharaṁ
     rasa-nāgara-nāgara-bhūpa-varam
 śubha-vaṅkima-cāru-śikhaṇḍa-śikhaṁ
     bhaja kṛṣṇa-nidhiṁ vraja-rāja-sutam (1)
@@ -42,7 +42,5 @@ giridhāri-murāri-purāri-paraṁ bhaja
 vṛṣabhānu-sutā-vara-keli-paraṁ
     rasa-rāja-śiromaṇi-veśa-dharam
 jagad-īśvaram-īśvaram-īḍya-varaṁ
-    bhaja kṛṣṇa-nidhiṁ vraja-rāja-sutam (8)
-`,
-  "translation": ""
+    bhaja kṛṣṇa-nidhiṁ vraja-rāja-sutam (8)`
 })

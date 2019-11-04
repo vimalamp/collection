@@ -1,10 +1,10 @@
 push({
   "title": "ambudāñjanendra-nīla-nindi-kānti-ḍambaraḥ",
+  "id": 51,
   "category": "śrī-kṛṣṇa-candrāṣṭakam",
   "author": "śrīla-kṛṣṇa-dāsa kavirāja goswāmī",
   "language": "sanskrit",
-  "verses": `
-ambudāñjanendra-nīla-nindi-kānti-ḍambaraḥ
+  "verses": `ambudāñjanendra-nīla-nindi-kānti-ḍambaraḥ
     kuṅkumodyad-arka-vidyud-aṁśu-divyad-ambaraḥ
 śrīmad-aṅga-carcitendu-pītanākta-candanaḥ
     svāṅghri-dāsyado ’stu me sa ballavendra-nandanaḥ (1)
@@ -47,7 +47,5 @@ rādhikorasīha lepa eṣa hāri-candanah
 aṣṭakena yas tv anena rādhikā-suvallabhaṁ
     saṁstavīti darśane ’pi sindhujādi-durlabham
 taṁ yunakti tuṣṭa-citta eṣa ghoṣa-kānane
-    rādhikāṅga-saṅga-nanditātma-pāda-sevane (9)
-`,
-  "translation": ""
+    rādhikāṅga-saṅga-nanditātma-pāda-sevane (9)`
 })

@@ -1,50 +1,57 @@
 push({
-  "title": "jaya mādhava, madana murārī",
-  "author": "Unknown",
+  "title": "ja.ya mādhava, madana murārī",
+  "id": 660,
+  "author": "lekhaka ajānā",
   "category": "hindī-kīrtana",
   "language": "hindi",
   "verses": `
-jaya mādhava, madana murārī,
-        rādhe śyāma-śyāmā-śyāma
-jaya keśava, kalimalahārī,
-        rādhe śyāma-śyāmā-śyāma (1)
+ja.ya mādhava,    madana murārī,
+rādhe śyāma śyāmā-śyāma |
+ja.ya keśava,    kalimalahārī,
+rādhe śyāma śyāmā-śyāma ||dhru||
 
-sundara-kuṇḍala, nayana viśālā,
-        gala sohe vaijayantī-mālā
-jā chavi kī balihārī, rādhe śyāma-śyāmā-śyāma (2)
+sundara-kuṇḍala,    na.yana viśālā,
+gala sohe vaijantī-mālā |
+ĵā chavi kī balihārī,
+rādhe śyāma śyāmā-śyāma ||1||
 
-kabahu luṭa luṭa dadhi khāyo,
-        kabahu madhuvana rāsa racāyo
-nṛtyati vipina-vihārī, rādhe śyāma-śyāmā-śyāma (3)
+kabahu luṭa luṭa dadhi khā.yo, 
+kabahu madhuvana rāsa racā.yo |
+nṛtyati vipinabihārī,
+rādhe śyāma śyāmā-śyāma ||2||
 
 gvālavāla-saṅga dhenu carāi,
-        vana vana bramata phire jadurāi
-kādhe kāmara kārī, rādhe śyāma-śyāmā-śyāma (4)
+vana vana bhramata phire ĵadurāi |
+kā̃dhe kā̃mara kārī,
+rādhe śyāma śyāmā-śyāma ||3||
 
-curā curā navanīta, jo khāyo,
-        vraja-vanitanapai nāma dharāyo
-mākhana-cora murārī, rādhe śyāma-śyāmā-śyāma (5)
+curā curā navanīta ĵo khā.yo,
+vraja-vanitanapai nāma dharā.yo |
+mākhanacora murārī,
+rādhe śyāma śyāmā-śyāma ||4||
 
-eka-dina māna indrako māro,
-        nakha upara govarddhana dhāro
-nāma paḍo giridhārī śyāma, rādhe śyāma-śyāmā-śyāma (6)
+ekadina māna indrako māro,
+nakha upara govarddhana dhāro |
+nāma paḓo giridhārī,
+rādhe śyāma śyāmā-śyāma ||5||
 
-duryodhana ko bhoga nā bhāyo,
-        rukho śāka vidura-ghara khāyo
-yoyse prema-pūjārī, rādhe śyāma-śyāmā-śyāma (7)
+duryodhanako bhoga nā bhā.yo,
+rukho śāka vidura-ghara khā.yo |
+e_yā_.y_#se prema-pūjārī,
+rādhe śyāma śyāmā-śyāma ||6||
 
-karuṇā kara draupadī, pūkārī,
-        paṭame lipaṭa gaye vanaoyārī
-nirakha rahe nara-nārī, rādhe śyāma-śyāmā-śyāma (8)
+karuṇā karô draupadī pūkārī,
+paṭame lipaṭa ga.ye vanao.yārī |
+nirakha rahe nara-nārī,
+rādhe śyāma śyāmā-śyāma ||7||
 
-bhaktā bhakta saba tumne tāre,
-        vinā bhakti hama ṭhāḍe dvāre
-lījo khavara hamārī, rādhe śyāma-śyāmā-śyāma (9)
+bhaktābhakta saba tumane tāre,
+binā bhakti hama ṭhāḓe dvāre |
+lījo khavara hāmārī,
+rādhe śyāma śyāmā-śyāma ||8||
 
-arjuna ke ratha hāka nahāre,
-        gītā ke upadeśa tumāre
-cakra-sudarśana-dhārī,
-        rādhe śyāma-śyāmā-śyāma (10)
-`,
-  "translation": ""
+arjjunake ratha hā̃kanahāre,
+gītāke upadeśa tumāre |
+cakra-sudarśanadhārī,
+rādhe śyāma śyāmā-śyāma ||9||`
 })

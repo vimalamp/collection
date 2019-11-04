@@ -1,33 +1,32 @@
 push({
-  "title": "mānuṣa bhajana karcho, o bhāi",
-  "author": "cāda-bāula",
+  "title": "mānuṣa-bhajana kôr_#cho, o bhāi",
+  "id": 591,
+  "author": "cā̃da-bāula (śrīla bhaktivinoda ṭhākura)",
   "category": "bāula-saṅgīta",
   "language": "bengali",
   "verses": `
-mānuṣa bhajana karcho, o bhāi,
-        bhāvera gāna dhare’
-gupta kare’ rākhcho bhāla,
-        vyakta ha’be yamera ghare (1)
+mānuṣa-bhajana kôr_#cho, o bhāi, 
+bhābera gāna dha’re |
+gupta ka’re rākh_#cho bhālô, 
+byakta ha’be ĵamera ghare ||1||
 
-meye hijaḍe, puruṣa khojā,
-        tabe ta’ haya kartābhajā,
-ei chale karcho majā,
-        manera prati cokha ṭhere’ (2)
+meye hij_#ḓe, puruṣa khojā, 
+tabe tô’ haya karttābhajā,
+ei chale kôr_#cho majā, 
+manera prati cokha ṭhere’ ||2||
 
-‘guru satya’ balcho mukhe,
-        ācha to, bhāi, jaḍera sukhe,
-saṅga tomāra bahir-mukhe,
-        śuddha ha’be kemana kare’ (3)
+‘guru satya’ bôl_#cho mukhe, 
+āchô to’ bhāi, jaḓera sukhe,
+saṅga tomāra bahirmmukhe, 
+śuddha ha’be kemôna kare’ ??3??
 
-yoṣit-saṅga-artha-lobhe,
-        maje ta’ jīva citta-kṣobhe,
-bāule ki se-saba śobhe,
-        āguna dekhe’ phaḍiṁ mare (4)
+ĵoṣit.saṅga-arthalobhe, 
+maje tô’ jība cittakṣobhe,
+bāule ki se-saba śobhe, 
+āguna dekhe’ phaḓiṁ mare ||4||
 
-<b>cāda-bāula</b> minati kari’
-        bale–o-saba parihari’,
-śuddha-bhāve bala ‘hari’,
-        jā’be bhava-sāgara-pāre (5)
-`,
-  "translation": ""
+cā̃da-bāula minati kôri’ 
+bôle—o saba parihari’,
+śuddhabhābe bôlô ‘hari’, 
+ĵā’be bhabasāgara-pāre ||5||`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! svarga naraka bujha kothā",
+  "id": 455,
   "author": "premānande",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! svarga naraka bujha kothā
+  "verses": `ore mana! svarga naraka bujha kothā
 je jemana karma kare, temani bhuñjāya tā’re,
         bhāviyā dekhile saba hethā (1)
 
@@ -31,7 +31,5 @@ se rahe māyāra pāra, tā’te kā’ra adhikāra,
 kṛṣṇa-līlā-guṇa-nāma, rātridine avirāma,
         śravaṇa-kīrtana sadānanda
 <b>premānande</b> kahe mati, ha’ye tā’ra anugati,
-        ‘kṛṣṇa’ kahi chiḍa karma-bandha (6)
-`,
-  "translation": ""
+        ‘kṛṣṇa’ kahi chiḍa karma-bandha (6)`
 })

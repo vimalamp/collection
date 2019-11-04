@@ -1,10 +1,10 @@
 push({
   "title": "ore mana, bāḍivāra āśā kena kara’?",
+  "id": 536,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "nirveda-lakṣaṇa-upalabdhi",
   "language": "bengali",
-  "verses": `
-ore mana, bāḍivāra āśā kena kara’?
+  "verses": `ore mana, bāḍivāra āśā kena kara’?
 pārthiba unnati jata, śeṣe avanati tata,
         śānta hao, mora vākya dhara’ (1)
 
@@ -26,7 +26,5 @@ brahmatva chāḍiyā bhāi, śivapada kise pāi,
 ataeva āśā-pāśa, jāhe haya sarvanāśa,
         hṛdaya haite rākha dūre
 akiñcana-bhāva la’ye, caitanya-caraṇāśraye,
-        vāsa kara’ sadā śāntipure (5)
-`,
-  "translation": ""
+        vāsa kara’ sadā śāntipure (5)`
 })

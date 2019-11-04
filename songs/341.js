@@ -1,14 +1,13 @@
 push({
-  "title": "śrī-kṛṣṇa gopāla hare mukunda",
-  "author": "Unknown",
+  "title": "śrīkṛṣṇa gopāla hare mukunda",
+  "id": 341,
+  "author": "śrīla sanātana gosvāmī",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-śrī-kṛṣṇa gopāla hare mukunda,
-govinda he nanda kiśora-kṛṣṇa (1)
-
-hā śrī-yaśodā-tanaya prasīda,
-śrī-ballavī-jīvana rādhikeśa (2)
-`,
-  "translation": ""
+śrīkṛṣṇa gopāla hare mukunda
+govinda he nanda kiśorakṛṣṇa |
+hā śrīĵaśodātanaya prasīda
+śrīballabījībana rādhikeśa ||`,
+  "notes": "(śrībṛhadbhāgavatāmṛta)"
 })

@@ -1,10 +1,10 @@
 push({
   "title": "e mana! vicāri kena nā cāo",
+  "id": 464,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-e mana! vicāri kena nā cāo
+  "verses": `e mana! vicāri kena nā cāo
 dekha bhava-roga, te kene ghuce nā,
         kata nā ouṣadha khāo (1)
 
@@ -31,7 +31,5 @@ ekhano tā yadi, bujhite nā pāra,
 kṣudhāṭī vāḍaye, ruciṭī janame,
         khāite ānanda-jala
 kahe <b>premānanda</b>, tabe se jāniha,
-        ouṣadhi-dhāraṇa-phala (6)
-`,
-  "translation": ""
+        ouṣadhi-dhāraṇa-phala (6)`
 })

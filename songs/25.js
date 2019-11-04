@@ -1,10 +1,10 @@
 push({
   "title": "sva-bhakti-yoga-lāsinaṁ sadā vraje vihāriṇaṁ",
+  "id": 25,
   "category": "śrī-śrī-gadādharaṣṭakam",
   "author": "śrīla-svarūpa-dāmodara-gosvāmī viracitam",
   "language": "sanskrit",
-  "verses": `
-sva-bhakti-yoga-lāsinaṁ sadā vraje vihāriṇaṁ
+  "verses": `sva-bhakti-yoga-lāsinaṁ sadā vraje vihāriṇaṁ
     hari-priyā-gaṇāgragaṁ śacī-suta-priyeśvaram
 sa-rādhā-kṛṣṇa-sevana-prakāśakaṁ mahāśayaṁ
     bhajāmy ahaṁ gadādharaṁ supaṇḍitaṁ guruṁ prabhum (1)
@@ -47,7 +47,5 @@ tam ujjvalākta-cittam etu citta-matta-ṣaṭpado
 mahārasāmṛta-pradaṁ sadā gadādharāṣṭakaṁ
     paṭhet tu yaḥ subhaktito vrajāṅganā-gaṇotsavam
 śacī-tanūja-pāda-padma-bhakti-ratna-yogyatāṁ
-    labheta rādhikā-gadādharāṅghri-padma-sevayā (9)
-`,
-  "translation": ""
+    labheta rādhikā-gadādharāṅghri-padma-sevayā (9)`
 })

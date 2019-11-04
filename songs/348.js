@@ -1,16 +1,15 @@
 push({
-  "title": "rādhā-vallabha rādhā-vinoda",
-  "author": "Unknown",
+  "title": "rādhāvallabha rādhāvinoda",
+  "id": 348,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-rādhā-vallabha rādhā-vinoda,
-rādhā-mādhava rādhā-pramoda (1)
+rādhāvallabha rādhāvinoda | 
+rādhāmādhava rādhāpramoda ||
 
-rādhā-ramaṇa, rādhā-nātha,
-        rādhā-varaṇāmoda
-rādhā-rasika, rādhā-kānta,
-        rādhā-milana-moda (2)
-`,
-  "translation": ""
+rādhāramaṇa, rādhānātha,
+rādhābaraṇāmoda |
+rādhārasika, rādhākānta,
+rādhāmilana-moda ||`
 })

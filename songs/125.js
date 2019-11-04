@@ -1,38 +1,40 @@
 push({
-  "title": "śrī-guru-vaiṣṇava, tomāra caraṇa",
+  "title": "śrīguru-vaiṣṇava",
+  "id": 125,
   "category": "śrī-guru-vaiṣṇave-vijñapti",
-  "author": "rādhāmohana",
+  "author": "rādhā-mohana dāsa",
   "language": "bengali",
   "verses": `
-śrī-guru-vaiṣṇava, tomāra caraṇa,
-        smaraṇa nā kainu āmi
-viṣaya viṣama, viṣa bhāla māni,
-        khāichu haiyā kāmī (1)
+śrīguru-vaiṣṇava,    tomāra caraṇa,
+smaraṇa nā kainu āmi |
+biṣaya biṣama,    biṣa bhāla māni,
+khāichu hô_iyā kāmī ||1||
 
-sei viṣe more, jāriyā mārila,
-        baḍai viṣama haila
-janame janame, emana katai,
-        ātmāghātī pāpa kaila (2)
+sei biṣe more,    jāriyā mārilô,
+baḓô_i biṣama hailô |
+janame janame,    emôna katô_i,
+ātmaghātī pāpa kailô ||2||
 
-sei aparādhe, e bhava-sāgare,
-        bādhile e māyā-jāle
-tomā’ nā bhajiyā, āpanā khāiyā,
-        āpani ḍuvechi hele (3)
+sei aparādhe,    e bhaba-saṁsāre,
+bā̃dhile e māyājāle |
+tomā’ nā bhajiyā,    āpanā khāiyā,
+āpani ḍubechi hele ||3||
 
-āra katakāla, e duḥkha bhuñjiba,
-        bhoga-deha nāhi jāya
-sahite nāriyā, kātara haiyā,
-        nivedichi tuyā pāya (4)
+āra katô kāla,    e duḥkha bhuñjibô,
+bhoga-deha nāhi ĵāya |
+sahite nāriyā,    kātara hô_iyā,
+nibedichi tuŵā pāya ||4||
 
-o rāṅgā caraṇa, paraśa kevala,
-        vicāriyā ei dāya
-uddhāra kariyā, laha dīna-bandhu,
-        āpana caraṇa-nāya (5)
+o rāṅgā caraṇa,    paraśa kebala,
+bicāriyā ei dāya |
+uddhāra kôriyā,    lahô dīnabandhu,
+āpana caraṇa-nāya ||5||
 
-tomāra sevana, amṛta bhojana,
-        karāiyā more rākha
-e <b>rādhāmohana</b>, khate vikāila,
-        dāma gagane lekha (6)
-`,
-  "translation": ""
+tomāra sebana-,    amṛta bhojana,
+karāiyā more rākhô |
+e rādhāmohana,    khate bikāilô,
+dāma gagane lekhô ||6||`,
+  "translation": {
+    "bn": "śabdārtha :- dāya—saṅkaṭa; nāya–naukāya; khate–pratijñā-patre; gagane–śūnye arthāt. bināmūlye"
+  }
 })

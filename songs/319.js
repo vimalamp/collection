@@ -1,37 +1,38 @@
 push({
-  "title": "karaṅga kaupīna lao, cheḍā kānthā gāya diyā",
-  "author": "narottama-dāsa",
+  "title": "karaṅga kaupīna lañā",
+  "id": 319,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-kṛṣṇe svābhīṣṭa-lālasātmaka prārthanā",
   "language": "bengali",
   "verses": `
-karaṅga kaupīna lao, cheḍā kānthā gāya diyā,
-        teyāgiba sakala viṣaya
-kṛṣṇe anurāga ha’be, vrajera nikuñje kabe,
-        jāiyā kariba nijālaya (1)
+karaṅga kaupīna lañā,    chẽḓā kānthā gāye diyā,
+teyāgibô sakala biṣaya |
+kṛṣṇe anurāga ha’be,    vrajera nikuñje kabe,
+ĵāiyā kôribô nijālaya ||1||
 
-hari hari! kabe mora haibe sudina
-phalamūla vṛndāvane, khāṇo dibā avasāne,
-        bramiba haiyā udāsīna (2)
+hari hari! kabe mora hô_ibe sudina |
+phalamūla vṛndāvane,    khāñā dibā abasāne,
+bhramibô hô_iyā udāsīna ||2||
 
-śītala jamunā-jale, snāna kari’ kutūhale,
-        premā-veśe ānandita hao
-bāhura upara bāhu tuli’, vṛndāvane kuli kuli,
-        kṛṣṇa bali’ beḍā’ba kāndiyā (3)
+śītala ĵamunā-jale,    snāna kôri’ kutūhale,
+premābeśe ānandita hañā |
+bāhura upara bāhu tuli’,    vṛndāvane kuli-kuli,
+kṛṣṇa bôli’ beḓābô kāndiyā ||3||
 
-dekhiba saṅketa-sthāna, juḍābe tāpita prāṇa,
-        premā-veśe gaḍāgaḍi diba
-kāhā rādhā prāṇeśvari, kāhā girivaradhāri,
-        kāhā nātha baliyā ḍākiba (4)
+dekhibô saṅketa-sthāna,    juḓābe tāpita prāṇa,
+premābeśe gaḓāgaḓi dibô |
+kā̃hā rādhā prāṇeśvari,    kā̃hā girivaradhāri,
+kā̃hā nātha bôliyā ḍākibô ||4||
 
-mādhavī-kuñjera ’pari, sukhe vasi’ śuka-śārī,
-        gāibeka rādhā-kṛṣṇa-rasa
-tarumūle vasi’ tāhā, śuni’ juḍāiba hiyā,
-        kabe sukhe goāva divasa (5)
+mādhavīkuñjera ’pari,    sukhe bôsi’ śukaśārī,
+gāibeka rādhākṛṣṇa-rasa |
+tarumūle bôsi’ tāhā,    śuni’ juḓāibô hiyā,
+kabe sukhe goṅābô dibasa ||5||
 
-śrī-govinda-gopīnātha, śrīmatī-rādhikā-sātha,
-        dekhiba ratana-siṁhāsane
-dīna <b>narottama-dāsa</b>, karaye durllabha āśa,
-        ei mati haibe kata-dine (6)
-`,
-  "translation": ""
+śrīgovinda-gopīnātha,    śrīmatī-rādhikā-sātha,
+dekhibô ratana-siṁhāsane |
+dīna narottamadāsa,    karaye durllabha āśa,
+ei mati haibe katôdine ||6||
+
+śabdārtha:- karaṅga—kamaṇḍalu; kulikuli—galite galite |`
 })

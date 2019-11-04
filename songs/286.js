@@ -1,10 +1,10 @@
 push({
   "title": "rādhā-kṛṣṇa! nivedana ei jana kare",
+  "id": 286,
   "author": "narottama",
   "category": "śrī-rādhā-kṛṣṇa-caraṇe saṁprārthanā",
   "language": "bengali",
-  "verses": `
-rādhā-kṛṣṇa! nivedana ei jana kare
+  "verses": `rādhā-kṛṣṇa! nivedana ei jana kare
 dohe ati rasamaya, sakaruṇa-hṛdaya,
         avadhāna kara nātha more (1)
 
@@ -21,7 +21,5 @@ adhama durgata jane, kevala karuṇā mane,
 jaya rādhe jaya kṛṣṇa, jaya jaya rādhe kṛṣṇa,
         kṛṣṇa kṛṣṇa jaya jaya rādhe
 añjali mastake kari’, <b>narottama</b> bhūme paḍi’,
-        kahe dohe purāo manaḥ-sādhe (4)
-`,
-  "translation": ""
+        kahe dohe purāo manaḥ-sādhe (4)`
 })

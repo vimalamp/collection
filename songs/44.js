@@ -1,10 +1,10 @@
 push({
   "title": "manasaṁ mana-santyagad, utkanṭhartaṁ nirundhatīm",
+  "id": 44,
   "category": "śrī-prema-sudhā-sattrākhya",
   "author": "śrī-vṛndāvaneśvari-nāmāṣṭottara-śata-nāma-stotra",
   "language": "sanskrit",
-  "verses": `
-manasaṁ mana-santyagad, utkanṭhartaṁ nirundhatīm
+  "verses": `manasaṁ mana-santyagad, utkanṭhartaṁ nirundhatīm
 radhaṁ samvidya vidyaḍhya, tuṅgavidyedam abravīt (1)
 
 vimuñca bandhure manaṁ, nibandhaṁ śṛnu mad-vacaḥ
@@ -128,7 +128,5 @@ iti radha-sakhī-vacam, acamya pulakavcita
 chadmana padmanabhasya, lata-sadmantikaṁ gata (41)
 
 yaḥ sevate jano radha-namnam aṣṭottaraṁ śatam
-namna prema-sudha-sattraṁ, lihyat prema-sudham asau (42)
-`,
-  "translation": ""
+namna prema-sudha-sattraṁ, lihyat prema-sudham asau (42)`
 })

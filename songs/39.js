@@ -1,10 +1,10 @@
 push({
   "title": "jayati te ‘dhikaṁ janmanā vrajaḥ (śrī-vilasa-manjari-gita)",
+  "id": 39,
   "category": "śrī-gopī-gītā",
   "author": "śrīla-jīva-goswāmī",
   "language": "sanskrit",
-  "verses": `
-jayati te ‘dhikaṁ janmanā vrajaḥ,
+  "verses": `jayati te ‘dhikaṁ janmanā vrajaḥ,
     śrayata indirā pyasya bhū-rajaḥ
 tadapi hā’jahā nastvaṁ-atra bho!
     vayaṁ-imaḥ kathaṁ vānyatāṁ prabho! (1)
@@ -137,7 +137,5 @@ ruruduḥ su-svaraṁ rājan
 tāsām āvirabhūc chauriḥ
     smayamāna-mukhāmbujaḥ
 pītāmbara-dharaḥ sragvī
-    sākṣān manmatha-manmathaḥ (27)
-`,
-  "translation": ""
+    sākṣān manmatha-manmathaḥ (27)`
 })

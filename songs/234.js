@@ -1,10 +1,10 @@
 push({
   "title": "hari hari viphale janama goāinu",
+  "id": 234,
   "author": "narottama-dāsa",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
-  "verses": `
-hari hari viphale janama goāinu
+  "verses": `hari hari viphale janama goāinu
 manuṣya-janama pāiyā, rādhā-kṛṣṇa nā bhajiyā,
         jāniyā śuniyā viṣa khāinu (1)
 
@@ -21,7 +21,5 @@ dīna hīna yata chila, hari-nāme uddhārila,
 hā hā prabhu nanda-suta, vṛṣabhānu-sutā juta,
         karuṇā karaha ei-bāra
 <b>narottama-dāsa</b> kaya, nā ṭhelio rāṅgāpāya,
-        tomā vinā ke āche āmāra (4)
-`,
-  "translation": ""
+        tomā vinā ke āche āmāra (4)`
 })

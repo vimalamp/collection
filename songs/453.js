@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! nivedana śunaha āmāra",
+  "id": 453,
   "author": "premānande",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! nivedana śunaha āmāra
+  "verses": `ore mana! nivedana śunaha āmāra
 janmile maraṇa āche, kāla-dūta āche piche,
         bhuñjāibe karma-anusāra (1)
 
@@ -21,7 +21,5 @@ kukura-bhavane gele, asthi-carma khuba mile,
 kṛṣṇa-nāma-līlā-guṇa-śravaṇa-kīrtana, mana,
         aśru-kampa-pulaka ānande
 sādhu-saṅge sadā vasi’, vilasaha divāniśi,
-        tabe vāñchā pūre <b>premānande</b> (4)
-`,
-  "translation": ""
+        tabe vāñchā pūre <b>premānande</b> (4)`
 })

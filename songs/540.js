@@ -1,93 +1,93 @@
 push({
-  "title": "ore mana, bali, śuna tattva-vivaraṇa",
-  "author": "Unknown",
+  "title": "ore mana, bôli, śunô",
+  "id": 540,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "sambandhābhidheya-prayojana",
   "language": "bengali",
   "verses": `
-<i>(sambandha-vijñāna-lakṣaṇa-upalabdhi)</i>
-ore mana, bali, śuna tattva-vivaraṇa
-jāhāra vismṛti-janya jīvera vandhana (1)
+ore mana, bôli, śunô tattva-bibaraṇa | 
+ĵā̃hāra bismṛti-janya jībera bandhana ||1||
 
-tattva eka advitīya atulya apāra
-sei tattva para-brahma sarva-sārātsāra (2)
+tattva eka advitīya atulya apāra | 
+sei tattva parabrahma sarbbasārāt.sāra ||2||
 
-sei tattva śaktimān sampūrṇa sundara
-śakti, śaktimān–eka vastu niratanva (3)
+sei tattva śaktimān_ sampūrṇa sundara | 
+śakti-_śaktimān–eka bastu nirantara ||3||
 
-nitya-śakti, nitya-sarva-vilāsa-poṣaka
-vilāsārtha vṛndāvana, vaikunṭa, goloka (4)
+nityaśakti—nityasarbba-bilāsa-poṣaka | 
+bilāsārtha vṛndāvana, vaikuṇṭha, goloka ||4||
 
-vilāsārtha nāma-dhāma-guṇa-parikara
-deśa-kāla-pātra saba śakti-anucara (5)
+bilāsārtha nāma-dhāma-guṇa-parikara | 
+deśa-kāla-pātra saba śakti-anucara ||5||
 
-śaktira prabhāva āra prabhura vilāsa
-para-brahma-saha nitya ekātma-prakāśa (6)
+śaktira prabhāba āra prabhura bilāsa | 
+parabrahma-saha nitya ekātma-prakāśa ||6||
 
-ataeva brahma āge, śakti-kārya pare
-je kare siddhātan, sei mūrkha e saṁsāre (7)
+‘ataeba brahma āge, śakti-kārĵya pare |’ 
+ĵe kare siddhāta, sei mūrkha e saṁsāre ||7||
 
-pūrṇa-candra balile kiraṇa-saha jāni
-akiraṇa candra-sattvā kabhu nāhi māni (8)
+pūrṇacandra bôlile kiraṇa-saha jāni | 
+akiraṇa candrasattā kabhu nāhi māni ||8||
 
-brahma āra brahma-śakti-saha parikara
-samakāla nitya bali’ māni ataḥpara (9)
+brahma āra brahmaśakti-saha parikara | 
+samakāla nitya bôli’ māni ataḥpara ||9||
 
-akhaṇḍa vilāsamaya para-brahma jei
-aprākṛta vṛndāvane kṛṣṇa-candra sei (10)
+akhaṇḍa bilāsamaya parabrahma ĵei | 
+aprākṛta vṛndāvane kṛṣṇacandra sei ||10||
 
-sei se advaya-tattva parānandākāra
-kṛpāya prakaṭa haila bhārate āmāra (11)
+sei se advayatattva parānandākāra | 
+kṛpāya prakaṭa hailô bhārate āmāra ||11||
 
-kṛṣṇa se parama-tattva prakṛtira para
-vrajete vilāsa kṛṣṇa kare niratanva (12)
+kṛṣṇa se parama-tattva prakṛtira para | 
+vrajete bilāsa kṛṣṇa kare nirantara ||12||
 
-cid-dhāma-bhāskara kṛṣṇa, tā’ra jyotirgata
-ananta citkaṇa jīva tiṣṭhe avirata (13)
+ciddhāma-bhāskara kṛṣṇa, tā̃’ra jyotirgata | 
+ananta cit.kaṇa jība tiṣṭhe abirata ||13||
 
-sei jīva prema-dharmī, kṛṣṇa-gataprāṇa
-sadā kṛṣṇākṛṣṭa, bhakti-sudhā kare pāna (14)
+sei jība premadharmmī, kṛṣṇagata prāṇa | 
+sadā kṛṣṇākṛṣṭa, bhaktisudhā kare pāna ||14||
 
-nānābhāva-miśrita piyā dāsya-rasa
-kṛṣṇera anatanguṇe sadā thāke vaśa (15)
+nānābhāba-miśrita piyā dāsya-rasa | 
+kṛṣṇera anantaguṇe sadā thāke baśa ||15||
 
-kṛṣṇa mātā, kṛṣṇa pitā, kṛṣṇa sakhā, pati
-ei saba bhinnabhāve kṛṣṇe kare rati (16)
+kṛṣṇa mātā, kṛṣṇa pitā, kṛṣṇa sakhā, pati | 
+ei saba bhinnabhābe kṛṣṇe kare rati ||16||
 
-kṛṣṇa se puruṣa eka, nitya vṛndāvane
-jīvagaṇa nārīvṛnda, rame kṛṣṇasane (17)
+kṛṣṇa se puruṣa eka, nityavṛndāvane | 
+jībagaṇa nārībṛnda, rame kṛṣṇasane ||17||
 
-sei ta’ ānanda-līlā jā’ra nāi anta
-ataeva kṛṣṇa-līlā akhaṇḍa, ananta (18)
+sei tô’ ānandalīlā ĵā’ra nāi anta | 
+ataeba kṛṣṇalīlā akhaṇḍa ananta ||18||
 
-je-saba jīvera bhoga-vāñchā upajila
-uruṣa-bhāvete tā’rā jaḍe praveśila (19)
+ĵe-saba jībera bhoga-bāñchā upajilô | 
+puruṣa-bhābete tā’rā jaḓe prabeśilô ||19||
 
-māyākārya jaḍa, māyā–nitya-śakti-chāyā
-kṛṣṇa-dāsī seha satya, kārā-kartrī māyā (20)
+māyākārĵya jaḓa, māyā—nityaśakti-chāyā | 
+kṛṣṇadāsī sehô satya, kārā-kartrī māyā ||20||
 
-sei māyā ādarśera samasta viśeṣa
-laiyā gaṭhila viśva jāhe pūrṇa kleśa (21)
+sei māyā ādarśera[1] samasta biśeṣa | 
+lô_iyā gaṭhilô biśva ĵāhe pūrṇa kleśa ||21||
 
-jīva yadi hailena kṛṣṇa-bahir-mukha
-māyādevī tabe tā’re jācilena sukha (22)
+jība ĵadi hô_ilena kṛṣṇabahirmmukha | 
+māyādevī tabe tā’re ĵācilena sukha ||22||
 
-māyā-sukhe mata jīva śrī-kṛṣṇa bhulila
-sei se avidyā-vaśe asmitā janmila (23)
+māyā-sukhe matta jība śrīkṛṣṇa bhulilô | 
+sei se abidyā-baśe asmitā janmilô ||23||
 
-asmitā haite haila māyābhiniveśa
-tāhā haite jaḍagata rāga āra dveṣa (24)
+asmitā hô_ite hailô māyābhinibeśa | 
+tāhā hô_ite jaḓagata rāga āra dveṣa ||24||
 
-ei-rūpe jīva karma-cakre praveśiyā
-uccāvaca-gatikrame phirena bramiyā (25)
+eirūpe jība karmmacakre prabeśiyā | 
+uccābaca-gatikrame phirena bhramiyā ||25||
 
-kothā se vaikunṭānanda, śrī-kṛṣṇa-vilāsa!
-kothā māyāgata sukha, duḥkha, sarvanāśa! (26)
+kothā se vaikuṇṭhānanda, śrīkṛṣṇabilāsa ! 
+kothā māyāgata sukha, duḥkha, sarbbanāśa !!26!!
 
-citattva haiyā jīvera māyābhiramaṇa
-ati tuccha jugupsita ananta patana (27)
+cit.tattva hô_iyā jībera māyābhiramaṇa | 
+ati tuccha jugupsita [2] ananta patana ||27||
 
-māyika dehera bhāvābhāve dāsya kari’
-para-tattva jīvera ki kaṣṭa āhā kari! (28)
-`,
-  "translation": ""
+māyika dehera bhābābhābe [3] dāsya kôri’ | 
+paratattva jībera ki kaṣṭa āhā môri !!28!!
+
+`
 })

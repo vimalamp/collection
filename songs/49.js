@@ -1,10 +1,10 @@
 push({
   "title": "dehārbudāni bhagavan! yugapat prayaccha",
+  "id": 49,
   "category": "śrī-anurāga-valli",
   "author": "śrīla-viśvanātha-cakravartī-ṭhākura",
   "language": "sanskrit",
-  "verses": `
-dehārbudāni bhagavan! yugapat prayaccha
+  "verses": `dehārbudāni bhagavan! yugapat prayaccha
     vaktrārbudāni ca punaḥ pratideham eva
 jihvārbudāni kṛpayā prativaktram eva
     nṛtyantu teṣu tava nātha! guṇārbudāni (1)
@@ -42,7 +42,5 @@ saundarya-sausvarya-sugandha-pūra-
 tvat-pārśva-gatyai pada-koṭir astu
     sevāṁ vidhātuṁ mama hasta-koṭiḥ
 tāṁ śikṣituṁs tadapi buddhi-koṭir
-    etān varān me bhagavan! prayaccha (8)
-`,
-  "translation": ""
+    etān varān me bhagavan! prayaccha (8)`
 })

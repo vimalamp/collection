@@ -1,10 +1,10 @@
 push({
   "title": "hari hari! ki mora karama-gati manda",
+  "id": 236,
   "author": "narottama-dāsa",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
-  "verses": `
-hari hari! ki mora karama-gati manda
+  "verses": `hari hari! ki mora karama-gati manda
 vraje rādhā-kṛṣṇa-pada, nā bhajinu tila-ādha,
         nā bujhinu rāgera sambandha (1)
 
@@ -21,7 +21,5 @@ gaura-govinda-līlā, śunite galaye śilā,
 se-saba bhakata-saṅga, je karila tā’ra saṅga,
         tā’ra saṅge kene nahila vāsa
 ki mora duḥkhera kathā, janama goānu vṛthā,
-        dhik dhik <b>narottama-dāsa</b> (4)
-`,
-  "translation": ""
+        dhik dhik <b>narottama-dāsa</b> (4)`
 })

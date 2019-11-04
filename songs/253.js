@@ -1,35 +1,34 @@
 push({
-  "title": "virajāra pāre, śuddha-paravyāma-dhāma",
-  "author": "bhaktivinoda",
+  "title": "virajāra pāre",
+  "id": 253,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-rādhāṣṭaka",
   "language": "bengali",
   "verses": `
-virajāra pāre, śuddha-paravyāma-dhāma
-tadupari śrī-gokula-‘vṛndāraṇya’-nāma (1)
+virajāra pāre, śuddhaparavyoma-dhāma | 
+tadupari śrīgokula-‘vṛndāraṇya’-nāma ||1||
 
-vṛndāvana cintāmaṇi, cidānanda-ratna-khani,
-        cinmaya apūrva-daraśana
-tahi mājhe camatkāra, kṛṣṇa vanaspati-sāra,
-        nīlamaṇi tamāla yemana (2)
+vṛndāvana cintāmaṇi,    cidānanda-ratnakhani,
+cinmaya apūrbba-daraśana |
+tãhi mājhe camat.kāra,    kṛṣṇa banaspati-sāra,
+nīlamaṇi tamāla ĵemôna ||2||
 
-tāhe eka svarṇamayī, latā sarvadhāma-jayī,
-        uṭhiyāche parama-pāvanī
-halādinī-śaktira sāra, ‘mahā-bhāva’-nāma jā’ra,
-        tri-bhuvana-mohana-mohinī (3)
+tā̃he eka svarṇamayī,    latā sarbbadhāma-jayī,
+uṭhiyāche paramapābanī |
+hlādinī-śaktira sāra,    ‘mahābhāva’ nāma ĵā’ra,
+tribhubanamohana-mohinī ||3||
 
-‘rādhā’-nāme paricita, tuṣiyā govinda-cita,
-        virājaye parama-ānande
-sei latā-patra-phula, lalitādi sakhīkula,
-        sabe mili’ vṛkṣe dṛḍha bāndhe (4)
+‘rādhā’-nāme paricita,    tuṣiyā govinda-cita,
+birājaye parama-ānande |
+sei latā-patra-phula,    lalitādi sakhīkula,
+sabe mili’ bṛkṣe dṛḓha bāndhe ||4||
 
-latāra paraśe praphulla tamāla
-latā chāḍi’ nāhi rahe konakāla (5)
+latāra paraśe praphulla tamāla | 
+latā chāḓi’ nāhi rahe konakāla ||5||
 
-tamāla chāḍiyā latā nāhi vāce
-se latā-milana sadā-kāla yāce (6)
+tamāla chāḓiyā latā nāhi bā̃ce | 
+se latā-milana sadākāla ĵāce ||6||
 
-<b>bhaktivinoda</b> milana dohāra
-nā cāhe kakhana vinā kichu āra (7)
-`,
-  "translation": ""
+bhakativinoda milana dõhāra | 
+nā cāhe kakhônô binā kichu āra ||7||`
 })

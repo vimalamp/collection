@@ -1,10 +1,10 @@
 push({
   "title": "vande viśvambhara-pada-kamalam",
+  "id": 17,
   "author": "Unknown",
   "category": "śrī-saṁskṛta-gīti (gauracandra)",
   "language": "sanskrit",
-  "verses": `
-<i>vibhāṣa</i>
+  "verses": `<i>vibhāṣa</i>
 vande viśvambhara-pada-kamalam
 khaṇḍita-kali-yuga-janamala-samalam (1)
 
@@ -15,7 +15,5 @@ nāśita-hṛda-gata-māyā-timiram
 vara-nija-kāntyā-jagatām-aciram (3)
 
 satata-virājita-nirupama-śobham
-<b>rādhāmohana</b>-kalita-vilobham (4)
-`,
-  "translation": ""
+<b>rādhāmohana</b>-kalita-vilobham (4)`
 })

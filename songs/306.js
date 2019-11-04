@@ -1,46 +1,45 @@
 push({
-  "title": "vaṁśī-gānāmṛta-dhāma, lāvaṇyāmṛta janmasthāna",
-  "author": "śrīla kṛṣṇa-dāsa kavirāja gosvāmī",
+  "title": "baṁśīgānāmṛta-dhāma",
+  "id": 306,
+  "author": "śrīla kṛṣṇadāsa kavirāja gosvāmī",
   "category": "śrī-kṛṣṇa-prītisūcaka-nirveda",
   "language": "bengali",
   "verses": `
-vaṁśī-gānāmṛta-dhāma, lāvaṇyāmṛta janmasthāna,
-    je nā dekhe se cādavadana
-se-nayane kibā kāja, paḍa ku tā’ra muṇḍe vāja,
-    se nayana rahe ki-kāraṇa (1)
+baṁśīgānāmṛta-dhāma,    lābaṇyāmṛta-janmasthāna,
+ĵe nā dekhe se cā̃dabadana |
+se nayane kibā kāja,    paḓuk_ tā’ra muṇḍe bāja,
+se nayana rahe ki kāraṇa ||1||
 
-sakhi he, śuna mora hata vidhibala
-mora vapu-cita-mana, sakala indriya-gaṇa,
-        kṛṣṇa vinā sakala viphala (2)
+sakhi he, śunô mora hata bidhibala |
+mora bapu-citta-mana,    sakala indriyagaṇa,
+kṛṣṇa binā sakala biphala ||2||
 
-kṛṣṇera madhura vāṇī, amṛtera taraṅgiṇī,
-        tā’ra praveśa nāhi je śravaṇe
-kāṇākaḍi-chidra-sama, jāniha se śravaṇa,
-        tā’ra janma haila akāraṇe (3)
+kṛṣṇera madhura bāṇī,    amṛtera taraṅgiṇī,
+tā’ra prabeśa nāhi ĵe śrabaṇe |
+kāṇākaḓi-chidra-sama,    jānihô se śrabaṇa,
+tā’ra janma hô_ilô akāraṇe ||3||
 
-kṛṣṇera adharāmṛta, kṛṣṇa-guṇa-carita,
-        sudhāsāra-svādu-vinindana
-tā’ra svāda je nā jāne, janmiyā nā maila kene,
-        se rasanā bheka-jihvā-sama (4)
+kṛṣṇera adharāmṛta,    kṛṣṇa-guṇa-carita,
+sudhāsāra-svādu-binindana |
+tā’ra svāda ĵe nā jāne,    janmiyā nā mailô kene,
+se rasanā bheka-jihbā-sama ||4||
 
-mṛgamada-nīlotpala, milane je parimala,
-        jei hare tā’ra garva-māna
-hena kṛṣṇa-aṅga-gandha, jā’ra nāhi se-sambandha,
-        sei nāsā bhastrāra samāna (5)
+mṛgamada-nīlot.pala,    milane ĵe parimala,
+ĵei hare tā’ra garbba-māna |
+henô kṛṣṇa-aṅga-gandha,    ĵā’ra nāhi se-sambandha,
+sei nāsā bhastrāra samāna ||5||
 
-kṛṣṇa-kara-padatala, koṭi-candra-suśītala,
-        tā’ra sparśa yena sparśamaṇi
-tā’ra sparśa nāhi jā’ra, se yāuk chārakhāra,
-        sei vapu lohāsama jāni (6)
+kṛṣṇa-kara-padatala,    koṭicandra-suśītala,
+tā’ra sparśa ĵenô sparśamaṇi |
+tā’ra sparśa nāhi ĵā’ra,    se ĵāuk_ chārakhāra,
+sei bapu lohāsama jāni ||6||
 
-śuna mora prāṇera bāndhava
-nāhi kṛṣṇa-prema-dhana, daridra mora jīvana,
-        dehendriya vṛthā mora saba (7)
+śunô mora prāṇera bāndhaba |
+nāhi kṛṣṇa-premadhana,    daridra mora jībana,
+dehendriya bṛthā mora saba ||7||
 
-kari’ eta vilāpana, prabhu śrī-śacī-nandana,
-        ughāḍiyā hṛdayera śoka
-dainya-nirveda-viṣāde, hṛdayera avasāde,
-        punarapi paḍe āra śloka (8)
-`,
-  "translation": ""
+kôri’ eta bilāpana,    prabhu śrīśacīnandana,
+ughāḓiyā hṛdayera śoka |
+dainya-nirbbeda-biṣāde,    hṛdayera abasāde,
+punarapi paḓe āra śloka ||8||`
 })

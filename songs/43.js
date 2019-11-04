@@ -1,10 +1,10 @@
 push({
   "title": "hari! hari! yāhi mādhava yāhi keśava",
+  "id": 43,
   "author": "Unknown",
   "category": "śrī-gīta-govinda",
   "language": "sanskrit",
-  "verses": `
-<i>bhairavī rāga; yati tāla</i>
+  "verses": `<i>bhairavī rāga; yati tāla</i>
 hari! hari! yāhi mādhava yāhi keśava
     mā vada kaitava-bādaṁ
 tām anusara sarasīruha-locana
@@ -48,7 +48,5 @@ prathayati pūtanikaiva vadhū-vadha-
 <b>śrī-jayadeva</b>-bhaṇita-rati-vañcita-
     khaṇḍita-yuvati-vilāpam
 śṛṇuta sudhā-madhuraṁ vibudhā
-    vibudhālayato ’pi durāpam (9)
-`,
-  "translation": ""
+    vibudhālayato ’pi durāpam (9)`
 })

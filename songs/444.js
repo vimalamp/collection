@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! ki rase haiyā raili bhora",
+  "id": 444,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! ki rase haiyā raili bhora
+  "verses": `ore mana! ki rase haiyā raili bhora
 ki baliyā eli sethā, ki kāja kara vā hethā,
         tileka cetana nāhi tora (1)
 
@@ -26,7 +26,5 @@ hena kṛṣṇa-pada chāḍi’, gale diyā māyā-daḍi,
 <b>premānanda</b> kahe bhāi, ‘kṛṣṇa’ vinā gati nāi,
         bhaja kṛṣṇa-caraṇāravinde
 saṁsāra-sāgare paḍi’, kena kara kāḍa bāḍi,
-        kaha ‘kṛṣṇa’–taribe ānande (5)
-`,
-  "translation": ""
+        kaha ‘kṛṣṇa’–taribe ānande (5)`
 })

@@ -1,11 +1,11 @@
 push({
   "title": "śrī-kṛṣṇa-caitanya, balarāma nityānanda",
+  "id": 209,
   "author": "govinda-dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "ākṣepa",
   "language": "bengali",
-  "verses": `
-śrī-kṛṣṇa-caitanya, balarāma nityānanda,
+  "verses": `śrī-kṛṣṇa-caitanya, balarāma nityānanda,
         pāriṣada-saṅge avatāra
 golokera prema-dhana, sabāre yāci-ā dila,
         nā lainu mui durācāra (1)
@@ -27,7 +27,5 @@ ei mata kari’ yadi, maraṇa nā kare vidhi,
 e hena gaurāṅga-guṇa, nā karinu śravaṇa,
         hāya hāya, kari hā-hutāśa
 ‘hare kṛṣṇa’-maha-mantra, mukha bhari’ nā lailāma,
-        jīvanmṛta <b>govinda-dāsa</b> (5)
-`,
-  "translation": ""
+        jīvanmṛta <b>govinda-dāsa</b> (5)`
 })

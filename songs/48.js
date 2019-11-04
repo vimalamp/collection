@@ -1,10 +1,10 @@
 push({
   "title": "nava-jaladhara-vidyud-dyata-varnau prasannau",
+  "id": 48,
   "category": "śrī-yugala-kiśorāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-nava-jaladhara-vidyud-dyata-varnau prasannau
+  "verses": `nava-jaladhara-vidyud-dyata-varnau prasannau
     vadana-nayana-padmau cāru-candrāvataṁsau
 alaka-tilaka-bhālau keśa-veśa-praphullau
     bhaja bhaja tu mano re rādhikā-kṛṣṇacandrau (1)
@@ -45,7 +45,5 @@ agama-nigama-sārau sṛṣṭi-saṁhāra-kārau
     bhaja bhaja tu mano re rādhikā-kṛṣṇacandrau (8)
 
 idaṁ manoharaṁ stotraṁ śraddhayā yaḥ paṭhen naraḥ
-rādhikā-kṛṣṇacandrau ca siddhi-dau nātra saṁśayaḥ (9)
-`,
-  "translation": ""
+rādhikā-kṛṣṇacandrau ca siddhi-dau nātra saṁśayaḥ (9)`
 })

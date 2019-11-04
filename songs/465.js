@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! kṛṣṇa-nāma-sama nāhi āna",
+  "id": 465,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! kṛṣṇa-nāma-sama nāhi āna
+  "verses": `ore mana! kṛṣṇa-nāma-sama nāhi āna
 dharma-karma-tapa-tyāga, dhyāna-jñāna-vrata-jāga,
         kichu nahe nāmera samāna (1)
 
@@ -26,7 +26,5 @@ lakṣya kari’ arjunake, prabhu āpanāra mukhe,
 <b>premānanda</b> kahe mana, ‘kṛṣṇa’ bala anukṣaṇa,
         durvāsanā chāḍiyā hṛdaya
 preme ucca nāma kari’, avaśya pāibe hari,
-        nāma āra nāmī bhinna naya (5)
-`,
-  "translation": ""
+        nāma āra nāmī bhinna naya (5)`
 })

@@ -1,33 +1,36 @@
 push({
-  "title": "āre mora nācata gaura-kiśora",
-  "author": "rāmānanda-dāsa",
+  "title": "āre mora nācata gaurakiśora",
+  "id": 173,
+  "author": "rāmānandadāsa????",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-rūpa-varṇana",
   "language": "bengali",
   "verses": `
-āre mora nācata gaura-kiśora
-hiraṇa kiraṇa jini, o tanu sundara,
-        daśa diśa sakala ujora (1)
+āre mora nācata gaurakiśora |
+hiraṇa kiraṇa jini,    o tanu sundara,
+daśa diśa sakala ujora ||1||
 
-śarada cāda jini, jhala-mala vadana hi,
-        gorocana-tilaka subhāla
-kuñcita cāru, cikura tahi lolata,
-        kamale kiye ali jāla (2)
+śarada cā̃da jini,    jhalamala badana hi,
+gorocana-tilaka subhāla |
+kuñcita cāru,    cikura tãhi lolata,
+kamale kiye ali-jāla ||2||
 
-nāsā tilaphula, vimva adhara tula,
-        cuyata bindu bindu ghāma
-taruṇa aruṇa sara-, sija jini locana,
-        dhārā vahe avirāma (3)
+nāsā tilaphula,    bimba adhara tula,
+cuyata bindu bindu ghāma |
+taruṇa aruṇa sara-,    sija jini locana,
+dhārā bahe abirāma ||3||
 
-gāthiyā āpana guṇa, parakāśe kīrtana,
-        gāota sahacara-vṛnde
-khola-karatāla, yatana kari’ sirajila,
-        pāṣaṇḍa dalana-anubandhe (4)
+gā̃thiyā āpana guṇa,    parakāśe kīrttana,
+gāota sahacarabṛnde |
+khola-karatāla,    ĵatana kôri’ sirajila,
+pāṣaṇḍa dalana-anubandhe ||4||
 
-avanīte adbhuta, prabhu śacī-nandana,
-        patita-pāvana avatāra
-dīna-hīna mūḍhamati, <b>rāmānanda-dāsa</b> ati,
-        pahu more kara bhava-pāra (5)
-`,
-  "translation": ""
+abanīte adabhuta,    prabhu śacīnandana,
+patita-pābana abatāra |
+dīna-hīna mūḓhamati,    rāmānandadāsa ati,
+pãhu more karô bhabapāra||5||
+
+śabārtha:- hiraṇa–svarṇa; diśa–dik_; ujora–ujjvala; subhāla–sulalāṭa; cikura–keśa; lolata–dulyamāna; kiye–kibā; alijāla–bhramaragaṇa; anubandhe–sambandhe |
+
+`
 })

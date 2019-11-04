@@ -1,10 +1,10 @@
 push({
   "title": "śrī-ramacandra kṛpālu bhaju mana",
+  "id": 586,
   "author": "tulasī-dāsa",
   "category": "śrī-rāmacandra",
   "language": "sanskrit",
-  "verses": `
-śrī-ramacandra kṛpālu bhaju mana
+  "verses": `śrī-ramacandra kṛpālu bhaju mana
     haraṇa bhavabhaṣa dāruṇam
 navakañja-locana, kañja-mukha kara-
     kañja pada-kañjāruṇam (1)
@@ -27,7 +27,5 @@ raghunanda ānandakanda kausala-
 iti vadati <b>tulasī-dāsa</b> śaṁkara-
     śeṣa-muni-mana-rañjanam
 mama hṛdayakañja nivāsa kuru kāmādi-
-    khala-dala-gañjaṇam (5)
-`,
-  "translation": ""
+    khala-dala-gañjaṇam (5)`
 })

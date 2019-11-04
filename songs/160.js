@@ -1,34 +1,33 @@
 push({
-  "title": "jiniyā ravikara, śrī-aṅga-sundara",
-  "author": "vṛndāvana-dāsa",
+  "title": "jiniyā rabikara",
+  "id": 160,
+  "author": "śrīla vṛndāvana dāsa ṭhākura",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
   "verses": `
-jiniyā ravikara, śrī-aṅga-sundara,
-        nayane herai nā pāri
-āyata locana, īṣat vaṅkima,
-        upamā nāhika vicāri (1)
+jiniyā rabikara,    śrīaṅga-sundara,
+nayane hera_i nā pāri |
+āyata locana,    iṣat. baṅkima,
+upamā nāhikô bicāri ||dhru||
 
-(āju) vijaye gaurāṅga, avanī-maṇḍale,
-        caudike śuniyā ullāsa
-eka hari-dhvani, ābrahma bhari’ śuni,
-        gaurāṅga-cādera parakāśa (2)
+(āju) bijaye gaurāṅga,    abanī-maṇḍale,
+caudike śuniyā ullāsa |
+eka haridhvani,    ābrahma bhari’ śuni,
+gaurāṅga-cā̃dera parakāśa ||1||
 
-candane ujvala, vakṣa parisara,
-        dolaye tathi vanamāla
-cāda-suśītala, śrī-mukha-maṇḍala,
-        ā-jānu bāhu viśāla (3)
+candane ujjvala,    bakṣa parisara,
+dolaye tathi banamāla |
+cā̃da-suśītala,    śrīmukhamaṇḍala,
+ā-jānu bāhu biśāla ||2||
 
-dekhiyā caitanya, bhuvane dhanya dhanya,
-        uṭhare jaya-jaya-nāda
-koi nācata, koi gāyata,
-        kali haila hariṣe viṣāda (4)
+dekhiyā caitanya,    bhubane dhanya dhanya,
+uṭhaye jaya-jaya-nāda |
+koi nācata,    koi gāyata,
+kali hailô hariṣe biṣāda ||3||
 
-cāri veda-śira, mukuṭa caitanya,
-        pāmara mūḍha nāhi jāne
-śrī-caitanya-candra, nitāi-ṭhākura,
-        <b>vṛndāvana-dāsa</b> gāne (5)
-`,
-  "translation": ""
+cāri beda-śira-,    mukuṭa caitanya,
+pāmara mūḓha nāhi jāne |
+śrīcaitanyacandra,    nitāi-ṭhākura,
+vṛndāvanadāsa gāne ||4||`
 })

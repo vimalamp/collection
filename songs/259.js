@@ -1,33 +1,32 @@
 push({
-  "title": "rādhā-bhajane yadi mati nāhi bhelā",
-  "author": "bhaktivinoda",
+  "title": "rādhā-bhajane ĵadi mati nāhi bhelā",
+  "id": 259,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-rādhāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>(śrī-rādhā-bhajana-mahimā-varṇana)</i>
-rādhā-bhajane yadi mati nāhi bhelā
-kṛṣṇa-bhajana tava akāraṇa gelā (1)
+rādhā-bhajane ĵadi mati nāhi bhelā | 
+kṛṣṇabhajana taba akāraṇe gelā ||1||
 
-ātapa-rahita sūraya nāhi jāni
-rādhā-virahita mādhava nāhi māni (2)
+ātapa-rahita sūraĵa nāhi jāni | 
+rādhā-birahita mādhava nāhi māni ||2||
 
-kevala mādhava pūjaye, so ajñānī
-rādhā-anādara karai abhimānī (3)
+kebala mādhava pūjaye, so ajñānī | 
+rādhā-anādara karô_i abhimānī ||3||
 
-kabahi nāhi karabi tākara saṅga
-citte icchasi yadi vrajarasa-raṅga (4)
+kabahĩ nāhi karôbi tā̃kara saṅga | 
+citte icchasi ĵadi vrajarasa-raṅga ||4||
 
-rādhikā-dāsī yadi hoya abhimāna
-śīghrai milai tava gokula-kāna (5)
+rādhikā-dāsī ĵadi hoya abhimāna | 
+śīghra_i mila_i taba gokula-kāna ||5||
 
-brahmā, śiva, nārada, śruti, nārāyaṇī
-rādhikā-pada-raja pūjaye māni (6)
+brahmā, śiva, nārada, śruti, nārāyaṇī | 
+rādhikā-padaraja pūjaye māni ||6||
 
-umā, ramā, satyā, śacī, candrā, rukmiṇī
-rādhā-avatāra sabe,–āmnāya-vāṇī (7)
+umā, ramā, satyā, śacī, candrā, rukmiṇī | 
+rādhā-abatāra sabe,—āmnāya-bāṇī ||7||
 
-hena rādhā-paricaryā jākara dhana
-<b>bhaktivinoda</b> tā’ra māgaye caraṇa (8)
-`,
-  "translation": ""
+henô rādhā-paricarĵyā ĵā̃kara dhana | 
+bhakativinoda tā̃’ra māgaye caraṇa ||8||`,
+  "notes": "(śrīrādhā-bhajana mahimā-barṇana)"
 })

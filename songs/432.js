@@ -1,37 +1,38 @@
 push({
-  "title": "ki āra baliba tore mana",
+  "title": "ki āra bôlibô tore mana",
+  "id": 432,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
-ki āra baliba tore mana
-mukhe bala ‘prema prema’, vastutaḥ tyajiyā hema,
-        śūnya-granthi añcale bandhana (1)
+ki āra bôlibô tore mana |
+mukhe bôlô ‘prema-prema’,    bastutaḥ tyajiyā hema,
+śūnyagranthi añcale bandhana ||1||
 
-abhyāsiyā aśrupāta, lampha jhampha akasmāt,
-        mūrcchā-prāya thākaha paḍiyā
-e loka vañcite raṅga, pracāriyā asat-saṅga,
-        kāminī-kāñcana labha giyā (2)
+abhyāsiyā aśrupāta,    lampha jhampha akasmāt.,
+mūrcchāprāya thākahô pôḓiyā |
+e loka bañcite raṅga,    pracāriyā asat.saṅga,
+kāminī-kāñcana labha giyā ||2||
 
-premera sādhana–‘bhakti’, tā’te naila anurakti,
-        śuddha-prema kemane milibe?
-daśa-aparādha tyaji’, nirantara nāma bhaji’,
-        kṛpā ha’le suprema pāibe (3)
+premera sādhana—‘bhakti’,    tā’te nailô anurakti,
+śuddhaprema kemône milibe? 
+daśa-aparādha tyaji’,    nirantara nāma bhaji’,
+kṛpā ha’le suprema pāibe ||3||
 
-nā mānile subhajana, sādhu-saṅge saṅkīrtana,
-        nā karile nirjane smaraṇa
-nā uṭhiyā vṛkṣopari, ṭānāṭāni phala dhari’,
-        duṣṭa-phala karile arjana (4)
+nā mānile subhajana,    sādhusaṅge saṅkīrttana,
+nā kôrile nirjjane smaraṇa |
+nā uṭhiyā bṛkṣopari,    ṭānāṭāni phala dhôri’,
+duṣṭaphala kôrile arjjana ||4||
 
-akaitava kṛṣṇa-prema, jena suvimala hema,
-        ei phala nṛloke durllabha
-kaitave vañcanā mātra, hao āge yogyapātra,
-        tabe prema haibe sulabha (5)
+akaitaba kṛṣṇa-prema,    ĵenô subimala hema,
+ei phala nṛloke durllabha |
+kaitabe bañcanā mātra,    hao āge ĵogyapātra,
+tabe prema hô_ibe sulabha ||5||
 
-kāme preme dekha bhāi, lakṣaṇete bheda nāi,
-        tavu kāma ‘prema’ nāhi haya
-tumi ta’ varile kāma, mithyā tāhe ‘prema’-nāma,
-        āropile kise śubha haya (6)
-`,
-  "translation": ""
+kāme preme dekhô bhāi,    lakṣaṇete bheda nāi,
+tabu kāma ‘prema’ nāhi haya |
+tumi tô’ barile kāma,    mithyā tāhe ‘prema’-nāma,
+āropile kise śubha haya ||6||
+
+śabdārtha:- hema—svarṇa; śūnyagranthi añcale bandhana—kona drabya chāḓāi ā̃cale gā̃ṭha bā̃dhā |`
 })

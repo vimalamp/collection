@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! dhana-jana-jīvana-jauvana",
+  "id": 447,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! dhana-jana-jīvana-jauvana
+  "verses": `ore mana! dhana-jana-jīvana-jauvana
 ei āche ei nāi, cakṣe kinā dekha tāi,
         tumi kise balicha āpana (1)
 
@@ -31,7 +31,5 @@ kibā vṛddha kibā bāla, nāhi tāra kālākāla,
 e-sakala jā’ra māyā, tā’re kena bhula bhāyā,
         jā’ra nāme tribhuvana tare
 <b>premānanda</b> kahe yadi, ‘kṛṣṇa’ kaha niravadhi,
-        tabe ki e jana āra mare?? (6)
-`,
-  "translation": ""
+        tabe ki e jana āra mare?? (6)`
 })

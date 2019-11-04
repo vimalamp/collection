@@ -1,29 +1,31 @@
 push({
-  "title": "hari he! dharma-niṣṭhā nāhi mora, ātmabodha vā sundara",
-  "author": "bhaktivinoda",
+  "title": "hari he! dharmmaniṣṭhā nāhi mora",
+  "id": 510,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
-<i>na dharma-niṣṭho’smi na cātma-vedī
-    na bhaktimāṁs-tvac-caraṇāravinde
-akiñcano ’nanya-gatiḥ śaraṇya!
-    tvat-pāda-mūlaṁ śaraṇaṁ prapadye</i>
+<i>na dharmmaniṣṭho^smi na cātmavedī 
+na bhaktimāṁstvaccaraṇāravinde |
+akiñcano^nanyagatiḥ śaraṇya! 
+tvat.pādamūlaṁ śaraṇaṁ prapadye ||8||</i>
 
-hari he!
-dharma-niṣṭhā nāhi mora, ātmabodha vā sundara,
-        bhakti nāhi tomāra caraṇe
-ataeva akiñcana, gatihīna duṣṭa-jana,
-        rata sadā āpana vañcane (1)
+hari he! 
+dharmmaniṣṭhā nāhi mora,    ātmabodha bā sundara,
+bhakti nāhi tomāra caraṇe |
+ataeba akiñcana,    gatihīna duṣṭajana,
+rata sadā āpana bañcane ||1||
 
-patita-pāvana tumi, patita adhama āmi,
-        tumi mora eka-mātra gati
-tava pāda-mūle painu, tomāra śaraṇa lainu,
-        āmi dāsa, tumi mora pati (2)
+patitapābana tumi,    patita adhama āmi,
+tumi mora ekamātra gati |
+taba pādamūle painu,    tomāra śaraṇa lainu,
+āmi dāsa, tumi mora pati ||2||
 
-e <b>bhaktivinoda</b> kāde, hṛde dhairya nāhi bādhe,
-        bhūme paḍi’ bale ataḥpara
-ahaitukī kṛpā kari’, ei duṣṭa-jane, hari,
-        deha pada-chāyā niratanva (3)
-`,
-  "translation": ""
+e bhaktivinoda kā̃de,    hṛde dhairĵya nāhi bā̃dhe,
+bhūme pôḓi’ bôle ataḥpara |
+ahaitukī kṛpā kôri’,    ei duṣṭajane hari,
+dehô pada-chāyā nirantara ||3||`,
+  "translation": {
+    "bn": "śabdārtha:- ātmabodha—svarūpa anubhaba"
+  }
 })

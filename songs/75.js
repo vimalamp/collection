@@ -1,10 +1,10 @@
 push({
   "title": "na yoga-siddhir na mamāstu",
+  "id": 75,
   "category": "śrī-vṛndāvanāṣṭakam",
   "author": "śrīla-viśvanātha-cakravartī-ṭhākura",
   "language": "sanskrit",
-  "verses": `
-na yoga-siddhir na mamāstu
+  "verses": `na yoga-siddhir na mamāstu
     mokṣo vaikuṇṭha-loke ’pi na pārṣadatvam
 premāpi na syād iti cettarāṁ tu
     mamāstu vṛndāvana eva vāsaḥ (1)
@@ -47,7 +47,5 @@ sadā ruru-nyaṅkumukhā viśaṅkaṁ
 vṛndāvanasyāṣṭakam etad uccaiḥ
     paṭhanti ye niścala-budhayas te
 vṛndāvaneśāṅghri-saroja-sevāṁ
-    sākṣāl labhante januṣo ’nta eva (9)
-`,
-  "translation": ""
+    sākṣāl labhante januṣo ’nta eva (9)`
 })

@@ -1,11 +1,11 @@
 push({
   "title": "āre bhāi! nitāi āmāra dayāra avadhi",
+  "id": 150,
   "author": "vṛndāvana-dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "rūpa-varṇana",
   "language": "bengali",
-  "verses": `
-āre bhāi! nitāi āmāra dayāra avadhi
+  "verses": `āre bhāi! nitāi āmāra dayāra avadhi
 jīvere karuṇā kari’, deśe deśe phiri’ phiri’,
         prema-dhana yāce niravadhi (1)
 
@@ -22,7 +22,5 @@ keśarī jiniyā kaṭi, kaṭitaṭe nīladhaṭī,
 bhuvana-mohana veśa, majāila saba deśa,
         rasā-veśe aṭṭa aṭṭa hāsa
 prabhu mora nityānanda, kevala ānanda-kanda,
-        guṇa gāya <b>vṛndāvana-dāsa</b> (4)
-`,
-  "translation": ""
+        guṇa gāya <b>vṛndāvana-dāsa</b> (4)`
 })

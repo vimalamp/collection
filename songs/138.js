@@ -1,11 +1,11 @@
 push({
   "title": "āre mora ācārya ṭhākura",
+  "id": 138,
   "author": "rādhāballabha dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-advaitācārya",
   "language": "bengali",
-  "verses": `
-<i>(pāhiḍā)</i>
+  "verses": `<i>(pāhiḍā)</i>
 āre mora ācārya ṭhākura
         dayāra sāgara-vara, jagabhari vithārala,
 rādhā-kṛṣṇa līlā-rasa pūra (1)
@@ -23,7 +23,5 @@ rādhā-kṛṣṇa rasa-līlā, deśe deśe pracārilā,
 emana dayāla pahu, cakṣu bhari nā dekhilu,
         hṛdaye rahala śela phuṭi
 e <b>rādhāballabha dāsa</b>, kare mane abhilāṣa,
-        kabe se dekhiba pada du’ṭī (4)
-`,
-  "translation": ""
+        kabe se dekhiba pada du’ṭī (4)`
 })

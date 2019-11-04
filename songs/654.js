@@ -1,10 +1,10 @@
 push({
   "title": "sandarśana saṁsparśana jalpa vartma-nirodhana",
+  "id": 654,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-sandarśana saṁsparśana jalpa vartma-nirodhana
+  "verses": `sandarśana saṁsparśana jalpa vartma-nirodhana
         rāsa vṛndāvana-līlā bhūri
 jala-keli yamunāya naukā-khelā cauryatāya
         ghaṭṭa-līlā kuñje lukocuri (1)
@@ -22,7 +22,5 @@ sei līlā aparūpa ujvala rasera kūpa
 cid-vilāsa rasa-bhore rati-bhāva rasa dhare
         mahā-bhāva parjanta baḍaya
 je jīva saubhāgyavān līlā-yoge su-sandhān
-        vraje vāsi’ satata karaya (4)
-`,
-  "translation": ""
+        vraje vāsi’ satata karaya (4)`
 })

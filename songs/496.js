@@ -1,33 +1,33 @@
 push({
-  "title": "āmi ta’ svānanda-sukhada-vāsī",
-  "author": "bhaktivinoda",
+  "title": " āmi tô svānanda-sukhadabāsī",
+  "id": 496,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>siddha-dehe–pratikūla (trāsa o duḥkhātmaka)</i>
-āmi ta’ svānanda-sukhada-vāsī
-rādhikā-mādhava-caraṇa-dāsī (1)
+siddha-deha—pratikūla (trāsa o duḥkhātmaka)
 
-duhāra milane ānanda kari
-duhāra viyoge duḥkhete mari (2)
+āmi tô svānanda-sukhadabāsī | 
+rādhikāmādhava-caraṇadāsī ||1||
 
-sakhī-sthalī nāhi heri nayane
-dekhile śaibyāke paḍaye mane (3)
+dũhāra milane ānanda kôri | 
+dũhāra biyoge duḥkhete môri ||2||
 
-je-je pratikūla candrāra sakhī
-prāṇe duḥkha pāi tāhāre dekhi’ (4)
+sakhīsthalī nāhi heri nayane | 
+dekhile śaibyāke paḓaye mane ||3||
 
-rādhikā-kuñja ādhāra kari’
-laite cāhe se rādhāra hari (5)
+ĵe-ĵe pratikūla candrāra sakhī | 
+prāṇe duḥkha pāi tāhāre dekhi’ ||4||
 
-śrī-rādhā-govinda-milana-sukha
-pratikūla-jana nā heri mukha (6)
+rādhikā-kuñja ā̃dhāra kôri’ | 
+lô_ite cāhe se rādhāra hari ||5||
 
-rādhā-pratikūla jateka jana-
-sambhāṣaṇe kabhu nā haya mana (7)
+śrīrādhāgovinda-milana-sukha | 
+pratikūlajana nā heri mukha ||6||
 
-<b>bhaktivinoda</b> śrī-rādhā-caraṇe
-sapeche parāṇa atīva jatane (8)
-`,
-  "translation": ""
+rādhā-pratikūla ĵateka jana | 
+sambhāṣaṇe kabhu nā haya mana ||7||
+
+bhakativinoda śrīrādhācaraṇe | 
+sãpeche parāṇa atība ĵatane ||8||`
 })

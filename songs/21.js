@@ -1,10 +1,10 @@
 push({
   "title": "nava gaura-varaṁ nava-puṣpa-śaraṁ",
+  "id": 21,
   "category": "śrī-śacī-sutāṣṭakam",
   "author": "śrīla-sārvabhauma-bhaṭṭācārya viracitam",
   "language": "sanskrit",
-  "verses": `
-nava gaura-varaṁ nava-puṣpa-śaraṁ
+  "verses": `nava gaura-varaṁ nava-puṣpa-śaraṁ
     nava-bhāva-dharaṁ nava-lāsya-param
 nava-hāsya-karaṁ nava-hema-varaṁ
     praṇamāmi śacī-suta-gaura-varam (1)
@@ -42,7 +42,5 @@ tanu-dhyāna-citaṁ nija-vāsa-yutaṁ
 aruṇaṁ nayanaṁ caraṇaṁ vasanaṁ
     vadane skhalitaṁ svaka-nāma-dharam
 kurute su-rasaṁ jagataḥ jīvanaṁ
-    praṇamāmi śacī-suta-gaura-varam (8)
-`,
-  "translation": ""
+    praṇamāmi śacī-suta-gaura-varam (8)`
 })

@@ -1,32 +1,33 @@
 push({
-  "title": "saundarya-kiraṇa-mālā, jine rati, gaurī",
+  "title": "saundarĵya-kiraṇamālā",
+  "id": 413,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
-<i>ratiṁ gaurī-līle api tapati saundarya-kiraṇaiḥ
-    śacī-lakṣmī-satyāḥ paribhavati saubhāgya-valanaiḥ
-vaśī-kāraiś-candrāvalī-mukha-navīna-vraja-satīḥ
-    kṣipatyārād yā tāṁ hari-dayita-rādhāṁ bhaja manaḥ</i>
+<i>ratiṁ gaurīlīle api tapati saundarĵyakiraṇaiḥ
+śacī-lakṣmī-satyāḥ paribhavati saubhāgyavalanaiḥ |
+vaśīkāraiścandrāvalīmukha-navīna-vrajasatīḥ
+kṣipatyārād_ ĵā tāṁ haridayita-rādhāṁ bhaja manaḥ ||ña||</i>
 
-saundarya-kiraṇa-mālā, jine rati, gaurī, līlā,
-        anāyāse svarūpa-vaibhave
-śacī, lakṣmī, satya-bhāmā, jata bhāgya-vatī rāmā,
-        saubhāgya balane parābhave (1)
+saundarĵya-kiraṇamālā,    jine rati, gaurī, līlā,
+anāyāse svarūpabaibhabe |
+śacī, lakṣmī, satyabhāmā,    ĵatô bhāgyabatī rāmā,
+saubhāgya-balane parābhabe ||1||
 
-bhaja mana, caraṇa tāhāra
-candrā-balī-mukha jata, navīnā nāgarī śata,
-        vaśīkāre kare tiraskāra (2)
+bhajô mana, caraṇa tā̃hāra |
+candrābalī-mukha ĵatô,    nabīnā nāgarī śata,
+baśīkāre kare tiraskāra ||2||
 
-se je kṛṣṇa-prāṇeśvarī, kṛṣṇa-prāṇāhalāda-karī,
-        halādinī svarūpa-śakti satī
-tāhāra caraṇa tyaji’, yadi kṛṣṇa-candra bhaji,
-        koṭīyuge kṛṣṇa-gehe gati (3)
+se ĵe kṛṣṇa-prāṇeśvarī,    kṛṣṇa-prāṇāhlādakarī,
+hlādinī svarūpaśakti satī |
+tā̃hāra caraṇa tyaji’,    ĵadi kṛṣṇacandra bhaji,
+koṭīĵuge kṛṣṇagehe gati ||3||
 
-sakhī-kṛpā-bhelā dhari’ prema-sindhu-mājhe cari’,
-        vṛṣabhānu-nandinī-caraṇe
-kabe vā paḍiyā ra’ba, īśvarīra kṛpā pā’ba,
-        gaṇita haiba nijajane (4)
-`,
-  "translation": ""
+sakhīkṛpā-bhelā dhôri’,    premasindhumājhe cari’,
+vṛṣabhānunandinī-caraṇe |
+kabe bā pôḓiyā ra’bô,    īśvarīra kṛpā pā’bô,
+gaṇita hô_ibô nijajane ||4||
+
+śabdārthaḥ:- candrāvalī-mukha—candrāvalī pramukha gopīgaṇa; kṛṣṇagehe—kṛṣṇagṛhe bā kṛṣṇasthāne |`
 })

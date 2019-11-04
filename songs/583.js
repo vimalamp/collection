@@ -1,10 +1,10 @@
 push({
   "title": "sakhā-gaṇa saṅga, chāḍi yadunandana",
+  "id": 583,
   "author": "Unknown",
   "category": "naukāvihāra",
   "language": "bengali",
-  "verses": `
-sakhā-gaṇa saṅga, chāḍi yadunandana
+  "verses": `sakhā-gaṇa saṅga, chāḍi yadunandana
         calatahi nāgara rāje
 bhāvinī manoratha, calala vipina pathe
         sādhite manoratha kāje (1)
@@ -21,7 +21,5 @@ sirajilā tarīkhāni, prvāla mukutā āni
 tapana-tanayā-tīre, taruṇi laoyā phire
         vidagara rāja
 <b>govinda dāsa</b> bhaṇe, ki ānanda haila mane
-        runu jhunu nūpūra bāja (4)
-`,
-  "translation": ""
+        runu jhunu nūpūra bāja (4)`
 })

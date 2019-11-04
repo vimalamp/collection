@@ -1,34 +1,37 @@
 push({
-  "title": "sarvasva tomāra, caraṇe sapiyā",
-  "author": "bhaktivinoda",
+  "title": " sarbbasva tomāra",
+  "id": 476,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>ātma-nivedana–mama-stāpada-deha-samarpaṇa (vācika)</i>
-sarvasva tomāra, caraṇe sapiyā,
-        paḍechi tomāra ghare
-tumi ta’ ṭhākura, tomāra kukura,
-        baliyā jānaha more (1)
+ātmanibedana—mamatāspada dehasamarpaṇa
+(bācika)
 
-bādhiyā nikaṭe, āmāre pālibe,
-        rahiba tomāra dvāre
-pratīpa-janere, āsite nā diba,
-        rākhiba gaḍera pāre (2)
+sarbbasva tomāra,    caraṇe sãpiyā,
+paḓechi tomāra ghare |
+tumi tô’ ṭhākura,    tomāra kukura,
+bôliyā jānahô more ||1||
 
-tava nija-jana, prasāda seviyā,
-        ucchiṣṭa rākhibe jāhā
-āmāra bhojana, parama-ānande,
-        prati-dina ha’be tāhā (3)
+bā̃dhiyā nikaṭe,    āmāre pālibe,
+rahibô tomāra dvāre |
+pratīpa-janere,    āsite nā dibô,
+rākhibô gaḓera pāre ||2||
 
-vasiyā, śuiyā, tomāra caraṇa,
-        cintiba satata āmi
-nācite nācite, nikaṭe jāiba,
-        jakhana ḍākibe tumi (4)
+taba nijajana,    prasāda sebiyā,
+ucchiṣṭa rākhibe ĵāhā |
+āmāra bhojana,    parama ānande,
+pratidina habe tāhā ||3||
 
-nijera poṣaṇa, kabhu nā bhāviba,
-        rahiba bhāvera bhare
-<b>bhaktivinoda</b>, tomāre pālaka,
-        baliyā varaṇa kare (5)
-`,
-  "translation": ""
+bôsiyā śuiyā,    tomāra caraṇa,
+cintibô satata āmi |
+nācite nācite,    nikaṭe ĵāibô,
+ĵakhôna ḍākibe tumi ||4||
+
+nijera poṣaṇa,    kabhu nā bhābibô,
+rahibô bhābera bhare |
+bhakativinoda,    tomāre pālaka,
+bôliyā baraṇa kare ||5||
+
+śabdārtha:- pratīpa—pratikūla; gaḓera pāre—sīmānāra bāhire |`
 })

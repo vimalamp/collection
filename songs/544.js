@@ -1,28 +1,26 @@
 push({
-  "title": "‘jīvana-samāpti-kāle, kariba bhajana",
+  "title": "‘jībana-samāpti-kāle",
+  "id": 544,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "prayojana-vijñāna-upalabdhi",
   "language": "bengali",
   "verses": `
-‘jīvana-samāpti-kāle, kariba bhajana,
-        ebe kari gṛhasukha’
-kakhana e kathā, nāhi bale vijñajana,
-        e deha patanonmukha (1)
+‘jībana-samāpti-kāle kôribô bhajana,
+ebe kôri gṛhasukha |’ 
+kakhôna e kathā nāhi bôle bijñajana,
+e deha patanonmukha ||1||
 
-āji vā śateka varṣe avaśya maraṇa,
-        niścinta nā thāka bhāi
-jata śīghra pāra, bhaja śrī-kṛṣṇa-caraṇa,
-        jīvanera ṭhika nāi (2)
+āji bā śateka barṣe abaśya maraṇa,
+niścinta nā thākô bhāi |
+ĵatô śīghra pārô, bhajô śrīkṛṣṇacaraṇa,
+jībanera ṭhika nāi ||2||
 
-saṁsāra nirvāha kari’ jā’ba āmi vṛndāvana,
-raṇatraya śodhibāre karitechi sujatana (3)
+saṁsāra nirbbāha kôri’ ĵā’bô āmi vṛndāvana,
+ṛṇatraya śodhibāre kôritechi suĵatana |
+e āśāya nāhi prayojana | 
+emôna durāśā-baśe,    ĵā’be prāṇa abaśeṣe,
+nā hô_ibe dīnabandhu-caraṇa-sebana ||3||
 
-e āśāya nāhi prayojana
-emana durāśā-vaśe, jā’be prāṇa avaśeṣe,
-        nā haibe dīna-bandhu-caraṇa-sevana (4)
-
-yadi sumaṅgala cāo, sadā kṛṣṇa-nāma gāo,
-gṛhe thāka, vane thāka, ithe tarka akāraṇa (5)
-`,
-  "translation": ""
+ĵadi sumaṅgala cāo,    sadā kṛṣṇanāma gāo,
+gṛhe thākô, bane thākô, ithe tarka akāraṇa ||4||`
 })

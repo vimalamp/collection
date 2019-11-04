@@ -1,10 +1,10 @@
 push({
   "title": "ohe bhāi, mana kena brahma ha’te cāya?",
+  "id": 422,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `
-ohe bhāi, mana kena brahma ha’te cāya?
+  "verses": `ohe bhāi, mana kena brahma ha’te cāya?
 ki āścarya ka’ba kā’ke, sadopāsya bala jā’ke,
         tā’te kena āpane miśāya
 bindu nāhi haya sindhu, vāmana nā sparśe indu,
@@ -33,7 +33,5 @@ yadi kabhu bhāgyādaye, sādhu-guru-samāśraye,
 kṛṣṇā-kṛṣṭa ha’ye tabe, kṣudra-rasa-anubhave,
         brahma chāḍi’ para-brahme dhāya
 śukādira sujīvana, kara’ bhāi ālocana,
-        e dāsa dhariche tava pāya (6)
-`,
-  "translation": ""
+        e dāsa dhariche tava pāya (6)`
 })

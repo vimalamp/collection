@@ -1,10 +1,10 @@
 push({
   "title": "vācya, vācaka–ei dui svarūpa tomāra",
+  "id": 379,
   "author": "bhaktivinoda",
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
-  "verses": `
-<i>vācyaṁ vācakam ity udeti bhavato nāma-svarūpa-dvayaṁ
+  "verses": `<i>vācyaṁ vācakam ity udeti bhavato nāma-svarūpa-dvayaṁ
     pūrvasmāt param eva hanta karuṇaṁ tatrāpi jānīmahe
 yas tasmin vihitāparādha-nivahaḥ prāṇī samantād bhaved
     āsyenedam upāsya so’pi hi sadānandāmbudhau majjati</i>
@@ -34,7 +34,5 @@ vigraha-svarūpa vācya aparādha kari’
 śuddhanāmāśraye sei aparādhe tari (8)
 
 <b>bhaktivinoda </b>māge śrī-rūpa-caraṇe
-vācaka-svarūpa nāme rati anukṣaṇe (9)
-`,
-  "translation": ""
+vācaka-svarūpa nāme rati anukṣaṇe (9)`
 })

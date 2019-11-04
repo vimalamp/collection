@@ -1,36 +1,36 @@
 push({
-  "title": "tuyā bhakti-pratikūla dharma jā’te raya",
-  "author": "bhaktivinoda",
+  "title": " tuŵā bhakti-pratikūla",
+  "id": 491,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>pratikūla varjana (kāyika)</i>
-tuyā bhakti-pratikūla dharma jā’te raya
-parama jatane tāhā tyajiba niścaya (1)
+pratikūla barjjana (kāyika)
 
-tuyā bhakti-bahir-mukha saṅga nā kariba
-gaurāṅga-virodhi-jana mukha nā heriba (2)
+tuŵā bhakti-pratikūla dharmma ĵā’te raya | 
+parama ĵatane tāhā tyajibô niścaya ||1||
 
-bhakti-pratikūla sthāne nā kari vasati
-bhaktira apriya kārye nāhi kari rati (3)
+tuŵā bhakti-bahirmmukha saṅga nā kôribô | 
+gaurāṅga-birodhi-jana mukha nā heribô ||2||
 
-bhaktira virodhī grantha pāṭha nā kariba
-bhaktira virodhī vyākhyā kabhu nā śuniba (4)
+bhakti-pratikūla sthāne nā kôri basati | 
+bhaktira apriya kārĵye nāhi kôri rati ||3||
 
-gaurāṅga-varjita sthāna tīrtha nāhi māni
-bhaktira bādhaka jñāna-karma tuccha jāni (5)
+bhaktira birodhī grantha pāṭha nā kôribô | 
+bhaktira birodhī byākhyā kabhu nā śunibô ||4||
 
-bhaktira bādhaka kāle nā kari ādara
-bhakti-bahir-mukha nija-jane jāni para (6)
+gaurāṅgabarjjita sthāna tīrtha nāhi māni | 
+bhaktira bādhaka jñāna-karmma tuccha jāni ||5||
 
-bhaktira bādhikā spṛhā kariba varjana
-abhakta-pradata anna nā kari grahaṇa (7)
+bhaktira bādhaka kāle nā kôri ādara | 
+bhakti-bahirmmukha nija-jane jāni para ||6||
 
-jāhā kichu bhakti-pratikūla bali’ jāni
-tyajiba jatane tāhā, e niścaya vāṇī (8)
+bhaktira bādhikā spṛhā kôribô barjjana | 
+abhakta-pradatta anna nā kôri grahaṇa ||7||
 
-<b>bhaktivinoda</b> paḍi’ prabhura caraṇe
-māgaye śakati prātikūlyera varjane (9)
-`,
-  "translation": ""
+ĵāhā kichu bhakti-pratikūla bôli’ jāni | 
+tyajibô ĵatane tāhā, e niścaya bāṇī ||8||
+
+bhakativinoda pôḓi’ prabhura caraṇe | 
+māgaye śakati prātikūlyera barjjane ||9||`
 })

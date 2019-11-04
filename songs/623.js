@@ -1,10 +1,10 @@
 push({
   "title": "viśuddha vairāgī kare nāma-saṅkīrtana",
+  "id": 623,
   "category": "viśuddha vairāgī o tāhāra kartavya",
   "author": "Unknown",
   "language": "bengali",
-  "verses": `
-viśuddha vairāgī kare nāma-saṅkīrtana
+  "verses": `viśuddha vairāgī kare nāma-saṅkīrtana
 māgiyā khāiyā kare jīvana-jāpana (1)
 
 vairāgī haiyā jevā kare parāpekṣā
@@ -32,7 +32,5 @@ bhāla nā khāibe, āra bhāla nā paribe
 hṛdayete rādhā-kṛṣṇa sarvadā sevibe (9)
 
 baḍa hari-dāsera nyāya kṛṣṇa-nāma balibe vadane
-aṣṭa-kāla rādhā-kṛṣṇa sevibe kuñja-vane (10)
-`,
-  "translation": ""
+aṣṭa-kāla rādhā-kṛṣṇa sevibe kuñja-vane (10)`
 })

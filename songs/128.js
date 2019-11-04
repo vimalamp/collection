@@ -1,68 +1,70 @@
 push({
-  "title": "kabe mora mūḍha mana chāḍi’ anya dhyāna",
+  "title": "kabe mora mūḓha mana",
+  "id": 128,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-guru-vaiṣṇave lālasāmayī prārthanā",
   "language": "bengali",
   "verses": `
-kabe mora mūḍha mana chāḍi’ anya dhyāna
-śrī-kṛṣṇa-caraṇe pā’be viśrāmera sthāna (1)
+kabe mora mūḓha mana chāḓi’ anya dhyāna | 
+śrīkṛṣṇa-caraṇe pā’be biśrāmera sthāna ||1||
 
-kabe āmi jāniba āpane akiñcana
-āmāra apekṣā kṣudra nāhi anya jana (2)
+kabe āmi jānibô āpane akiñcana | 
+āmāra apekṣā kṣudra nāhi anya jana ||2||
 
-kabe āmi ācaṇḍāle kariba praṇati
-kṛṣṇa-bhakti māgi’ la’va kariyā minati (3)
+kabe āmi ācaṇḍāle kôribô praṇati | 
+kṛṣṇabhakti māgi’ la’bô kôriyā minati ||3||
 
-sarva-jīve dayā mora kata-dine ha’be
-jīvera dugati dekhi’ lotaka paḍibe (4)
+sarbbajībe dayā mora katôdine ha’be | 
+jībera durgati dekhi’ lotaka paḓibe ||4||
 
-kādite kādite āmi jā’ba vṛndāvana
-vrajadhāme vaiṣṇavera laiba śaraṇa (5)
+kā̃dite kā̃dite āmi ĵā’bô vṛndāvana | 
+vrajadhāme vaiṣṇavera lô_ibô śaraṇa ||5||
 
-vraja-vāsi-sannidhāne juḍi’ dui kara
-jijñāsiba līlā-sthāna haiyā kātara (6)
+vrajavāsi-sannidhāne ĵuḓi’ dui kara | 
+jijñāsibô līlā-sthāna hô_iyā kātara ||6||
 
-ohe vrajavāsi! more anugraha kari’
-dekhāo kothāya līlā karilena hari (7)
+ohe vrajavāsi! more anugraha kôri’ | 
+dekhāo kothāya līlā kôrilena hari ||7||
 
-tabe kona vrajajana sakṛpa-antare
-āmāre yā’vena la’ye vipina bhitare (8)
+tabe kona vrajajana sakṛpa-antare | 
+āmāre ĵā’bena la’ye bipina-bhitare ||8||
 
-balibena, dekha ei kadamba-kānana
-yathā rāsa-līlā kailā vrajendra-nandana (9)
+bôlibena, dekhô ei kadamba-kānana | 
+ĵathā rāsalīlā kailā vrajendranandana ||9||
 
-ai dekha nanda-grāma nandera āvāsa
-ai deha baladeva yathā kailā rāsa (10)
+ôi dekhô nandagrāma nandera ābāsa | 
+ôi dekhô baladeva ĵathā kailā rāsa ||10||
 
-ai dekha yathā haila dukūla-haraṇa
-ai sthāne bakāsura haila nidhana (11)
+ôi dekhô ĵathā hailô dukūla-haraṇa | 
+ôi sthāne bakāsura hô_ilô nidhana ||11||
 
-ei-rūpa vraja-jana-saha vṛndāvane
-dekhiba līlāra sthāna satṛṣṇa-nayane (12)
+eirūpa vraja-janasaha vṛndāvane | 
+dekhibô līlāra sthāna satṛṣṇa-nayane ||12||
 
-kabhu vā yamunā-tīre śuni’ vaṁśīdhvani
-avaśa haiyā lābha kariba dharaṇī (13)
+kabhu bā ĵamunā-tīre śuni’ vaṁśīdhvani | 
+abaśa hô_iyā lābha kôribô dharaṇī ||13||
 
-kṛpā-maya vraja-jana ‘kṛṣṇa’ ‘kṛṣṇa’ bali’
-pāna karāibe jala pūriyā añjali (14)
+kṛpāmaya vraja-jana ‘kṛṣṇa’ ‘kṛṣṇa’ bôli’ | 
+pāna kôrāibe jala pūriyā añjali ||14||
 
-harināma śune punaḥ pāiyā cetana
-vraja-jana-saha āmi kariba bramaṇa (15)
+harināma śune punaḥ pāiyā cetana | 
+vrajajana-saha āmi kôribô bhramaṇa ||15||
 
-kabe hena śubhadina haibe āmāra
-mādhukarī kari’ beḍāiba dvāradvāra (16)
+kabe henô śubhadina hô_ibe āmāra | 
+mādhukarī kôri’ beḓāibô dvāra dvāra ||16||
 
-yamunā-salila piba añjali bhariyā
-devadvāre rātrikāle rahiba śuiyā (17)
+ĵamunā-salilô pibô añjali bhariyā | 
+debadvāre rātrikāle rahibô śuiyā ||17||
 
-jakhana āsibe kāla e bhautika pura
-jalajantu-mahotsava haibe pracura (18)
+ĵakhana āsibe kāla e bhautika pura | 
+jalajantu-mahot.saba hô_ibe pracura ||18||
 
-siddha-dehe nija-kuñje sakhīra caraṇe
-nityakāla thākiyā sevi kṛṣṇa-dhane (19)
+siddhadehe nija kuñje sakhīra caraṇe | 
+nityakāla thākiyā sebibô kṛṣṇadhane ||19||
 
-ei se prārthanā kare e pāmara chāra
-śrī-jāhnavā more dayā kara’ ei-bāra (20)
-`,
-  "translation": ""
+ei se prārthanā kare e pāmara chāra | 
+śrījāhnavā more dayā karô’ eibāra ||20||`,
+  "translation": {
+    "bn": "śabdārthaḥ:- lotaka—aśru; dukūla-haraṇa—paridheyabastra haraṇa; bhautika pura—pāñcabhautika śarīra"
+  }
 })

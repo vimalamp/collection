@@ -1,37 +1,42 @@
 push({
-  "title": "choḍata puruṣa-abhimāna",
-  "author": "bhaktivinoda",
+  "title": " choḓatô puruṣa-abhimāna",
+  "id": 493,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>siddha-dehe–goptṛtve varaṇa</i>
-choḍata puruṣa-abhimāna,
-        kiṅkarī hailu āji, kāna!
-varaja vipine sakhī-sātha,
-        sevana karabu, rādhā-nātha! (1)
+siddha-deha—goptṛtve baraṇa
 
-kusume gāthavu hāra,
-        tulasī-maṇi-mañjarī tāra
-jatane deobu sakhī-kare,
-        hāte laoba sakhī ādare (2)
+choḓatô puruṣa-abhimāna | 
+kiṅkarī hô_ilũ āji, kāna !!1!!
 
-sakhī diba tuyā duhuka gale,
-        dūrata herabu kutūhale
-sakhī kahaba,–“śuna, sundari!
-        rahabi kuñje mama kiṅkarī (3)
+varaja-bipine sakhīsātha | 
+sebana karabũ, rādhānātha !!2!!
 
-gāthavi mālā manohāriṇī,
-        niti rādhā-kṛṣṇa-vimohinī
-tuyā rakṣaṇa-bhāra hāmārā,
-        mama kuñja-kuṭīra tohārā (4)
+kusume gā̃thabũ hāra |  
+tulasī-maṇimañjarī tāra ||3||
 
-rādhā-mādhava-sevana-kāle,
-        rahabi hāmāra atanvāle
-tāmbula sāji’ karpūra āni’,
-        deobi moe āpana jāni’” (5)
+ĵatane deobũ sakhī-kare |  
+hāte laobô sakhī ādare ||4||
 
-<b>bhaktivinoda</b> śuni’
-        bāt, sakhī-pade kare praṇipāta (6)
-`,
-  "translation": ""
+sakhī dibô tuŵā dũhuka gale |  
+dūrata herabũ kutūhale ||5||
+
+sakhī kahabô,—“śunô, sundari!  
+rahôbi kuñje mama kiṅkarī ||6||
+
+gā̃thabi mālā manohāriṇī |  
+niti rādhākṛṣṇa-bimohinī ||7||
+
+tuŵā rakṣaṇa-bhāra hāmārā |  
+mama kuñjakuṭīra tohārā ||8||
+
+rādhāmādhava-sebanakāle |  
+rahôbi hāmāra antarāle ||9||
+
+tāmbula sāji’ karpūra āni’ |  
+deobi moe āpana jāni’ ||10||”
+
+bhakativinoda śuni’ bāt_ |  
+sakhīpade kare praṇipāta ||11||`
 })

@@ -1,38 +1,40 @@
 push({
-  "title": "śrī-rūpa-vadane, śrī-śacī-kumāra",
-  "author": "bhaktivinoda",
+  "title": "śrīrūpa-badane",
+  "id": 374,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>nikhila-śruti-mauli-ratna-mālā-
-    dyuti-nīrājita-pāda-paṅkajānta
-ayi mukta-kulair-upāsyamānaṁ
-    paritas-tvāṁ hari-nāma saṁśrayāmi</i>
+<i>nikhila-śrutimauli-ratnamālā-
+dyuti-nīrājita-pādapaṅkajānta |
+ayi muktakulairupāsyamānaṁ 
+paritastvāṁ harināma saṁśrayāmi ||k||</i>
 
-śrī-rūpa-vadane, śrī-śacī-kumāra,
-        svanāma-mahimā karala pracāra
-jo nāma so hari, kichu nāhi bheda,
-        so nāma satya-miti gāyati veda (1)
+śrīrūpa-badane,    śrīśacīkumāra |
+svanāma-mahimā karalô pracāra ||1||
 
-sabu upaniṣad-, ratna-mālā-dyati,
-        jhakmaki’ caraṇa-samīpe
-maṅgala-ārati, karava anukṣaṇa,
-        dviguṇita-pañca-pradīpe (2)
+ĵo nāma so hari,    kichu nāhi bheda |
+so nāma satyamiti gāyati beda ||2||
 
-caudda-bhuvana māha, deva-nara-dānava,
-        bhāga jākara balavān
-nāma-rasa-pījūṣa, piyai anukṣaṇa,
-        choḍata karama-geyāna (3)
+sabu upaniṣad_,    ratnamālā-dyuti,
+jhakamaki’ caraṇa-samīpe |
+maṅgala-ārati,    kôrabô anukṣaṇa,
+dviguṇita-pañcapradīpe ||3||
 
-nitya-mukta punaḥ, nāma-upāsanā,
-        satata karai sāmagāne
-goloke vaiṭhata, gāoye nirantara,
-        nāma-viraha nāhi jāne (4)
+cauddabhubana māha,    deba-nara-dānaba,
+bhāga ĵākarô balabān_ |
+nāmarasa-pīĵuṣa,    piya_i anukṣaṇa,
+choḓata karama-geyāna ||4||
 
-sabu rasa-ākara, ‘hari’ iti-dvyakṣara,
-        sabu-bhāve karala āśraya
-nāma-caraṇe pa’ḍe, <b>bhaktivinoda</b> kahe,
-        tuyā pade māgahu nilaya (5)
-`,
-  "translation": ""
+nityamukta punaḥ,    nāma-upāsanā,
+satata kara_i sāmagāne |
+goloke baiṭhata,    gāoŵe nirantara,
+nāma-biraha nāhi jāne ||5||
+
+sabu rasa-ākara,    ‘hari’ itidvyakṣara,
+sabubhābe karalô āśraya |
+nāmacaraṇe pa’ḓe,    bhakativinoda kahe,
+tuŵā pade māgahu nilaya ||6||
+
+śabdārtha:- māha—madhye; bhāga—bhāgya; ĵākara—ĵāhāra; nila.ya—āśra.ya |`
 })

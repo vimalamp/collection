@@ -1,39 +1,41 @@
 push({
-  "title": "ātma-nivedana, tuyā pade kari’",
-  "author": "bhaktivinoda",
+  "title": " ātmanibedana, tuŵā pade kôri’",
+  "id": 482,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>ātma-nivedana–phala-svarūpa deha-samarpaṇa (māna-sika)</i>
-ātma-nivedana, tuyā pade kari’,
-        hainu parama sukhī
-duḥkha dūre gela, cintā nā rahila,
-        caudike ānanda dekhi (1)
+ātmanibedana—phalasvarūpa dehasamarpaṇa 
 
-aśoka-abhaya, amṛta-ādhāra,
-        tomāra caraṇa-dvaya
-tāhāte ekhana, viśrāma labhiyā,
-        chāḍinu bhavera bhaya (2)
+(mānasika)
 
-tomāra saṁsāre, kariba sevana,
-        nahiba phalera bhāgī
-tava sukha jāhe, kariba jatana,
-        ha’ye pade anurāgī (3)
+ātmanibedana,    tuŵā pade kôri’,
+hô_inu parama sukhī |
+duḥkha dūre gelô,    cintā nā rahilô,
+caudike ānanda dekhi ||1||
 
-tomāra sevāya, duḥkha haya jata,
-        seo ta’ parama sukha
-sevā-sukha-duḥkha, parama-sampada,
-        nāśaye avidyā-duḥkha (4)
+aśoka-abhaya,    amṛta-ādhāra,
+tomāra caraṇadvaya |
+tāhāte ekhôna,    biśrāma labhiyā,
+chāḓinu bhabera bhaya ||2||
 
-pūrva-itihāsa, bhulinu sakala,
-        sevā-sukha pe’ye mane
-āmi ta’ tomāra, tumi ta’ āmāra,
-        ki kāja apara dhane (5)
+tomāra saṁsāre,    kôribô sebana,
+nahibô phalera bhāgī |
+taba sukha ĵāhe,    kôribô ĵatana,
+ha’ye pade anurāgī ||3||
 
-<b>bhaktivinoda</b>, ānande ḍuviyā,
-        tomāra se-bāra tare
-saba ceṣṭā kare, tava icchāmata,
-        thākiyā tomāra ghare (6)
-`,
-  "translation": ""
+tomāra sebāya,    duḥkha haya ĵatô,
+seo tô’ parama sukha |
+sebā-sukha-duḥkha,    parama-sampad_,
+nāśaye abidyā-duḥkha ||4||
+
+pūrbba-itihāsa,    bhulinu sakala,
+sebā-sukha pe’ye mane |
+āmi tô’ tomāra,    tumi tô’ āmāra,
+ki kāja apara dhane ||5||
+
+bhakativinoda,    ānande ḍubiyā,
+tomāra sebāra tare |
+saba ceṣṭā kare,    taba icchā-mata,
+thākiyā tomāra ghare ||6||`
 })

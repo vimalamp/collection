@@ -1,29 +1,31 @@
 push({
-  "title": "śrī-guru-vaiṣṇava-kṛpā kata dine ha’be",
+  "title": "śrīguru-vaiṣṇava-kṛpā",
+  "id": 126,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-guru-vaiṣṇave lālasāmayī prārthanā",
   "language": "bengali",
   "verses": `
-śrī-guru-vaiṣṇava-kṛpā kata dine ha’be
-upādhi-rahita-rati-cite upajibe (1)
+śrīguru-vaiṣṇava-kṛpā katô dine ha’be | 
+upādhi-rahita-rati citte upajibe ||1||
 
-kabe siddha-deha mora haibe prakāśa
-sakhī dekhāibe more yugala-vilāsa (2)
+kabe siddhadeha mora hô_ibe prakāśa | 
+sakhī dekhāibe more ĵugala-bilāsa ||2||
 
-dekhite dekhite rūpa, haiba vātula
-kadamba-kānane yāva tyaji’ jāti-kula (3)
+dekhite dekhite rūpa, hô_ibô bātula | 
+kadamba-kānane ĵā’ra tyaji’ jāti-kula ||3||
 
-sveda-kampa-pulakāśru-vairṇya-pralaya
-stambha-svara-bheda kabe haibe udaya (4)
+‘sveda’ ‘kampa’ ‘pulakāśru’ ‘baibarṇya’ ‘pralaya’ | 
+‘stambha’ ‘svarabheda’ kabe hô_ibe udaya ||1||
 
-bhāva-maya vṛndāvana heriba nayane
-sakhīra kiṅkarī ha’ye sevi du’jane (5)
+bhābamaya vṛndāvana heribô nayane | 
+sakhīra kiṅkarī ha’ye sebibô du’jane ||4||
 
-kabe narottama-saha sākṣāt haibe
-kabe vā prārthanā-rasa cite praveśibe (6)
+kabe narottama-saha sākṣāt. hô_ibe | 
+kabe bā ‘prārthanā’-rasa citte prabeśibe ||5||
 
-caitanya-dāsera dāsa chāḍi’ anya rati
-karayuḍi’ māge āja caitanya mati (7)
-`,
-  "translation": ""
+caitanyadāsera dāsa chāḓi’ anya rati | 
+karaĵuḓi’ māge āja śrīcaitanya mati ||6||`,
+  "translation": {
+    "bn": "śabdārtha:- prārthanā-rasa—śrīnarottama ṭhākura racita ‘prārthanā’-rūpī amṛta"
+  }
 })

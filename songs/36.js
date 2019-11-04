@@ -1,10 +1,10 @@
 push({
   "title": "tvat prema-nāma-guṇa-rūpa-sudhā-payodheḥ",
+  "id": 36,
   "category": "śrī-rādhikāṣṭakam",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-tvat prema-nāma-guṇa-rūpa-sudhā-payodheḥ
+  "verses": `tvat prema-nāma-guṇa-rūpa-sudhā-payodheḥ
     sacchrikarapti pari-hina sukhāntarasya
 ekāṁ svakarna padaviṁ naya vāsanāṁ me
     dāsi bhavāni vṛśabhānu kumārike te (1)
@@ -47,7 +47,5 @@ tvām-eva sādhu paricarya mudaṁ ca labdhuṁ
 advaitadeva vimalānvaya dugdha-sindhoḥ
     prodbhuta-purna saradaccha-tusāra rasmeḥ
 śrī rāmacandra vidusastanayena yatnād
-    rādhāṣṭakaṁ viracitaṁ patḥatu sudhiraḥ (9)
-`,
-  "translation": ""
+    rādhāṣṭakaṁ viracitaṁ patḥatu sudhiraḥ (9)`
 })

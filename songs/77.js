@@ -1,10 +1,10 @@
 push({
   "title": "bhrātur antakasya pattane ’bhipatti-hāriṇī",
+  "id": 77,
   "category": "śrī-yamunāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-bhrātur antakasya pattane ’bhipatti-hāriṇī
+  "verses": `bhrātur antakasya pattane ’bhipatti-hāriṇī
     prekṣayāti-pāpino ’pi pāpa-sindhu-tāriṇī
 nīra-mādhurībhir apy aśeṣa-citta-bandhinī
     māṁ punātu sarvadāravinda-bandhu-nandinī (1)
@@ -47,7 +47,5 @@ ballavendra-nandanāṅgarāga-bhaṅga-gandhinī
 tuṣṭa-buddhir aṣṭakena nirmalormi-ceṣṭitāṁ
     tvām anena bhānu-putri! sarva-deva-veṣṭitām
 yaḥ stavīti vardhayasva sarva-pāpa-mocane
-    bhakti-pūram asya devi! puṇḍarīka-locane (9)
-`,
-  "translation": ""
+    bhakti-pūram asya devi! puṇḍarīka-locane (9)`
 })

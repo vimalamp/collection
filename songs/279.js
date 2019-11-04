@@ -1,10 +1,10 @@
 push({
   "title": "śrī-rūpa paścāte āmi rahiba bhīta hañā",
+  "id": 279,
   "author": "narottame",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-śrī-rūpa paścāte āmi rahiba bhīta hañā
+  "verses": `śrī-rūpa paścāte āmi rahiba bhīta hañā
 dohe pūnaḥ kahibena āmā pāne cāñā (1)
 
 sadaya hṛdaye dohe kahibena hāsi
@@ -17,7 +17,5 @@ ati namra-citta āmi ihāre jānila
 sebā-kārya diyā tabe hethāya rākhila (4)
 
 hena tattva dohākāra sākṣāte kahiyā
-<b>narottame</b> sevāya dibe niyūkta kariyā (5)
-`,
-  "translation": ""
+<b>narottame</b> sevāya dibe niyūkta kariyā (5)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! śuna śuna tu ati rvara",
+  "id": 441,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! śuna śuna tu ati rvara
+  "verses": `ore mana! śuna śuna tu ati rvara
 śata-sandhi jarajara, pe’ye ei kalevara,
         kibā garva karicha antara (1)
 
@@ -26,7 +26,5 @@ ihāte nā lāge dhanda, tavu kārya kara manda,
 niti niti jīya-mara, ithe nā vicāra kara,
         emati jāibe eka-bāra
 kahe dīna <b>premānanda</b>, bhaja kṛṣṇa-pada-dvandva,
-        māyā-pāśa ghucibe galāra (5)
-`,
-  "translation": ""
+        māyā-pāśa ghucibe galāra (5)`
 })

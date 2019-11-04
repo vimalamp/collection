@@ -1,10 +1,10 @@
 push({
   "title": "mana re, tumi baḍa sandigdha-antara",
+  "id": 417,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `
-mana re, tumi baḍa sandigdha-antara
+  "verses": `mana re, tumi baḍa sandigdha-antara
 āsiyācha e saṁsāre, baddha ha’ye jaḍādhāre,
         jaḍāsakta ha’le nirantara
 bhuliyā svakīya dhāma, sevi’ jaḍa-gata kāma,
@@ -33,7 +33,5 @@ vaiṣṇavera kṛpā-bale, sandeha jāibe ca’le,
 pā’be vṛndāvana-dhāma, sevibe śrī-rādhā-śyāma,
         pulakāśrumaya kalevara
 <b>bhaktivinodera</b> dhana, rādhā-kṛṣṇa-śrī-caraṇa,
-        tāhe rati rahu nirantara (6)
-`,
-  "translation": ""
+        tāhe rati rahu nirantara (6)`
 })

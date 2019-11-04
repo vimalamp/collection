@@ -1,10 +1,10 @@
 push({
   "title": "rasa-valita-mṛgākṣī-mauli-māṇikya-lakṣmīḥ",
+  "id": 34,
   "category": "śrī-rādhikāṣṭakam",
   "author": "śrīmad-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-rasa-valita-mṛgākṣī-mauli-māṇikya-lakṣmīḥ
+  "verses": `rasa-valita-mṛgākṣī-mauli-māṇikya-lakṣmīḥ
     pramudita-mura-vairi-prema-vāpī-marālī
 vraja-vara-vṛṣabhānoḥ puṇya-gīrvāṇa-vallī
     snapayati nija-dāsye rādhikā māṁ kadā nu (1)
@@ -47,7 +47,5 @@ parijana-gaṇa-yuktā krīḍayantī bakāriṁ
 paṭhati vimala-cetā mṛṣṭa-rādhāṣṭakaṁ yaḥ
     parihṛta-nikhilāśā-santatiḥ kātaraḥ san
 paśupa-pati-kumāraḥ kāmam āmoditas taṁ
-    nija-jana-gaṇa-madhye rādhikāyās tanoti (9)
-`,
-  "translation": ""
+    nija-jana-gaṇa-madhye rādhikāyās tanoti (9)`
 })

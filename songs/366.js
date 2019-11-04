@@ -1,29 +1,30 @@
 push({
-  "title": "bhaja re bhaja re āmāra mana ati manda",
-  "author": "Unknown",
+  "title": "bhajô re bhajô re āmāra mana",
+  "id": 366,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "bhajana-kīrtana",
   "language": "bengali",
   "verses": `
-bhaja re bhaja re āmāra mana ati manda
-(bhajana vinā gati nāi re)
-        (bhaja) vraja-vane rādhā-kṛṣṇa-caraṇāra-vinda (1)
+bhajô re bhajô re āmāra mana ati manda |
+(bhajana binā gati nāi re) 
+(bhajô) vrajabane rādhākṛṣṇa-caraṇārabinda ||1||
+(jñāna-karmma parihari re)
 
-(jñāna-karma pari-hari re)
-(bhaja) gaura-gadādharādvaita guru-nityānanda
-        (gaura-kṛṣṇe abheda jene’ re)
-(guru kṛṣṇa-priya jene’ re)
-        (smara) śrīnivāsa-hari-dāsa-murāri-mukunda (2)
+(bhajô) gaura-gadādharādvaita guru-nityānanda |
+(gaura-kṛṣṇe abheda jene re) 
+(guru kṛṣṇapriya jene re) 
+(smarô) śrīnivāsa haridāsa-murāri-mukunda ||2||
+(gaurapreme smarô, smarô re)
 
-(gaura-preme smara, smara re)
-        (smara) rūpa-sanātana-jīva-raghunātha-dvandva
-(yadi bhajana karbe re)
-        (smara) rāghava-gopāla-bhaṭṭa-svarūpa-rāmānanda (3)
+(smarô) rūpa-sanātana-jīva-raghunāthadvandva |
+(ĵadi bhajana kar_#be re) 
+(smarô) rāghava-gopālabhaṭṭa-svarūpa-rāmānanda ||3||
+(kṛṣṇaprema ĵadi cāo re)
 
-(kṛṣṇa-prema yadi cāo re)
-(smara) goṣṭhī-saha karṇapūra, sena śivānanda
-        (ajasra smara, smara re)
-(smara) rūpānuga sādhu-jana bhajana-ānanda
-        (vraje vāsa yadi cāo re) (4)
-`,
-  "translation": ""
+(smarô) goṣṭhīsaha karṇapūra, sena śivānanda |
+(ajasra smarô, smarô re) 
+(smarô) rūpānuga sādhujana bhajana-ānanda ||4||
+(vraje bāsa ĵadi cāo re)
+
+`
 })

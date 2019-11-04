@@ -1,32 +1,31 @@
 push({
-  "title": "kāma-krodha-lobha-moha-mada-matsaratā-saha",
-  "author": "bhaktivinode",
+  "title": "kāma-krodha-lobha-moha",
+  "id": 408,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
-<i>asac-ceṣṭā-kaṣṭa-prada-vikaṭa-pāśālibhir-iha
-    prakāmaṁ kāmādi-prakaṭa-pathapāti-vyatikaraiḥ
-gale baddhvā hanye ’ham iti bakā-bhid-vartmapa-gaṇe
-    kuru tvāṁ phutkārān-avati sa yathā tvāṁ mana itaḥ</i>
+<i>asacceṣṭā-kaṣṭaprada-vikaṭa-pāśālibhiriha
+prakāmaṁ kāmādi-prakaṭa-pathapātivyatikaraiḥ |
+gale baddhvā hanye^hamiti bakabhid_#vartmapagaṇe
+kuru tvāṁ phut.kārānavati sa ĵathā tvāṁ mana itaḥ ||ṅ||</i>
 
-kāma-krodha-lobha-moha-mada-matsaratā-saha,
-        jīvera jīvana-pathe vasi’
-asac-ceṣṭā-rajuphāse, pathikera dharma-nāśe,
-        prāṇa la’ye kare kaṣākaṣi (1)
+kāma-krodha-lobha-moha-    mada-mat.saratā-saha,
+jībera jībanapathe bôsi’ |
+asacceṣṭā-rajjuphā̃se,    pathikera dharmma nāśe,
+prāṇa la’ye kare kaṣākaṣi ||1||
 
-mana, tumi dhara vākya mora
-ei saba vāṭapāḍa, atiśaya durnivāra,
-        jakhana gheriyā kare jora (2)
+mana, tumi dharô bākya mora |
+ei saba bāṭapāḓa,    atiśaya durnibāra,
+ĵakhôna gheriyā kare jora ||2||
 
-āra kichu nā kariyā, vaiṣṇavera nāma lao,
-        phukāriyā ḍāka uccarāya
-vakaśatru-senāgaṇe, kṛpā kari’ nijajane,
-        jā’te kare uddhāra tomāya (3)
+āra kichu nā kôriyā,    vaiṣṇavera nāma lañā,
+phukāriyā ḍākô uccarāya |
+bakaśatru-senāgaṇe,    kṛpā kôri’ nijajane,
+ĵā’te kare uddhāra tomāya ||3||
 
-vāṭapāḍa chayajana, asac-ceṣṭā-raju-gaṇa,
-        diyā gale karila bandhana
-prāṇa-vāyu gata-prāya, rūpa-raghunātha hāya,
-        kara <b>bhaktivinode</b> rakṣaṇa (4)
-`,
-  "translation": ""
+bāṭapāḓa chayajana,    asacceṣṭā-rajjugaṇa,
+diyā gale kôrilô bandhana |
+prāṇabāyu gataprāya,    rūpa-raghunātha, hāya,
+karô bhaktivinode rakṣaṇa ||4||`
 })

@@ -1,29 +1,28 @@
 push({
-  "title": "gurudeva! kṛpā-bindu diyā",
-  "author": "Unknown",
+  "title": "gurudeva! kṛpābindu diyā",
+  "id": 96,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-guru-kṛpā-prārthanā",
   "language": "bengali",
   "verses": `
-gurudeva!
-kṛpā-bindu diyā, kara ei dāse,
-        tṛṇāpekṣā ati hīna
-sakala-sahane, bala diyā kara,
-        nija-māne spṛhā-hīna (1)
+gurudeva! 
+kṛpābindu diyā,    karô ei dāse,
+tṛṇāpekṣā ati hīna |
+sakala-sahane,    bala diyā kara,
+nija-māne spṛhāhīna ||1||
 
-sakale samāna, karite śakati,
-        deha nātha! yathāyatha
-tabe ta’ gāiba, harināma sukhe,
-        aparādha ha’be hata (2)
+sakale sammāna,    kôrite śakati,
+dehô nātha! ĵathāĵatha |
+tabe tô’ gāibô,    harināma-sukhe,
+aparādha ha’be hata ||2||
 
-kabe hena kṛpā, labhiyā e jana,
-        kṛtārtha haibe nātha!
-śakti-buddhi-hīna, āmi ati dīna,
-        kara more ātmasātha (3)
+kabe henô kṛpā,    labhiyā e jana,
+kṛtārtha hô_ibe nātha! 
+śakti-buddhihīna,    āmi ati dīna,
+karô more ātmasātha ||3||
 
-yogyatā-vicāre, kichu nāhi pāi,
-        tomāra karuṇā sāra
-karuṇā nā haile, kādiyā kādiyā,
-        prāṇa nā rākhiba āra (4)
-`,
-  "translation": ""
+ĵogyatā-bicāre,    kichu nāhi pāi,
+tomāra karuṇā sāra |
+karuṇā nā haile,    kā̃diyā kā̃diyā,
+prāṇa nā rākhibô āra ||4||`
 })

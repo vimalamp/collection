@@ -1,10 +1,10 @@
 push({
   "title": "vṛndāvana ramya-sthāna, divya cintāmaṇi-dhāma",
+  "id": 239,
   "author": "narottama-dās",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
-  "verses": `
-vṛndāvana ramya-sthāna, divya cintāmaṇi-dhāma,
+  "verses": `vṛndāvana ramya-sthāna, divya cintāmaṇi-dhāma,
         ratana-mandira manohara
 āvṛta kālindī nīre, rāja-haṁsa keli kare,
         tāhe śobhe kanaka-kamala (1)
@@ -17,7 +17,5 @@ tāra madhye ratnāsane, bosi’ āchena dui-jane,
 o rūpa-lāvaṇya-rāśi, amiya paḍiche khasi’,
         hāsya-parihāsa-sambhāṣaṇa
 <b>narottama-dās</b>a kaya, nitya-līlā sukha-maya,
-        sadāi sphuruka mora mane (3)
-`,
-  "translation": ""
+        sadāi sphuruka mora mane (3)`
 })

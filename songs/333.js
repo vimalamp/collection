@@ -1,23 +1,32 @@
 push({
   "title": "jaya jaya rādhe kṛṣṇa govinda",
-  "author": "Unknown",
+  "id": 333,
+  "author": "lekhaka ajānā",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-jaya jaya rādhe kṛṣṇa govinda,
-rādhe govinda rādhe govinda (1)
+jaya jaya rādhe kṛṣṇa govinda | 
+rādhe govinda rādhe govinda ||dhru||
 
-jaya jaya śyāma-sundara madana-mohana vṛndāvana-candra
-jaya jaya rādhā-ramaṇa rāsa-vihārī śrī-gokulā-nanda (2)
+jaya jaya śyāmasundara madanamohana 
+vṛndāvanacandra |
+jaya jaya rādhāramaṇa rāsabihārī 
+śrīgokulānanda ||1||
 
-jaya jaya rāseśvarī vinodinī bhānukūla-candra
-jaya jaya lalitā viśākhā ādi jata sakhī-vṛnda (3)
+jaya jaya rāseśvarī vinodinī 
+bhānukūlacandra |
+jaya jaya lalitā-viśākhā ādi 
+ĵatô sakhībṛnda ||2||
 
-jaya jaya śrī-rūpa-mañjarī rati-mañjarī-anaṅga
-jaya jaya paurṇamāsī yoga-māyā jaya bīrāvinda (4)
+jaya jaya śrīrūpamañjarī rati-
+mañjarī-anaṅga |
+jaya jaya paurṇamāsī ĵogamāyā 
+jaya bīrābṛnda ||3||
 
-sabe mili’ kara kṛpā āmi āti manda
-(tomarā) kṛpā kari’ deha yugala-caraṇāravinda (5)
-`,
-  "translation": ""
+sabe mili’ karô kṛpā 
+āmi ati manda | 
+(tomarā) kṛpā kôri’ dehô’ ĵugala-
+caraṇārabinda ||4||
+
+śabdārtha:- bīrā—śrīkṛṣṇera ekajana āptadūtī |`
 })

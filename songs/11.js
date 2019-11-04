@@ -1,10 +1,10 @@
 push({
   "title": "śrī-gauradhāmāśrita-śuddha-bhaktaṁ",
+  "id": 11,
   "category": "śrīla-gaura-kiśorāṣṭakam",
   "author": "śrīla-bhakti-rakṣaka-śrīdhara-gosvāmī-mahārāja-viracitam",
   "language": "sanskrit",
-  "verses": `
-śrī-gauradhāmāśrita-śuddha-bhaktaṁ
+  "verses": `śrī-gauradhāmāśrita-śuddha-bhaktaṁ
     rūpānugādyaṁ niravadya-rūpam
 vairāgya-dharmojvala-vigrahaṁ taṁ
     vande prabhuṁ gaura-kiśora-saṁjñam (1)
@@ -42,7 +42,5 @@ prapañca-līlā-pari-hāravantaṁ
 tava hi ‘dayita-dāse’ satya-sūrya-prakāśe
     jagati duritanāśe prodyate cidvilāse
 vayam-anugata-bhṛtyāḥ pāda-padmaṁ prapannā
-    anudinam anukampāṁ prārthayāmo nagaṇyāḥ (8)
-`,
-  "translation": ""
+    anudinam anukampāṁ prārthayāmo nagaṇyāḥ (8)`
 })

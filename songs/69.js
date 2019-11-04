@@ -1,10 +1,10 @@
 push({
   "title": "rādhā-cintā niveśena yasya kāntir-vilopitā",
+  "id": 69,
   "category": "śrī-śrī-rādhā-vinoda-bihāri-tattvāṣṭakam",
   "author": "paramahaṁsa-parivrājakācārya-varyeṇāṣṭottara-śata-śrī-śrīmad bhaktiprajñāna-keśava-gosvāmī-mahārājena viracitam",
   "language": "sanskrit",
-  "verses": `
-rādhā-cintā niveśena yasya kāntir-vilopitā
+  "verses": `rādhā-cintā niveśena yasya kāntir-vilopitā
 śrī-kṛṣṇa-caraṇaṁ vande rādhāliṅgita-vigraham (1)
 
 sevya-sevaka-sambhoge dvayor-bhedaḥ kuto bhavet
@@ -29,7 +29,5 @@ upāsate mṛṣā vijñāḥ yathā tuṣāvaghātinaḥ (7)
 tadāhaṁ vandanaṁ kuryāṁ sarasvatī-prasādataḥ (8)
 
 iti-tattvāṣṭakaṁ nityaṁ yaḥ paṭhet śraddhayānvitaḥ
-kṛṣṇa-tattvam-abhijñāya gaura-pade bhaven-matiḥ (9)
-`,
-  "translation": ""
+kṛṣṇa-tattvam-abhijñāya gaura-pade bhaven-matiḥ (9)`
 })

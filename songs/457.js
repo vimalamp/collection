@@ -1,10 +1,10 @@
 push({
   "title": "e mana! tumi ki bhebecha sukha",
+  "id": 457,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-<i>jalajā nava-lakṣāṇi sthāvarā lakṣa-viṁśatiḥ
+  "verses": `<i>jalajā nava-lakṣāṇi sthāvarā lakṣa-viṁśatiḥ
 krimayo rudra-saṁkhyakāḥ pakṣīnāṁ daśa-lakṣakam
 triṁśal-lakṣāṇi paśavaś-catur-lakṣāṇi mānavāḥ</i>
 
@@ -35,7 +35,5 @@ kateka kalapa, bramiyā mānuṣa,
 vadana bhariyā, ‘hari hari’ bala,
         asata-bhāvanā chāḍa
 kahe <b>premānanda</b>, tabe se catura,
-        e saba jātanā eḍa (6)
-`,
-  "translation": ""
+        e saba jātanā eḍa (6)`
 })

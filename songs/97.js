@@ -1,10 +1,10 @@
 push({
   "title": "gurudeva! kabe mora sei dina ha’be?",
+  "id": 97,
   "author": "Unknown",
   "category": "śrī-guru-kṛpā-prārthanā",
   "language": "bengali",
-  "verses": `
-gurudeva! kabe mora sei dina ha’be?
+  "verses": `gurudeva! kabe mora sei dina ha’be?
 mana sthira kari’, nirjane vasiyā,
         harināma gā’ba jabe
 saṁsāra-phukāra, kāṇe nā paśibe,
@@ -23,7 +23,5 @@ gharma muhurmuhuḥ, vivarṇa haibe,
 niṣkapaṭe hena, daśā kabe ha’be,
         nirantara nāma gā’ba
 āveśe rahiyā, deha-yātrā kari’,
-        tomāra karuṇā pā’ba (4)
-`,
-  "translation": ""
+        tomāra karuṇā pā’ba (4)`
 })

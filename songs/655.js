@@ -1,10 +1,10 @@
 push({
   "title": "rasa-tattva nitya jaiche vraja-tattva nitya taiche",
+  "id": 655,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-rasa-tattva nitya jaiche vraja-tattva nitya taiche
+  "verses": `rasa-tattva nitya jaiche vraja-tattva nitya taiche
         līlā-rasa eka kari’ jñāna
 kṛṣṇa je sākhāt rasa sakala-i kṛṣṇera vaśa
         beda bhāgavate kare gāna (1)
@@ -32,7 +32,5 @@ deva-loke deva-saha upendrādi ho’ye teha
 paravyome nārāyaṇa ho’ye pāle dāsa-jana
         deva-deva rāja rājeśvara
 sei kṛṣṇa sarvāśraya vraje nara-paricaya
-        nara-līlā karila vistāra (6)
-`,
-  "translation": ""
+        nara-līlā karila vistāra (6)`
 })

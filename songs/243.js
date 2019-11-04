@@ -1,10 +1,10 @@
 push({
   "title": "vṛṣabhānu-pure āja ānanda bādhāi",
+  "id": 243,
   "author": "Unknown",
   "category": "śrī-rādhā-janmalīlā",
   "language": "bengali",
-  "verses": `
-vṛṣabhānu-pure āja ānanda bādhāi
+  "verses": `vṛṣabhānu-pure āja ānanda bādhāi
 ratna-bhānu subhānu nācaye tina bhāi (1)
 
 dadhi ghṛta navanīta gorasa haladi
@@ -26,7 +26,5 @@ kanyāra vadana dekhi kīrtidā jananī
 ānanda avaśa deha āpanā nā jāni (7)
 
 kata kata pūrṇacandra jiniyā udaya
-e dāsa uddhava heri ānanda hṛdaya (8)
-`,
-  "translation": ""
+e dāsa uddhava heri ānanda hṛdaya (8)`
 })

@@ -1,28 +1,29 @@
 push({
-  "title": "śrī-guru-caraṇa-padma, kevala bhakti-sadma",
-  "author": "śrīla narottama ṭhākura",
+  "title": "śrīguru-caraṇa-padma",
+  "id": 93,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-guru-mahimā",
   "language": "bengali",
   "verses": `
-śrī-guru-caraṇa-padma, kevala bhakti-sadma,
-        vando mui sāvadhāna-mate
-yāhāra prasāde bhāi, e bhava tariyā jāi,
-        kṛṣṇa-prāpti haya yāhā ha’te (1)
+śrīguru-caraṇa-padma,    kebala bhakati-sadma,
+bando muñi sābadhāna-mate |
+ĵā̃hāra prasāde bhāi,    e bhaba tôriyā ĵāi,
+kṛṣṇa-prāpti haya ĵā̃hā ha’te ||1||
 
-guru-mukha-padma-vākya, cittete kariyā aikya,
-        āra nā kariha mane āśā
-śrī-guru-caraṇe rati, ei sei uttamā gati,
-        je prasāde pūre sarva āśā (2)
+guru-mukhapadma-bākya,    cittete kôriyā aikya,
+āra nā kôrihô mane āśā |
+śrīguru-caraṇe rati,    ei sei uttamā gati,
+ĵe-prasāde pūre sarbba āśā ||2||
 
-cakṣu-dāna dilā jei, janme janme prabhu sei,
-        divya-jñāna hṛde prakāśita
-prema-bhakti yāhā haite, avidyā vināśa jā’te,
-        vede gāya jāhāra carita (3)
+cakṣu-dāna dilā ĵei,    janme janme prabhu sei,
+dibyajñāna hṛde prakāśita |
+prema-bhakti ĵā̃hā haite,    abidyā bināśa ĵāte,
+vede gāya ĵā̃hāra carita ||3||
 
-śrī-guru karuṇā-sindhu, adhama janāra-bandhu,
-        ‘lokanātha’ lokera jīvana
-hā hā prabho! kara dayā, deha’ more pada-chāyā,
-        tuyā pade laihanu śaraṇa (4)
-`,
-  "translation": ""
+śrīguru karuṇā-sindhu,    adhama janāra bandhu,
+‘lokanātha’ lokera jībana |
+hā hā prabho! karô dayā,    dehô’ more pada-chāyā,
+tuŵā pade lô_inu śaraṇa ||4||
+
+śabdārtha:- sadma—ādhāra, bhabana, mandira; sābadhāna—manaĵogera sahita|`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "śrī-nandānandana dhana tadīya vallabhā-gaṇa",
+  "id": 639,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-śrī-nandānandana dhana tadīya vallabhā-gaṇa
+  "verses": `śrī-nandānandana dhana tadīya vallabhā-gaṇa
         madhura-rasera ālambana
 gopī-gata rati jāhān gopī-cittāśraya tāhān
         kṛṣṇa-mātra viṣaya takhan (1)
@@ -22,7 +22,5 @@ madana-mohana dhana vrajāṅganā gopī-jana
 svīya-parakīya-bhede rasa rasāntarāsvāde
         nityānanda viraje mādhava
 bara bhāgyavāna jei nije ālambana hoi’
-        āsvādaye se rasa-āsava (4)
-`,
-  "translation": ""
+        āsvādaye se rasa-āsava (4)`
 })

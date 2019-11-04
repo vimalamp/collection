@@ -1,36 +1,37 @@
 push({
-  "title": "aparādha-phale mama, cita bhela vajrasama",
-  "author": "bhaktivinoda",
+  "title": "aparādha-phale mama",
+  "id": 387,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>nayanaṁ galad-aśru-dhārayā
-    vadanaṁ gada-gada-ruddhayā girā
-pulakair-nicitaṁ vapuḥ kadā
-    tava nāma-grahaṇe bhaviṣyati</i>
+<i>nayanaṁ galadaśrudhārayā 
+vadanaṁ gadgadaruddhayā girā |
+pulakairnicitaṁ vapuḥ kadā  
+tava nāmagrahaṇe bhaviṣyati ||ca||</i>
 
-aparādha-phale mama, cita bhela vajrasama,
-        tuyā pade nā labhe vikāra
-hatāśa haiye hari, tava nāma ucca kari’,
-        baḍa duḥkhe ḍāki bārabāra (1)
+aparādha-phale mama,    citta bhelô bajrasama,
+tuŵā nāme nā labhe bikāra |
+hatāśa hô_iye hari,    taba nāma ucca kôri’,
+baḓô duḥkhe ḍāki bārabāra ||1||
 
-dīna dayā-maya karuṇā-nidāna
-bhāva-bindu dei rākhaha parāṇa (2)
+dīna dayāmaya karuṇā-nidāna | 
+bhābabindu dei rākhahô parāṇa ||2||
 
-kabe tava nāma uccāraṇe mora
-nayane jharava daradara lora (3)
+kabe taba nāma uccāraṇe mora | 
+nayane jharabô daradara lora ||3||
 
-gada-gada-svara kanṭe upajava
-mukhe bola ādha ādha vāhirāva (4)
+gadagada-svara kaṇṭhe upajabô | 
+mukhe bola ādha ādha bāhirābô ||4||
 
-pulake bharava śarīra hāmāra
-sveda-kampa-stambha have bārabāra (5)
+pulake bharabô śarīra hāmāra | 
+sveda-kampa-stambha habe bārabāra ||5||
 
-vivarṇa-śarīre hārāoba jñāna
-nāma-samāśraye dharabu parāṇa (6)
+bibarṇa-śarīre hārāobô jñāna | 
+nāma-samāśraye dharabũ parāṇa ||6||
 
-milaba hāmāra kie aiche dina
-roye <b>bhaktivinoda</b> mati-hīna (7)
-`,
-  "translation": ""
+milabô hāmāra kie aiche dina | 
+roŵe bhaktivinoda matihīna ||7||
+
+śabdārtha:- lora—aśru; upajabô—saṁghāṭita hô_ibe; roŵe—krandana kare |`
 })

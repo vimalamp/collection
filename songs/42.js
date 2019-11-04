@@ -1,10 +1,10 @@
 push({
   "title": "dhīra-samīre yamunā-tīre",
+  "id": 42,
   "author": "Unknown",
   "category": "śrī-gīta-govinda",
   "language": "sanskrit",
-  "verses": `
-<i>gurjarī rāga; ekatālī tāla</i>
+  "verses": `<i>gurjarī rāga; ekatālī tāla</i>
 dhīra-samīre yamunā-tīre
     vasati vane vanamālī
 pīna-payodhara-parisara-mardana-
@@ -48,7 +48,5 @@ kuru mama vacanaṁ satvara-racanaṁ
 <b>śrī-jayadeve</b> kṛta-hari-seve
     bhaṇati parama-ramaṇīyam
 pramudita-hṛdayaṁ harim ati-sadayaṁ
-    namata sukṛta-kamanīyam (9)
-`,
-  "translation": ""
+    namata sukṛta-kamanīyam (9)`
 })

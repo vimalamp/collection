@@ -1,47 +1,46 @@
 push({
-  "title": "durllabha mānava-janma labhiyā saṁsāre",
+  "title": "durllabha mānaba-janma",
+  "id": 538,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "nirveda-lakṣaṇa-upalabdhi",
   "language": "bengali",
   "verses": `
-durllabha mānava-janma labhiyā saṁsāre
-kṛṣṇa nā bhajinu,–duḥkha kahiba kāhāre? (1)
+durllabha mānaba-janma labhiyā saṁsāre | 
+kṛṣṇa nā bhajinu—duḥkha kahibô kāhāre ??1??
 
-‘saṁsāra’ ‘saṁsāra’ ka’re miche gela kāla
-lābha nā haila kichu, ghaṭila jañjāla (2)
+‘saṁsāra’ ‘saṁsāra’, ka’re miche gelô kāla | 
+lābha nā hô_ilô kichu, ghaṭilô jañjāla ||2||
 
-kisera saṁsāra ei, chāyābājī-prāya
-ihāte mamatā kari’ vṛthā dina jāya (3)
+kisera saṁsāra ei, chāyābājī prāya | 
+ihāte mamatā kôri’ bṛthā dina ĵāya ||3||
 
-e deha patana ha’le ki ha’be āmāra?
-keha sukha nāhi dibe putra-parivāra (4)
+e deha patana ha’le ki ra’be āmāra? 
+kehô sukha nāhi dibe putra-paribāra ||4||
 
-garddabhera mata āmi kari pariśrama
-kā’ra lāgi eta kari nā ghucila brama (5)
+garddabhera mata āmi kôri pariśrama | 
+kā’ra lāgi’ eta kôri nā ghucilô bhrama ||5||
 
-dina jāya michā kāje, niśā nidrā-vaśe
-nāhi bhāvi–maraṇa nikaṭe āche va’se (6)
+dina ĵāya michā kāje, niśā nidrā-baśe | 
+nāhi bhābi—maraṇa nikaṭe āche ba’se ||6||
 
-bhāla-manda khāi heri, pari, cintāhīna
-nāhi bhāvi, e deha chāḍiba kon dina (7)
+bhālô manda khāi, heri, pôri, cintāhīna | 
+nāhi bhābi, e deha chāḓibô konô dina ||7||
 
-deha-geha-kalatrādi-cintā avirata
-jāgiye hṛdaye mora buddhi kari’ hata (8)
+deha-geha-kalatrādi cintā abirata | 
+jāgiche hṛdaye mora buddhi kôri’ hata ||8||
 
-hāya, hāya! nāhi bhāvi,–anitya e saba
-jīvana vigate kothā rahibe vaibhava? (9)
+hāya, hāya! nāhi bhābi,—anitya e saba | 
+jībana bigate kothā rahibe baibhaba ??9??
 
-śmaśāne śarīra mama paḍiyā rahibe
-vihaṅga-pataṅga tāya vihāra karibe (10)
+śmaśāne śarīra mama pôḓiyā rahibe | 
+bihaṅga-pataṅga tāya bihāra kôribe ||10||
 
-kakura-śṛgāla saba ānandita ha’ye
-mahotsava karibe āmāra deha la’ye (11)
+kukkura-śṛgāla saba ānandita ha’ye | 
+mahot.saba kôribe āmāra deha la’ye ||11||
 
-je dehera ei gati, tā’ra anugata
-saṁsāra-vaibhava āra bandhu-jana jata (12)
+ĵe dehera ei gati, tā’ra anugata | 
+saṁsāra-baibhaba āra bandhujana ĵatô ||12||
 
-ataeva māyāmoha chāḍi’ buddhimān
-nitya-tattva kṛṣṇa-bhakti karuna sandhāna (13)
-`,
-  "translation": ""
+ataeba māyāmoha chāḓi’ buddhimān_ | 
+nityatattva kṛṣṇabhakti karuna sandhāna ||13||`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "śrī gauḍa-deśe sura-dīrghikāyās",
+  "id": 70,
   "category": "śrī-navadvīpāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-śrī gauḍa-deśe sura-dīrghikāyās
+  "verses": `śrī gauḍa-deśe sura-dīrghikāyās
     tīre’ ti-ramye pura-puṇya-mayyāḥ
 lasantam ānanda-bhareṇa nityaṁ,
     taṁ śrī navadvīpam ahaṁ smarāmi (1)
@@ -47,7 +47,5 @@ nimajayaty ullasad-unmadābdhau
 etan navadvīpa-vicintanāḍhyaṁ
     padyāṣṭakaṁ prīta-manāḥ paṭhed yaḥ
 śrīmac-chacī-nandana-pāda-padme
-    sudurlabhaṁ prema samāpnuyāt saḥ (9)
-`,
-  "translation": ""
+    sudurlabhaṁ prema samāpnuyāt saḥ (9)`
 })

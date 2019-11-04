@@ -1,38 +1,37 @@
 push({
-  "title": "śrīvāsera prati, caitanya-prasāda",
-  "author": "bhaktivinoda",
+  "title": "śrīvāsera prati",
+  "id": 572,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
-śrīvāsera prati, caitanya-prasāda,
-        dekhiyā sakala jana
-jaya śrī-caitanya, jaya nityānanda,
-        bali’ nāce ghana ghana (1)
+śrīvāsera prati,    caitanya-prasāda,
+dekhiyā sakala jana |
+jaya śrīcaitanya,    jaya nityānanda,
+bôli’ nāce ghana ghana ||1||
 
-śrīvāsa-mandire, ki bhāva uṭhila,
-        tāhā ki varṇana haya
-bhāva-yuddha-sane, ānanda-krandana,
-        uṭhe kṛṣṇa-prema-maya (2)
+śrīvāsa-mandire,    ki bhāba uṭhilô,
+tāhā ki barṇana haya |
+bhābaĵuddha-sane,    ānanda-krandana,
+uṭhe kṛṣṇa-premamaya ||2||
 
-cāri bhāi paḍi’, prabhura caraṇe,
-        prema-gadagada-svare
-kādiyā kādiyā, kākuti kariyā,
-        gaḍi’ jāya prema-bhare (3)
+cāri bhāi pôḓi’,    prabhura caraṇe,
+prema-gadagada-svare |
+kā̃diyā kā̃diyā,    kākuti kôriyā,
+gaḓi’ ĵāya premabhare ||3||
 
-ohe prāṇeśvara, e hena vipada,
-        prati-dina jena haya
-jāhāte tomāra, caraṇa-jugale,
-        āsakti bāḍite raya (4)
+“ohe prāṇeśvara,    e henô bipada,
+pratidina ĵenô haya |
+ĵāhāte tomāra,    caraṇa-ĵugale,
+āsakti bāḓite raya ||4||
 
-vipada-sampade, sei dina bhāla,
-        je-dina tomāre smari
-tomāra smaraṇa-, rahita je-dina,
-        se-dina vipada, hari (5)
+bipada-sampade,    sei dina bhālô,
+ĵe-dina tomāre smari |
+tomāra smaraṇa-,    rahita ĵe-dina,
+se-dina bipada, hari ||5||”
 
-śrīvāsa-goṣṭhīra, caraṇe paḍiyā,
-        <b>bhaktivinoda</b> bhaṇe
-tomādera gorā, kṛpā vitariyā,
-        dekhāo durgata jane (6)
-`,
-  "translation": ""
+śrīvāsa-goṣṭhīra,    caraṇe pôḓiyā,
+bhaktivinoda bhaṇe |
+tomādera gorā,    kṛpā bitariyā,
+dekhāo durgata jane ||6||`
 })

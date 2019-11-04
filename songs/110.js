@@ -1,44 +1,43 @@
 push({
-  "title": "vṛndāvana-vāsī yata vaiṣṇavera gaṇa",
-  "author": "devakīnandana",
+  "title": "vṛndāvanabāsī ĵatô",
+  "id": 110,
+  "author": "devakīnandana dāsa",
   "category": "śrī-vaiṣṇava-vandanā",
   "language": "bengali",
   "verses": `
-vṛndāvana-vāsī yata vaiṣṇavera gaṇa
-prathame vandanā kari sabāra caraṇa (1)
+vṛndāvanabāsī ĵatô vaiṣṇavera gaṇa |
+prathame bandanā kôri sabāra caraṇa ||1||
 
-nīlācala-vāsī yata mahāprabhura gaṇa
-bhūmite paḍiyā vando sabhāra caraṇa (2)
+nīlācalabāsī ĵatô mahāprabhura gaṇa |
+bhūmite pôḓiyā bandõ sabhāra caraṇa ||2||
 
-navadvīpa-vāsī yata mahāprabhura bhakta
-sabhāra caraṇa vando hao anurakta (3)
+navadvīpabāsī ĵatô mahāprabhura bhakta |
+sabhāra caraṇa bandõ hañā anurakta ||3||
 
-mahāprabhura bhakta yata gauḍa-deśe sthiti
-sabhāra caraṇa vando kariyā praṇati (4)
+mahāprabhura bhakta ĵatô gauḓadeśe sthiti |
+sabhāra caraṇa bandõ kôriyā praṇati ||4||
 
-je-deśe je-deśe baise gaurāṅgera gaṇa
-ūrddhva-bāhu kari’ vando sabāra caraṇa (5)
+ĵe-deśe ĵe-deśe baise gaurāṅgera gaṇa |
+ūrddhvabāhu kôri’ bandõ sabāra caraṇa ||5||
 
-haṇochena haibena prabhura yata dāsa
-sabhāra caraṇa vando dante kari’ ghāsa (6)
+hañāchena hô_ibena prabhura ĵatô dāsa |
+sabhāra caraṇa vandõ dante kôri’ ghāsa ||6||
 
-brahmāṇḍa tārite śakti dhare jane jane
-e veda-purāṇe guṇa gāya yevā śune (7)
+brahmāṇḍa tārite śakti dhare jane jane |
+e veda-purāṇe guṇa gāya ĵebā śune ||7||
 
-mahāprabhura gaṇa saba patita-pāvana
-tāi lobhe muṇi pāpī lainu śaraṇa (8)
+mahāprabhura gaṇa saba patitapābana |
+tāi lobhe muñi pāpī lô_inu śaraṇa ||8||
 
-vandanā karite muṇi kata śakti dhari
-tamo-buddhi-doṣe muṇi dambha māntra kari (9)
+bandanā kôrite muñi katô śakti dhôri |
+tamo-buddhi-doṣe muñi dambha mātra kôri ||9||
 
-tathāpi mūkera bhāgya manera ullāsa
-doṣa kṣami’ mo adhame kara nijadāsa (10)
+tathāpi mūkera bhāgya manera ullāsa |
+doṣa kṣami’ mo-adhame karô nija dāsa ||10||
 
-sarva-vāñchā siddhi haya, yama-bandha chuṭe
-jagate durllabha hao prema-dhana luṭe (11)
+sarbbabāñchā siddhi haya, ĵama-bandha-chuṭe |
+jagate durllabha hañā premadhana luṭe ||11||
 
-manera vāsanā pūrṇa acirāte haya
-<b>devakīnandana</b> dāsa ei lobhe kaya (12)
-`,
-  "translation": ""
+manera bāsanā pūrṇa acirāte haya |
+devakīnandana dāsa ei lobhe kaya ||12||`
 })

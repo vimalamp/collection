@@ -1,36 +1,35 @@
 push({
-  "title": "āmi ta’ durjana ati sadā durācāra",
+  "title": "āmi tô’ durjjana",
+  "id": 199,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaurasundare vijñapti",
   "language": "bengali",
   "verses": `
-āmi ta’ durjana ati sadā durācāra
-koṭi koṭi janme mora nāhika uddhāra (1)
+āmi tô’ durjjana ati sadā durācāra | 
+koṭi koṭi janme mora nāhika uddhāra ||1||
 
-e hena dayālu kevā e jagate āche
-emata pāmare uddhāriyā la’ve kāche (2)
+e henô dayālu kebā e jagate āche | 
+emôtô pāmare uddhāriyā la’be kāche ||2||
 
-śuni-yāchi, śrī-caitanya patita-pāvana
-ananta-pātakī jane karilā mocana (3)
+śuniyāchi, śrīcaitanya patitapābana | 
+ananta-pātakī jane kôrilā mocana ||3||
 
-emata dayāra sindhu kṛpā vitariyā
-kabe uddhāribe more śrī-caraṇa diyā? (4)
+emata dayāra sindhu kṛpā bitariyā | 
+kabe uddhāribe more śrīcaraṇa diyā ??4??
 
-ei-bāra bujhā yā’ve karuṇā tomāra
-yadi e pāmara-jane karibe uddhāra (5)
+eibāra bujhā ĵā’be karuṇā tomāra | 
+ĵadi e pāmara-jane kôribe uddhāra ||5||
 
-karma nāi, jñāna nāi, kṛṣṇa-bhakti nāi
-tabe bala ki-rūpe o śrī-caraṇa pāi (6)
+karmma nāi, jñāna nāi, kṛṣṇabhakti nāi | 
+tabe bôlô’ kirūpe o śrīcaraṇa pāi ||6||
 
-bharasā āmāra mātra karuṇā tomāra
-ahaitukī se karuṇā vedera vicāra (7)
+bharasā āmāra mātra karuṇā tomāra | 
+ahaitukī se karuṇā vedera bicāra ||7||
 
-tumi ta’ pavitra-pada, āmi durāśaya
-kemane tomāra pade pāiba āśraya? (8)
+tumi tô’ pabitra-pada, āmi durāśaya | 
+kemône tomāra pade pāibô āśraya ??8??
 
-kādiyā kādiyā bale e patita chāra
-‘patita-pāvana’ nāma prasiddha tomāra (9)
-`,
-  "translation": ""
+kā̃diyā kā̃diyā bale e patita chāra | 
+‘patitapābana’ nāma prasiddha tomāra ||9||`
 })

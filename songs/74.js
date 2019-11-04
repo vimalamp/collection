@@ -1,10 +1,10 @@
 push({
   "title": "kṛṣṇa-prasādena samasta-śaila",
+  "id": 74,
   "category": "śrī-govardhanāṣṭakam",
   "author": "śrīla-viśvanātha-cakravartī-ṭhākura",
   "language": "sanskrit",
-  "verses": `
-kṛṣṇa-prasādena samasta-śaila-
+  "verses": `kṛṣṇa-prasādena samasta-śaila-
     sāmrājyam āpnoti ca vairiṇo ‘pi
 śakrasya yaḥ prāpa baliṁ sa sākṣād
     govardhano me diśatām abhīṣṭam (1)
@@ -47,7 +47,5 @@ yam eva saprema nijeśayoḥ śrī-
 etat paṭhed yo hari-dāsa-varya-
     mahānubhāvāṣṭakam ārdra-cetāḥ
 śrī-rādhikā-mādhavayoḥ padābja-
-    dāsyaṁ sa vinded acireṇa sākṣāt (9)
-`,
-  "translation": ""
+    dāsyaṁ sa vinded acireṇa sākṣāt (9)`
 })

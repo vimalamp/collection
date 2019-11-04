@@ -1,10 +1,10 @@
 push({
   "title": "gurau śrī-gaurāṅge tad-udita-su-bhakti-prakaraṇe",
+  "id": 83,
   "category": "śrī-śrī-sva-niyama-dvādaśakam",
   "author": "śrīla-saccidānanda-bhaktivinoda-ṭhākura",
   "language": "sanskrit",
-  "verses": `
-gurau śrī-gaurāṅge tad-udita-su-bhakti-prakaraṇe
+  "verses": `gurau śrī-gaurāṅge tad-udita-su-bhakti-prakaraṇe
     śacī-sunor-līlā-vikasita-su-tīrthe nija-manau
 harer namni preṣṭhe hari-tithiṣu rupānuga-jane
     śuka-prokte śāstre prati-jani mamāstāṁ khalu ratiḥ (1)
@@ -67,7 +67,5 @@ ito yāsyāmy ūrddhvaṁ sva-niyama-su-ratya prati-dinaṁ
 kṛtaṁ kenāpyetat sva-bhajana-vidhau svaṁ niyamakāṁ
     paṭhed yo viśraddhaḥ priya-yugala-rūpe ‘rpita manaḥ
 vraje rādhā-kṛṣṇau bhajati kila saṁprāpya nilayaṁ
-    sva-mañjaryāḥ paścād vividha-varivasyāṁ sa kurute (13)
-`,
-  "translation": ""
+    sva-mañjaryāḥ paścād vividha-varivasyāṁ sa kurute (13)`
 })

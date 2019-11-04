@@ -1,10 +1,10 @@
 push({
   "title": "vraje prasiddhaṁ navanīta-cauraṁ",
+  "id": 50,
   "category": "śrī-caurāgragaṇya-puruṣāṣṭakam",
   "author": "bilvamaṅgala-ṭhākura",
   "language": "sanskrit",
-  "verses": `
-vraje prasiddhaṁ navanīta-cauraṁ
+  "verses": `vraje prasiddhaṁ navanīta-cauraṁ
     gopāṅganānāṁ ca dukūla-cauram
 aneka-janmārjita-pāpa-cauraṁ
     caurāgragaṇyaṁ puruṣaṁ namāmi (1)
@@ -42,7 +42,5 @@ labhasva he caura! hare! cirāya
 kārāgṛhe vasa sadā hṛdaye madīye
     mad-bhakti-pāśa-dṛḍha-bandhana-niścalaḥ san
 tvāṁ kṛṣṇa he! pralaya-koṭi-śatāntare ’pi
-    sarvasva-caura! hṛdayān nahi mocayāmi (8)
-`,
-  "translation": ""
+    sarvasva-caura! hṛdayān nahi mocayāmi (8)`
 })

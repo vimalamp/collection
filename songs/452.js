@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! kena hena bujha viparīta",
+  "id": 452,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! kena hena bujha viparīta
+  "verses": `ore mana! kena hena bujha viparīta
 daṇḍe pale āyu-kṣaya, tāte tora vodha naya,
         āise dina ithe haraṣita (1)
 
@@ -31,7 +31,5 @@ jarāya bhāṅgibe tanu, sarvendriya ha’be kṣīṇu,
 nahe vā kakhane jāi, kichu nirūpaṇa nāi,
         tile eka nāhika viśvāsa
 <b>premānanda</b> kahe bhāi, kaha ‘kṛṣṇa’, vyāja nāi,
-        e jīvana kevala niśvāsa (6)
-`,
-  "translation": ""
+        e jīvana kevala niśvāsa (6)`
 })

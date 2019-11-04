@@ -1,10 +1,10 @@
 push({
   "title": "hari hari! hena dina haibe āmāra",
+  "id": 283,
   "author": "narottama",
   "category": "śrī-rādhā-kṛṣṇa vijñapti",
   "language": "bengali",
-  "verses": `
-hari hari! hena dina haibe āmāra
+  "verses": `hari hari! hena dina haibe āmāra
 duhū aṅga paraśiba duhu aṅga nirakhiba
         sevana kariba dohākāra (1)
 
@@ -21,7 +21,5 @@ jaya patita-pāvana deha more ei dhana
 śrī-guru karuṇā-sindhu adhama-janāra bandhu
         lokanātha lokera jīvana
 hā hā prabhū! kara daya deha more pada-chāyā
-        <b>narottama</b> laila śaraṇa (4)
-`,
-  "translation": ""
+        <b>narottama</b> laila śaraṇa (4)`
 })

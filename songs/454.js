@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! bhāviyā nā bujha āpanāke",
+  "id": 454,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! bhāviyā nā bujha āpanāke
+  "verses": `ore mana! bhāviyā nā bujha āpanāke
 jā’ra lāgi’ duḥkha kara, svadeśe videśe phira,
         se-jana ki sukha dibe toke? (1)
 
@@ -26,7 +26,5 @@ jebā āge joḍa hāte, tā’rā śunāya nirghāte,
 parake āpana kari, bheve mali janma bhari,
         ke tumi, tomāra āche kebā?
 <b>premānanda</b> kahe mati, ‘kṛṣṇa’ vinā nāhi gati,
-        kaha ‘kṛṣṇa’–e duḥkha taribā (5)
-`,
-  "translation": ""
+        kaha ‘kṛṣṇa’–e duḥkha taribā (5)`
 })

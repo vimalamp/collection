@@ -1,23 +1,32 @@
 push({
-  "title": "‘bāula bāula’ balche sabe, hacche bāula kon janā",
-  "author": "cāda-bāula",
+  "title": "‘bāula bāula’ bôl_#chô sabe",
+  "id": 590,
+  "author": "cā̃da-bāula (śrīla bhaktivinoda ṭhākura)",
   "category": "bāula-saṅgīta",
   "language": "bengali",
   "verses": `
-‘bāula bāula’ balche sabe, hacche bāula kon janā
-dāḍi-cūḍā dekhiye (o bhāi) karche jīvake vañcanā (1)
+‘bāula bāula’ bôl_#chô sabe, 
+hacche bāula kon_ janā |
+dāḓi-cūḓā dekhiye (o bhāi) 
+kôr_#che jībake bañcanā ||1||
 
-deha-tattva–jaḍera tattva, tā’te ki chāḍāya māyāra garta?
-cid-ānanda paramārtha, jānte ta’ tāya pārave nā (2)
+dehatattva—jaḓera tattva, 
+tā’te ki chāḓāya māyāra gartta? 
+cidānanda paramārtha, 
+jān_#te tô’ tāya pār_#be nā ||2||
 
-yadi bāula cāo re ha’te, tabe cala dharma-pathe,
-yoṣit-saṅga sarva-mate chāḍa re manera vāsanā (3)
+ĵadi bāula cāore ha’te, 
+tabe calô dharmmapathe,
+ĵoṣit.saṅga sarbbamate 
+chāḓô re manera bāsanā ||3||
 
-veśabhūṣā-raṅga jata, chāḍi’ name hao re rata,
-nitāi-cādera anugata, hao chāḍi’ saba durvāsanā (4)
+beśabhūṣā-raṅga ĵatô, 
+chāḓi’ nāme hao re rata,
+nitāicā̃dera anugata, 
+hao chāḓi’ saba durbbāsanā ||4||
 
-mukhe ‘hare kṛṣṇa’ bala, chāḍa re bhāi kathāra chala,
-nāma vinā ta’ susambala, <b>cāda-bāula</b> āra dekhe nā (5)
-`,
-  "translation": ""
+mukhe ‘hare kṛṣṇa’ bôlô, 
+chāḓô re bhāi kathāra chalô,
+nāma binā tô’ susambala, 
+cā̃da-bāula āra dekhe nā ||5||`
 })

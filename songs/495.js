@@ -1,36 +1,38 @@
 push({
-  "title": "godruma-dhāme bhajana-anukūle",
-  "author": "bhaktivinoda",
+  "title": " godrumadhāme bhajana-anukūle",
+  "id": 495,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>siddha-dehe–anukūla</i>
-godruma-dhāme bhajana-anukūle
-māthura-śrī-nandīśvara-samatule (1)
+siddhadeha—anukūla
 
-tahi māha surabhi-kuñja-kuṭīre
-baiṭhabu hāma surataṭinī-tīre (2)
+godrumadhāme bhajana-anukūle | 
+māthura-śrīnandīśvara samatule ||1||
 
-gaura-bhakata-priyaveśa-dadhānā
-tilaka-tulasī-mālā-śobhamānā (3)
+tãhi māha surabhi-kuñja kuṭīre | 
+baiṭhabũ hāma surataṭinī-tīre ||2||
 
-campaka, bakula, kadamba, tamāla
-ropata niramiba kuñja viśāla (4)
+gaurabhakata-priyabeśa-dadhānā | 
+tilaka-tulasīmālā-śobhamānā ||3||
 
-mādhavī, mālatī uṭhābu tāhe
-chāyā-maṇḍapa karabu tahi māhe (5)
+campaka, bakula, kadamba, tamāla | 
+ropata niramibô kuñja biśāla ||4||
 
-ropabu tatra kumusa-vana-rāji
-jūthi, jāti, mallī virājava sāji’ (6)
+mādhavī, mālatī uṭhābũ tāhe | 
+chāyā-maṇḍapa karabũ tãhi māhe ||5||
 
-mañce vasāobu tulasī-mahārāṇī
-kīrtana-saja tahi rākhaba āni’ (7)
+ropabũ tatra kusumabanarāji | 
+ĵūthi, jāti, mallī birājaba sāji’ ||6||
 
-vaiṣṇava-jana-saha gāobu nāma
-jaya godruma jaya gaura ki dhāma (8)
+mañce basāobu tulasī mahārāṇī | 
+kīrttana-sajja tãhi rākhabô āni’ ||7||
 
-<b>bhaktivinoda</b> bhakti-anukūla
-jaya kuñja, muñja, suranadīkūla (9)
-`,
-  "translation": ""
+vaiṣṇavajana-saha gāobũ nāma | 
+jaya godruma jaya gaura ki dhāma ||8||
+
+bhakativinoda bhakti-anukūla | 
+jaya kuñja, muñja, suranadīkūla ||9||
+
+śabdārtha:- tãhi māhe—tāhāra madhye; dadhānā—dhāraṇa kôriyā; ropata—ropaṇa karatô; niramibô—nirmmāṇa kôribô; muñja—ekaprakāra tṛṇa; suranadī—gaṅgā |`
 })

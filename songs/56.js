@@ -1,10 +1,10 @@
 push({
   "title": "jaya jaya prāṇa-sakhe",
+  "id": 56,
   "author": "śrīla prabodhānanda sarasvatī",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `
-<i>maṅgala-gurjarī-rāga</i>
+  "verses": `<i>maṅgala-gurjarī-rāga</i>
 jaya jaya prāṇa-sakhe!
     praṇata-sakala-sukha-dāyaka, vraja-nāyaka he,
 ballabha-rāja-kumāra!
@@ -29,7 +29,5 @@ tapana-sutā-taṭa-sannaṭa, rati-lampaṭa he,
 sphurad-aruṇādhara-pallava, vraja-ballabha he,
     rādhā-mānasa-haṁsa!
 <b>śrīla-sarasvatī</b>-gītakaṁ, hari-bhāvadaṁ he,
-    maṅgalam-iha vidadhātu (5)
-`,
-  "translation": ""
+    maṅgalam-iha vidadhātu (5)`
 })

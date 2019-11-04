@@ -1,11 +1,11 @@
 push({
   "title": "madana-mohana tanu gaurāṅga-sundara",
+  "id": 171,
   "author": "vṛndāvana-dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-tattva",
   "language": "bengali",
-  "verses": `
-madana-mohana tanu gaurāṅga-sundara
+  "verses": `madana-mohana tanu gaurāṅga-sundara
 lalāṭe tilaka-śobhā ūrdhve manohara (1)
 
 trikaccha vasana śobhe kuṭila kuntala
@@ -15,7 +15,5 @@ trikaccha vasana śobhe kuṭila kuntala
 sūkṣma-rupe ananta je hena kalevare (3)
 
 adhare tāmbula hāse adhara cāpiyā
-yāṅ <b>vṛndāvana-dāsa</b> se rupa nichiyā (4)
-`,
-  "translation": ""
+yāṅ <b>vṛndāvana-dāsa</b> se rupa nichiyā (4)`
 })

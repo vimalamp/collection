@@ -1,10 +1,10 @@
 push({
   "title": "dekhata jhulata, gauracandra",
+  "id": 578,
   "author": "vāsughoṣa",
   "category": "jhulanalīlā",
   "language": "bengali",
-  "verses": `
-dekhata jhulata, gauracandra,
+  "verses": `dekhata jhulata, gauracandra,
         aparūpa dvija-maṇiyā
 vidhira avadhi, rūpa nirupama,
         kaṣita kāñcana jiniyā (1)
@@ -22,7 +22,5 @@ nagarera loka, dhāya eka-mukha,
 dhanya kaliyuga, gorā avatāra,
         siradhanī dhani dhaniyā
 gorācāda vina, āna nāhi māne,
-        <b>vāsughoṣa</b> kahe jāniyā (4)
-`,
-  "translation": ""
+        <b>vāsughoṣa</b> kahe jāniyā (4)`
 })

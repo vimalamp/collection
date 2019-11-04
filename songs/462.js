@@ -1,10 +1,10 @@
 push({
   "title": "ore bhāi! kṛṣṇa se e tina-loka-bandhu",
+  "id": 462,
   "author": "premānandera",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore bhāi! kṛṣṇa se e tina-loka-bandhu
+  "verses": `ore bhāi! kṛṣṇa se e tina-loka-bandhu
 jīva nija-karme baddha, māyāte paḍiyā andha,
         uddhārite karuṇāra sindhu (1)
 
@@ -21,7 +21,5 @@ ki mora durddaiva hāya, hena se dayālu-pāya,
 ore mana! pāye paḍi, asat prayāsa chāḍi’,
         ‘kṛṣṇa kṛṣṇa’ kaha anukṣaṇa
 e baḍa sulabha ati, nāme yadi kara prīti,
-        tabe <b>premānandera</b> nandana (4)
-`,
-  "translation": ""
+        tabe <b>premānandera</b> nandana (4)`
 })

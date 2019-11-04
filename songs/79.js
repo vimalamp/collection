@@ -1,10 +1,10 @@
 push({
   "title": "kadācit kālindī-taṭa-vipina-saṅgīta-taralo",
+  "id": 79,
   "category": "śrī-jagannāthāṣṭakam",
   "author": "śrī-gaura-candra-mukha-padma-vinirgatam",
   "language": "sanskrit",
-  "verses": `
-kadācit kālindī-taṭa-vipina-saṅgīta-taralo
+  "verses": `kadācit kālindī-taṭa-vipina-saṅgīta-taralo
     mudābhīrī-nārī-vadana-kamalāsvāda-madhupaḥ
 ramā-śambhu-brahmāmara-pati-gaṇeśārccita-pado
     jagannāthaḥ svāmī nayana-patha-gāmī bhavatu me (1)
@@ -45,7 +45,5 @@ aho dīne ’nāthe nihita-caraṇo niścitam-idaṁ
     jagannāthaḥ svāmī nayana-patha-gāmī bhavatu me (8)
 
 jagannāthāṣṭakaṁ puṇyaṁ yaḥ paṭhet prayataḥ śuciḥ
-sarva-pāpa-viśuddhātmā viṣṇu-lokaṁ sa gacchati (9)
-`,
-  "translation": ""
+sarva-pāpa-viśuddhātmā viṣṇu-lokaṁ sa gacchati (9)`
 })

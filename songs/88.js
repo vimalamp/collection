@@ -1,10 +1,10 @@
 push({
   "title": "nṛsiṁha-kavacaṁ vakṣye, prahlādenoditaṁ purā",
+  "id": 88,
   "category": "śrī-nṛsiṁha-kavaca-stotram",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-nṛsiṁha-kavacaṁ vakṣye, prahlādenoditaṁ purā
+  "verses": `nṛsiṁha-kavacaṁ vakṣye, prahlādenoditaṁ purā
 sarva-rakṣa-karaṁ punyaṁ, sarvopadrava-nāśanam (1)
 
 sarva-sampat-karaṁ caiva, svarga-mokṣa-pradāyakam
@@ -97,7 +97,5 @@ krandantaṁ roṣayantaṁ diśi diśi satataṁ saṁharantaṁ bharantaṁ
     vīkṣantaṁ pūrṇayantaṁ kara-nikara-śatair divya-siṁhaṁ namāmi (30)
 
 iti śrī-brahmāṇḍa-purāṇe prahlādoktaṁ
-śrī-nṛsiṁha-kavacaṁ sampūrṇam (31)
-`,
-  "translation": ""
+śrī-nṛsiṁha-kavacaṁ sampūrṇam (31)`
 })

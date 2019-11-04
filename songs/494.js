@@ -1,39 +1,39 @@
 push({
-  "title": "ātma-samarpaṇe gelā abhimāna",
-  "author": "bhaktivinoda",
+  "title": " ātmasamarpaṇe gelā abhimāna",
+  "id": 494,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>siddha-dehe–ātma-nivedana</i>
-ātma-samarpaṇe gelā abhimāna
-nāhi karavu nija-rakṣā-vidhāna (1)
+siddhadehe—ātmanibedana
 
-tuyā dhana jāni’ tuhu rākhabi, nātha!
-pālya godhana jñāna kari’ tuyā sātha (2)
+ātmasamarpaṇe gelā abhimāna | 
+nāhi karabũ nija rakṣā-bidhāna ||1||
 
-carāobi mādhava! yāmunatīre
-vaṁśī bājāota ḍākabi dhīre (3)
+tuŵā dhana jāni’ tuhũ rākhôbi, nātha |
+pālya godhana jñāna kôri’ tuŵā sātha ||2||
 
-agha-baka mārata rakṣā-vidhāna
-karabi sadā tuhu gokula-kāna! (4)
+carāobi mādhava! ĵāmunatīre | 
+baṁśī bājāotô ḍākaôbi dhīre ||3||
 
-rakṣā karabi tuhu niścaya jāni’
-pāna karabu hāma yāmuna-pāni (5)
+agha-baka māratô’ rakṣā-bidhāna | 
+karôbi sadā tuhũ gokula-kāna !!4!!
 
-kāliya-dokha karabi vināśā
-śodhabi nadī-jala, bāḍāobi āśā (6)
+rakṣā karôbi tuhũ niścaya jāni’ | 
+pāna karabũ hāma ĵāmunapāni ||5||
 
-piyata dāvānala rākhabi mo’ya
-‘gopāla’, ‘govinda’ nāma tava hoya (7)
+‘kāliya-dokha’ karaôi bināśā | 
+śodhôbi nadījala, bāḓāobi āśā ||6||
 
-surapati-durmati-nāśa vicāri’
-rākhabi varṣaṇe, girivaradhāri! (8)
+piŵata dābānala rākhôbi moya | 
+‘gopāla’, ‘govinda’ nāma taba hoya ||7||
 
-caturānana karaba jab cori
-rakṣā karabi mujhe, gokula-hari! (9)
+surapati-durmmati-nāśa bicāri’ | 
+rākhôbi barṣaṇe, girivaradhāri !!8!!
 
-<b>bhaktivinoda</b>–tuyā gokula-dhana
-rākhabi keśava! karata jatana (10)
-`,
-  "translation": ""
+caturānana karabô ĵab_ cori | 
+rakṣā karôbi mujhe, gokula-hari !!9!!
+
+bhakativinoda—tuŵā gokula-dhana | 
+rākhôbi keśava! karatô ĵatana ||10||`
 })

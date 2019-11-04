@@ -1,44 +1,43 @@
 push({
-  "title": "jabe rūpa-sanātana, vraje gelā dui jana",
-  "author": "rādhā-ballabha-dāsa",
+  "title": "ĵabe rūpa-sanātana",
+  "id": 554,
+  "author": "rādhāballabhadāsa",
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīla-raghunātha-dāsa-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
-jabe rūpa-sanātana, vraje gelā dui jana,
-        śunaite raghunātha-dāsa
-nijarāya adhikāra, indrasama sukha jā’ra,
-        chāḍiyā calilā prabhu-pāśa (1)
+ĵabe rūpa-sanātana,    vraje gelā dui jana,
+śuna_ite raghunāthadāsa |
+nijarājya adhikāra,    indrasama sukha ĵā̃’ra,
+chāḓiyā calilā prabhu-pāśa ||1||
 
-uṭhi’ rātre niśā-bhāge, duyāre praharī jāge,
-        patha chāḍi’ vipathe gamana
-kṣudhā tṛṣṇā nāhi pāya, manodvege cali’ jāya,
-        sadā citen caitanya-caraṇa (2)
+uṭhi’ rātre niśā-bhāge,    duŵāre praharī jāge,
+patha chāḓi’ bipathe gamana |
+kṣudhā-tṛṣṇā nāhi pāya,    manodbege cali’ ĵāya,
+sadā cinte caitanya-caraṇa ||2||
 
-eka-dina eka-grāme, sandhyā-kāle go-vāthāne,
-        ‘hā caitanya’ baliyā vasilā
-eka gopa dugdha dilā, tāhā khe’ye viśrāmilā,
-        sei rātre tathāi rahilā (3)
+ekadina ekagrāme,    sandhyākāle go-bāthāne,
+‘hā caitanya’ bôliyā bôsilā |
+eka gopa dugdha dilā,    tāhā khe’ye biśrāmilā,
+sei rātre tathāi rahilā ||3||
 
-je aṅga pālaṅka vine, bhūmi śayā nāhi jāne,
-        se aṅga vāthāne gaḍi’ jāya
-jini ghoḍā dolā vine, pathaśrama nāhi jāne,
-        kaṇṭake hāṭaye sei pāya (4)
+ĵe aṅga pālaṅka bine,    bhūmi-śaĵyā nāhi jāne,
+se aṅga bāthāne gaḓi’ ĵāya |
+ĵini ghoḓā dolā bine,    pathaśrama nāhi jāne,
+kaṇṭake hā̃ṭaye sei pāya ||4||
 
-jiho belā daṇḍa cāri, tolā jale snāna kari’,
-        ṣaḍrasa karita bhojana
-ebe yadi kichu pāna, sandhyā-kāle tāhā khāna,
-        nā pāile amani śayana (5)
+ĵihõ belā daṇḍa cāri,    tolā jale snāna kôri,
+ṣaḓ_#rasa kôritô bhojana |
+ebe ĵadi kichu pāna,    sandhyākāle tāhā khāna,
+nā pāile amani śayana ||5||
 
-vāra dinera patha jāna, tina sandhyā anna khāna,
-        praveśilā nīlācala-pure
-dekhiyā se śrī-mandira, du’nayane vahe nīra,
-        ‘hā caitanya’ bale uccasvare (6)
+bāra dinera patha ĵāna,    tina sandhyā anna khāna,
+prabeśilā nīlācala-pure |
+dekhiyā se śrīmandira,    du’nayane bahe nīra,
+‘hā caitanya’ bôle uccasvare ||6||
 
-e <b>rādhā-ballabha-dāsa</b>, mane kari’ abhilāṣa,
-        kothā mora raghunātha-dāsa
-tāhāra prasaṅga-mātra, pulakita haya gātra,
-        tā’ra pada-reṇu kari āśa (7)
-`,
-  "translation": ""
+e rādhāballabhadāsa,    mane kare abhilāṣa,
+kothā mora raghunāthadāsa |
+tā̃hāra prasaṅga-mātra,    pulakita haya gātra,
+tā̃’ra padareṇu kôri āśa ||7||`
 })

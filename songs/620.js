@@ -1,10 +1,10 @@
 push({
   "title": "citkaṇa jīva, kṛṣṇa cinmaya bhāskara",
+  "id": 620,
   "category": "jīvera durgati o sādhu-saṅge nistāra",
   "author": "Unknown",
   "language": "bengali",
-  "verses": `
-citkaṇa jīva, kṛṣṇa cinmaya bhāskara
+  "verses": `citkaṇa jīva, kṛṣṇa cinmaya bhāskara
 nitya kṛṣṇa dekhi’ kṛṣṇe karena ādara (1)
 
 kṛṣṇa bahir-mukha hao bhoga-vāñchā kare
@@ -41,7 +41,5 @@ kṛṣṇa tā’re dena nija cicchaktira bala
 māyā ākarṣaṇa chāḍe haiyā durbala (12)
 
 ‘sādhu-saṅge kṛṣṇa-nāma’–ei-mātra cāi
-saṁsāra jinite āra kona vastu nāi (13)
-`,
-  "translation": ""
+saṁsāra jinite āra kona vastu nāi (13)`
 })

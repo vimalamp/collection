@@ -1,33 +1,35 @@
 push({
-  "title": "yaṅ kali rūpa śarīra na dharata",
-  "author": "mādho",
+  "title": "yaṅ_ kali rūpa",
+  "id": 549,
+  "author": "mādhava dāsa",
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīmad-rūpa-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
-yaṅ kali rūpa śarīra na dharata
-taṅ vraja-prema, mahānidhi kuṭharīka,
-        kon kapāṭa ughāḍata (1)
+yaṅ_ kali rūpa śarīra na dharata |
+taṅ_ vrajaprema,    mahānidhi kuṭharīka,
+kon_ kapāṭa ughāḓata ||1||
 
-nīra-kṣīra-haṁsana, pāna-vidhāyana,
-        kon pṛthak kari pāyata
-ko saba tyaji’, bhaji’ vṛndāvana,
-        ko saba grantha viracita (2)
+nīra-kṣīra-haṁsana,    pāna-bidhāyana,
+kon_ pṛthak_ kôri pāyata |
+ko saba tyaji’,    bhaji’ vṛndāvana,
+ko saba grantha biracita ||2||
 
-jaba pitu vanaphula, phalata nānāvidha,
-        manorāji aravinda
-so madhukara vinu, pāna kon jānata,
-        vidyamāna kari bandha (3)
+ĵab_ pitu banaphula,    phalata nānābidha,
+manorāji arabinda |
+so madhukara binu,    pāna kon_ jānata,
+bidyamāna kôri bandha ||3||
 
-ko jānata, madhura vṛndāvana,
-        ko jānata vrajanīta
-ko jānata, rādhā-mādhava-rati,
-        ko jānata soi prīta (4)
+ko jānata,    mathurā vṛndāvana,
+ko jānata vrajanīta |
+ko jānata,    rādhāmādhava-rati,
+ko jānata soi prīta ||4||
 
-jākara-caraṇa-, prasāde sakala jana,
-        gāi gāoyāi sukha pāota
-caraṇa-kamale, śaraṇāgata <b>mādho</b>,
-        tava mahimā ura lāgata (5)
-`,
-  "translation": ""
+ĵākara-caraṇa-,    prasāde sakala jana,
+gāi gāoŵāi sukha pāota |
+caraṇa-kamale,    śaraṇāgata mādho,
+taba mahimā ura lāgata ||5||`,
+  "translation": {
+    "bn": "śabdārtha:- ĵaṅ_—ĵadi; taṅ_—tabe; kuṭharīka—koṣṭhāgāra; ĵākara—ĵā̃hāra; ura—śreṣṭha"
+  }
 })

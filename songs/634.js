@@ -1,10 +1,10 @@
 push({
   "title": "rasera ādhāra jini tāṅra citte rasa-khani",
+  "id": 634,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-rasera ādhāra jini tāṅra citte rasa-khani
+  "verses": `rasera ādhāra jini tāṅra citte rasa-khani
         sei cittera avasthā viśeṣe
 śraddhā-niṣṭhā-rucy-āsakti krame haya bhāva-bhakti
         rati-nāme tāṅhāra nirdeśe (1)
@@ -22,7 +22,5 @@ santa dāsya sakhya āra vātsalya madhura sāra
 hāsyādbhuta bīra āra karuṇa o raudrākara
         bhayānaka-vībhatsa-vibhede
 rati sapta gauṇī haya saba kṛṣṇa-bhakti-maya
-        śobhā pāya rasera prabhede (4)
-`,
-  "translation": ""
+        śobhā pāya rasera prabhede (4)`
 })

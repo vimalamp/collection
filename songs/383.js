@@ -1,28 +1,27 @@
 push({
-  "title": "tuhu dayā-sāgara tārayite prāṇī",
-  "author": "bhaktivinoda",
+  "title": "tuhũ dayā-sāgara",
+  "id": 383,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>nāmnām-akāri bahudhā nija-sarva-śaktis-
-    tatrārpitā niyamitaḥ smaraṇe na kālaḥ
-etādṛśī tava kṛpā bhagavan-mamāpi
-    durdaivam-īdṛśam-ihā-jani nānu-rāgaḥ</i>
+<i>nāmnāmakāri bahudhā nijasarvvaśakti-
+statrārpitā niyamitaḥ smaraṇe na kālaḥ |
+etādṛśī tava kṛpā bhagavanmamāpi 
+durddaivamīdṛśamihājani nānurāgaḥ ||kha||</i>
 
-tuhu dayā-sāgara tārayite prāṇī
-nāma aneka tuyā śikhāoli āni (1)
+tuhũ dayā-sāgara tārayite prāṇī | 
+nāma aneka tuŵā śikhāoli āni ||1||
 
-sakala śakati dei nāme tohārā
-grahaṇe rākhila nāhi kāla-vicārā (2)
+sakala śakati dei nāme tohārā | 
+grahaṇe rākhôli nāhi kāla-bicārā ||2||
 
-śrī-nāma-cintāmaṇi tohāri samānā
-viśve bilāoli karuṇā-nidānā (3)
+śrīnāmacintāmaṇi tohāri samānā | 
+biśve bilāoli karuṇā-nidānā ||3||
 
-tuyā dayā aichana parama udārā
-atiśaya manda, nātha! bhāga hāmārā (4)
+tuŵā dayā aichana parama udārā | 
+atiśaya manda nātha! bhāga hāmārā ||4||
 
-nāhi jana-mala nāme anurāga mora
-<b>bhaktivinoda</b>-cita duḥkhe vibhora (5)
-`,
-  "translation": ""
+nāhi janamala nāme anurāga mora | 
+bhakativinoda-citta duḥkhe bibhora ||5||`
 })

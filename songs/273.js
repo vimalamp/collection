@@ -1,10 +1,10 @@
 push({
   "title": "śrī rūpa mañjarī kabe madhura vacane",
+  "id": 273,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-śrī rūpa mañjarī kabe madhura vacane
+  "verses": `śrī rūpa mañjarī kabe madhura vacane
 rādhā-kuṇḍa mahimā varṇibe saṅgopane (1)
 
 e caudda bhuvanopari vaikuṇṭha nilaya
@@ -20,7 +20,5 @@ rādhā-kuṇḍa-mahimā to’ koriyā śravaṇa
 lālāyita ho’ye āmi paḍiba takhana (5)
 
 sakhīra caraṇe kabe kariba ākuti
-sakhī kṛpā kori’ dibe svārasikī sthiti (6)
-`,
-  "translation": ""
+sakhī kṛpā kori’ dibe svārasikī sthiti (6)`
 })

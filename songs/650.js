@@ -1,10 +1,10 @@
 push({
   "title": "nirveda viṣāda mada dainya glāni śramon-māda",
+  "id": 650,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-nirveda viṣāda mada dainya glāni śramon-māda
+  "verses": `nirveda viṣāda mada dainya glāni śramon-māda
         garva trāsa śaṅkā apasmṛti
 āvega ālasya vyādhi moha mṛtyu jaḍatādi
         vrīḍā avahitthā āra smṛti (1)
@@ -22,7 +22,5 @@ udi’ bhāvāveśa sukhe sthāyī-bhāvera abhimukhe
 rāgāṅga sattva āśraye rasa-yoga sañcaraye
         jena sthāyi sāgarera ḍheu
 nija kārja sādhi’ tūrṇa sāgara kariyā pūrṇa
-        nibe āra nāhi dekhe keu (4)
-`,
-  "translation": ""
+        nibe āra nāhi dekhe keu (4)`
 })

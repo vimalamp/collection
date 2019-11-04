@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! kise kara dehera gumāna",
+  "id": 442,
   "author": "premānanda-dāsa",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! kise kara dehera gumāna
+  "verses": `ore mana! kise kara dehera gumāna
 maile dehera je-avasthā, naha ki tāhāra jñātā,
         dekhiye śuniye nahe jñāna (1)
 
@@ -31,7 +31,5 @@ smṛti chāḍi’ hari-pade, ḍuvile saṁsāra-made,
 kahe <b>premānanda-dāsa</b>, dante tṛṇa, gale vāsa,
         ‘hari hari’ kaha ore bhāi
 yadi ‘hari’ bale vakre, phukāra karaye śāstre,
-        tribhuvane tāra sama nāi (6)
-`,
-  "translation": ""
+        tribhuvane tāra sama nāi (6)`
 })

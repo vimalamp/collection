@@ -1,23 +1,22 @@
 push({
-  "title": "lokanātha prabhu, tumi dayā kara more",
-  "author": "narottame",
+  "title": "lokanātha prabhu, tumi dayā karô",
+  "id": 102,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-guru-kṛpā-prārthanā",
   "language": "bengali",
   "verses": `
-lokanātha prabhu, tumi dayā kara more
-rādhā-kṛṣṇa-caraṇa yena sadā cite sphure (1)
+lokanātha prabhu, tumi dayā karô more | 
+rādhākṛṣṇa-caraṇa ĵenô sadā citte sphure ||1||
 
-tomāra sahita thāki sakhīra sahite
-ei ta’ vāsanā mora sadā uṭhe cite (2)
+tomāra sahita thāki sakhīra sahite | 
+eitô bāsanā mora sadā uṭhe cite ||2||
 
-sakhīgaṇa-yaṣṭha yeho, tāhāra caraṇe
-more samarpibe kare se-bāra kāraṇe (3)
+sakhīgaṇa-jyeṣṭha ĵẽho, tā̃hāra caraṇe | 
+more samarpibe kabe sebāra kāraṇe ||3||
 
-tabe se haibe mora vāñchita-pūraṇa
-ānande sevi dohāra yugala-caraṇa (4)
+tabe se hô_ibe mora bāñchita-pūraṇa | 
+ānande sebibô dõhāra ĵugala-caraṇa ||4||
 
-śrī-rūpa-mañjarī sakhi! kṛpādṛṣṭya cāṇo
-tāpī <b>narottame</b> siñca sevāmṛta diṇo (5)
-`,
-  "translation": ""
+śrīrūpamañjarī sakhi! kṛpādṛṣṭye cāñā | 
+tāpī narottame siñca sebāmṛta diñā ||5||`
 })

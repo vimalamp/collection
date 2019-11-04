@@ -1,10 +1,10 @@
 push({
   "title": "ei-bāra pāile dekhā caraṇa du’ khāni",
+  "id": 321,
   "author": "narottama-dāsa",
   "category": "śrī-kṛṣṇe svābhīṣṭa-lālasātmaka prārthanā",
   "language": "bengali",
-  "verses": `
-ei-bāra pāile dekhā caraṇa du’ khāni
+  "verses": `ei-bāra pāile dekhā caraṇa du’ khāni
 hiyāra mājhāre rākhi juḍāba parāṇī (1)
 
 tāṅre nā dekhiyā mora mane baḍa tāpa
@@ -17,7 +17,5 @@ vṛndāvanera phulera gāṅthiya diba hāra
 bināiyā bāndhiba cūḍā kuntalera bhāra (4)
 
 kapāle tilaka diba candanera cāṅda
-<b>narottama-dāsa</b> kahe pirītera phāṅda (5)
-`,
-  "translation": ""
+<b>narottama-dāsa</b> kahe pirītera phāṅda (5)`
 })

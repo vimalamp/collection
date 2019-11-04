@@ -1,10 +1,10 @@
 push({
   "title": "hari hari! kata dine hena daśā haba",
+  "id": 248,
   "author": "narottama",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-hari hari! kata dine hena daśā haba
+  "verses": `hari hari! kata dine hena daśā haba
 śrī-rāsa-mañjarī saṅge śrī-maṇi-mañjarī rāṅge
         śrī-rūpera anugā haiba (1)
 
@@ -26,7 +26,5 @@ rasera ālasa kāle basiyā caraṇa tale
 rādhā-kṛṣṇa prāṇapati jīvane maraṇe gati
         ihā vine āra nāhi mane
 śrī-kṛṣṇa-caitanya-prāṇa svarūpa-rūpa-sanātana
-        <b>narottama</b> ei nivedana (5)
-`,
-  "translation": ""
+        <b>narottama</b> ei nivedana (5)`
 })

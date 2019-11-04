@@ -1,10 +1,10 @@
 push({
   "title": "amanda-kāruṇya-guṇā-kara-śrī",
+  "id": 12,
   "category": "śrīla-bhaktivinoda-daśakam",
   "author": "śrīla-bhakti-rakṣaka-śrīdhara-gosvāmī-mahārāja-viracitam",
   "language": "sanskrit",
-  "verses": `
-amanda-kāruṇya-guṇā-kara-śrī-
+  "verses": `amanda-kāruṇya-guṇā-kara-śrī-
     caitanya-devasya dayā-vatāraḥ
 sa gaura-śaktir-bhavitā punaḥ
     kiṁ padaṁ dṛśor-bhaktivinoda-devaḥ (1)
@@ -52,7 +52,5 @@ prakāśya caitanya-prado bhavet
 āṣāḍhadarśe’hani gaura-śakti-
     gadādharā-bhinna-tanur-jahau yaḥ
 prapañca-līlāmiha no bhavet
-    kiṁ dṛśyaḥ punar-bhaktivinoda-devaḥ (10)
-`,
-  "translation": ""
+    kiṁ dṛśyaḥ punar-bhaktivinoda-devaḥ (10)`
 })

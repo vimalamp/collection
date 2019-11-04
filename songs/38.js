@@ -1,10 +1,10 @@
 push({
   "title": "jayati te ‘dhikaṁ janmanā vrajaḥ (śrī-gopī-gītā)",
+  "id": 38,
   "category": "śrī-gopī-gītā",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-jayati te ‘dhikaṁ janmanā vrajaḥ
+  "verses": `jayati te ‘dhikaṁ janmanā vrajaḥ
     śrayata indirā śaśvad atra hi
 dayita dṛśyatāṁ dikṣu tāvakās
     tvayi dhṛtāsavas tvāṁ vicinvate (1)
@@ -108,7 +108,5 @@ tāsām āvirabhūc chauriḥ,
 smayamāna-mukhāmbujaḥ
     pītāmbara-dharaḥ sragvī,
 sākṣān manmatha-manmathaḥ (21)
-<i>bhāḥ 10|31|1-19</i>
-`,
-  "translation": ""
+<i>bhāḥ 10|31|1-19</i>`
 })

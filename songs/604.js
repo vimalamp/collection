@@ -1,11 +1,11 @@
 push({
   "title": "bhaja bhakata-vatsala śrī-gaurahari",
+  "id": 604,
   "category": "maṅgalārati",
   "subcategory": "śrī-bhoga-ārati",
   "author": "bhaktivinoda",
   "language": "bengali",
-  "verses": `
-bhaja bhakata-vatsala śrī-gaurahari
+  "verses": `bhaja bhakata-vatsala śrī-gaurahari
 śrī-gaurahari sohi goṣṭha-bihārī,
 nanda-yaśomatī-citahārī (1)
 
@@ -55,7 +55,5 @@ lalitādi sakhī-gaṇa avaśeṣa pāya
 mane mane sukhe rādhā-kṛṣṇa-guṇa gāya (16)
 
 hari-līlā eka-mātra jāhāra pramoda
-bhogārati gāya sei <b>bhaktivinoda</b> (17)
-`,
-  "translation": ""
+bhogārati gāya sei <b>bhaktivinoda</b> (17)`
 })

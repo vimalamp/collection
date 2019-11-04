@@ -1,11 +1,11 @@
 push({
   "title": "e tina bhuvana mājhe, avanī mandala sāje",
+  "id": 139,
   "author": "vaiṣṇava-dase",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-advaita prabhura janmalīlā",
   "language": "bengali",
-  "verses": `
-e tina bhuvana mājhe, avanī mandala sāje
+  "verses": `e tina bhuvana mājhe, avanī mandala sāje
         tāhe punaḥ ati anupāma
 śoka duḥkha tāpatraya, jāra nāma śānti haya
         hena sei śāntipura grāma (1)
@@ -28,7 +28,5 @@ dekhiyā pandita ati, haila harasita mati
 āchmvite jagajane, annda pāila mane ki
         lāgiyā keha nāhi jāne
 e <b>vaiṣṇava-dase</b> bole, uddhāra haiba bale
-        patita pāṣandhī dīna hīne (5)
-`,
-  "translation": ""
+        patita pāṣandhī dīna hīne (5)`
 })

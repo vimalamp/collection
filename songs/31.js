@@ -1,10 +1,10 @@
 push({
   "title": "gāyata rādhā mādhava-līlaṁ",
+  "id": 31,
   "author": "śrīla-prabodhānanda-sarasvatīpāda",
   "category": "śrī-saṁskṛta-gīti (śrīmatī rādhikā)",
   "language": "sanskrit",
-  "verses": `
-gāyata rādhā mādhava-līlaṁ,
+  "verses": `gāyata rādhā mādhava-līlaṁ,
 kuruta matiṁ rasarañjita-śīlām (1)
 
 vṛndāraṇya carācara vṛndaṁ
@@ -26,7 +26,5 @@ mṛgayata rādhā pada rasa bhājaṁ,
 paricinūtojvalara-rasa bāram (7)
 
 iti hitasāra sarambatī-gītaṁ,
-janayata kaṅcana bhāvam-adhitam (8)
-`,
-  "translation": ""
+janayata kaṅcana bhāvam-adhitam (8)`
 })

@@ -1,29 +1,31 @@
 push({
-  "title": "hari he! para-tattva vicakṣaṇa, vyāsa-ādi muni-gaṇa",
-  "author": "bhaktivinoda",
+  "title": "hari he! paratattva bicakṣaṇa",
+  "id": 505,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
-<i>tvāṁ śīla-rūpa-caritaiḥ parama-prakṛṣṭa-
-    sattvena sāttvikatayā prabalaiśca śāstraiḥ
-prakhyāta-daiva-paramārtha-vidāṁ mataiś-ca
-    naivāsura-prakṛtayaḥ prabhavatin boddhum</i>
+<i>tvāṁ śīlarūpacaritaiḥ paramaprakṛṣṭa-
+sattvena sāttvikatayā prabalaiśca śāstraiḥ |
+prakhyāta-daibaparamārthavidāṁ mataiśca
+naivāsura-prakṛtayaḥ prabhavanti boddhum_ ||3||</i>
 
-hari he!
-para-tattva vicakṣaṇa, vyāsa-ādi muni-gaṇa,
-        śāstra vicāriyā bāra bāra
-prabhu, tava nitya-rūpa, guṇa-śīla anu-rūpa,
-        tomāra caritra sudhāsāra (1)
+hari he! 
+paratattva bicakṣaṇa,    byāsa-ādi munigaṇa,
+śāstra bicāriyā bāra bāra |
+prabhu, taba nityarūpa,    guṇaśīla anurūpa,
+tomāra caritra sudhāsāra ||1||
 
-śuddha-sattva-mayī līlā, mukhya-śāstre prakāśilā,
-        jīvera kuśala suvidhāne
-rajastamo-guṇa-andha, asura-prakṛti manda-,
-        jane tāhā bujhite nā jāne (2)
+śuddhasattvamayī līlā,    mukhyaśāstre prakāśilā,
+jībera kuśala subidhāne |
+rajastamoguṇa-andha,    asura-prakṛti manda,
+jane tāhā bujhite nā jāne ||2||
 
-nāhi māne nityarūpa, bhajiyā maṇḍvandha-kūpa,
-        rahe tāhā udāsīnaprāya
-e <b>bhaktivinoda</b> gāya, ki durddaiva hāya hāya,
-        hari-dāsa hari nāhi pāya (3)
-`,
-  "translation": ""
+nāhi māne nityarūpa,    bhajiyā maṇḍvandhakūpa,
+rahe tāhe udāsīnaprāya |
+e bhaktivinoda gāya,    ki durddaiba hāya hāya,
+haridāsa hari nāhi pāya ||3||`,
+  "translation": {
+    "bn": "śabdārtha:- maṇḍvandhakūpa—byāṅera andhakūpa arthāt. durlaṅghya saṁsāra"
+  }
 })

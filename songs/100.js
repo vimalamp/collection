@@ -1,10 +1,10 @@
 push({
   "title": "gurudeva! dayāmaya!",
+  "id": 100,
   "author": "Unknown",
   "category": "śrī-guru-kṛpā-prārthanā",
   "language": "bengali",
-  "verses": `
-gurudeva! dayāmaya!
+  "verses": `gurudeva! dayāmaya!
 prānera yātanā jānāva ki tomā,
         hayeche jivana yantraṇā-maya (1)
 
@@ -41,7 +41,5 @@ hena mati yāche tava dāsādhama,
 ohe gurudeva! tava śrī-carana,
         sevi yena ami janama janama,
 ei āśīravad yaci’ abhājana,
-        tava pade sthana cāya (8)
-`,
-  "translation": ""
+        tava pade sthana cāya (8)`
 })

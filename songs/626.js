@@ -1,10 +1,10 @@
 push({
   "title": "jaya jaya śrī-caitanya patita-pāvana",
+  "id": 626,
   "author": "Unknown",
   "category": "kalyana-kalpataru maṅgalācaraṇa",
   "language": "bengali",
-  "verses": `
-jaya jaya śrī-caitanya patita-pāvana,
+  "verses": `jaya jaya śrī-caitanya patita-pāvana,
 jaya nityānanda prabhu anātha-taraṇa (1)
 
 jaya jayādvaitacandra kṛpāra sāgara
@@ -68,7 +68,5 @@ phalibe kalyāṇa-phala yugala-sevana
 kariba sakale mili’ tāhā āsvādana (21)
 
 nṛtya kari’ hari bolo’ kha-o sebā-phala
-bhakti-bale kara’ dūra kutarka-anala (22)
-`,
-  "translation": ""
+bhakti-bale kara’ dūra kutarka-anala (22)`
 })

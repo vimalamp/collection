@@ -1,10 +1,10 @@
 push({
   "title": "kṛpayati yadi rādhā bādhitāśeṣa-bādhā",
+  "id": 45,
   "category": "śrī-rādhā-prārthanā",
   "author": "śrī-viṭhalācārya",
   "language": "sanskrit",
-  "verses": `
-kṛpayati yadi rādhā bādhitāśeṣa-bādhā
+  "verses": `kṛpayati yadi rādhā bādhitāśeṣa-bādhā
     kim apara-viśiṣṭaṁ puṣṭi-maryādayor me
 yadi vadati ca kiñcit smera-hāsodita-śrīr dvija-
     vara-maṇi-paṅktyā mukti-śuktyā tadā kim (1)
@@ -22,7 +22,5 @@ rādhikā-pada-tale kṛta-sthitiṁ
 saṁvidhāya daśane tṛṇaṁ vibho
     prārthaye vraja-mahendra-nandana
 astu mohana tavāti-vallabhā
-    janma-janmani mad-īśvarī priyā (4)
-`,
-  "translation": ""
+    janma-janmani mad-īśvarī priyā (4)`
 })

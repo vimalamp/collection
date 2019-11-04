@@ -1,10 +1,10 @@
 push({
   "title": "pralaya-payodhi-jale dhṛtavān-asi vedaṁ",
+  "id": 80,
   "category": "śrī-daśāvatāra-stotram",
   "author": "śrīmad-jayadeva-gosvāmī-viracitam",
   "language": "sanskrit",
-  "verses": `
-pralaya-payodhi-jale dhṛtavān-asi vedaṁ
+  "verses": `pralaya-payodhi-jale dhṛtavān-asi vedaṁ
 vihita-vahitra-caritram-akhedam
     keśava-dhṛta-mīna-śarīra jaya jagadīśa hare (1)
 
@@ -51,7 +51,5 @@ dhūma-ketum-iva kim-api karālam
 vedān-uddharate jaganti vahate bhū-golam-udvibrate
     daityān dārayate baliṁ chalayate kṣatra-kṣayaṁ kurvate
 paulastyaṁ jayate halaṁ kalayate kāruṇyam-ātanvate
-    mlecchān-mūrcchayate daśākṛti-kṛte kṛṣṇāya tubhyaṁ namaḥ (12)
-`,
-  "translation": ""
+    mlecchān-mūrcchayate daśākṛti-kṛte kṛṣṇāya tubhyaṁ namaḥ (12)`
 })

@@ -1,46 +1,45 @@
 push({
-  "title": "śrī-rādhā-kṛṣṇa-pada-kamale mana",
-  "author": "vinoda",
+  "title": "śrīrādhākṛṣṇa-padakamale mana",
+  "id": 281,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-rādhā-kṛṣṇa vijñapti",
   "language": "bengali",
   "verses": `
-śrī-rādhā-kṛṣṇa-pada-kamale mana
-kemane labhibe carama śaraṇa (1)
+śrīrādhākṛṣṇa-padakamale mana | 
+kemône labhibe carama śaraṇa ||1||
 
-cira-dina kariyā o-caraṇa-āśa
-āche he basiyā e adhama dāsa (2)
+ciradina kôriyā o-caraṇa-āśa | 
+āche he bôsiyā e adhama dāsa ||2||
 
-he rādhe, he kṛṣṇa-candra bhakta-prāṇa
-pāmare yugala-bhakti kara’ dāna (3)
+he rādhe, he kṛṣṇacandra bhaktaprāṇa | 
+pāmare ĵugala-bhakti karô’ dāna ||3||
 
-bhakti-hīna bali’ nā kara’ upekṣā
-mūrkha-jane deha’ jñāna-suśikṣā (4)
+bhaktihīna bôli’ nā karô’ upekṣā | 
+mūrkhajane dehô’ jñāna-suśikṣā ||4||
 
-viṣaya-pipāsā-prapīḍita dāse
-deha’ adhikāra yugala-vilāse (5)
+biṣaya-pipāsā-prapīḓita dāse | 
+dehô’ adhikāra ĵugala-bilāse ||5||
 
-cañcala-jīvana-, srota pravāhiyā,
-        kālera sāgare dhāya
-gela je divasa, nā āsibe āra,
-        ebe kṛṣṇa ki upāya (6)
+cañcala jībana-,    srota prabāhiyā,
+kālera sāgare dhāya |
+gelô ĵe dibasa,    nā āsibe āra,
+ebe kṛṣṇa ki upāya ||6||
 
-tumi patita-janera bandhu
-jāni he tomāre nātha, tumi ta’ karuṇā-jala-sindhu (7)
+tumi patitajanera bandhu |
+jāni he tomāre nātha, tumi tô’ karuṇā-jalasindhu ||7||
 
-āmi bhāgya-hīna, ati arvācīna,
-        nā jāni bhakti-leśa
-nija-guṇe nātha, kara’ ātma-sātha,
-        ghucāiyā bhava-kleśa (8)
+āmi bhāgyahīna,    ati arbbācīna,
+nā jāni bhakati-leśa |
+nija-guṇe nātha,    karô’ ātmasāt.,
+ghucāiyā bhaba-kleśa ||8||
 
-siddha-deha diyā, vṛndāvana-mājhe,
-        sevāmṛta kara’ dāna
-piyāiyā prema, matta kari’ more,
-        śuna nija-guṇa-gāna (9)
+siddha-deha diyā,    vṛndāvana-mājhe,
+sebāmṛta karô’ dāna |
+piyāiyā prema,    matta kôri’ more,
+śunô nija guṇagāna ||9||
 
-yugala-sevāya, śrī-rāsa-maṇḍale,
-        niyukta kara’ āmāya
-lalitā sakhīra, ayogyā kiṅkarī,
-        <b>vinoda</b> dhariche pāya (10)
-`,
-  "translation": ""
+ĵugala-sebāya,    śrīrāsamaṇḍale,
+niĵukta karô’ āmāya |
+lalitā sakhīra,    aĵogyā kiṅkarī,
+vinoda dhôriche pāya ||10||`
 })

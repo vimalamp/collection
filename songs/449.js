@@ -1,10 +1,10 @@
 push({
   "title": "e mana! ki lāgi’ āili bhave",
+  "id": 449,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-e mana! ki lāgi’ āili bhave
+  "verses": `e mana! ki lāgi’ āili bhave
 emana janame, hari nā bhajili,
         se tui mānuṣa kabe (1)
 
@@ -31,7 +31,5 @@ bujhinu ābāra, śamana-nagare,
 vadana bhariyā, ‘hari’ bala yadi,
         kṣati nā haibe tāya
 kahe <b>premānanda</b>, tabe je nitānta,
-        eḍābe kṛtānta-dāya (6)
-`,
-  "translation": ""
+        eḍābe kṛtānta-dāya (6)`
 })

@@ -1,27 +1,26 @@
 push({
-  "title": "jaya re jaya re mora gaurāṅga rāya",
-  "author": "vaṁśī-dāsa",
+  "title": "jayare jayare mora gaurāṅga rāya",
+  "id": 227,
+  "author": "vaṁśīdāsa",
   "category": "sagaṇa śrī-gaura-caraṇe prārthanā",
   "language": "bengali",
   "verses": `
-jaya re jaya re mora gaurāṅga rāya
-jaya nityānanda-candra, jaya gaura-bhakta-vṛnda,
-        sītā-nātha deha’ pada-chāya (1)
+jayare jayare mora gaurāṅga rāya |
+jaya nityānandacandra,    jaya gaura-bhaktavṛnda,
+sītānātha dehô’ padachāya ||1||
 
-jaya jaya mora, ācārya ṭhākura,
-        agati-patita-gati
-karuṇā kariyā, svacaraṇe rākha,
-        e mora pāpiṣṭha-mati (2)
+jaya jaya mora,    ācārĵya ṭhākura,
+agati-patita-gati |
+karuṇā kôriyā,    svacaraṇe rākhô,
+e mora pāpiṣṭha-mati ||2||
 
-tomāra caraṇa, bharasā kevala,
-        nā dekhi āra upāya
-mora duṣṭa mane, rākha śrī-caraṇe,
-        ei māgo tuyā pāya (3)
+tomāra caraṇa,    bharasā kebala,
+nā dekhi āra upāya |
+mora duṣṭa mane,    rākhô śrīcaraṇe,
+ei māgo tuŵā pāya ||3||
 
-sadā manoratha, je kichu āmāra,
-        sakala jānaha tumi
-kahe <b>vaṁśī-dāsa</b>, pūra saba āśa,
-        ki āra kahiba āmi (4)
-`,
-  "translation": ""
+sadā manoratha,    ĵe kichu āmāra,
+sakala jānahô tumi |
+kahe vaṁśīdāsa,    pūra saba āśa,
+ki āra kahibô āmi ||4||`
 })

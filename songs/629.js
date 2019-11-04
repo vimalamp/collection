@@ -1,10 +1,10 @@
 push({
   "title": "bahu-janma-bhāgya-vaśe cinmaya madhura rase",
+  "id": 629,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-bahu-janma-bhāgya-vaśe cinmaya madhura rase
+  "verses": `bahu-janma-bhāgya-vaśe cinmaya madhura rase
         spṛhā janme jīvera hiyāya
 sei spṛhā lobha haya vraja-dhāme jīva laya
         rūpānuga-bhajane mātāya (1)
@@ -32,7 +32,5 @@ kṛṣṇa-prema sei rūpa nitya-siddha aparūpa
 sei to’ sahaja rati pāiyāche apagati
         śikhānuśīlana yadi pāya
 se rati jāgiyā uṭhe jīvera bandhana chuṭe
-        vrajānanda tāhāre nācāya (6)
-`,
-  "translation": ""
+        vrajānanda tāhāre nācāya (6)`
 })

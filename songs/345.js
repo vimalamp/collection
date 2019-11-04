@@ -1,14 +1,13 @@
 push({
-  "title": "kṛṣṇa govinda hare, gopī-vallabha śaure",
-  "author": "Unknown",
+  "title": "kṛṣṇa govinda hare",
+  "id": 345,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-kṛṣṇa govinda hare, gopī-vallabha śaure (1)
+kṛṣṇa govinda hare |
+gopīvallabha śaure ||
 
-śrīnivāsa dāmodara śrī-rāma murāre (2)
-
-nanda-nandana mādhava nṛsiṁha kaṁsāre (3)
-`,
-  "translation": ""
+śrīnivāsa dāmodara śrīrāma murāre |
+nandanandana mādhava nṛsiṁha kaṁsāre ||`
 })

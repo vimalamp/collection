@@ -1,29 +1,28 @@
 push({
-  "title": "hari he! strī-puruṣa-dehagata, varṇa-ādi dharma jata",
-  "author": "bhaktivinoda",
+  "title": "hari he! strī-puruṣa-dehagata",
+  "id": 523,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
-<i>vapurādiṣu jo ’pi ko ’pi vā
-    guṇato’sāni jathā-tathā-vidhaḥ
-tad-ahaṁ tava pāda-padma-yo-
-    rahamadya-iva mayā samarpitaḥ</i>
+<i>vapurādiṣu ĵo^pi ko^pi vā 
+guṇato^sāni ĵathātathāvidhaḥ |
+tadayaṁ tava pādapadmayo-
+rahamadyaiva mayā samarpitaḥ ||21||</i>
 
-hari he!
-strī-puruṣa-dehagata, varṇa-ādi dharma jata,
-        tāhe punaḥ dehagata bheda
-sattvarajostamo-guṇa, āśrayete bheda punaḥ,
-        ei-rūpa sahasra prabheda (1)
+hari he! 
+strī-puruṣa-dehagata,    barṇa-ādi dharmma ĵatô,
+tāhe punaḥ dehagata bheda |
+sattvarajastamoguṇa,    āśrayete bheda punaḥ,
+eirūpa sahasra prabheda ||1||
 
-je-kona śarīre thāki, je-kona avasthā rākhi,
-        se-saba ekhana tava pāya
-sapilāma, prāṇeśvara! mama bali’ ataḥpara,
-        āra kichu nā rahila dāya (2)
+ĵe-konô śarīre thāki,    ĵe-konô abasthā rākhi,
+se-saba ekhôna taba pā-.ya |
+sãpilāma, prāṇeśvara!    mama bôli’ ataḥpara,
+āra kichu nā rahilô dāya ||2||
 
-tumi, prabhu! rākha māra, saba tava adhikāra,
-        āchi āmi tomāra kiṅkara
-e <b>bhaktivinoda</b> bale, tava dāsya-kautūhale,
-        thāki jena sadā sevāpara (3)
-`,
-  "translation": ""
+tumi, prabhu! rākhô mārô,    saba taba adhikāra,
+āchi āmi tomāra kiṅkara |
+e bhaktivinoda bôle,    taba dāsya kautūhale,
+thāki ĵenô sadā sebāpara ||3||`
 })

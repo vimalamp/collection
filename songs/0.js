@@ -1,10 +1,10 @@
 push({
   "title": "maṅgalācaraṇam",
+  "id": 0,
   "author": "Unknown",
   "category": "maṅgalācaraṇam",
   "language": "sanskrit",
-  "verses": `
-vande’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrī-gurun vaiṣṇavāṁś-ca
+  "verses": `vande’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrī-gurun vaiṣṇavāṁś-ca
 śrī-rūpaṁ sāgrajātaṁ saha-gaṇa-raghunāthānvitaṁ taṁ sa-jīvam
 
 sādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ kṛṣṇa-caitanya-devaṁ 
@@ -126,7 +126,5 @@ kṛṣṇa-bhakti-prade devi satyavatyai namo namaḥ
 
 <b>mahā-mantra</b>
 hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
-hare rāma hare rāma rāma rāma hare hare
-`,
-  "translation": ""
+hare rāma hare rāma rāma rāma hare hare`
 })

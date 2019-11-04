@@ -1,10 +1,10 @@
 push({
   "title": "adharaṁ madhuraṁ vadanaṁ madhuraṁ",
+  "id": 68,
   "category": "śrī-śrī-madhurāṣṭakam",
   "author": "śrīmad vallabhācārya",
   "language": "sanskrit",
-  "verses": `
-adharaṁ madhuraṁ vadanaṁ madhuraṁ
+  "verses": `adharaṁ madhuraṁ vadanaṁ madhuraṁ
     nayanaṁ madhuraṁ hasitaṁ madhuram
 hṛdayaṁ madhuraṁ gamanaṁ madhuraṁ
     madhurādhi-pater-akhilaṁ madhuram (1)
@@ -42,7 +42,5 @@ hṛṣṭaṁ madhuraṁ śliṣṭaṁ madhuraṁ
 gopā madhurā gāvo madhurā
     yaṣṭir-madhurā sṛṣṭir-madhurā
 dalitaṁ madhuraṁ phalitaṁ madhuraṁ
-    madhurādhi-pater-akhilaṁ madhuram (8)
-`,
-  "translation": ""
+    madhurādhi-pater-akhilaṁ madhuram (8)`
 })

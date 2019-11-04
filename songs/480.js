@@ -1,33 +1,36 @@
 push({
-  "title": "mānasa, deha, geha",
-  "author": "bhaktivinoda,",
+  "title": " mānasa, deha, geha",
+  "id": 480,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>ātma-nivedana–ahaṁ-stāpada dehī-samarpaṇa (vācika)</i>
-mānasa, deha, geha,
-        jo kichu mora
-arpilu tuyā pade, nanda-kiśora!
-        sampade-vipade, jīvane-maraṇe
-dāya mama gelā tuyā o-pada varaṇe (1)
+ātmanibedana—ahaṁtāspada dehīsamarpaṇa 
+(bācika)
 
-mārabi rākhabi–jo icchā tohārā
-nitya-dāsa-prati tuyā adhikārā (2)
+mānasa, deha, geha, ĵo kichu mora | 
+arpilũ tuŵā pade, nandakiśora !!1!!
 
-janmāobi moe icchā yadi tora
-bhakta-gṛhe jani janma hau mora (3)
+sampade-bipade, jībane-maraṇe | 
+dāya mama gelā tuŵā o-pada baraṇe ||2||
 
-kīṭajanma hau yathā tuyā dāsa
-bahir-mukha brahma-janme nāhi āśa (4)
+mārôbi rākhôbi—ĵo icchā tohārā | 
+nityadāsa-prati tuŵā adhikārā ||3||
 
-bhukti-bhukti-spṛhā vihīna je bhakta
-labhaite tā’ka saṅga anurakta (5)
+janmāobi moe icchā ĵadi tora | 
+bhaktagṛhe jani janma ha_u mora ||4||
 
-janaka, jananī, dayita, tanaya
-prabhu, guru, pati–tuhu sarva-maya (6)
+kīṭajanma ha_u ĵathā tuŵā dāsa | 
+bahirmmukha brahmajanme nāhi āśa ||5||
 
-<b>bhaktivinoda,</b> kahe śuna kāna!
-rādhā-nātha! tuhu hāmāra parāṇa (7)
-`,
-  "translation": ""
+bhukti-mukti-spṛhābihīna ĵe bhakta | 
+labha_ite tā̃’ka saṅga anurakta ||6||
+
+janaka, jananī, dayita, tanaya | 
+prabhu, guru, pati—tuhũ sarbbamaya ||7||
+
+bhakativinoda kahe, śunô kāna ! 
+rādhānātha! tuhũ hāmāra parāṇa ||8||
+
+śabdārtha:- jani—ĵenô; kāna—kānu arthāt. kṛṣṇa |`
 })

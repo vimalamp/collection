@@ -1,29 +1,28 @@
 push({
-  "title": "viṣaye sakale matta, nāhi kṛṣṇa-nāma-tattva",
-  "author": "vaiṣṇavera dāsa",
+  "title": "biṣaye sakale matta",
+  "id": 134,
+  "author": "lekhaka ajānā",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-advaitācārya",
   "language": "bengali",
   "verses": `
-viṣaye sakale matta, nāhi kṛṣṇa-nāma-tattva,
-        bhakti-śūnya haila avanī
-kalikāla-sarpaviṣe, dagdha jīva mithyā-rase,
-        nā jānaye kevā se āpani (1)
+biṣaye sakale matta,    nāhi kṛṣṇanāma-tattva,
+bhaktiśūnya hô_ilô abanī |
+kalikāla-sarpabiṣe,    dagdha jība mithyā-rase,
+nā jānaye kebā se āpani ||1||
 
-nija kanyā-putrotsave, mātiyā āchaye sabe,
-        nāhi anya śubha karma-leśa
-yakṣa pūje madya-māṁse, nānārūpa jīva hiṁse,
-        ei mata haila sarva-deśa (2)
+nija kanyā-putrot.sabe,    mātiyā āchaye sabe,
+nāhi anya śubha karmmaleśa |
+ĵakṣa pūje madya-māṁse,    nānārūpa jība hiṁse,
+ei mata hailô sarbbadeśa ||2||
 
-dekhiyā karuṇā kari’, ‘kama-lākṣa’ nāma dhari’,
-        avatīrṇa hailā gauḍa-deśe
-vraja-rāja-kumāra, sāṅgopāṅga avatāra,
-        karāiba ei abhilāṣe (3)
+dekhiyā karuṇā kôri’,    ‘kamalākṣa’ nāma dhôri’,
+abatīrṇa hailā gauḓadeśe |
+vrajarāja-kumāra,    sāṅgopāṅga abatāra,
+kôrāibô ei abhilāṣe ||3||
 
-sarva āge āguyāna, jīvere kariyā trāṇa,
-        śānti-pure hailā prakāśa
-sakala duṣkṛti yā’ve, sabe kṛṣṇa-nāma pā’ve,
-        kahe dīna <b>vaiṣṇavera dāsa</b> (4)
-`,
-  "translation": ""
+sarbba āge āguŵāna,    jībere kôriyā trāṇa,
+śāntipure hô_ilā prakāśa |
+sakala duṣkṛti ĵā’be,    sabe kṛṣṇanāma pā’be,
+kahe dīna vaiṣṇavera dāsa ||4||`
 })

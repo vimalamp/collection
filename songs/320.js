@@ -1,10 +1,10 @@
 push({
   "title": "hari hari! kabe haba vṛndāvana-vāsī",
+  "id": 320,
   "author": "narottama-dāsa",
   "category": "śrī-kṛṣṇe svābhīṣṭa-lālasātmaka prārthanā",
   "language": "bengali",
-  "verses": `
-hari hari! kabe haba vṛndāvana-vāsī
+  "verses": `hari hari! kabe haba vṛndāvana-vāsī
 nirakhiba nayane yugala-rūparāśi (1)
 
 tyajiyā śayanasukha vicitra pālaṅka
@@ -20,7 +20,5 @@ tāpa dūra kariba śītala vaṁśīvaṭe
 (kabe) kuñje baiṭhaba hāma vaiṣṇava-nikaṭe (5)
 
 <b>narottama-dāsa</b> kahe kari’ parihāra
-kabe vā emana daśā haibe āmāra (6)
-`,
-  "translation": ""
+kabe vā emana daśā haibe āmāra (6)`
 })

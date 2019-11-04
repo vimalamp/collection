@@ -1,10 +1,10 @@
 push({
   "title": "vande gurūn-īśa-bhaktān-īśam-īśāvatārakān",
+  "id": 91,
   "category": "śrī-guru-vandanā",
   "author": "śrī-caitanya-caritāmṛta",
   "language": "bengali",
-  "verses": `
-<i>vande gurūn-īśa-bhaktān-īśam-īśāvatārakān
+  "verses": `<i>vande gurūn-īśa-bhaktān-īśam-īśāvatārakān
 tat-prakāśāṁś-ca-tac-chaktīḥ kṛṣṇa-caitanya-saṁjñakam</i>
 
 mantra-guru āra yata śikṣā-guru-gaṇa
@@ -29,7 +29,5 @@ gadādhara paṇḍitādi prabhura nija-śakti
 tā’sabāra caraṇe mora sahasra praṇati (7)
 
 śrī-kṛṣṇa-caitanya prabhu svayaṁ bhagavān
-tāhāra padāravinde ananta praṇāma (8)
-`,
-  "translation": ""
+tāhāra padāravinde ananta praṇāma (8)`
 })

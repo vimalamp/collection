@@ -1,27 +1,29 @@
 push({
-  "title": "maṅgala ārati yugala-kiśora",
+  "title": "maṅgala ārati ĵugalakiśora",
+  "id": 603,
   "category": "maṅgalārati",
   "subcategory": "śrī-yugala-ārati",
-  "author": "śyāmānanda",
+  "author": "śyāmānanda dāsa",
   "language": "bengali",
   "verses": `
-maṅgala ārati yugala-kiśora
-jaya jaya karatahi sakhī-gaṇa thora (1)
+maṅgala ārati ĵugalakiśora |
+jaya jaya karatahĩ sakhīgaṇa thora ||1||
 
-ratana pradīpa kare ṭalamala ghora
-nirakhata mukhavidhu śyāma sugora (2)
+ratana pradīpa kare ṭalamala ghora |
+nirakhata mukhabidhu śyāma sugora ||2||
 
-lalitā-viśākhā sakhī preme āgara
-karata nirmañchana dohe duhu bhora (3)
+lalitā viśākhā sakhī preme āgara |
+karatô nirmmañchana dõhe dũhu bhora ||3||
 
-vṛndāvana-kuñjahi bhuvana ujora
-mūrati manohara yugala kiśora (4)
+vṛndāvana-kuñjahi bhubana ujora |
+mūrati manohara ĵugala kiśora ||4||
 
-gāota śuka pika nācata mayūra
-cāda upekhi mukha nirakhe cakora (5)
+gāotô śuka pika, nācatô mayūra |
+cā̃da upekhi mukha nirakhe cakora ||5||
 
-bājata vividha jantra ghana ghora
-<b>śyāmānanda</b> ānande bājāya jaya tora (6)
-`,
-  "translation": ""
+bājatô bibidha ĵantra ghana ghora |
+śyāmānanda ānande bājāya jaya tora ||6||`,
+  "translation": {
+    "bn": "śabdārtha:- thora—mṛdu; ghora—nibiḓa; sugora—ati gaurabarṇa; āgara—agragaṇya; ujora—ujjvala; nirmmañchana—ārati; bhora—āsakta"
+  }
 })

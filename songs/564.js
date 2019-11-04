@@ -1,32 +1,31 @@
 push({
-  "title": "dhana, jana, deha, geha kṛṣṇe samarpaṇa",
-  "author": "bhaktivinoda",
+  "title": "dhana, jana, deha, geha",
+  "id": 564,
+  "author": "śrīla bhaktivinoda ṭhākura ",
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
-dhana, jana, deha, geha kṛṣṇe samarpaṇa
-kariyācha, śuddha citte karaha smaraṇa (1)
+dhana, jana, deha, geha kṛṣṇe samarpaṇa |
+kôriyāchô, śuddha citte karahô smaraṇa ||1||
 
-tabe kena ‘mama suta’ bali’ kara duḥkha?
-kṛṣṇa nila nija-jana tāhe tā’ra sukha (2)
+tabe kenô ‘mama suta’ bôli’ karô duḥkha? 
+kṛṣṇa nilô nija-jana tāhe tā’ra sukha ||2||
 
-kṛṣṇa-icchā-mate saba ghaṭaya ghaṭanā
-tāhe sukha-duḥkha-jñāna avidyā-kalpanā (3)
+kṛṣṇa-icchā-mate saba ghaṭaya ghaṭanā |
+tāhe sukha-duḥkha-jñāna abidyā-kalpanā ||3||
 
-jāhā icchā kare kṛṣṇa, tāi jāna bhāla
-tyajiyā āpana icchā ghucāo jañjāla (4)
+ĵāhā icchā kare kṛṣṇa, tāi jāna bhālô |
+tyajiyā āpana icchā ghucāo jañjāla ||4||
 
-deya kṛṣṇa, neya kṛṣṇa, pāle kṛṣṇa sabe
-rākhe kṛṣṇa, māre kṛṣṇa, icchā kare jave (5)
+deya kṛṣṇa, neya kṛṣṇa, pāle kṛṣṇa sabe |
+rākhe kṛṣṇa, māre kṛṣṇa, icchā kare ĵabe ||5||
 
-kṛṣṇa-icchā viparīta je kare vāsanā
-tā’ra icchā nāhi phale, se pāya jātanā (6)
+kṛṣṇa-icchā-biparīta ĵe kare bāsanā |
+tā’ra icchā nāhi phale, se pāya ĵātanā ||6||
 
-tyajiyā sakala śoka śuna kṛṣṇa-nāma
-parama ānanda pā’ve, pūrṇa ha’be kāma (7)
+tyajiyā sakala śoka śunô kṛṣṇanāma |
+parama ānanda pā’be, pūrṇa ha’be kāma ||7||
 
-<b>bhaktivinoda</b> māge śrīvāsa-caraṇe
-ātma-nivedana-śakti jīvane-maraṇe (8)
-`,
-  "translation": ""
+bhakativinoda māge śrīvāsa-caraṇe |
+ātmanibedana-śakti jībane-maraṇe ||8||`
 })

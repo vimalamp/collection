@@ -1,10 +1,10 @@
 push({
   "title": "sthāyī bhāvāviṣṭa citta pāiyā vibhāva-vitta",
+  "id": 649,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-sthāyī bhāvāviṣṭa citta pāiyā vibhāva-vitta
+  "verses": `sthāyī bhāvāviṣṭa citta pāiyā vibhāva-vitta
         udbhaṭa bhāvete āpanāra
 prāṇa-vṛtte nyasa kare prāṇa sei nyāsa-bhore
         deha prati vikṛti cālāya (1)
@@ -22,7 +22,5 @@ dhūmayitā ujvalitā dīptā āra su-uddīptā
 jāra jei adhikāra sāttvika vikāra tāra
         se lakhaṇe haya to’ udaya
 mahā-bhāva daśā yathā su-uddīptā bhāva tathā
-        anāyāse su-lakhitā haya (4)
-`,
-  "translation": ""
+        anāyāse su-lakhitā haya (4)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "jaya-dhvani",
+  "id": 1,
   "author": "rūpānugā-gauḍīya-guru-varga",
   "category": "maṅgalācaraṇam",
   "language": "sanskrit",
-  "verses": `
-śrī-śrī-guru-gaurāṅga-gāndharvikā-giridhārī
+  "verses": `śrī-śrī-guru-gaurāṅga-gāndharvikā-giridhārī
 śrī-śrī-rādhā-vinoda-bihārī-jīu kī jaya,
 
 [ <eng>now your dīkṣā-guru’s name should be glorified</eng> ]
@@ -77,7 +77,5 @@ vraja-patana-śrī-caitanyamaṭha kī jaya,
 śrī-harināma-saṅkīrtana kī jaya, 
 
 ananta-koṭī vaiṣṇava-vṛnda kī jaya,
-śrī-gaura-premānande hari hari bola
-`,
-  "translation": ""
+śrī-gaura-premānande hari hari bola`
 })

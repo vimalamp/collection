@@ -1,20 +1,26 @@
 push({
-  "title": "guru-caraṇa-kamala bhaja mana",
-  "author": "Unknown",
+  "title": "guru-caraṇakamala bhaja mana",
+  "id": 657,
+  "author": "lekhaka ajānā",
   "category": "hindī-kīrtana",
   "language": "hindi",
   "verses": `
-guru-caraṇa-kamala bhaja mana
-guru-kṛpā vinā nāhi koi sādhana, bhaja mana bhaja anukṣaṇa (1)
+guru-caraṇakamala bhaja mana |
+gurukṛpā binā nāhi koi sādhana bala
+bhaja mana bhaja anukṣaṇa ||1||
 
-milatā nāhi aisā durlabha-janama, bhramata hu caudaha-bhuvana
-kisī-ko miltā hai aho bhāgya se, hari-bhakto-ke daraśana (2)
+milatā nāhi e_yā_#.y_sā durllabha-janama,
+bhramata hu~ caudda-bhuvana |
+kisī-ko milatā hyā.ya aho bhāgyase,
+haribhakto~-ke daraśana ||2||
 
-kṛṣṇa-kṛpā kī ānanda-mūrti, dīna-jana karuṇā-nidhāna
-bhakti-bhāva-prema–tino prakāśata, śrī-guru patita-pāvana (3)
+kṛṣṇakṛpā kī ānanda-mūrtti,
+dīnajana karuṇā-nidhāna |
+jñāna-bhakti-prema—tino prakāśata,
+prabho śrīguru patitapāvana ||3||
 
-śruti-smṛti-itihāsa purānana mārhi, kīno spaṣṭa pramāṇa
-tana-mana-jīvana, guru-pade arpaṇa, śrī (sadā) harināma raṭana (4)
-`,
-  "translation": ""
+śruti-smṛti-itihāsa sabhī mile hyā.ya, 
+kīno spaṣṭa pramāṇa |
+tana-mana-jīvana, gurupade arpaṇa,
+sadā harināma raṭana ||4||`
 })

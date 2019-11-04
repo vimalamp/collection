@@ -1,28 +1,32 @@
 push({
-  "title": "pūrave govarddhana, dharala anuja jā’ra",
-  "author": "jñāna-dāsa",
+  "title": "pūrabe govarddhana",
+  "id": 154,
+  "author": "jñānadāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
   "verses": `
-pūrave govarddhana, dharala anuja jā’ra,
-        jagajane kahe balarāma
-ebe se caitanya-saṅge, āilā kīrtana-raṅge,
-        dhari’ pahu nityānanda nāma (1)
+pūrabe govarddhana,    dharalô anuja ĵā̃’ra,
+jagajane kahe balarāma |
+ebe se caitanya-saṅge,    āilā kīrttana-raṅge,
+dhôri’ pãhu nityānanda nāma ||1||
 
-parama udāra, karuṇāmaya vigraha,
-        bhuvanamaṅgala guṇa-dhāma
-gaura-pīriti-rase, kaṭira vasana khase,
-        avatāra ati anupama (2)
+parama udāra,    karuṇāmaya bigraha,
+bhubanamaṅgala guṇa-dhāma |
+gaura-pīriti-rase,    kaṭira basana khase,
+abatāra ati anupama ||2||
 
-nācata gāota,hari hari bolata, avirata gaura-gopāla
-hāsa prakāśa, milita madhurādhare,
-        bolata parama rasāla (3)
+nācatô gāotô,    hari hari bolatô,
+abirata gaura-gopāla |
+hāsa-prakāśa,    milita madhurādhare,
+bolatô parama rasāla ||3||
 
-rāma-dāsera pahu, sundara vigraha,
-        gaurī-dāsera dhana-prāṇe
-akhila jīva yata, iha rase unamata,
-        <b>jñāna-dāsa</b> nitāi guṇa-gāne (4)
-`,
-  "translation": ""
+rāmadāsera pãhu,    sundara bigraha,
+gaurīdāsera dhana-prāṇe |
+akhila jība ĵatô,    iha rase unamata,
+jñānadāsa nitāi guṇagāne ||4||
+
+śabdārtha:- rāmadāsa—śrīabhirāma ṭhākura
+
+`
 })

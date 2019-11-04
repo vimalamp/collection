@@ -1,10 +1,10 @@
 push({
   "title": "hā hā prabhu! kara dayā karuṇā tomāra",
+  "id": 247,
   "author": "narottama-dāse",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-hā hā prabhu! kara dayā karuṇā tomāra
+  "verses": `hā hā prabhu! kara dayā karuṇā tomāra
 michā māyā-jāle tanu dahiche āmāra (1)
 
 kabe hena daśā habe sakhī-saṅga pāba
@@ -20,7 +20,5 @@ bilāsa-kautuka keli dekhiba nayane
 candramūkha nirakhiba basāye siṁhāsane (5)
 
 sadā se mādhurī dekhi manera lālase
-kata-dine habe dayā <b>narottama-dāse </b> (6)
-`,
-  "translation": ""
+kata-dine habe dayā <b>narottama-dāse </b> (6)`
 })

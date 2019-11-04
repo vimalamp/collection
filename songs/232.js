@@ -1,28 +1,29 @@
 push({
-  "title": "śrī-rūpa-mañjarī-pada, sei mora sampada",
-  "author": "narottama",
+  "title": "śrīrūpamañjarī-pada",
+  "id": 232,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "svābhīṣṭa-lālasātmaka-prārthanā",
   "language": "bengali",
   "verses": `
-śrī-rūpa-mañjarī-pada, sei mora sampada,
-        sei mora bhajana-pūjana
-sei mora prāṇa-dhana, sei mora ābharaṇa,
-        sei mora jīvanera jīvana (1)
+śrīrūpamañjarī-pada,    sei mora sampada,
+sei mora bhajana-pūjana |
+sei mora prāṇadhana,    sei mora ābharaṇa,
+sei mora jībanera jībana ||1||
 
-sei mora rasa-nidhi, sei mora vāñchā-siddhi,
-        sei mora vedera dharama
-sei vrata, sei tapaḥ, sei mora mantra-japa,
-        sei mora dharama-karama (2)
+sei mora rasanidhi,    sei mora bāñchāsiddhi,
+sei mora vedera dharama |
+sei brata, sei tapaḥ,    sei mora mantra-japa,
+sei mora dharama-karama ||2||
 
-anukūla ha’be vidhi, se-pada haibe siddhi,
-        nirakhiba e-dui nayane
-se-rūpa mādhurī-rāśi, prāṇa-kubalaya-śaśī,
-        praphullita ha’be niśidine (3)
+anukūla ha’be bidhi,    se-pade hô_ibe siddhi,
+nirakhibô e-dui nayane |
+se-rūpa-mādhurīrāśi,    prāṇakubalaya-śaśī,
+praphullita ha’be niśidine ||3||
 
-tuyā adarśana-ahi, garale jārala dehī,
-        ciradina tāpita jīvana
-hā hā prabhu kara dayā, deha more padachāyā,
-        <b>narottama</b> laila śaraṇa (4)
-`,
-  "translation": ""
+tuŵā adarśana-ahi,    garale jāralô dehī,
+ciradina tāpita jībana |
+hā hā prabhu karô dayā,    dehô more padachāyā,
+narottama lô_ilô śaraṇa ||4||
+
+śabdārtha:- kubalaya—padma (nīlapadma); ahi—sarpa; garalô—biṣa |`
 })

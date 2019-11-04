@@ -1,26 +1,25 @@
 push({
-  "title": "śrī-kṛṣṇa-bhajana lāgi’ saṁsāre āinu",
-  "author": "Unknown",
+  "title": "śrīkṛṣṇa-bhajana lāgi’",
+  "id": 123,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-vaiṣṇave vijñapti",
   "language": "bengali",
   "verses": `
-śrī-kṛṣṇa-bhajana lāgi’ saṁsāre āinu
-māyā-jāle vandī haiyā vṛkṣasama hainu (1)
+śrīkṛṣṇa-bhajana lāgi’ saṁsāre āinu |
+māyājāle bandī haiyā bṛkṣasama hainu ||1||
 
-sneha-latā veḍi’ veḍi’ tanu kaila śeṣe
-kīḍā-rūpe nārī tāhe hṛdaye praveśe (2)
+snehalatā beḓi’ beḓi’ tanu kailô śeṣe |
+kīḓārūpe nārī tāhe hṛdaye prabeśe ||2||
 
-phalarūpe putra-kanyā ḍāla bhāṅgi’ paḍe
-kāla-rūpī vihaṅga upare vāsa kare (3)
+phalarūpe putra-kanyā ḍāla bhāṅgi’ paḓe |
+kālarūpī bihaṅga upare bāsa kare ||3||
 
-bāḍite nā pāila gācha śukāiyā gela
-saṁsārera dāvānala tāhāte lāgila (4)
+bāḓite nā pāilô gāchô śukāiyā gelô |
+saṁsārera dābānala tāhāte lāgilô ||4||
 
-durāśā, durvāsanā–dui uṭhe dhūmāiyā
-phukāra karaye locana marilāma puḍiyā (5)
+durāśā, durbbāsanā–dui uṭhe dhūmāiyā |
+phukāra karaye locana marilāma puḓiyā ||5||
 
-egāo egāo mora vaiṣṇava-gosāi
-karuṇāra jala siñca tabe rakṣā pāi (6)
-`,
-  "translation": ""
+egāo egāo mora vaiṣṇava-gõsāi |
+karuṇāra jala siñca tabe rakṣā pāi ||6||`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "nācere nācere nitāi-gaura (dvija/guṇa)maṇiyā",
+  "id": 222,
   "author": "vṛndāvana dāsa",
   "category": "śrī-gaura-nityānande niṣṭhā",
   "language": "bengali",
-  "verses": `
-nācere nācere nitāi-gaura (dvija/guṇa)maṇiyā
+  "verses": `nācere nācere nitāi-gaura (dvija/guṇa)maṇiyā
 bāme priya gadādhara, śrīvāsa advaita bara,
         pāriśada tārāgaṇa jinyā (1)
 
@@ -21,7 +21,5 @@ dui bhāi nāci jāya, sahacara gaṇa gāya,
 pūruba rahasya līlā, ebe pahu prakāśilā,
         sei vrindāvan ei nadīyā
 vihare gangā tīre, sei dhīra samīre,
-        <b>vṛndāvana dāsa</b> kahe jāniyā (4)
-`,
-  "translation": ""
+        <b>vṛndāvana dāsa</b> kahe jāniyā (4)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "smaratu mano mama niravadhi rādhām",
+  "id": 32,
   "author": "śrīla-prabodhānanda-sarasvatīpāda",
   "category": "smaratu mano mama niravadhi rādhām",
   "language": "sanskrit",
-  "verses": `
-smaratu mano mama niravadhi rādhām
+  "verses": `smaratu mano mama niravadhi rādhām
 madhupati-rūpa-guṇa-śravaṇodita-sahaja-manobhava-bādhām (1)
 
 varasīmanta-rasāmṛta-saraṇī-dhṛta-sindūra-surekhām
@@ -35,7 +35,5 @@ nūpura-hāra-manohara-kuṇḍala-kṛta-rucim-aruṇa-dukūlām
 pathi pathi madana-madākula-gokula-candra-kalita-pada-mūlām (10)
 
 rasika-<b>sarasvatī</b>-gīti-mahādbhuta-rādhā-rūpa-rahasyam
-vṛndāvana-rasa-lālasa-manasām-idam-upageyam avaśyam (11)
-`,
-  "translation": ""
+vṛndāvana-rasa-lālasa-manasām-idam-upageyam avaśyam (11)`
 })

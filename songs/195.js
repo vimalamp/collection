@@ -1,11 +1,11 @@
 push({
   "title": "jaya jaya śrī-kṛṣṇa-caitanya dayā-sindhu",
+  "id": 195,
   "author": "rādhā-mohana",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaurasundare vijñapti",
   "language": "bengali",
-  "verses": `
-jaya jaya śrī-kṛṣṇa-caitanya dayā-sindhu
+  "verses": `jaya jaya śrī-kṛṣṇa-caitanya dayā-sindhu
 patita uddhāra hetu jaya dīna-bandhu (1)
 
 jaya prema-bhakti-dātā, dayā kara more
@@ -21,7 +21,5 @@ vicāra karile mui nahe dayāpātra
 āpana svabhāva-guṇe karaha kṛtārtha (5)
 
 viśeṣa pratijñā śuni’ ei kali-yuge
-ei bharasāya <b>rādhā-mohana</b> dayā māge (6)
-`,
-  "translation": ""
+ei bharasāya <b>rādhā-mohana</b> dayā māge (6)`
 })

@@ -1,39 +1,39 @@
 push({
-  "title": "mahā-bhāva-cintāmaṇi, udbhāvita tanukhāni",
-  "author": "bhaktivinoda",
+  "title": "mahābhāva-cintāmaṇi",
+  "id": 256,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-rādhāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>(bhūṣaṇa-rūpa bhāvādi-varṇana)</i>
-mahā-bhāva-cintāmaṇi, udbhāvita tanukhāni,
-        sakhīpati-saja prabhāvatī
-kāruṇya-tāruṇya āra, lāvaṇya-amṛta-dhāra,
-        tāhe snātā lakṣmī-jayī satī (1)
+mahābhāva-cintāmaṇi,    udbhābita tanukhāni,
+sakhīpati-sajja-prabhābatī |
+kāruṇya-tāruṇya āra,    lābaṇya-amṛtadhāra,
+tāhe snātā lakṣmījayī satī ||1||
 
-lajā paṭṭa-vastra jā’ra, saundarya kuṅkuma-sāra,
-        kasturī-citrita kalevara
-kampāśru-pulaka-raṅga, stambha-sveda-svarabhaṅga,
-        jāḍyānmāda nava-ratna-dhara (2)
+lajjā paṭṭabastra ĵā’ra,    saundarĵya kuṅkuma-sāra,
+kasturī-citrita kalebara |
+kampāśru-pulaka-raṅga,    stambha-sveda-svarabhaṅga,
+jāḍyānmāda—nabaratnadhara ||2||
 
-pañca-viṁśati guṇa, phulamālā suśobhana,
-        dhīrādhīrā bhāva-paṭṭavāsā
-pihita-mānadhamila-, saubhāgya-tilakojvalā,
-        kṛṣṇa-nāma yaśaḥ karṇollāsā (3)
+pañcabiṁśatika-guṇa-,    phulamālā suśobhana,
+dhīrādhīrā-bhāba—paṭṭabāsā |
+pihita-māna—dhammillā,    saubhāgya-tilakojjvalā,
+kṛṣṇanāma-ĵaśaḥ—karṇollāsā ||3||
 
-rāgatāmvulita oṣṭha, kauṭilya-kajvala spaṣṭa,
-        smita-karpūrita narmaśīlā
-kīrtiyaśa-antaḥpure, garva-khaṭṭopari sphure,
-        dulita prema-vaicityamālā (4)
+rāgatāmbūlita-oṣṭha,    kauṭilya-kajjvala spaṣṭa,
+smitakarpūrita-narmmaśīlā |
+kīrttiĵaśa-antaḥpure,    garbba-khaṭṭopari sphure,
+dulita-premabaicittya-mālā ||4||
 
-praṇaya-roṣa-kañculī, pihita-stana-yugmakā,
-        candrājayī kacchapa-raviṇī
-sakhī-dvayaskandhe līlā-karāmbujārpaṇa-śīlā,
-        śyāmā śyāmāmṛta-vitaraṇī (5)
+praṇayaroṣa-kañculī-,    pihita-stanaĵugmakā,
+candrājayī kacchapī-rabiṇī |
+sakhīdvayaskandhe līlā-,    karāmbujārpaṇaśīlā,
+śyāmā śyāmāmṛta-bitaraṇī ||5||
 
-e hena rādhikā-pada, tomādera susampada,
-        datne tṛṇa yāce tava pāya
-e <b>bhaktivinoda</b> dīna, rādhā-dāsyāmṛta-kaṇa,
-        rūpa-raghunātha! deha tāya (6)
-`,
-  "translation": ""
+e henô rādhikā-pada,    tomādera susampada,
+dante tṛṇa ĵāce taba pāya |
+e bhaktivinoda dīna,    rādhā-dāsyāmṛta-kaṇa,
+rūpa raghunātha! dehô tāya ||6||
+
+śabdārtha:- pihita-māna-dhammillā—pracchanna-mānarūpa khopā; karṇollāsā—karṇabhūṣaṇa; smitakapurita—mṛduhāsyarūpī karpūradvārā subāsita; narmmaśīlā—parihāsa-śīlā; candrājayī—candrāvalī-jayī; kacchapī-rabiṇī—‘kacchapī’ nāmaka bīṇā; karāmbujārpaṇaśīlā—karakamala arpaṇakāriṇī |`
 })

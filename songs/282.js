@@ -1,27 +1,26 @@
 push({
-  "title": "prabhu he, ei-bāra karaha karuṇā",
-  "author": "narottama-dāse",
+  "title": "prabhu he, eibāra karahô karuṇā",
+  "id": 282,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-rādhā-kṛṣṇa vijñapti",
   "language": "bengali",
   "verses": `
-prabhu he, ei-bāra karaha karuṇā
-yugala-caraṇa dekhi’, saphala kariba ākhi,
-        ei mora manera kāmanā (1)
+prabhu he, eibāra karahô karuṇā |
+ĵugalacaraṇa dekhi’,    saphala kôribô ā̃khi,
+ei mora manera kāmanā ||1||
 
-nija-pada-sevā dibā, nāhi more upekhibā,
-        duhu pahu karuṇā-sāgara
-duhu vinu nāhi jāno, ei baḍa bhāgya māno,
-        mui baḍa patita pāmara (2)
+nija-padasebā dibā,    nāhi more upekhibā,
+dũhu pãhu karuṇāsāgara |
+dũhu binu nāhi jānõ,    ei baḓô bhāgya māno,
+muñi baḓô patita pāmara ||2||
 
-lalitā-ādeśa pā-ā, caraṇa seviba yā-ā,
-        priya-sakhī-saṅge haya mane
-duhu dātā-śiromaṇi, ati dīna more jāni’,
-        nikaṭe caraṇa dibe dāne (3)
+lalitā-ādeśa pāñā,    caraṇa sebibô ĵāñā,
+priyasakhī-saṅge haya mane |
+dũhu dātā śiromaṇi,    ati dīna more jāni’,
+nikaṭe caraṇa dibe dāne ||3||
 
-pāba rādhā-kṛṣṇa-pā, ghucibe manera ghā,
-        dūre jābe esaba vikala
-<b>narottama-dāse</b> kaya, ei vāñchā siddhi haya,
-        deha-prāṇa sakala saphala (4)
-`,
-  "translation": ""
+pābô rādhākṛṣṇa-pā,    ghucibe manera ghā,
+dūre ĵābe esaba bikala |
+narottamadāse kaya,    ei bāñchā siddhi haya,
+deha-prāṇa—sakala saphala ||4||`
 })

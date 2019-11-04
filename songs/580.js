@@ -1,10 +1,10 @@
 push({
   "title": "jhulata śyāma, gaurī vāma, ānanda raṅge mātiyā",
+  "id": 580,
   "author": "uddhava dāsa",
   "category": "jhulanalīlā",
   "language": "bengali",
-  "verses": `
-jhulata śyāma, gaurī vāma, ānanda raṅge mātiyā
+  "verses": `jhulata śyāma, gaurī vāma, ānanda raṅge mātiyā
 iṣata hasita rabhasa keli jhulāyata kata sakhinī meli
         gāota kata bhātiyā (1)
 
@@ -26,7 +26,5 @@ bheda paḍala grāma pura, dhīra śabada jitasura
 maṇi ābharaṇa kiṅkinī baṅka, jhulane bājaye jhunura jhaṅka
         jhana jhana jhana jhātiyā
 rādhāmohana caraṇe āśa, kevala bharasā <b>uddhava dāsa</b>
-        racita pūrita chātiyā (5)
-`,
-  "translation": ""
+        racita pūrita chātiyā (5)`
 })

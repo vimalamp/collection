@@ -1,10 +1,10 @@
 push({
   "title": "tuhu guṇa-manjari, rupe guṇe agari",
+  "id": 285,
   "category": "śrī-guṇa-mañjaryah vijñaptih",
   "author": "śrīnivasa dāsa",
   "language": "bengali",
-  "verses": `
-(tathā rāga)
+  "verses": `(tathā rāga)
 tuhu guṇa-manjari, rupe guṇe agari,
         madhura madhura guṇa-dhāmā
 vraja-nava-yuva dvandva, prema-seva-parabandha
@@ -23,7 +23,5 @@ e jana kṛpaṇa ati, tuhu se kevala gati
 ūrdhva anguli kari, daśanete tṛna dhari
         nivedaha vārahi bāra
 <b>śrīnivasa dāsa</b> kāme, prema-sevā vraja-dhāme
-        prārthahu tuyā parivāra (4)
-`,
-  "translation": ""
+        prārthahu tuyā parivāra (4)`
 })

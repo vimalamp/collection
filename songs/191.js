@@ -1,11 +1,11 @@
 push({
   "title": "campaka śoṇa kusuma kanakācala",
+  "id": 191,
   "author": "govinda-dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `
-(vandanā-rāga)
+  "verses": `(vandanā-rāga)
 campaka śoṇa kusuma kanakācala
 jitala gaura-tanu-lābaṇi re (1)
 
@@ -25,7 +25,5 @@ nija-rase nācatanayana ḍhulāyata
 gāyata kata kata bhakatahiṁ meli (6)
 
 yo rase bhāsi abaśa mahī-maṇḍala
-<b>govinda-dāsa</b> tahiṁ paraśa nā bheli (7)
-`,
-  "translation": ""
+<b>govinda-dāsa</b> tahiṁ paraśa nā bheli (7)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "saṁsāra-dāvānala-līḍha-loka",
+  "id": 6,
   "category": "śrī-gurvaṣṭakam",
   "author": "śrīla-viśvanātha-cakravarti-ṭhakura viracitam",
   "language": "sanskrit",
-  "verses": `
-saṁsāra-dāvānala-līḍha-loka-
+  "verses": `saṁsāra-dāvānala-līḍha-loka-
     trāṇāya kāruṇya-ghanā-ghana-tvam
 prāptasya kalyāṇa-guṇārṇavasya
     vande guroḥ śrī-caraṇāravindam (1)
@@ -47,7 +47,5 @@ dhyāyaṁ-stuvaṁs-tasya yaśas-tri-sandhyaṁ
 śrīmad-guroraṣṭakam-etad-uccair
     brāhme muhūrte paṭhati prayatnāt
 yastena vṛndāvana-nātha-sākṣāt
-    sevaiva labhyā januṣo’nta eva (9)
-`,
-  "translation": ""
+    sevaiva labhyā januṣo’nta eva (9)`
 })

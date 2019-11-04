@@ -1,10 +1,10 @@
 push({
   "title": "e mana! ‘harināma’ kara sāra",
+  "id": 466,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-e mana! ‘harināma’ kara sāra
+  "verses": `e mana! ‘harināma’ kara sāra
 e bhava-sāgara, ha’be vāli-cara,
         hāṭiyā haibi pāra (1)
 
@@ -31,7 +31,5 @@ nāme rati ha’le, premera udaya,
 śravaṇa-kīrtana, kara anukṣaṇa,
         asata pacāla chāḍi’
 kahe <b>premānanda</b>, mānuṣa-janama,
-        saphala kara nā bhāḍi (6)
-`,
-  "translation": ""
+        saphala kara nā bhāḍi (6)`
 })

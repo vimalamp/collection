@@ -1,11 +1,11 @@
 push({
   "title": "ānanda-kanda, nitāi-canda",
+  "id": 156,
   "author": "rādhā-ballabha-dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
-  "verses": `
-ānanda-kanda, nitāi-canda,
+  "verses": `ānanda-kanda, nitāi-canda,
         aruṇa nayana karuṇa chanda
 karuṇa-pūra, saghane jhura,
         hari hari dhvani bola re (1)
@@ -43,7 +43,5 @@ jagata-locana, paṭala-mocana,
 andha-adhama, dīna-durajana,
         prema-dāne karala mocana
 pāola jagata, kevala vañcita,
-        e <b>rādhā-ballabha-dāsa</b> re (8)
-`,
-  "translation": ""
+        e <b>rādhā-ballabha-dāsa</b> re (8)`
 })

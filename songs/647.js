@@ -1,10 +1,10 @@
 push({
   "title": "kṛṣṇa kṛṣṇa-bhakta-gaṇa guṇa nāma su-carita",
+  "id": 647,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-kṛṣṇa kṛṣṇa-bhakta-gaṇa guṇa nāma su-carita
+  "verses": `kṛṣṇa kṛṣṇa-bhakta-gaṇa guṇa nāma su-carita
         maṇḍana sambandhi taṭasthādi
 bhāva jata agaṇana e rasera uddīpana
         hetu boli’ bole rasa-bedi (1)
@@ -32,7 +32,5 @@ khaga bhṛṅga mṛga kuñja tulasikā latā-puñja
 jyotsnā ghana saudaminī śarat-pūrṇa-niśāmaṇi
         gandha-vāha āra khaga-caya
 taṭasthākhya uddīpana rasāsvāda-vibhāvana
-        kare saba haiyā sadaya (6)
-`,
-  "translation": ""
+        kare saba haiyā sadaya (6)`
 })

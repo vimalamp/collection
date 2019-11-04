@@ -1,10 +1,10 @@
 push({
   "title": "śrī-kṛṣṇa-brahma-devarṣi-vādarāyaṇa-saṁjñakān",
+  "id": 5,
   "category": "śrī-guru-paramparā",
   "author": "śrīla-kakirṇapūrānumoditā, śrīla-gopāla-bhaṭṭa-gosvāminā, śrīla-baladeva-vidyā-bhūṣaṇena coddhṛtā",
   "language": "sanskrit",
-  "verses": `
-śrī-kṛṣṇa-brahma-devarṣi-vādarāyaṇa-saṁjñakān
+  "verses": `śrī-kṛṣṇa-brahma-devarṣi-vādarāyaṇa-saṁjñakān
 śrī-madhva-śrī-padmanābha-śrīman-nṛhari-mādhavān (1)
 
 akṣobhya-jayatīrtha-śrī-jñānasindhu-dayānidhīn
@@ -59,7 +59,5 @@ sarva te gaura-vaṁśyāś-ca parama-haṁsa-vigrahāḥ
 vayañ-ca praṇatā dāsās-tad-ucchiṣṭa-grahā-grahāḥ (18)
 
 <sup>1</sup><sub><eng>hereafter, jagad-guru-śrīla-bhakti-siddhānta-sarasvatī-ṭhakura is the author<eng></sub>
-<sup>2</sup><sub><eng>śuddha-gauḍīya-vaiṣṇavas appended the remaining verses<eng></sub>
-`,
-  "translation": ""
+<sup>2</sup><sub><eng>śuddha-gauḍīya-vaiṣṇavas appended the remaining verses<eng></sub>`
 })

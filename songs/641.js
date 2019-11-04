@@ -1,10 +1,10 @@
 push({
   "title": "su-ramyādi guṇa-gaṇa haiyāche vibhūṣaṇa",
+  "id": 641,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-su-ramyādi guṇa-gaṇa haiyāche vibhūṣaṇa
+  "verses": `su-ramyādi guṇa-gaṇa haiyāche vibhūṣaṇa
         lalanā-ucita jata-dūra
 pṛthu-prema su-mādhurya sampadera su-pracurya
         śrī-kṛṣṇa-vallabha rasa-pūra (1)
@@ -22,7 +22,5 @@ sei dui madhye śreṣṭha rādhikā kṛṣṇera preṣṭha
 āra jata nitya-priyā nija nija yūtha lañā
         se du’yera karena sevana
 śrī-rūpa-anuga jana śrī-rādhikā-śrī-caraṇa
-        vinā nāhi jāne anya dhana (4)
-`,
-  "translation": ""
+        vinā nāhi jāne anya dhana (4)`
 })

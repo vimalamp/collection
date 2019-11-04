@@ -1,10 +1,10 @@
 push({
   "title": "nava-priyaka-mañjarī-racita-karṇa-pūra-śriyaṁ",
+  "id": 54,
   "category": "śrī-keśavāṣṭakam",
   "author": "śrīla-rūpa-gosvami",
   "language": "sanskrit",
-  "verses": `
-nava-priyaka-mañjarī-racita-karṇa-pūra-śriyaṁ
+  "verses": `nava-priyaka-mañjarī-racita-karṇa-pūra-śriyaṁ
     vinidratara-mālatī-kalita-śekhareṇojvalam
 darocchvasita-yūthikā-grathita-valgu-vaikakṣakaṁ
     vraje vijayinaṁ bhaje vipina-deśataḥ keśavam (1)
@@ -47,7 +47,5 @@ stana-stavaka-sañcaran-nayana-cañcarīkāñcalaṁ
 idaṁ nikhila-ballavī-kula-mahotsavollāsanaṁ
     krameṇa kila yaḥ pumān paṭhati suṣṭhu padyāṣṭakam
 tam ujvala-dhiyaṁ sadā nija-padāravinda-dvaye
-    ratiṁ dadhad acañcalāṁ sukhayatād viśākhā-sakhaḥ (9)
-`,
-  "translation": ""
+    ratiṁ dadhad acañcalāṁ sukhayatād viśākhā-sakhaḥ (9)`
 })

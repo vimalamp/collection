@@ -1,10 +1,10 @@
 push({
   "title": "gāṅgeya-cāmpeya-taḍid-vinindi",
+  "id": 76,
   "category": "śrī-vṛndā-devyaṣṭakam",
   "author": "śrīla-viśvanātha-cakravartī-ṭhākura",
   "language": "sanskrit",
-  "verses": `
-gāṅgeya-cāmpeya-taḍid-vinindi-
+  "verses": `gāṅgeya-cāmpeya-taḍid-vinindi-
     rociḥ-pravāha-snapitātma-vṛnde!
 bandhūka-bandhu-dyuti-divya-vāso
     vṛnde! numas te caraṇāravindam (1)
@@ -47,7 +47,5 @@ kṛpāmayi! tvāṁ śaraṇaṁ prapannā
 vṛndāṣṭakaṁ yaḥ śṛṇuyāt paṭhed vā
     vṛndāvanādhīśa-padābja-bhṛṅgaḥ
 sa prāpya vṛndāvana-nitya-vāsaṁ
-    tat-prema-sevāṁ labhate kṛtārthaḥ (9)
-`,
-  "translation": ""
+    tat-prema-sevāṁ labhate kṛtārthaḥ (9)`
 })

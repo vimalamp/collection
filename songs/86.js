@@ -1,10 +1,10 @@
 push({
   "title": "aṅga-śyāmalima-chaṭābhir abhito mandī-kṛtendīvaraṁ",
+  "id": 86,
   "category": "śrī-kṛṣṇa-stuti",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-aṅga-śyāmalima-chaṭābhir abhito mandī-kṛtendīvaraṁ
+  "verses": `aṅga-śyāmalima-chaṭābhir abhito mandī-kṛtendīvaraṁ
     jāḍyam-jāguḍa-rociṣām-vidadhatam-paṭṭāmbarasya śriyā
 vṛndāraṇya-vilāsinam-hṛdi lasad-dāmābhir āmodaraṁ
     rādhā-skandha-niveśitojjvala-bhujam-dhyāyema dāmodaram (1)
@@ -62,7 +62,5 @@ yan-mitraṁ paramānandaṁ
 nandaḥ kim akarod brahman
     śreya evaṁ mahodayam
 yaśodā ca mahā-bhāgā
-    papau yasyāḥ stanaṁ hariḥ (12)
-`,
-  "translation": ""
+    papau yasyāḥ stanaṁ hariḥ (12)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "(prabhu he!) śuna mora duḥkhera kāhinī",
+  "id": 469,
   "author": "bhaktivinode",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
-  "verses": `
-<i>dainya–duḥkhātmaka (kāyika)</i>
+  "verses": `<i>dainya–duḥkhātmaka (kāyika)</i>
 (prabhu he!) śuna mora duḥkhera kāhinī
         viṣaya-halāhala, sudhābhāṇe piyalu,
 āb avasāna dina-maṇi (1)
@@ -27,7 +27,5 @@ patita bandhu tuhu, patitādhama hāma,
 vicārite āvahi, guṇa nāhi pāobi, kṛpā kara,
         choḍata vicāra
 tava pada-paṅkaja-, sīdhu pibāota,
-        <b>bhaktivinode</b> kara’ pāra (5)
-`,
-  "translation": ""
+        <b>bhaktivinode</b> kara’ pāra (5)`
 })

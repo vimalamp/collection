@@ -1,19 +1,18 @@
 push({
-  "title": "bhāire! śrī-caitanya-nityānanda, śrīvāsādi bhakta-vṛnda",
-  "author": "Unknown",
+  "title": "bhāire! śrīcaitanya-nityānanda",
+  "id": 617,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-mahā-prasāda-māhātmya-kīrtana",
   "language": "bengali",
   "verses": `
-bhāire!
-śrī-caitanya-nityānanda, śrīvāsādi bhakta-vṛnda,
-        gaurī-dāsa paṇḍitera ghare
-luci, cini, kṣīra, sara, miṭhāi, pāyasa āra,
-        piṭhāpānā āsvādana kare (1)
+bhāire! 
+śrīcaitanya-nityānanda,    śrīvāsādi bhaktabṛnda,
+gaurīdāsa-paṇḍitera ghare |
+luci, cini, kṣīra, sara,    miṭhāi, pāyasa āra,
+piṭhāpānā āsvādana kare ||1||
 
-mahāprabhu bhakta-gaṇe, parama ānanda-mane,
-        ājñā dila karite bhojana
-kṛṣṇera prasāda-anna, bhojane haiyā dhanya,
-        kṛṣṇa bali’ ḍāke sarva-jana (2)
-`,
-  "translation": ""
+mahāprabhu bhaktagaṇe,    parama ānanda-mane,
+ājñā dilô kôrite bhojana |
+kṛṣṇera prasāda-anna,    bhojane hô_iyā dhanya,
+kṛṣṇa bôli’ ḍāke sarbbajana ||2||`
 })

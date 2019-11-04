@@ -1,28 +1,27 @@
 push({
-  "title": "jīve kṛpā kari’, golokera hari",
+  "title": "jībe kṛpā kôri’",
+  "id": 296,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-kṛṣṇa-līlā-varṇana",
   "language": "bengali",
   "verses": `
-(dhānaśī)
-jīve kṛpā kari’, golokera hari,
-        vraja-bhāva prakāśila
-se bhāva-rasajña, vṛndāvana-yogya,
-        jaḍa-buddhi nā haila (1)
+jībe kṛpā kôri’,    golokera hari,
+vrajabhāba prakāśilô |
+se bhāba-rasajña,    vṛndāvana-ĵogya,
+jaḓabuddhi nā hô_ilô ||1||
 
-kṛṣṇa-līlā-samudra apāra
-vaikunṭha-vihāra, samāna ihāra,
-        kabhu nahe jāna’ sāra (2)
+kṛṣṇalīlā-samudra apāra |
+vaikuṇṭha-bihāra,    samāna ĩhāra,
+kabhu nahe jānô’ sāra ||2||
 
-kṛṣṇa narakāra, sarva-rasā-dhāra,
-        śṛṅgārera viśeṣataḥ
-vaikunṭha-sādhaka, sakhya apāraka,
-        madhure nā haya rata (3)
+kṛṣṇa-narākāra,    sarbba-rasādhāra,
+śṛṅgārera biśeṣataḥ |
+vaikuṇṭha-sādhaka,    sakhye apāraka,
+madhure nā haya rata ||3||
 
-vraje kṛṣṇa-dhana, navīna-madana,
-        aprākṛta rasa-maya
-jīvera sahita, nitya-līlocita,
-        kṛṣṇa-guṇa-gaṇa haya (4)
-`,
-  "translation": ""
+vraje kṛṣṇa-dhana,    nabīna-madana,
+aprākṛta rasamaya |
+jībera sahita,    nitya-līlocita,
+kṛṣṇa-guṇagaṇa haya ||4||`,
+  "notes": "dhānaśī"
 })

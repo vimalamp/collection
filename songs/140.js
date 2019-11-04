@@ -1,11 +1,11 @@
 push({
   "title": "kuvera pandita, ati hara sita",
+  "id": 140,
   "author": "dasa vaiṣṇavara",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-advaita prabhura janmalīlā",
   "language": "bengali",
-  "verses": `
-kuvera pandita, ati hara sita,
+  "verses": `kuvera pandita, ati hara sita,
         dekhiyā putrera mukha
 kari jāta-karma, achila dharma,
         vāḍaye manera sukha (1)
@@ -38,7 +38,5 @@ tāra bhāgya sīmā, ke diba upamā,
 e teka vacana, saba nārīgaṇe,
         kahe gadgad bhāṣa
 jagata tāraṇa, bujhala kāraṇa,
-        <b>dasa vaiṣṇavara</b> āśā (7)
-`,
-  "translation": ""
+        <b>dasa vaiṣṇavara</b> āśā (7)`
 })

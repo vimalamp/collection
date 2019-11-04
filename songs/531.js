@@ -1,32 +1,31 @@
 push({
-  "title": "sādhu-saṅga nā haila hāya!",
+  "title": "sādhusaṅga nā hô_ilô hāya!",
+  "id": 531,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "anutāpa-lakṣaṇa-upalabdhi",
   "language": "bengali",
   "verses": `
-sādhu-saṅga nā haila hāya!
-gela dina akāraṇa, kari’ artha upārjana,
-        paramārtha rahila kothāya? (1)
+sādhusaṅga nā hô_ilô hāya! 
+gelô dina akāraṇa,    kôri’ artha upārjjana,
+paramārtha rahilô kothāya ??1??
 
-suvarṇa kariyā tyāga, tuccha loṣṭre anurāga,
-        durbhāgāra ei ta’ lakṣaṇa
-kṛṣṇetara saṅga kari’, sādhu-jane parihari’,
-        madagarve kāṭā’nu jīvana (2)
+subarṇa kôriyā tyāga,    tuccha loṣṭre anurāga,
+durbhāgāra ei tô’ lakṣaṇa |
+kṛṣṇetara saṅga kôri’,    sādhujane parihari’,
+madagarbbe kāṭā’nu jībana ||2||
 
-bhakti-mudrā-daraśane, hāsya karitāma mane,
-        bātulatā baliyā tāhāya
-je sabhyatā śreṣṭha gaṇi’, hārāinu cintāmaṇi,
-        śeṣe tāhā rahila kothāya? (3)
+bhaktimudrā-daraśane,    hāsya kôritāma mane,
+bātulatā bôliyā tāhāya |
+ĵe sabhyatā śreṣṭha gaṇi’,    hārāinu cintāmaṇi,
+śeṣe tāhā rahilô kothāya ??3??
 
-jñānera garimā-bale, bhakti-rūpa susambale,
-        upekṣinusvārtha pāśariyā
-duṣṭa jaḍāśrita jñāna, ebe ha’la atarnddhāna,
-        karma-bhoge āmāke rākhiyā (4)
+jñānera garimā bale,    bhaktirūpa susambale,
+upekṣinu svārtha pāśariyā |
+duṣṭa jaḓāśrita jñāna,    ebe ha’lô antarddhāna,
+karmmabhoge āmāke rākhiyā ||4||
 
-ebe yadi sādhu-jane, kṛpā kari’ e durjane,
-        dena bhakti-samudrera bindu
-tā’ haile anāyāse, mukta ha’ye bhavapāśe,
-        pāra hai ei saṁsāra-sindhu (5)
-`,
-  "translation": ""
+ebe ĵadi sādhujane,    kṛpā kôri’ e durjjane,
+dena bhakti-samudrera bindu |
+tā’ hô_ile anāyāse,    mukta ha’ye bhabapāśe,
+pāra hô_i e saṁsāra-sindhu ||5||`
 })

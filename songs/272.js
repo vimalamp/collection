@@ -1,10 +1,10 @@
 push({
   "title": "nirjana kuṭīre, śrī rādhā-caraṇa",
+  "id": 272,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-nirjana kuṭīre, śrī rādhā-caraṇa,
+  "verses": `nirjana kuṭīre, śrī rādhā-caraṇa,
         smaraṇe thākiba rata
 śrī rūpa mañjarī, dhīre dhīre āsi’,
         kahibe āmāya kata (1)
@@ -21,7 +21,5 @@ yogīra dheyāna, nirviśeṣa jñāna,
 sākṣāta darśana, madhyāhna līlāya,
         rādhā-pada-sevārthinī
 jakhana je sevā, karaha jatane,
-        śrī rādhā-caraṇe dhani (4)
-`,
-  "translation": ""
+        śrī rādhā-caraṇe dhani (4)`
 })

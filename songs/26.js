@@ -1,10 +1,10 @@
 push({
   "title": "vṛndāvane viharator iha keli-kuñje",
+  "id": 26,
   "category": "śrī-gāndharvā-samprārthanāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-vṛndāvane viharator iha keli-kuñje
+  "verses": `vṛndāvane viharator iha keli-kuñje
     matta-dvipa-pravara-kautuka-vibhrameṇa
 sandarśa yasva yuvayor vadanāravinda-
     dvandvaṁ vidhehi mayi devi! kṛpāṁ prasīda (1)
@@ -47,7 +47,5 @@ phullābhir ālibhir analpam udīryamāṇa-
 yaḥ ko ’pi suṣṭhu vṛṣabhānu-kumārikāyāḥ
     samprārthanāṣṭakam idaṁ paṭhati prapannaḥ
 sā preyasā saha sametya dhṛta-pramodā
-    tatra prasāda-laharīm urarī-karoti (9)
-`,
-  "translation": ""
+    tatra prasāda-laharīm urarī-karoti (9)`
 })

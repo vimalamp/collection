@@ -1,38 +1,37 @@
 push({
-  "title": "gajendra-gamane jāya, sakaruṇa diṭhe cāya",
-  "author": "balarāma-dāse",
+  "title": "gajendragamane ĵāya",
+  "id": 157,
+  "author": "balarāmadāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
   "verses": `
-gajendra-gamane jāya, sakaruṇa diṭhe cāya,
-        padabhare mahī ṭalamala
-mata siṁha jini’, kampa-māna medinī,
-        pāṣaṇḍi-gaṇa śuniyā vikala (1)
+gajendragamane ĵāya,    sakaruṇa diṭhe cāya,
+padabhare mahī ṭalamala |
+matta siṁha jini’,    kampamāna medinī,
+pāṣaṇḍigaṇa śuniyā bikala ||1||
 
-āota avadhūta karuṇāra sindhu
-preme garagara mana, kare hari-saṅkīrtana,
-        patita pāvana dīna-bandhu (2)
+āotô abadhūta karuṇāra sindhu |
+preme garagara mana,    kare hari-saṅkīrttana,
+patita pābana dīnabandhu ||2||
 
-huṅkāra kariyā cale, acala sacala gaḍe,
-        preme bhāse amara samāja
-sahacara-gaṇa saṅge, vividha-khelana raṅge,
-        alakhite kare saba kāja (3)
+huṅkāra kôriyā cale,    acala sacala naḓe,
+preme bhāse amara-samāja |
+sahacaragaṇa saṅge,    bibidha-khelana raṅge,
+alakhite kare saba kāja ||3||
 
-śeṣaśāyī-saṅkarṣaṇa, avatārī,–nārāyaṇa,
-        jā’ra aṁśa kalāte gaṇana
-kṛpā-sindhu bhakti-dātā, jagatera hitakartā,
-        sei rāma rohiṇī-nandana (4)
+śeṣaśāyī-saṅkarṣaṇa,    abatārī—nārāyaṇa,
+ĵā̃’ra aṁśa kalāte gaṇana |
+kṛpāsindhu bhaktidātā,    jagatera hitakarttā,
+sei rāma rohiṇīnandana ||4||
 
-jā’ra līlā lāvaṇya-dhāma, āgame nigame gāna,
-        jā’ra rūpa madana-mohana
-ebe akiñcana-veśe, phire pahu deśe deśe,
-        uddhāra karaye tri-bhuvana (5)
+ĵā̃’ra līlā lābaṇyadhāma,    āgame nigame gāna,
+ĵā̃’ra rūpa madanamohana |
+ebe akiñcana beśe,    phire pãhu deśe deśe,
+uddhāra karaye tribhubana ||5||
 
-vrajera vaidagdhī sāra, yata yata līlā āra,
-        pāivāre yadi thāke mana
-<b>balarāma-dāse</b> kaya, manoratha siddhi haya,
-        bhaja bhaja śrī-pādacaraṇa (6)
-`,
-  "translation": ""
+vrajera baidagdhī sāra,    ĵatô ĵatô līlā āra,
+pāibāre ĵadi thāke mana |
+balarāmadāse kaya,    manoratha siddhi haya,
+bhajô bhajô śrīpādacaraṇa ||6||`
 })

@@ -1,29 +1,31 @@
 push({
-  "title": "āmāra emana bhāgya kata-dine ha’be",
+  "title": "āmāra emôna bhāgya",
+  "id": 127,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-guru-vaiṣṇave lālasāmayī prārthanā",
   "language": "bengali",
   "verses": `
-āmāra emana bhāgya kata-dine ha’be
-āmāre āpana bali’ jānibe vaiṣṇave (1)
+āmāra emôna bhāgya katô dine ha’be | 
+āmāre āpana bôli’ jānibe vaiṣṇave ||1||
 
-śrī-guru-caraṇāmṛta-mādhivaka-sevane
-mata ha’ye kṛṣṇa-guṇa gā’ba vṛndāvane (2)
+śrīgurucaraṇāmṛta-mādhvika-sebane | 
+matta ha’ye kṛṣṇaguṇa gā’bô vṛndāvane ||2||
 
-karmī, jñānī, kṛṣṇa-dveṣī bahir-mukha-jana
-ghṛṇā kari’ akiñcane karibe varjana (3)
+karmmī, jñānī, kṛṣṇadveṣī bahirmmukha-jana | 
+ghṛṇā kôri’ akiñcane kôribe barjjana ||3||
 
-karma-jaḍa-smārta-gaṇa karibe siddhānta
-ācāra-rahita ei nitānta aśānta (4)
+karmmajaḓa-smārttagaṇa kôribe siddhānta | 
+ācāra-rahita ei nitānta aśānta ||4||
 
-vātula baliyā more paṇḍitābhimānī
-tyajibe āmāra saṅga māyāvādī jñānī (5)
+bātula bôliyā more paṇḍitābhimānī | 
+tyajibe āmāra saṅga māyāvādī jñānī ||5||
 
-kusaṅga-rahita dekhi’ vaiṣṇava-sujana
-kṛpā kari’ āmāre dibena āliṅgana (6)
+kusaṅga-rahita dekhi’ vaiṣṇava-sujana | 
+kṛpā kôri’ āmāre dibena āliṅgana ||6||
 
-sparśiyā vaiṣṇava-deha e durjana chāra
-ānande labhibe kabe sāttvika vikāra (7)
-`,
-  "translation": ""
+sparśiyā vaiṣṇava-deha e durjjana chāra | 
+ānande labhibe kabe sāttvika bikāra ||7||`,
+  "translation": {
+    "bn": "śabdārthaḥ:- mādhvika—madhu hô_ite ut.panna mada; bātula—bāyurogagrasta arthāt. kṛṣṇapreme mattatā"
+  }
 })

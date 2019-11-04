@@ -1,32 +1,34 @@
 push({
-  "title": "dārā-putra-nija-deha-kuṭumba-pālane",
-  "author": "bhaktivinoda",
+  "title": " dārā-putra-nija-deha",
+  "id": 479,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>ātma-nivedana–mama-stāpada deha-samarpaṇa (māna-sika)</i>
-dārā-putra-nija-deha-kuṭumba-pālane
-sarvadā vyākula āmi chinu mane mane (1)
+ātmanibedana—mamatāspada dehasamarpaṇa 
+(mānasika)
 
-kemane arjiba artha, yaśa kise pā’ba
-kanyā-putra-vivāha kemane sampādiba (2)
+dārā-putra-nija-deha-kuṭumba-pālane | 
+sarbbadā byākula āmi chinu mane mane ||1||
 
-ebe ātma-samarpaṇe cintā nāhi āra
-tumi nirvāhibe prabhu! saṁsāra tomāra (3)
+kemône arjjibô artha, ĵaśa kise pābô | 
+kanyā-putra-bibāha kemône sampādiba ||2||
 
-tumi ta’ pālibe more nija-dāsa jāni’
-tomāra sevāya prabhu! baḍa sukha māni (4)
+ebe ātmasamarpaṇe cintā nāhi āra | 
+tumi nirbbāhibe prabhu! saṁsāra tomāra ||3||
 
-tomāra icchāya prabhu! sarva kārya haya
-jīva bale,–‘kari āmi’, se ta’ satya naya (5)
+tumi tô’ pālibe more nijadāsa jāni’ | 
+tomāra sebāya prabhu! baḓô sukha māni ||4||
 
-jīva ki karite pāre, tumi nā karile
-āśāmātra jīva kare, tava icchā-phale (6)
+tomāra icchāya prabhu! sarbba kārĵya haya | 
+jība bôle,—‘kôri āmi’, se tô’ satya naya ||5||
 
-niścinta haiyā āmi seviba tomāya
-        gṛhe bhāla-manda ha’le nāhi mora dāya
-<b>bhaktivinoda</b> nija-svāntatrya tyajiyā
-        tomāra caraṇa seve’ akiñcana haiyā (7)
-`,
-  "translation": ""
+jība ki kôrite pāre, tumi nā kôrile ?
+āśāmātra jība kare, taba icchā—phale ||6||
+
+niścinta hô_iyā āmi sebibô tomāya | 
+gṛhe bhālô-manda ha’le nāhi mora dāya ||7||
+
+bhakativinoda nija-svātantrya tyajiyā | 
+tomāra caraṇa sebe’ akiñcana hô_iyā ||8||`
 })

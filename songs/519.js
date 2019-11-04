@@ -1,29 +1,31 @@
 push({
-  "title": "hari he! āmi aparādhi-jana, sadā daṇḍya",
-  "author": "bhaktivinoda",
+  "title": "hari he! āmi aparādhi-jana",
+  "id": 519,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
-<i>aparādha-sahasra-bhājanaṁ
-    patitaṁ bhīma-bhavārṇavodare
-agatiṁ śaraṇāgataṁ hare
-    kṛpayā kevalamātma-sāt kuru</i>
+<i>aparādhasahasrabhājanaṁ 
+patitaṁ bhīmabhavārṇavodare |
+agatiṁ śaraṇāgataṁ hare 
+kṛpayā kevalamātmasāt. kuru ||17||</i>
 
-hari he!
-āmi aparādhi-jana, sadā daṇḍya, durllakṣaṇa,
-        sahasra sahasra doṣe doṣī
-bhīma bhavārṇavodare, patita viṣama ghore,
-        gatihīna gati-abhilāṣī (1)
+hari he! 
+āmi aparādhi-jana,    sadā daṇḍya, durllakṣaṇa,
+sahasra sahasra doṣe doṣī |
+bhīma bhabārṇabodare,    patita biṣama ghore,
+gatihīna gati-abhilāṣī ||1||
 
-hari! tava pāda-padme, śaraṇa lainu bhaye,
-        kṛpā kari’ kara ātma-sātha
-tomāra pratijñā ei, śaraṇa laibe jei,
-        tumi tā’ra rakṣākartā nātha (2)
+hari! taba pādadvaye,    śaraṇa lô_inu bhaye,
+kṛpā kôri’ karô ātmasātha |
+tomāra pratijñā ei,    śaraṇa lô_ibe ĵei,
+tumi tā’ra rakṣākarttā nātha ||2||
 
-pratijñāte kari’ bhara, o mādhava prāṇeśvara!
-        śaraṇa laila ei dāsa
-e <b>bhaktivinoda</b> gāya, tomāra se rāṅgāpāya,
-        deha dāse sevāya vilāsa (3)
-`,
-  "translation": ""
+pratijñāte kôri’ bhara,    o mādhava prāṇeśvara! 
+śaraṇa lô_ilô ei dāsa |
+e bhaktivinoda gāya,    tomāra se rāṅgāpāya,
+dehô dāse sebāya bilāsa ||3||`,
+  "translation": {
+    "bn": "śabdārtha:- daṇḍya—daṇḍanīya; bhīma bhabārṇabodare—bhīṣaṇa-bhabasāgara madhye"
+  }
 })

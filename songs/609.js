@@ -1,45 +1,44 @@
 push({
-  "title": "harata sakala santāpa janama ko",
+  "title": "haratô sakala santāpa",
+  "id": 609,
   "category": "sandhyārati",
   "subcategory": "śrī-madana-gopāla-ārati",
-  "author": "Unknown",
+  "author": "lekhaka ajānā",
   "language": "bengali",
   "verses": `
-harata sakala santāpa janama ko,
-miṭata talapa yama kāla ki
-ārati kiye jaya jaya madana-gopāla ki (1)
+haratô sakala santāpa janamako,
+miṭata talapa ĵama kāla ki |
+ārati kiye jaya jaya madanagopāla ki ||1||
 
-goghṛta racita karpūra ki bāti,
-–jhalakata kāñcana thāla ki
-ārati kiye jaya jaya madana-gopāla ki (2)
+goghṛta racita karpūra ki bāti,—
+jhalakata kāñcana thālô ki |
+ārati kiye jaya jaya madanagopāla ki ||2||
 
-candra koṭī koṭī bhānu koṭī chavi,
-mukha-śobhānanda dulāla ki
-ārati kiye jaya jaya madana-gopāla ki (3)
+candra koṭī, koṭī bhānu koṭī chabi,
+mukhaśobhānanda dulāla ki |
+ārati kiye jaya jaya madanagopāla ki ||3||
 
-caraṇa-kamalapara nūpura rāje,
-añjali kusuma gulāla ki
-ārati kiye jaya jaya madana-gopāla ki (4)
+caraṇakamalapara nūpura rāje,
+añjali kusuma gulāla ki |
+ārati kiye jaya jaya madanagopāla ki ||4||
 
 mayūra mukuṭa pītāmbara śobhe,
-uḍe dole vaijayantī-māla ki
-ārati kiye jaya jaya madana-gopāla ki (5)
+uḓe dole vaijayantīmāla ki |
+ārati kiye jaya jaya madanagopāla ki ||5||
 
-sundara lola kapolana kiye chavi,
-nirakhata madana-gopāla ki
-ārati kiye jaya jaya madana-gopāla ki (6)
+sundara lola kapolana kiye chabi,
+nirakhata madanagopāla ki |
+ārati kiye jaya jaya madanagopāla ki ||6||
 
-suranara muni-gaṇa karatahi ārati,
-bhakata-vatsala pratipāla ki
-ārati kiye jaya jaya madana-gopāla ki (7)
+suranara munigaṇa karatahĩ ārati,
+bhakata-vat.sala pratipāla ki |
+ārati kiye jaya jaya madanagopāla ki ||7||
 
 bāje ghaṇṭā tāla mṛdaṅga jhājhari,
-bājata veṇu rasāla ki
-ārati kiye jaya jaya madana-gopāla ki (8)
+bājatô beṇu rasāla ki |
+ārati kiye jaya jaya madanagopāla ki ||8||
 
-hu hu bali bali raghunātha-dāsa gosvāmī 
-mohana gokulalāla ki
-ārati kiye jaya jaya madana-gopāla ki (9)
-`,
-  "translation": ""
+hũ hũ bôli bôli raghunāthadāsa gosvāmī, 
+mohana gokulalāla ki |
+ārati kiye jaya jaya madanagopāla ki ||9||`
 })

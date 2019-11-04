@@ -1,10 +1,10 @@
 push({
   "title": "su-ramya madhura-smita sarva-sal-lakhaṇānvita",
+  "id": 640,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-su-ramya madhura-smita sarva-sal-lakhaṇānvita
+  "verses": `su-ramya madhura-smita sarva-sal-lakhaṇānvita
         balīyān taruṇa gambhīra
 bāvadūka priya-bhāṣī sudhī sapratibhāśvāsī
         vidagdha catura sukhī dhīra (1)
@@ -22,7 +22,5 @@ ceṭaka-viṭa-veṣṭita vidūṣaka-susevita
 e pañca sahāya-yuta nandīśvara-pati-suta
         pati-upapati-bhāvācārī
 anukūla śaṭha dhṛṣṭa sudakhiṇa rasa-tṛṣṇa
-        rasa-mūrti nikuñja-bihārī (4)
-`,
-  "translation": ""
+        rasa-mūrti nikuñja-bihārī (4)`
 })

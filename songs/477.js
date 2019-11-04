@@ -1,33 +1,31 @@
 push({
-  "title": "vastutaḥ sakali tava, jīva keha naya",
-  "author": "bhaktivinoda",
+  "title": " bastutaḥ sakali taba",
+  "id": 477,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>ātma-nivedana–mama-stāpada-deha-samarpaṇa (vācika)</i>
-vastutaḥ sakali tava, jīva keha naya
-‘ahaṁ’-‘mama’-brame brami’ bhoge śoka-bhaya (1)
+bastutaḥ sakali taba, jība kehô naya | 
+‘ahaṁ’-‘mama’-bhrame bhrami’ bhoge śoka-bhaya ||1||
 
-‘ahaṁ’-‘mama’-abhimāna ei-mātra dhana
-baddha-jīva nija-bali’ jāne mane mana (2)
+‘ahaṁ’-‘mama’-abhimāna eimātra dhana | 
+baddhajība nija-bôli’ jāne mane mana ||2||
 
-sei abhimāne āmi saṁsāre paḍiyā
-hābuḍubu khāi bhava-sindhu sātāriyā (3)
+sei abhimāne āmi saṁsāre pôḓiyā | 
+hābuḍubu khāi bhabasindhu sā̃tāriyā ||3||
 
-tomāra abhaya pade laiyā śaraṇa
-āji āmi karilāma ātma-nivedana (4)
+tomāra abhaya pade lô_iyā śaraṇa | 
+āji āmi kôrilāma ātmanibedana ||4||
 
-‘ahaṁ’-‘mama’-abhimāna chāḍila āmāya
-āra jena mama hṛde sthāna nāhi pāya (5)
+‘ahaṁ’-‘mama’-abhimāna chāḓilô āmāya | 
+āra ĵenô mama hṛde sthāna nāhi pāya ||5||
 
-ei mātra bala prabhu! dibe he āmāre
-ahaṁtā-mamatā dūre pāri rākhibāre (6)
+eimātra bôlô prabhu! dibe he āmāre | 
+ahaṁtā-mamatā dūre pāri rākhibāre ||6||
 
-ātma-nivedana-bhāva hṛde dṛḍha raya
-hasti-snāna-sama jena kṣaṇika nā haya (7)
+ātmanibedana-bhāba hṛde dṛḓha raya | 
+hastisnāna-sama ĵenô kṣaṇika nā haya ||7||
 
-<b>bhaktivinoda</b> prabhu nityānanda-pā-ya
-māge parasāda, jāhe abhimāna jāya (8)
-`,
-  "translation": ""
+bhakativinoda prabhu-nityānanda-pā-.ya’ | 
+māge parasāda, ĵāhe abhimāna ĵāya ||8||`
 })

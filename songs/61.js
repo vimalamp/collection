@@ -1,10 +1,10 @@
 push({
   "title": "madhuri-puratra-vasante",
+  "id": 61,
   "author": "śrī-rūpa gosvāmī",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `
-<i>vasanta rāga</i>
+  "verses": `<i>vasanta rāga</i>
 madhuri-puratra-vasante
     khelati gokula, yuvatibhir-ujvala,
 puṣpa-sugandhi-digante (1)
@@ -22,7 +22,5 @@ nava-śaśi-rekhā, likhita-viśākhā,
 bhadrālambita, śaibyādīrita,
     rakta-rajobhara-dhārī
 paśya-sanātana, mūrtimimāṁ ghana,
-    vṛndāvana-ruci-kārī (4)
-`,
-  "translation": ""
+    vṛndāvana-ruci-kārī (4)`
 })

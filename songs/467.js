@@ -1,10 +1,10 @@
 push({
   "title": "śrī-kṛṣṇa-caitanya prabhu jīve dayā kari",
+  "id": 467,
   "author": "bhaktivinoda",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
-  "verses": `
-<i>ānukūlyasya saṅkalpaḥ prātikūlya-vivarjanam
+  "verses": `<i>ānukūlyasya saṅkalpaḥ prātikūlya-vivarjanam
     rakṣiṣyatīti viśvāso goptṛtve varaṇaṁ tathā
 ātma-nikṣepa-kārpaṇye ṣaḍ-vidhā śaraṇāgatiḥ
     (vaiṣṇava-tantra-vākya)</i>
@@ -28,7 +28,5 @@ rūpa-sanātana-pade dante tṛṇa kari’
 <b>bhaktivinoda</b>-paḍe duhu pada dhari’ (6)
 
 kādiyā kādiyā bale,–‘ āmi ta’ adhama
-śikhāye śaraṇāgati kara he utama” (7)
-`,
-  "translation": ""
+śikhāye śaraṇāgati kara he utama” (7)`
 })

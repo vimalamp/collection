@@ -1,38 +1,39 @@
 push({
-  "title": "jaya jaya harināma, cid-ānandāmṛta-dhāma",
-  "author": "bhakatavinoda",
+  "title": "jaya jaya harināma",
+  "id": 375,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>jaya nāma-dheya muni-vṛnda-geya,
-    jana-rañjanāya param-akṣarā-kṛte
-tvam-anādarād-api manāg-udīritaṁ,
-    nikhilogra-tāpa-paṭalīṁ vilumpasi</i>
+<i>jaya nāmadheya munivṛndageya 
+janarañjanāya paramakṣarākṛte |
+tvamanādarādapi manāgudīritaṁ 
+nikhilogratāpa-paṭalīṁ vilumpasi ||kha||</i>
 
-jaya jaya harināma, cid-ānandāmṛta-dhāma,
-        para-tattva akṣara-ākāra
-nija-jane kṛpā kari’, nāma-rūpe avatari’,
-        jīve dayā karile apāra (1)
+jaya jaya harināma,    cidānandāmṛta dhāma,
+paratattva akṣara-ākāra |
+nija-jane kṛpā kôri’,    nāmarūpe abatari’,
+jībe dayā kôrile apāra ||1||
 
-jaya hari-kṛṣṇa-nāma, jaga-jana suviśrāma,
-        sarva-jana-mānasa-rañjana
-muni-vṛnda nirantara, je nāmera samādara,
-        kari’ gāya bhariyā vadana (2)
+jaya hari-kṛṣṇa-nāma,    jagajana subiśrāma,
+sarbbajana-mānasa-rañjana |
+munibṛnda nirantara,    ĵe nāmera samādara,
+kôri’ gāya bhôriyā badana ||2||
 
-ohe kṛṣṇa-nāmākṣara, tumi sarva-śakti-dhara,
-        jīvera kalyāṇa-vitaraṇe
-tomā vinā bhava-sindhu, uddhārite nāhi bandhu,
-        āsiyācha jīva-uddhāraṇe (3)
+ohe kṛṣṇanāmākṣara,    tumi sarbbaśaktidhara,
+jībera kalyāṇa-bitaraṇe |
+tomā binā bhabasindhu,    uddhārite nāhi bandhu,
+āsiyāchô jība-uddhāraṇe ||3||
 
-āche tāpa jīve jata, tumi saba kara hata,
-        helāya tomāre eka-bāra
-ḍāke yadi kona jana, ha’ye dīna akiñcana,
-        nāhi dekhi anya pratikāra (4)
+āche tāpa jībe ĵatô,    tumi saba karô hata,
+helāya tomāre ekabāra |
+ḍāke ĵadi kona jana,    ha’ye dīna akiñcana,
+nāhi dekhi’ anya pratikāra ||4||
 
-tava svalpa-sphūrti pāya, ugra-tāpa dūre jāya,
-        liṅga-bhaṅga haya anāyāse
-<b>bhakatavinoda</b> kaya, jaya hari-nāma jaya,
-        pa’ḍe thāki tuyā pada-āśe (5)
-`,
-  "translation": ""
+taba svalpasphūrtti pāya,    ugratāpa dūre ĵāya,
+liṅga-bhaṅga haya anāyāse |
+bhakativinoda kaya,    jaya harināma jaya,
+pa’ḓe thāki tuŵā pada-āśe ||5||
+
+śabdārtha:- liṅgabhaṅga—sukṣmadeha-nāśa, takhôna sei mukta jībera ātmadeha prakāśita haya |`
 })

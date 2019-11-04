@@ -1,23 +1,35 @@
 push({
-  "title": "bola hari bola (x3) manera ānande, bhāi",
+  "title": "bolô hari bolô",
+  "id": 340,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-bola hari bola (x3) manera ānande, bhāi, bola hari bola
-bola hari bola (x3) janame janame sukhe bola hari bola (1)
+bolô hari bolô (3 bāra) 
 
-bola hari bola (x3) mānava-janma pe’ye, bhāi, bola hari bola
-bola hari bola (x3) sukhe thāka, duḥkhe thāka, bola hari bola (2)
+manera ānande, bhāi, bolô hari bolô |
+bolô hari bolô (3 bāra) 
+janame janame sukhe bolô hari bolô ||1||
+bolô hari bolô (3 bāra) 
 
-bola hari bola (x3) sampade vipade, bhāi, bola hari bola
-bola hari bola (x3) kṛṣṇera saṁsāre thāki’, bola hari bola (3)
+mānaba-janma pe’ye, bhāi, bolô hari bolô |
+bolô hari bolô (3 bāra) 
+sukhe thākô, duḥkhe thākô, bolô hari bolô ||2||
+bolô hari bolô (3 bāra) 
 
-bola hari bola (x3) asat-saṅga chāḍi’, bhāi, bola hari bola
-bola hari bola (x3) vaiṣṇava-caraṇe paḍi’, bola hari bola (4)
+sampade bipade, bhāi, bolô hari bolô |
+bolô hari bolô (3 bāra) 
+kṛṣṇera saṁsāre thāki’, bolô hari bolô ||3||
+bolô hari bolô (3 bāra) 
 
-bola hari bola (x3) gaura-nityānanda bola
-gaura-gadādhara bola (x3) gaura-advaita bola (x3) (5)
-`,
-  "translation": ""
+asat.saṅga chāḓi’, bhāi, bolô hari bolô |
+bolô hari bolô (3 bāra) 
+vaiṣṇava-caraṇe pôḓi’, bolô hari bolô ||4||
+bolô hari bolô (3 bāra) 
+
+gaura-nityānanda bolô (3 bāra) 
+gaura-gadādhara bolô (3 bāra) 
+gaura-advaita bolô (3 bāra)
+
+`
 })

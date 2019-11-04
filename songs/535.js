@@ -1,10 +1,10 @@
 push({
   "title": "ore mana, bhāla nāhi lāge e saṁsāra",
+  "id": 535,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "nirveda-lakṣaṇa-upalabdhi",
   "language": "bengali",
-  "verses": `
-ore mana, bhāla nāhi lāge e saṁsāra
+  "verses": `ore mana, bhāla nāhi lāge e saṁsāra
 janama-maraṇa jarā, je saṁsāre āche bharā,
         tāhe kibā āche bala’ sāra (1)
 
@@ -36,7 +36,5 @@ kukurādi paśuprāya, jīvana kāṭāya hāya,
 emana viṣaye mana, kena thāka acetana,
         chāḍa chāḍa viṣayera āśā
 śrī-guru-caraṇāśraya, kara’ sabe bhava jaya,
-        e dāsera sei ta’ bharasā (7)
-`,
-  "translation": ""
+        e dāsera sei ta’ bharasā (7)`
 })

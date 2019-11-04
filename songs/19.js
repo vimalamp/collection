@@ -1,10 +1,10 @@
 push({
   "title": "yadi te hari pāda-saroja-sudhā",
+  "id": 19,
   "category": "śrī-godruma-candra-bhajanopadeśaḥ",
   "author": "oṁ viṣṇupāda-śrīla-bhaktivinoda-ṭhakura-kṛtaḥ",
   "language": "sanskrit",
-  "verses": `
-<i>toṭaka-chandaḥ</i>
+  "verses": `<i>toṭaka-chandaḥ</i>
 yadi te hari pāda-saroja-sudhā-
     rasa-pāna-paraṁ hṛdayaṁ satatam
 parihṛtya gṛhaṁ kali-bhāvamayaṁ
@@ -103,7 +103,5 @@ luṭha gaura-padāṅkita-gāṅga-taṭaṁ
 smara gaura-gadādhara-keli-kalāṁ
     bhava gaura-gadādhara-pakṣa-caraḥ
 śṛṇu gaura-gadādhara-cāru-kathāṁ
-    bhaja godruma-kānana-kuñja-vidhum (20)
-`,
-  "translation": ""
+    bhaja godruma-kānana-kuñja-vidhum (20)`
 })

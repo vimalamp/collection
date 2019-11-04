@@ -1,10 +1,10 @@
 push({
   "title": "jaya gadādharābhinna bhaktivinoda",
+  "id": 107,
   "author": "Unknown",
   "category": "śrī-bhaktivinoda-jaya-guṇa-gāna",
   "language": "bengali",
-  "verses": `
-jaya gadādharābhinna bhaktivinoda
+  "verses": `jaya gadādharābhinna bhaktivinoda
 cidānandamaya tanu bhakta-prāṇāmoda (1)
 
 uddhāra karile lupta-tīrtha māyāpura
@@ -35,7 +35,5 @@ sei se vinoda-pada bharasā yāhāra
 jaya guṇagāna-gāhe adhama se chāra (10)
 
 dayā kari’ śrī-caraṇa-sevā adhikāra
-dio deva! ihā chāḍā āśā nāhi āra (11)
-`,
-  "translation": ""
+dio deva! ihā chāḍā āśā nāhi āra (11)`
 })

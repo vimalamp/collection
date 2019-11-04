@@ -1,37 +1,36 @@
 push({
-  "title": "kabe mui vaiṣṇava ciniba hari hari",
-  "author": "bhaktivinoda",
+  "title": "kabe mui vaiṣṇava cinibô",
+  "id": 117,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-vaiṣṇava-kṛpā-prārthanā",
   "language": "bengali",
   "verses": `
-kabe mui vaiṣṇava ciniba hari hari
-vaiṣṇava-caraṇa, kalyāṇera khani,
-        mātiba hṛdaye dhari’ (1)
+kabe mui vaiṣṇava cinibô hari hari |
+vaiṣṇava-caraṇa,    kalyāṇera khani,
+mātibô hṛdaye dhari’ ||1||
 
-vaiṣṇava-ṭhākura, aprākṛta sadā,
-        nirddoṣa, ānandamaya
-kṛṣṇa-nāme prīta, jaḍe udāsīna,
-        jīvete dayārdra haya (2)
+vaiṣṇava-ṭhākura,    aprākṛta sadā,
+nirddoṣa, ānandamaya |
+kṛṣṇanāme prīta,    jaḓe udāsīna,
+jībete dayārdra haya ||2||
 
-abhimāna-hīna, bhajane pravīṇa,
-        viṣayete anāsakta
-antara-vāhire, niṣkapaṭa sadā,
-        nitya-līlā anurakta (3)
+abhimāna-hīna,    bhajane prabīṇa,
+biṣayete anāsakta |
+antara-bāhire,    niṣkapaṭa sadā,
+nityalīlā-anurakta ||3||
 
-kaniṣṭha-madhyama, utama-prabhede,
-        vaiṣṇava trividha gaṇi
-kaniṣṭhe ādara, madhyame praṇati,
-        utame śuśruṣā śuni (4)
+kaniṣṭha, madhyama,    uttama prabhede,
+vaiṣṇava tribidha gaṇi |
+kaniṣṭhe ādara,    madhyame praṇati,
+uttame śuśrūṣā śuni ||4||
 
-je jana vaiṣṇava, ciniyā laiyā,
-        ādara kariba jabe
-vaiṣṇavera kṛpā, jāhe sarva-siddhi,
-        avaśya pāibe tabe (5)
+ĵe ĵenô vaiṣṇava,    ciniyā lô_iyā,
+ādara kôribô ĵabe |
+vaiṣṇavera kṛpā,    ĵāhe sarbbasiddhi,
+abaśya pā_ibô tabe ||5||
 
-vaiṣṇava-caritra, sarvadā pavitra,
-        jei ninde hiṁsā kari’
-<b>bhaktivinoda</b>, nā sambhāṣe tā’re,
-        thāke sadā mauna dhari’ (6)
-`,
-  "translation": ""
+vaiṣṇava-caritra,    sarbbadā pabitra,
+ĵei ninde hiṁsā kôri’ |
+bhakativinoda,    nā sambhāṣe tā’re,
+thāke sadā mauna dhari ||6||`
 })

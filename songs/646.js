@@ -1,10 +1,10 @@
 push({
   "title": "parama caitanya hari tāṅra śakti vaneśvarī",
+  "id": 646,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-parama caitanya hari tāṅra śakti vaneśvarī
+  "verses": `parama caitanya hari tāṅra śakti vaneśvarī
         parā-śakti boli’ bede gāya
 śaktimāne sevivāre śakti kāya-byūha kare
         nānā śakti tāhe bahirāya (1)
@@ -22,7 +22,5 @@ candrāvalī ādi jata śrī-rādhāra anugata keha
 premera vicitra gati prati-dvandvi ho’ye sati
         candra kare rādhā-prema puṣṭa
 saba sakhīra eka-mana nānā-kaye nānā-jana
-        vraja-yuva-dvandve kare tuṣṭa (4)
-`,
-  "translation": ""
+        vraja-yuva-dvandve kare tuṣṭa (4)`
 })

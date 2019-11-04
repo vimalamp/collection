@@ -1,26 +1,25 @@
 push({
-  "title": "jīvera bhāgya avanī vihare dona bhāi",
-  "author": "Unknown",
+  "title": "jībera bhāgye abanī bihare dona",
+  "id": 213,
+  "author": "śrīla locanadāsa ṭhākura",
   "category": "śrī-gaura-nityānande vijñapti",
   "language": "bengali",
   "verses": `
-jīvera bhāgya avanī vihare dona bhāi
-bhuvana-mohana gorā-cāda āra nitāi (1)
+jībera bhāgye abanī bihare dona bhāi | 
+bhubanamohana gorācā̃da āra nitāi ||1||
 
-kali-yuge jīva yata chila acetana
-hari-nāmāmṛta diyā karilā cetana (2)
+kaliĵuge jība ĵatô chilô acetana | 
+harināmāmṛta diyā kôrilā cetana ||2||
 
-hena avatāra bhāi, kabhu śuni nāi
-pātakī uddhāra kailā ghare ghare jāi (3)
+henô abatāra bhāi, kabhu śuni nāi | 
+pātakī uddhāra kailā ghare ghare ĵāi ||3||
 
-hena avatāra bhāi nāhi kona yuge
-kon avatāre bala pāpīra pāpa māge? (4)
+henô abatāra bhāi nāhi kona ĵuge | 
+kon_ abatāre bôlô pāpīra pāpa māge ??4??
 
-rudhira paḍila aṅge khāiyā prahāra
-yāci prema diyā tā’re karilā uddhāra (5)
+rudhira paḓilô aṅge khāiyā prahāra | 
+ĵāci prema diyā tā’re kôrilā uddhāra ||5||
 
-nāma-prema-sudhāte bharila tri-bhuvana
-ekelā vañcita bhela e dāsa locana (6)
-`,
-  "translation": ""
+nāma-prema-sudhāte bhôrilô tribhubana | 
+ekelā bañcita bhelô e dāsa locana ||6||`
 })

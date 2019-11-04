@@ -1,27 +1,28 @@
 push({
-  "title": "sai, kevā śunāila śyāma-nāma",
-  "author": "caṇḍī dāse",
+  "title": "sô_i, kebā śunāilô śyāma-nāma",
+  "id": 371,
+  "author": "caṇḍīdāsa",
   "category": "śrī-nāma-mahimā",
   "language": "bengali",
   "verses": `
-sai, kevā śunāila śyāma-nāma
-kānera bhitara diyā, marame paśila go,
-        ākula karila mora prāṇa (1)
+sô_i, kebā śunāilô śyāma-nāma |
+kānera bhitara diyā,    marame pôśilô go,
+ākula kôrilô mora prāṇa ||1||
 
-nā jāni kateka madhu, śyāma-nāme āche go,
-        vadana chāḍite nāhi pāre
-japite japite nāma, avaśa karila go,
-        kemane pāiba sai, tā’re (2)
+nā jāni kateka madhu,    śyāma-nāme āche go,
+badana chāḓite nāhi pāre |
+japite japite nāma,    abaśa kôrilô go,
+kemône pāibô sa_i, tāre ||2||
 
-nāma-paratāpe jā’ra, aichana karila go,
-        aṅgera paraśe kibā haya
-jekhāne vasati tā’ra, nayane heriba go,
-        yuvatī-dharama kaiche raya (3)
+nāma-paratāpe ĵā’ra,    aichana kôrilô go,
+aṅgera paraśe kibā haya |
+ĵekhāne basati tā’ra,    nayane heribô go,
+ĵubatī-dharama kaiche raya ||3||
 
-pāsarite cāhi mane, pāsarā nā jāya go,
-        ki kariba, ki habe upāya
-kahe dvija <b>caṇḍī dāse</b>, kulavatī-kula nāśe,
-        āpanāra yauvana jācāya (4)
-`,
-  "translation": ""
+pāsarite cāhi mane,    pāsarā nā ĵāya go,
+ki kôribô, ki habe upāya |
+kahe dvija caṇḍīdāse,    kulabatī-kula nāśe,
+āpanāra ĵaubana ĵācāya ||4||07 Namastaka and Siksastaka 18
+
+`
 })

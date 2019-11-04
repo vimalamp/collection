@@ -1,10 +1,10 @@
 push({
   "title": "rādhā-kṛṣṇa-guṇa-gāna mithāsakti samvardhana",
+  "id": 644,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-rādhā-kṛṣṇa-guṇa-gāna mithāsakti samvardhana
+  "verses": `rādhā-kṛṣṇa-guṇa-gāna mithāsakti samvardhana
         ubhayābhisāra sampadana
 kṛṣṇa sakhī-samarpaṇa narma-vākya-āsvādana
         ubhayera suveśa-racana (1)
@@ -22,7 +22,5 @@ rādhikāra daśā-kāle prāṇa-rākha su-kauśale
 jeba je sakhīra kārja viśeṣa baliyā dharja
         pradarśita ha’be jathā-sthāne
 rūpānuga bhaje jeba je sakhīra jei sevā
-        tad-anuga sei sevā māne (4)
-`,
-  "translation": ""
+        tad-anuga sei sevā māne (4)`
 })

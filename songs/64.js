@@ -1,10 +1,10 @@
 push({
   "title": "vande kṛṣṇam nanda kumāram",
+  "id": 64,
   "author": "Unknown",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `
-vande kṛṣṇam nanda kumāram
+  "verses": `vande kṛṣṇam nanda kumāram
 nanda kumāram navanīta-cauram (1)
 
 muni-jana-lobham mohana-rūpam
@@ -14,7 +14,5 @@ murali-lolam madana-gopālam (2)
 venu-vilolam vedanta-sāram (3)
 
 upātta kavalam paraga-sabalam
-vande kṛṣṇam nanda kumāram (4)
-`,
-  "translation": ""
+vande kṛṣṇam nanda kumāram (4)`
 })

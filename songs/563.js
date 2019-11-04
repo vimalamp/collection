@@ -1,33 +1,32 @@
 push({
-  "title": "praveśiyā antaḥpure, nārīgaṇe śānta kare",
-  "author": "bhaktivinoda",
+  "title": "prabeśiyā antaḥpure",
+  "id": 563,
+  "author": "śrīla bhaktivinoda ṭhākura ",
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
-praveśiyā antaḥpure, nārīgaṇe śānta kare,
-        śrīvāsa amiya-upadeśe
-śuna pāgalinī-gaṇa, śoka kara akāraṇa,
-        kibā duḥkha thāke kṛṣṇāveśe (1)
+prabeśiyā antaḥpure,    nārīgaṇe śānta kare,
+śrīvāsa amiya-upadeśe |
+śunô pāgalinīgaṇa,    śoka karô akāraṇa,
+kibā duḥkha thāke kṛṣṇābeśe ||1||
 
-kṛṣṇa nitya suta jā’ra, śoka kabhu nāhi tā’ra,
-        anitye āsakti sarvanāśa
-āsiyācha e saṁsāre, kṛṣṇa bhajivāra tare,
-        nitya-tattve karaha vilāsa (2)
+kṛṣṇa nitya suta ĵā’ra,    śoka kabhu nāhi tā’ra,
+anitye āsakti sarbbanāśa |
+āsiyāchô e saṁsāre,    kṛṣṇa bhajibāra tare,
+nitya-tattve karahô bilāsa ||2||
 
-e dehe jāvat sthiti, kara kṛṣṇa-candre rati,
-        kṛṣṇe jāna, dhana-jana-prāṇa
-e deha-anuga jata, bhāi-bandhu-pati-suta,
-        anitya sambandha bali’ māna (3)
+e dehe ĵābat. sthiti,    karô kṛṣṇacandre rati,
+kṛṣṇe jānô, dhana-jana-prāṇa |
+e deha-anuga ĵatô,    bhāi-bandhu-pati-suta,
+anitya sambandha bôli’ māna ||3||
 
-kevā kā’ra pati-suta, anitya-sambandha-kṛta,
-        cāhile rākhite nāre tā’re
-karama-vipāka-phale, suta ha’ye baise kole,
-        karmakṣaye āra raite nāre (4)
+kebā kā’ra pati-suta,    anitya-sambandha-kṛta,
+cāhile rākhite nāre tā’re |
+karama-bipāka-phale,    suta ha’ye baise kole,
+karmmakṣaye āra raite nāre ||4||
 
-ithe sukha-duḥkha māni’, adhogati labhe prāṇī,
-        kṛṣṇa-pada haite paḍe dūre
-śoka sambariyā ebe, nāmānande maja’ sabe,
-        <b>bhaktivinoda</b>-vāñchā pūre (5)
-`,
-  "translation": ""
+ite sukha-duḥkha māni’,    adhogati labhe prāṇī,
+kṛṣṇapada haite paḓe dūre |
+śoka sambariyā ebe,    nāmānande majô’ sabe,
+bhakativinoda-bāñchā pūre ||5||`
 })

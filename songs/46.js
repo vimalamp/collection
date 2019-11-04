@@ -1,10 +1,10 @@
 push({
   "title": "gṛhe rādhā vane rādhā rādhā pṛṣṭhe puraḥ sthitā",
+  "id": 46,
   "category": "śrī-rādhā-stotram",
   "author": "brahmāṇḍa-purāṇa",
   "language": "sanskrit",
-  "verses": `
-gṛhe rādhā vane rādhā rādhā pṛṣṭhe puraḥ sthitā
+  "verses": `gṛhe rādhā vane rādhā rādhā pṛṣṭhe puraḥ sthitā
 yatra yatra sthitā rādhā rādhaivārādhyate mayā (1)
 
 jihvā rādhā śrutau rādhā rādhā netre hṛdi sthitā
@@ -35,7 +35,5 @@ kṛṣṇena paṭhitaṁ stotraṁ rādhikā-prītaye param
 yaḥ paṭhet prayato nityaṁ rādhā-kṛṣṇāntigo bhavet (10)
 
 ārādhita-manāḥ kṛṣṇo rādhārādhita-mānasaḥ
-kṛṣṇākṛṣta-manā rādhā rādhā-kṛṣṇeti yaḥ paṭhet (11)
-`,
-  "translation": ""
+kṛṣṇākṛṣta-manā rādhā rādhā-kṛṣṇeti yaḥ paṭhet (11)`
 })

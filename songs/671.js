@@ -1,10 +1,10 @@
 push({
   "title": "rādhā nāma parama sukha dāi",
+  "id": 671,
   "author": "Unknown",
   "category": "hindī-kīrtana",
   "language": "hindi",
-  "verses": `
-rādhā nāma parama sukha dāi,
+  "verses": `rādhā nāma parama sukha dāi,
 lahara-lahara śrī syāmā ju kī,
       mana me merī samāi (1)
 
@@ -14,7 +14,5 @@ mahimā kahi nāhi jāi (2)
 
 braja tyaja ke maiṅ kahi nahi jau,
       rasika santana ke darsana pāu,
-jaga se priti hatāi (3)
-`,
-  "translation": ""
+jaga se priti hatāi (3)`
 })

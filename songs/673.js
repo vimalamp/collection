@@ -1,10 +1,10 @@
 push({
   "title": "manaro lāge nā sakhīrī mero śyāma binā manaro lāge nā",
+  "id": 673,
   "author": "Unknown",
   "category": "hindī-kīrtana",
   "language": "hindi",
-  "verses": `
-manaro lāge nā sakhīrī mero śyāma binā manaro lāge nā,
+  "verses": `manaro lāge nā sakhīrī mero śyāma binā manaro lāge nā,
 śyām binā re ghanaśyāma binā manaro lāge nā (1)
 
 sunī sunī lāge mohe sārī braja nagarī,
@@ -20,7 +20,5 @@ paniyā bharana jaba jāho re yamunā pe,
 panaghāṭa suno lāge śyāma binā manaro lāge nā (5)
 
 giridhārī mote ruṭho re sãvariyā,
-caina nā āve tere daraśa binā manaro lāge nā (6)
-`,
-  "translation": ""
+caina nā āve tere daraśa binā manaro lāge nā (6)`
 })

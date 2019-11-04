@@ -1,24 +1,24 @@
 push({
-  "title": "dīna-bandhu dayitārī, duḥkhe na galā moharī",
-  "author": "Unknown",
+  "title": "dīnabandhu da.yitārī",
+  "id": 685,
+  "author": "lekhaka ajānā",
   "category": "dīna-bandhu dayitārī-janāna",
   "language": "oriya",
   "verses": `
-<i>(doṭhukī)</i>
-dīna-bandhu dayitārī, duḥkhe na galā moharī
-helaki niṣṭhura cita, nīlācale vije kari (1)
+(doṭhukī)
 
-lakṣe jojanāra gaja, ḍākilā he deva-rāja
-tā ḍākaku catur-bhuja śunila śravaṇa ḍerī (2)
+dīnabandhu da.yitārī, duḥkha na galā moharī |
+helaki niṣṭhura citta, nīlācale bije kôri ||1||
 
-kurupati sabhātaḍe, daupadī ātaṅgakāḍe
-koṭī vastra dei heḍe, lajāru karicha pāri (3)
+lakṣe ĵojanāra gaja, ḍākilā he devarāja |
+tā ḍākaku caturbhuja śunila śravaṇa ḍerī ||2||
 
-balavanta prabhu bali, vaḍe muye āśrākali
-dekhu dekhu bhāsi gali, ke ethu kariba pāri (4)
+kurupati sabhātaḓe, daupadī ātaṅgakāḓe |
+koṭī vastra dei heḓe, lajjāru karicha pāri ||3||
 
-rakha vā na rakha mote, śaraṇa to pādagate
-kahe vanamālī gīte, basiyāchi mu dhyāna kari (5)
-`,
-  "translation": ""
+balavanta prabhu bali, baḓe mu.ye āśrākali |
+dekhu dekhu bhāsi gali, ke ethu kariba pāri ||4||
+
+rakha bā nā rakha mote, śaraṇa to pādagate |
+kahe vanamālī gīte, basi.yāchi mu dhyāna kôri ||5||`
 })

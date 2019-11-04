@@ -1,11 +1,11 @@
 push({
   "title": "jaya jaya nityānanda rohiṇī kumāra",
+  "id": 151,
   "author": "vṛndāvana-dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
-  "verses": `
-jaya jaya nityānanda rohiṇī kumāra
+  "verses": `jaya jaya nityānanda rohiṇī kumāra
 patita uddhāra lāgi du’bāhu pasāra (1)
 
 gada gada madhura madhura ādho bola
@@ -24,7 +24,5 @@ dīna-hīna-jane kailā prema vitaraṇa (5)
 śarīra bhijila nitāira nayanera jale (6)
 
 <b>vṛndāvana-dāsa</b> mane ei vicārila
-dharaṇī-upare kibā sumeru paḍila (7)
-`,
-  "translation": ""
+dharaṇī-upare kibā sumeru paḍila (7)`
 })

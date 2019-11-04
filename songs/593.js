@@ -1,34 +1,35 @@
 push({
-  "title": "(mana āmāra) husā’ra theko, bhula nāka",
-  "author": "cāda-bāulera",
+  "title": "(mana āmāra) hũsā’ra theko",
+  "id": 593,
+  "author": "cā̃da-bāula (śrīla bhaktivinoda ṭhākura)",
   "category": "bāula-saṅgīta",
   "language": "bengali",
   "verses": `
-(mana āmāra)
-husā’ra theko, bhula nāka,
-        śuddha sahaja tattva-dhane
-naile māyāra vaśe, avaśeṣe,
-        kādte ha’be ciradine (1)
+(mana āmāra) hũsā’ra theko,    bhulô’ nākô, 
+śuddha sahaja tattvadhane |
+nô_ile māyāra baśe,    abaśeṣe, 
+kā̃date ha’be ciradine ||1||
 
-śuddha-jīve jaḍa nāi, bhāi, ṭhika bujha tāi,
-        nije sukhī (se) vṛndāvane
-se jakhana kṛṣṇa-candre bhaje sukhete maje,
-        madhura-rase anukṣaṇe (2)
+śuddhajībe jaḓa nāi, bhāi,    ṭhika bujhô tāi, 
+nije sukhī (se) vṛndāvane |
+se ĵakhôna kṛṣṇacandre bhaje    sukhete maje, 
+madhura-rase anukṣaṇe ||2||
 
-jaḍadehe tā’ra sādhana-bhakti, jñāna-virakti,
-        dehera yātrā dharma-bhāve
-se gṛhe thāke, vane vā thāke, majiye ḍāke,
-        (‘kṛṣṇa’) ‘kṛṣṇa’ bale’ eka-mane (3)
+jaḓadehe tāra sādhanabhakti,    jñāna-birakti, 
+dehera ĵātrā dharmmabhābe |
+se gṛhe thāke, bane bā thāke,    majiye ḍāke, 
+‘kṛṣṇa’ bale’ ekamane ||3||
 
-ekei ta’ bali sahaja-bhajana, śuddha mana,
-        kṛṣṇa pā’vāra eka upāya
-ihā chāḍi’ je āropa kare, sei ta’ mare,
-        tāra ta’ nāhi bhajana haya (4)
+ekei tô’ bôli sahaja-bhajana,    śuddha mana, 
+kṛṣṇa pā’bāra eka upāya |
+ihā chāḓi’ ĵe āropa kare,    sei tô’ mare, 
+tāra tô’ nāhi bhajana haya ||4||
 
-<b>cāda-bāulera</b> e viśvāsa, choṭa hari-dāsa,
-        ekaṭu kevala vipathe cale’
-śacī-sutera kṛpāya, dūra ha’ye, hāya,
-        nā pāya āra gaura-caraṇe (5)
-`,
-  "translation": ""
+cā̃da-bāulera e biśvāsa,    choṭa-haridāsa, 
+ekaṭu kebala bipathe cale |
+śacīsutera kṛpāya,    dūra ha’ye, hāya, 
+nā pāya āra gauracaraṇe ||5||`,
+  "translation": {
+    "bn": "śabdārtha:- śacīsutera kṛpāya—mahāprabhura kṛpā hô_ite"
+  }
 })

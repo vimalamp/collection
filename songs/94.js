@@ -1,50 +1,49 @@
 push({
-  "title": "āśraya kariyā vando śrī-guru-caraṇa",
-  "author": "sanātana-dāsa",
+  "title": "āśraya kôriyā bandõ",
+  "id": 94,
+  "author": "sanātana dāsa",
   "category": "śrī-guru-mahimā",
   "language": "bengali",
   "verses": `
-āśraya kariyā vando śrī-guru-caraṇa
-yāhā haite mile bhāi kṛṣṇa-prema-dhana (1)
+āśraya kôriyā bandõ śrīguru-caraṇa |
+ĵāhā haite mile bhāi kṛṣṇa-premadhana ||1||
 
-jīvera nistāra lāgi’ nanda-suta hari
-bhuvane prakāśa pāna guru-rūpa dhari’ (2)
+jībera nistāra lāgi’ nanda-suta hari | 
+bhubane prakāśa pānô guru-rūpa dhôri’ ||2||
 
-mahimā-ya‘guru’ ‘kṛṣṇa’ eka kari’ jāna
-guru-ājñā hṛde saba satya kari’ māna (3)
+mahimāya ‘guru’ ‘kṛṣṇa’ eka kôri’ jānô |
+guru-ājñā hṛde saba satya kôri’ mānô ||3||
 
-satya-jñāne guru-vākya yāhāra viśvāsa
-avaśya tāhāra haya vraja-bhūme vāsa (4)
+satyajñāne gurubākye ĵāhāra biśvāsa | 
+abaśya tāhāra haya vrajabhūme vāsa ||4||
 
-jā’ra prati gurudeva hana parasanna
-kona vighne sei nāhi haya avasanna (5)
+ĵāra prati gurudeva hana parasanna |
+kona bighne sei nāhi haya abasanna ||5||
 
-kṛṣṇa ruṣṭa ha’le guru rākhi-vāre pāre
-guru ruṣṭa ha’le kṛṣṇa rākhi-vāre nāre (6)
+kṛṣṇa ruṣṭa ha’le guru rākhibāre pāre |
+guru ruṣṭa ha’le kṛṣṇa rākhibāre nāre ||6||
 
-guru–mātā, guru–pitā, guru ha’na pati
-guru vinā e saṁsāre nāhi āra gati (7)
+guru—mātā, guru—pitā, guru ha’na pati | 
+guru binā e saṁsāre nāhi āra gati ||7||
 
-guru ke ‘manuṣya’-jñāna nā kara kakhana
-guru-nindā kabhu karṇe nā kara śravaṇa (8)
+guruke ‘manuṣya’-jñāna nā karô kakhôna | 
+guru-nindā kabhu karṇe nā karô śrabaṇa ||8||
 
-guru-nindukera mukha kabhu nā heribe
-yathā haya guru-nindā, tathā nā jāibe (9)
+guru-nindukera mukha kabhu nā heribe | 
+ĵathā haya gurunindā, tathā nā ĵāibe ||9||
 
-gurura vikriyā yadi dekhaha kakhana
-tathāpi avajñā nāhi kara kadācana (10)
+gurura bikriyā ĵadi dekhahô kakhôna | 
+tathāpi abajñā nāhi karô kadācana ||10||
 
-guru-pāda-padme rahe jā’ra niṣṭhā-bhakti
-jagat tārite sei dhare mahā-śakti (11)
+gurupādapadme rahe ĵāra niṣṭhā-bhakti |
+jagat. tārite sei dhare mahāśakti ||11||
 
-hena guru-pāda-padma karaha vandanā
-yāhā haite ghuce bhāi sakala yantraṇā (12)
+henô gurupādapadma karahô bandanā |
+ĵāhā haite ghuce bhāi sakala ĵantraṇā ||12||
 
-guru-pāda-padma nitya je kare vandana
-śire dhari’ vandi āmi tāhāra caraṇa (13)
+gurupādapadma nitya ĵe kare bandana |
+śire dhôri’ bandi āmi tā̃hāra caraṇa ||13||
 
-śrī-guru-caraṇa-padma hṛde kari’ āśa
-śrī-guru-vandanā kare <b>sanātana-dāsa</b> (14)
-`,
-  "translation": ""
+śrīguru-caraṇapadma hṛde kôri’ āśa | 
+śrīguru-bandanā kare sanātana dāsa ||14||`
 })

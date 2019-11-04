@@ -1,10 +1,10 @@
 push({
   "title": "hari hari! kabe mora haibe hena dina",
+  "id": 118,
   "author": "bhaktivinoda",
   "category": "śrī-vaiṣṇava-kṛpā-prārthanā",
   "language": "bengali",
-  "verses": `
-hari hari! kabe mora haibe hena dina
+  "verses": `hari hari! kabe mora haibe hena dina
 bimala vaiṣṇave, rati upajibe,
         vāsanā haibe kṣīṇa (1)
 
@@ -26,7 +26,5 @@ bhajite bhajite, samaya āsile,
 <b>bhaktivinoda</b>, ei āśā kari’,
         vasiyā godruma-vane
 prabhu-kṛpā lāgi’, vyākula antare,
-        sadā kāde saṅgopane (5)
-`,
-  "translation": ""
+        sadā kāde saṅgopane (5)`
 })

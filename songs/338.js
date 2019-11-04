@@ -1,48 +1,49 @@
 push({
-  "title": "vibhāvarī-śeṣa, āloka-praveśa",
+  "title": "bibhābarī-śeṣa",
+  "id": 338,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-vibhāvarī-śeṣa, āloka-praveśa,
-        nidrā chāḍi’ uṭha jīva
-bala’ hari hari, mukunda murāri,
-        rāma-kṛṣṇa hayagrīva (1)
+bibhābarī-śeṣa,    āloka prabeśa,
+nidrā chāḓi’ uṭha jīva |
+bôlô’ hari hari,    mukunda murāri,
+rāma kṛṣṇa hayagrīva ||1||
 
-nṛsiṁha vāmana, śrī-madhusūdana,
-        vrajendra-nandana śyāma
-pūtanā-ghātana, kaitava-śātana,
-        jaya dāśarathi-rāma (2)
+nṛsiṁha vāmana,    śrīmadhusūdana,
+vrajendranandana śyāma |
+pūtanā-ghātana,    kaiṭabha-śātana,
+jaya dāśarathi-rāma ||2||
 
-yaśodā-dulāla, govinda-gopāla,
-        vṛndāvana-purandara
-gopī-priya-jana, rādhikā-ramaṇa,
-        bhuvana-sundaravara (3)
+yaśodā-dulāla,    govinda-gopāla,
+vṛndāvana-purandara |
+gopīpriya-jana,    rādhikā-ramaṇa,
+bhubana-sundarabara ||3||
 
-rāvaṇān-takara, mākhana-taskara,
-        gopī-jana-vastra-hārī
-vrajera rākhāla, gopa-vṛndapāla,
-        citta-hārī vaṁśī-dhārī (4)
+rābaṇāntakara,    mākhana-taskara,
+gopījana-vastrahārī |
+vrajera rākhāla,    gopabṛndapāla,
+cittahārī baṁśīdhārī ||4||
 
-yogīndra-vandana, śrī-nanda-nandana,
-        vraja-jana-bhaya-hārī
-navīna-nīrada, rūpa-manohara,
-        mohana-vaṁśī-bihārī (5)
+ĵogīndra-bandana,    śrīnanda-nandana,
+vrajajana-bhayahārī |
+nabīna nīrada,    rūpa manohara,
+mohana-vaṁśībihārī ||5||
 
-yaśodā-nandana, kaṁsa-nisūdana,
-        nikuñja-rāsa-vilāsī
-kadamba-kānana, rāsa-parāyaṇa,
-        vṛndā-vipina-nivāsī (6)
+ĵaśodā-nandana,    kaṁsa-nisūdana,
+nikuñjarāsa-bilāsī |
+kadamba-kānana,    rāsaparāyaṇa,
+vṛndābipina-nibāsī ||6||
 
-ānanda-varddhana, prema-niketana,
-        phulaśara-yojaka kāma
-gopāṅganā-gaṇa, citta-vinodana,
-        samasta guṇa-gaṇa-dhāma (7)
+ānanda-barddhana,    prema-niketana,
+phulaśara-ĵojaka kāma |
+gopāṅganāgaṇa-,    citta-binodana,
+samasta-guṇagaṇa-dhāma ||7||
 
-yāmuna-jīvana, keli-parāyaṇa,
-        mānasa-candra-cakora
-nāma-sudhā-rasa, gāo kṛṣṇa-yaśa,
-        rākha vacana mana mora (8)
-`,
-  "translation": ""
+ĵāmuna-jībana,    keli-parāyaṇa,
+mānasacandra-cakora |
+nāma-sudhārasa,    gāo kṛṣṇa-ĵaśa,
+rākhô bacana mana mora ||8||
+
+śabdārtha:- bibhābarī—rātri; kaiṭabha-śātana—kaiṭabha-asura nāśaka; phulaśara-ĵojaka kāma—puṣpabāṇa-ĵojanakārī kāmadeba |`
 })

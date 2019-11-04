@@ -1,29 +1,28 @@
 push({
-  "title": "gaurāṅgera du’ṭī pada, jā’ra dhana sampada",
-  "author": "narottama",
+  "title": "gaurāṅgera du’ṭī pada",
+  "id": 185,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
   "verses": `
-gaurāṅgera du’ṭī pada, jā’ra dhana sampada,
-        se jāne bhakti-rasa-sāra
-gaurāṅgera madhura līlā, jā’ra karṇe praveśilā,
-        hṛdaya nirmala bhela tā’ra (1)
+gaurāṅgera du’ṭī pada,    ĵā’ra dhana sampada,
+se jāne bhakati-rasasāra |
+gaurāṅgera madhura līlā,    ĵā’ra karṇe prabeśilā,
+hṛdaya nirmmala bhelô tā’ra ||1||
 
-je gaurāṅgera nāma laya, tā’ra haya premodaya,
-        tā’re mui jāi balihāri
-gaurāṅga-guṇete jhure, nityalīlā tā’re sphure,
-        se-jana bhakti-adhikārī (2)
+ĵe gaurāṅgera nāma laya,    tā’ra haya premodaya,
+tā’re muñi ĵāi bôlihāri |
+gaurāṅga-guṇete jhure,    nityalīlā tā’re sphure,
+se-jana bhakati-adhikārī ||2||
 
-gaurāṅgera saṅgi-gaṇe, nitya-siddha kari’ māne,
-        se jāya vrajendra-suta-pāśa
-śrī-gauḍa-maṇḍala-bhūmi, jevā jāne cintāmaṇi,
-        tā’ra haya vraja-bhūme vāsa (3)
+gaurāṅgera saṅgigaṇe,    nityasiddha kôri’ māne,
+se ĵāya vrajendrasuta-pāśa |
+śrīgauḓamaṇḍala-bhūmi,    ĵebā jāne cintāmaṇi,
+tā’ra haya vrajabhūme bāsa ||3||
 
-gaura-prema-rasārṇave, se taraṅge jevā dube,
-        se rādhā-mādhava-antaraṅga
-gṛhe vā vanete thāke, ‘hā gaurāṅga’ ba’le ḍāke,
-        <b>narottama</b> māge tā’ra saṅga (4)
-`,
-  "translation": ""
+gauraprema-rasārṇabe,    se taraṅge ĵebā ḍube,
+se rādhāmādhava-antaraṅga |
+gṛhe bā banete thāke,    ‘hā gaurāṅga’ bô’le ḍāke,
+narottama māge tā’ra saṅga ||4||`
 })

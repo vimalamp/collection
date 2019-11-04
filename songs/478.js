@@ -1,30 +1,31 @@
 push({
-  "title": "‘āmāra’ balite prabhu āra kichu nāi",
-  "author": "bhaktivinoda",
+  "title": "‘āmāra’ bôlite prabhu!",
+  "id": 478,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>ātma-nivedana–mama-stāpada deha-samapaṇa (kāyika)</i>
-‘āmāra’ balite prabhu āra kichu nāi
-tumi-i āmāra mātra pitā-bandhu-bhāi (1)
+ātmanibedana—mamatāspada dehasamarpaṇa 
+(kāyika)
 
-bandhu, dārā, suta-sutā–tava dāsī-dāsa
-sei ta’ sambandhe sabe āmāra prayāsa (2)
+‘āmāra’ bôlite prabhu! āra kichu nāi | 
+tumi_i āmāra mātra pitā-bandhu-bhāi ||1||
 
-dhana, jana, gṛha, dvāra ‘tomāra’ baliyā
-rakṣā kari āmi mātra sevaka haiyā (3)
+bandhu, dārā, suta-sutā—taba dāsī-dāsa | 
+sei tô’ sambandhe sabe āmāra prayāsa ||2||
 
-tomāra kāryara tare upārjiba dhana
-tomāra saṁsāra-vyaya kariba vahana (4)
+dhana, jana, gṛha, dāra, ‘tomāra’ bôliyā | 
+rakṣā kôri āmi mātra sebaka hô_iyā ||3||
 
-bhāla-manda nāhi jāni sevā-mātra kari
-tomāra saṁsāre āmi viṣaya-praharī (5)
+tomāra kārĵyera tare upārjjibô dhana | 
+tomāra saṁsāra-byaya kôribô bahana ||4||
 
-tomāra icchāya mora indriya-cālanā
-śravaṇa, darśana, ghrāṇa, bhojana-vāsanā (6)
+bhālômanda nāhi jāni sebā mātra kôri | 
+tomāra saṁsāre āmi biṣaya-praharī ||5||
 
-nija-sukha lāgi’ kichu nāhi kari āra
-<b>bhaktivinoda</b> bale, tava sukha-sāra (7)
-`,
-  "translation": ""
+tomāra icchāya mora indriya-cālanā | 
+śrabaṇa, darśana, ghrāṇa, bhojana-bāsanā ||6||
+
+nijasukha lāgi’ kichu nāhi kôri āra | 
+bhakativinoda bôle, taba sukha sāra ||7||`
 })

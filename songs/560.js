@@ -1,11 +1,11 @@
 push({
   "title": "anya-abhilāṣa chāḍi ’jñāna karma parihāri’",
+  "id": 560,
   "author": "Unknown",
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīmad-rūpa-gosvāmī-prabhupādenoktam",
   "language": "bengali",
-  "verses": `
-<i>anyābhilāṣitā-śūnyaṁ jñāna-karmādya-anāvṛtam
+  "verses": `<i>anyābhilāṣitā-śūnyaṁ jñāna-karmādya-anāvṛtam
 ānukūleyna kṛṣṇānu-śīlanaṁ bhaktir uttamā</i>
 
 anya-abhilāṣa chāḍi ’jñāna karma parihāri’
@@ -86,7 +86,5 @@ asat-sanga kutināti-chāḍa anya pari-pāti
 āpana bhajana-pantha tāha habe anurata
         iṣta-deva-sthāne-līlā-gāṇe
 naiṣthika bhajana ei-tomāre kahila bhāi
-        hanumān tāhāte pramāṇa (16)
-`,
-  "translation": ""
+        hanumān tāhāte pramāṇa (16)`
 })

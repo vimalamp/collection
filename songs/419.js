@@ -1,32 +1,33 @@
 push({
-  "title": "mana, tava kena e saṁśaya?",
+  "title": "mana, taba kenô e saṁśaya?",
+  "id": 419,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
-mana, tava kena e saṁśaya?
-jaḍa-prati ghṛṇā kari’, bhajite premera hari,
-        svarūpa lakṣite kara’ bhaya (1)
+mana, taba kenô e saṁśaya? 
+jaḓa-prati ghṛṇā kôri’,    bhajite premera hari,
+svarūpa lakṣite karô’ bhaya ||1||
 
-svarūpa karite dhyāna, pāche jaḍa pāya sthāna,
-        ei bhaye bhāva’ brahmamaya
-nirākāra nirañjana, sarvavyāpī sanātana,
-        asvarūpa karicha niścaya (2)
+svarūpa kôrite dhyāna,    pāche jaḓa pāya sthāna,
+ei bhaye bhābô’ brahmamaya |
+nirākāra nirañjana,    sarbbabyāpī sanātana,
+asvarūpa kôrichô niścaya ||2||
 
-abhāva-dharmera vaśe, svabhāva nā cite paśe,
-        bhāvera abhāva tāhe haya
-tyaja ei tarkapāśa, parānanda-parakāśa,
-        kṛṣṇa-candre karaha āśraya (3)
+abhāba-dharmmera baśe,    svabhāba nā citte paśe,
+bhābera abhāba tāhe haya |
+tyajô ei tarkapāśa,    parānanda-parakāśa,
+kṛṣṇacandre karahô āśraya ||3||
 
-saccit-ānanda-maya, kṛṣṇera svarūpa haya,
-        sarvānanda-mādhurya-nilaya
-sarvatra sampūrṇa-rūpa, ei eka aparūpa,
-        sarvavyāpī brahme tāhā naya (4)
+saccit.-ānandamaya,    kṛṣṇera svarūpa haya,
+sarbbānanda-mādhurĵya-nilaya |
+sarbbatra sampūrṇa rūpa,    ei eka aparūpa,
+sarbbabyāpī brahme tāhā naya ||4||
 
-ataeva brahma tā’ra, aṅgakānti suvistāra,
-        bṛhat baliyā tā’re kaya
-brahma para-brahma jei, śrī-kṛṣṇa-svarūpa sei,
-        vinodera jāhāte praṇaya (5)
-`,
-  "translation": ""
+ataeba brahma tā̃’ra,    aṅgakānti subistāra,
+bṛhat. bôliyā tā̃’re kaya |
+brahma parabrahma ĵei,    śrīkṛṣṇasvarūpa sei,
+vinodera ĵāhāte praṇaya ||5||
+
+śabdārthaḥ:- svarūpa—sabiśeṣa; asvarūpa—nirbbiśeṣa |`
 })

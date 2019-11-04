@@ -1,10 +1,10 @@
 push({
   "title": "ore mana, karmera kuhare gela kāla",
+  "id": 532,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "anutāpa-lakṣaṇa-upalabdhi",
   "language": "bengali",
-  "verses": `
-ore mana, karmera kuhare gela kāla
+  "verses": `ore mana, karmera kuhare gela kāla
 svargādi sukhera āśe, parilāma karma-phāse,
         ūrṇanābhi-sama karma-jāla (1)
 
@@ -21,7 +21,5 @@ sthira nā haila mana, nā labhinu śātin-dhana,
 dhik mora e jīvane, dhik mora dhana-jane,
         dhik mora varṇa-abhimāna
 dhik mora kula-māne, dhik śāstra-adhyayane,
-        hari-bhakti nā pāila sthāna (4)
-`,
-  "translation": ""
+        hari-bhakti nā pāila sthāna (4)`
 })

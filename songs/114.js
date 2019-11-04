@@ -1,150 +1,149 @@
 push({
-  "title": "gorā gosāi patita-pāvana avatāra",
+  "title": "gorā gosāñi patitapābana",
+  "id": 114,
   "author": "devakīnandana dāsa",
   "category": "śrī-vaiṣṇava-vandanā",
   "language": "bengali",
   "verses": `
-(vaḍārī rāga)
-gorā gosāi patita-pāvana avatāra
-tomāra karuṇāya sarva-jīvera uddhāra (1)
+gorā gosāñi patitapābana abatāra |
+tomāra karuṇāya sarbbajībera uddhāra ||dhru||
 
-kavirāja-miśra vando bhāgavatācārya
-śrīmadhu-paṇḍita vando ananta-ācārya (2)
+kavirāja-miśra bandõ bhāgavatācārĵya |
+śrīmadhu-paṇḍita bandõ ananta-ācārĵya ||1||
 
-govinda-ācārya vando sarva-guṇa-śālī
-je karila rādhā-kṛṣṇera vicitra dhāmālī (3)
+govinda-ācārĵya bandõ sarbbaguṇaśālī |
+ĵe kôrilô rādhākṛṣṇera bicitra dhāmālī ||2||
 
-sārva-bhauma vando vṛhaspatira caritra
-prabhura prakāśe jā’ra adbhuta kavitva (4)
+sārvvabhauma bandõ bṛhaspatira caritra |
+prabhura prakāśe ĵā̃’ra adbhuta kabitva ||3||
 
-pratāparudra rāya vando indradyamna khyāti
-prakāśilā prabhu yā’re ṣaḍbhuja-ākṛti (5)
+pratāparudra rāya bandõ indradyumna-khyāti |
+prakāśilā prabhu ĵā̃’re ṣaḓ_#bhuja-ākṛti ||4||
 
-dvija raghunātha vando uḍiyā vipra-dāsa
-dvija hari-dāsa vando vaidya viṣṇu-dāsa (6)
+dvija raghunātha bandõ uḓiyā bipradāsa |
+dvija haridāsa bandõ baidya viṣṇudāsa ||5||
 
-jā’ra gāna śuni’ prabhura adhika ullāsa
-tā’ra bhāi vando śrī-vanamāli dāsa (7)
+ĵā̃’ra gāna śuni’ prabhura adhika ullāsa |
+tā̃’ra bhāi bandõ śrīvanamālī dāsa ||6||
 
-sakhī-bheka tyaji’ kaila gopīpada āśa
-kahane nā jāya tā’ra premera prakāśa (8)
+sakhībheka tyaji’ kailô gopīpada āśa |
+kahane nā ĵāya tā̃’ra premera prakāśa ||7||
 
-kānāi khuṭiyā vando viśva-paracāra
-jagannātha-balarāma dui putra jā’ra (9)
+kānāi khuṭiyā bandõ biśva-paracāra |
+jagannātha-balarāma dui putra ĵā̃’ra ||8||
 
-vando uḍiyā balarāma dāsa mahāśaya
-jagannātha-balarāma jā’ra vaśa haya (10)
+bandõ uḓiyā balarāma dāsa mahāśaya |
+jagannātha-balarāma ĵā̃’ra baśa haya ||9||
 
-jagannātha dāsa vando saṅgīta paṇḍita
-jā’ra gānarase jagannātha vimohita (11)
+jagannātha dāsa bandõ saṅgīta-paṇḍita |
+ĵā̃’ra gānarase jagannātha bimohita ||10||
 
-vandiba śivānanda paṇḍita kāśīśvara
-vandiba candaneśvara āra siṁheśvara (12)
+bandibô śivānanda, paṇḍita kāśīśvara |
+bandibô candaneśvara āra siṁheśvara ||11||
 
-vandiba subuddhi-miśra miśra-śrī-śrīnātha
-tulasī miśra vando māhātī kāśīnātha (13)
+bandibô subuddhimiśra, miśra-śrīśrīnātha |
+tulasī miśra bandõ māhātī kāśīnātha ||12||
 
-śrī-hari-bhaṭṭa vando māhātī balarāma
-vando paṭṭanāyaka mādhava jā’ra nāma (14)
+śrīharibhaṭṭa bandõ māhātī balarāma |
+bandõ paṭṭanāyaka mādhava ĵā̃’ra nāma ||13||
 
-vasuvaṁśa rāmānanda vandiba yatane
-jā’ra vaṁśe gaura vinā anya nāhi jāne (15)
+vasuvaṁśa rāmānanda bandibô ĵatane |
+ĵā̃’ra baṁśe gaura binā anya nāhi jāne ||14||
 
-vandiba śrī-puruṣotama nāma brahmacārī
-śrīmadhu-paṇḍita vando baḍa bhakti kari’ (16)
+bandibô śrīpuruṣottama nāma brahmacārī |
+śrīmadhu paṇḍita bandõ baḓô bhakti kôri’ ||15||
 
-śrī-kara-paṇḍita vando dvija rāmacandra
-sarva-sukhamaya vando yadu kavi-candra (17)
+śrīkara paṇḍita bandõ dvija rāmacandra |
+sarbbasukhamaya bandõ ĵadu kavicandra ||16||
 
-vilāsī vairāgī vando paṇḍita dhanañjaya
-sarvasva prabhure diyā bhāṇḍa hāte laya (18)
+bilāsī bairāgī bandõ paṇḍita dhanañjaya |
+sarbbasva prabhure diyā bhāṇḍa hāte laya ||17||
 
-jagannātha-paṇḍita vando ācārya-lakṣaṇa
-kṛṣṇa-dāsa-paṇḍita vando baḍa śuddha mana (19)
+jagannātha-paṇḍita bandõ ācārĵya-lakṣaṇa |
+kṛṣṇadāsa-paṇḍita bandõ baḓô śuddha mana ||18||
 
-sūryadāsa-paṇḍita vando vidita saṁsāra
-vasudhā-jāhnavā vando dui kanyā jā’ra (20)
+sūrĵyadāsa-paṇḍita bandõ bidita saṁsāra |
+vasudhā-jāhnavā bandõ dui kanyā ĵā̃’ra ||19||
 
-murārī caitanya-dāsa vando sāvadhāne
-āścarya caritra jā’ra prahalāda-samāne (21)
+murāri-caitanyadāsa bandõ sābadhāne |
+āścarĵya caritra ĵā̃’ra prahlāda samāne ||20||
 
-paramānanda gupta vando sena jagannātha
-kavi-candra mukunda bālaka-rāma-sātha (22)
+paramānanda gupta bandõ sena jagannātha |
+kavicandra mukunda bālaka-rāma-sātha ||21||
 
-śrī-kaṁsāri sena vando sena śrī-ballabha
-bhāskara ṭhākura vando viśvakarmā-anubhava (23)
+śrīkaṁsāri sena bandõ sena śrīvallabha |
+bhāskara ṭhākura bandõ biśvakarmmā-anubhaba ||22||
 
-saṅgītakāraka vando balarāma dāsa
-nityānanda-candre jā’ra ekānta viśvāsa (24)
+saṅgītakāraka bandõ balarāma dāsa |
+nityānanda-candre ĵā̃’ra ekānta biśvāsa ||23||
 
-maheśa paṇḍita vando baḍai unmādī
-jagadīśa paṇḍita vando nṛtyavinodī (25)
+maheśa paṇḍita bandõ baḓa_i unmādī |
+jagadīśa paṇḍita bandõ nṛtyabinodī ||24||
 
-nārāyaṇīsuta vando vṛndāvana dāsa
-‘caitanya-maṅgala’ yeha karilā prakāśa (26)
+nārāyaṇīsuta bandõ vṛndāvana dāsa |
+ ‘caitanyamaṅgala’ ĵẽha kôrilā prakāśa ||25||
 
-baḍagāchira vandiba ṭhākura kṛṣṇa-dāsa
-premānande nityānande yāhāra viśvāsa (27)
+baḓagāchira bandibô ṭhākura kṛṣṇadāsa |
+premānande nityānande ĵā̃hāra biśvāsa ||26||
 
-paramānanda avadhūta vando ekamane
-nirantara unmata bāhya nāhi jāne (28)
+paramānanda abadhūta bandõ ekamane |
+nirantara unmatta bāhya nāhi jāne ||27||
 
-vandiba se anādi gaṅgā-dāsa paṇḍita
-yadunātha dāsa vando madhura-carita (29)
+bandibô se anādi gaṅgādāsa paṇḍita |
+ĵadunātha dāsa bandõ madhura-carita ||28||
 
-puruṣotama purī vando tīrtha jagannātha
-śrī-rāmatīrtha vando purī-raghunātha (30)
+puruṣottama purī bandõ tīrtha jagannātha |
+śrīrāmatīrtha bandõ purī-raghunātha ||29||
 
-vāsudeva-tīrtha vando āśrama upendra
-vandiba ananta-purī hari-harānanda (31)
+vāsudevatīrtha bandõ āśrama upendra |
+bandibô anantapurī, hariharānanda ||30||
 
-mukunda kavirāja vando nirmala carita
-vandiba ānanda-maya śrī-jīva paṇḍita (32)
+mukunda kavirāja bandõ nirmmala carita |
+bandibô ānandamaya śrījīva paṇḍita ||31||
 
-vandanā kariba śiśu-kṛṣṇadāsa-nāma
-prabhura pālane jā’ra divya-tejodhāma (33)
+bandanā kôribô śiśu-kṛṣṇadāsa-nāma |
+prabhura pālane ĵā̃’ra dibya tejodhāma ||32||
 
-mādhava ācārya vando kavitva-śītala
-yāhāra racita bhāṣya ‘puruṣa-maṅgala’ (34)
+mādhava ācārĵya bandõ kavitva-śītala |
+ĵā̃hāra racita bhāṣya ‘puruṣamaṅgala’ ||33||
 
-gaurī-dāsa-paṇḍitera anuja kṛṣṇa-dāsa
-vandiba nṛsiṁha āra śrī-caitanya-dāsa (35)
+gaurīdāsa-paṇḍitera anuja kṛṣṇadāsa |
+bandibô nṛsiṁha āra śrīcaitanyadāsa ||34||
 
-raghunātha bhaṭṭa vando kariyā viśvāsa
-vando divyalocana śrī-rāmacandra dāsa (36)
+raghunātha bhaṭṭa bandõ kôriyā biśvāsa |
+bandõ dibyalocana śrīrāmacandra dāsa ||35||
 
-śrī-śaṅkara ghoṣa vando akiñcanarīti
-ḍaṅkera vādya je prabhure karila pīriti (37)
+śrīśaṅkara ghoṣa bandõ akiñcana-rīti |
+ḍaṅkera bādye ĵe prabhure kôrilô pīriti ||36||
 
-parama ānande vando ācārya mādhava
-bhakti-phale hailā gaṅgā-devīra ballabha (38)
+parama ānande bandõ ācārĵya mādhava |
+bhaktiphale hailā gaṅgādevīra ballabha ||37||
 
-nārāyaṇa paiḍāri vando cakravartī śivānanda
-vandanā karite vaiṣṇavera nāhi anta (39)
+nārāyaṇa paiḓāri bandõ cakravarttī śivānanda |
+bandanā kôrite vaiṣṇavera nāhi anta ||38||
 
-ei avatāre yata aśeṣa vaiṣṇava
-kahane nā jāya sabhāra ananta vaibhava (40)
+ei abatāre ĵatô aśeṣa vaiṣṇava |
+kahane nā ĵāya sabhāra ananta baibhaba ||39||
 
-ananta vaiṣṇava-gaṇa ananta mahimā
-hena jana nāhi je karite pāre sīmā (41)
+ananta vaiṣṇavagaṇa ananta mahimā |
+henô jana nāhi ĵe kôrite pāre sīmā ||40||
 
-vandanā karite mora kata āche buddhi
-deveha karite nāre vaiṣṇavera śuddhi (42)
+bandanā kôrite mora katô āche buddhi |
+debeha kôrite nāre vaiṣṇavera śuddhi ||41||
 
-sabhākāra upadeṣṭā vaiṣṇava-ṭhākura
-śravaṇa-nayana-mana vacane madhura (43)
+sabhākāra upadeṣṭā vaiṣṇavaṭhākura |
+śrabaṇa-nayana-mana-bacane madhura ||42||
 
-śaraṇa lainu guru-vaiṣṇava-caraṇe
-saṁkṣepe kahinu kichu vaiṣṇava-vandane (44)
+śaraṇa la_inũ guru-vaiṣṇava-caraṇe |
+saṁkṣepe kahilũ kichu vaiṣṇava-bandane ||43||
 
-vaiṣṇava-vandanā paḍe śune jei jana
-antarera mala ghuce, śuddha haya mana (45)
+vaiṣṇava-bandanā paḓe śune ĵei jana |
+antarera mala ghuce, śuddha haya mana ||44||
 
-prabhāte uṭhiyā paḍe vaiṣṇava-vandanā
-kona kāle nāhi pāya konai nyatraṇā (46)
+prabhāte uṭhiyā paḓe vaiṣṇava-bandanā |
+kona-kāle nāhi pāya kona_i ĵantraṇā ||45||
 
-devera durllabha sei premabhakti labhe
-<b>devakīnandana dāsa</b> kahe ei lobhe (47)
-`,
-  "translation": ""
+debera durllabha sei premabhakti labhe |
+devakīnandana dāsa kahe ei lobhe ||46||`,
+  "notes": "(baḓārī rāga)"
 })

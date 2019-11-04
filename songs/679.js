@@ -1,31 +1,30 @@
 push({
-  "title": "sabe ānande diyā jaya-dhvani",
-  "author": "Unknown",
+  "title": "sabe ānande di.yā ja.yadhvani",
+  "id": 679,
+  "author": "lekhaka ajānā",
   "category": "asamīyā-kīrtana",
   "language": "assamese",
   "verses": `
-sabe ānande diyā jaya-dhvani
-avatāra bhailā āhi gaura guṇa-maṇi
-gaura guṇamaṇi, āmāra nitāi guṇa-maṇi (1)
+sabe ānande di.yā ja.yadhvani; 
+avatāra bhailā āhi gaura guṇamaṇi |
+gaura guṇamaṇi āmāra nitāi guṇamaṇi;
+śuddha bhakatara saṅga, dhôri kṛṣṇa parasaṅga |
+kôri mahāraṅge mātā divasa rajanī ||1||
 
-śuddha bhakatara saṅga, dhari kṛṣṇa para-saṅga
-kari mahāraṅge mātā divasa rajanī (2)
+yāga, yajña, vrata, dāna ādi ĵatô śubhakāma |
+kalita viphala—nohe nāmara salani ||2||
 
-jāga jajña vrata dāna ādi jata śubha kāma
-kalita viphala–nohe nāmara salani (3)
+nāmaka eri.yā ĵiṭo dharmma kare avirata |
+kulaṭāra dare siṭau ācari āpani ||3||
 
-nāmaka eriyā jiṭo dharma kare avirata
-kulaṭāra dare siṭo ācari āpani (4)
+aparādha eri sabe lo.yā nāma anurāge |
+go.yā nāma śuddhabhāve gurumukhe śuni ||4||
 
-aparādha eri sabe loyā nāma anurāge
-goyā nāma śuddha bhāve guru-mukhe śuni (5)
+tāraka-brahma harināma, yugadharmma anupama |
+bhaja abirāma śāstrasāra jāni ||5||
 
-tāraka-brahma harināma, yuga-dharma anupama
-bhaja avirāma śāstra-sāra jāni (6)
+hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare |
+hare rāma hare rāma rāma rāma hare hare ||6||
 
-hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
-hare rāma hare rāma rāma rāma hare hare
-avirāma rāma-nāma karā nāmara dhvani (7)
-`,
-  "translation": ""
+abirāma rāmanāma karā nāmara dhvani ||7||`
 })

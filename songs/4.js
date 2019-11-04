@@ -1,10 +1,10 @@
 push({
   "title": "vandanā (3)",
+  "id": 4,
   "author": "Unknown",
   "category": "maṅgalācaraṇam",
   "language": "sanskrit",
-  "verses": `
-<b>śrī-yamunā-snana-vandanā</b>
+  "verses": `<b>śrī-yamunā-snana-vandanā</b>
 kalinda-tanaye! devi! paramānanda-vardhini!
 snāmi te salile sarvāparādhānmāṁ vimocaya
 
@@ -140,7 +140,5 @@ vedān uddharate jaganti vahate bhū-golam udvibrate
 daityān dārayate baliṁ chalayate kṣatra-kṣayaṁ kurvate
 paulastyaṁ jayate halaṁ kalayate kāruṇyam-ātanvate 
 mlecchān-mūrcchayate daśākṛti-kṛte kṛṣṇāya tubhyaṁ namaḥ
-<i>śrī-gīta-govindam</i>
-`,
-  "translation": ""
+<i>śrī-gīta-govindam</i>`
 })

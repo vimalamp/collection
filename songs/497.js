@@ -1,33 +1,35 @@
 push({
-  "title": "rādhā-kuṇḍa-taṭa-kuñja-kuṭīra",
-  "author": "bhaktivinoda,",
+  "title": " rādhākuṇḍataṭa-kuñjakuṭīra",
+  "id": 497,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>siddha-dehe–kṛṣṇa-bhajanera uddīpana</i>
-rādhā-kuṇḍa-taṭa-kuñja-kuṭīra
-govardhana-parvata, yāmuna-tīra (1)
+siddhadehe—kṛṣṇabhajanera uddīpana
 
-kusuma-sarovara, mānasa-gaṅgā
-kalinda-nandinī vipula-taraṅgā (2)
+rādhākuṇḍataṭa-kuñjakuṭīra | 
+govarddhana-parbbata, ĵāmunatīra ||1||
 
-vaṁśī-vaṭa, gokula, dhīra-samīra
-vṛndāvana-taru latikā-vānīra (3)
+kusumasarovara, mānasagaṅgā | 
+kalinda-nandinī bipulataraṅgā ||2||
 
-khaga-mṛga-kula, malaya-vātāsa
-mayūra, bhramara, muralī-vilāsa (4)
+vaṁśīvaṭa, gokula, dhīrasamīra | 
+vṛndāvana-taru-latikā-bānīra ||3||
 
-veṇu, śṛṅga, pada-cihna, megha-mālā
-vasanta, śaśāṅka, śaṅkha, karatālā (5)
+khaga-mṛgakula, malaya-bātāsa | 
+mayūra, bhramara, muralī, bilāsa ||4||
 
-yugala-vilāse anukūla jāni
-līlā-vilāsa-uddīpaka māni (6)
+beṇu, śṛṅga, padacihna, meghamālā | 
+basanta, śaśāṅka, śaṅkha, karatālā ||5||
 
-e saba choḍata kahi nāhi jāu
-e saba choḍata parāṇa hārāu (7)
+ĵugalabilāse anukūla jāni | 
+līlā-bilāsa-uddīpaka māni ||6||
 
-<b>bhaktivinoda,</b> kahe śuna kāna!
-tuyā uddīpaka hāmārā parāṇa (8)
-`,
-  "translation": ""
+e saba choḓatô kãhi nāhi ĵā̃u | 
+e saba choḓatô parāṇa hārāũ ||7||
+
+bhakativinoda kahe, śunô kāna ! 
+tuŵā uddīpaka hāmārā parāṇa ||8||
+
+śabdārtha:- bānīra—betasa-bṛkṣa arthāt. beta gācha; śaśāṅka—candra |`
 })

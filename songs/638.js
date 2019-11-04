@@ -1,10 +1,10 @@
 push({
   "title": "raty-āsvāda hetu jata vibhāva nāmete khyāta",
+  "id": 638,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-raty-āsvāda hetu jata vibhāva nāmete khyāta
+  "verses": `raty-āsvāda hetu jata vibhāva nāmete khyāta
         ālambana uddīpana haya
 viṣaya-āśraya-gata ālambana dui mata
         kṛṣṇa kṛṣṇa-bhakta se ubhaya (1)
@@ -22,7 +22,5 @@ smitāsya saurabha śṛṅga vaṁśī kambu khetra bhṛṅga
 tulasī bhajana cīna bhakta jana-daraśana
         ei-rūpa nānā uddīpana
 bhakti-rasa-āsvādane ei saba hetu-gaṇe
-        nirdeśila rūpa-sanātana (4)
-`,
-  "translation": ""
+        nirdeśila rūpa-sanātana (4)`
 })

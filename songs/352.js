@@ -1,10 +1,10 @@
 push({
   "title": "śrī-kṛṣṇera viṁśotara-śatanāma",
+  "id": 352,
   "author": "bhaktivinoda",
   "category": "śrī-kṛṣṇera viṁśotara-śatanāma",
   "language": "bengali",
-  "verses": `
-nagare nagare gorā gāya (1)
+  "verses": `nagare nagare gorā gāya (1)
 
 yaśomatī-stanyapāyī śrī-nanda-nandana
 indranīla-maṇi vraja-janera jīvana (2)
@@ -79,7 +79,5 @@ patita-pāvana jagannātha sarveśvara
 vṛndāvana-candra sarva-rasera ākara (25)
 
 nagare nagare gorā gāya
-<b>bhaktivinoda</b> tachu pāya (26)
-`,
-  "translation": ""
+<b>bhaktivinoda</b> tachu pāya (26)`
 })

@@ -1,58 +1,58 @@
 push({
-  "title": "anātha-jīvere, karite sanātha",
+  "title": "anātha jībere, kôrite sanātha",
+  "id": 109,
   "category": "śrīla-jagannātha-vandanā",
-  "author": "śrīla bhaktiviveka bhāratī mahārāja-viracita, bhaktiviveka-kusumāñjali’ haite uddhṛta",
+  "author": " śrīla bhaktiviveka bhāratī gosvāmī mahārāja",
   "language": "bengali",
   "verses": `
-anātha-jīvere, karite sanātha,
-        jagannātha prabho tumi
-prabhura ājñāte, avanīte āsi’,
-        vasilā nadīyā-bhūmi (1)
+anātha jībere,    kôrite sanātha,
+jagannātha prabho tumi |
+prabhura ājñāte,    abanīte āsi’,
+bôsilā nadīyā-bhūmi ||1||
 
-gaura-kṛṣṇa yena, rādhā-kuṇḍa ādi,
-        prakāśilā kṛpā kari’
-tumi gaura-jana, gaurāṅga-ādeśe,
-        jānāilā ‘māyāpurī’ (2)
+gaura-kṛṣṇa ĵenô,    rādhākuṇḍa ādi,
+prakāśilā kṛpā kôri’ |
+tumi gaurajana,    gaurāṅga-ādeśe,
+jānāilā ‘māyāpurī’ ||2||
 
-‘madhura-āloka’, kari’ daraśana,
-        amara tulasī-vane
-āpanāra jana, bhaktivinode,
-        smaraṇa karilā mane (3)
+‘madhura-āloka’,    kôri’ daraśana,
+amara tulasī-bane |
+āpanāra jana,    bhakativinode,
+smaraṇa kôrilā mane ||3||
 
-maramera kathā, bujhila maramī,
-        chuṭiyā āsilā tathā
-tomāra nirddeśe, karila mandira,
-        gaura-janma-sthāna yathā (4)
+maramera kathā,    bujhilô maramī,
+chuṭiyā āsilā tathā |
+tomāra nirddeśe,    kôrilô mandira,
+gaura-janmasthāna ĵathā ||4||
 
-hṛdaya-devatā, prakāśi’ mandire,
-        kṛṣṇa-dātā, dayā-maya
-gaura-dhāma-nāma, gaura-kāma-sevā,
-        pracārile viśvamaya (5)
+hṛdaya-debatā,    prakāśi’ mandire,
+kṛṣṇadātā dayāmaya |
+gaura-dhāma-nāma,    gaura-kāma-sebā,
+pracārile biśvamaya ||5||
 
-prakaṭā-prakaṭa, tithi vaiṣṇavera,
-        avidita chila yāhā
-‘tadīya’ se-bāra, mahimā pracāre,
-        kṛpāya jānā’le tāhā (6)
+prakaṭāprakaṭa,    tithi vaiṣṇavera,
+abidita chilô ĵāhā |
+‘tadīya’ sebāra,    mahimā pracāre,
+kṛpāya jānāle tāhā ||6||
 
-kṛṣṇetara śavda, śravaṇe-kathane,
-        nirata-mānave jāni’
-tithi-bāra-māsa, nakṣatrādi nāme,
-        kṛṣṇa-saṁjñā dilā āni’ (7)
+kṛṣṇetara śabda-,    śrabaṇa-kathane,
+nirata-mānabe jāni’ |
+tithi-bāra-māsa,    nakṣatrādi nāme,
+kṛṣṇasaṁjñā dilā āni’ ||7||
 
-bhaktira dvāre, kṛṣṇa-vinodana,
-        jānāte siddhānta-sāra
-bhaktira svarūpe, ānile jagate,
-        karuṇāra pārāvāra (8)
+bhakatira dvāre,    kṛṣṇa-binodana,
+jānāte siddhāntasāra |
+bhaktira svarūpe,    ānile jagate,
+karuṇāra pārābāra ||8||
 
-dharma, artha, kāma, āra mokṣa-āśā,
-        chāḍiyā saubhāgyavān
-vasi’ bhakta-saṅge, bhakti-anuṣṭhāne,
-        seve sadā bhagavān (9)
+dharmma, artha, kāma,    āra mokṣa-āśā,
+chāḓiyā saubhāgyavān_ |
+bôsi’ bhakta-saṅge,    bhakti-anuṣṭhāne,
+sebe sadā bhagavān_ ||9||
 
-jagatera nātha, bhakta, bhagavān,
-        jāniyā kṛpāya tava
-tomāra caraṇe, ohe jagannātha!
-        ciradāsa hao ra‘ba (10)
-`,
-  "translation": ""
+jagatera nātha,    bhakta, bhagavān_,
+jāniyā kṛpāya taba |
+tomāra caraṇe,    ohe jagannātha! 
+ciradāsa hañā rabô ||10||`,
+  "notes": "‘bhaktiviveka-kusumāñjali’ hô_ite uddhṛta"
 })

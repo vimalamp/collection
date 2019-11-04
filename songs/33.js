@@ -1,10 +1,10 @@
 push({
   "title": "diśi diśi racayantīṁ sañcaran-netra-lakṣmī",
+  "id": 33,
   "category": "śrī-rādhikāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-diśi diśi racayantīṁ sañcaran-netra-lakṣmī-
+  "verses": `diśi diśi racayantīṁ sañcaran-netra-lakṣmī-
     vilasita-khuralībhiḥ khañjarī ṭasya khelām
 hṛdaya-madhupa-mallīṁ ballavādhīśa-sūnor
     akhila-guṇa-gambhīrāṁ rādhikām arcayāmi (1)
@@ -47,7 +47,5 @@ hari-bhuja-parirabdhāṁ labdha-romāñca-pāliṁ
 tad-amala-madhurimṇāṁ kāmam ādhāra-rūpaṁ
     paripaṭhati variṣṭhaṁ suṣṭhu rādhāṣṭakaṁ yaḥ
 ahima-kiraṇa-putrī-kūla-kalyāṇa-candraḥ
-    sphuṭam akhilam abhīṣṭaṁ tasya tuṣṭas tanoti (9)
-`,
-  "translation": ""
+    sphuṭam akhilam abhīṣṭaṁ tasya tuṣṭas tanoti (9)`
 })

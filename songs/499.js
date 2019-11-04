@@ -1,17 +1,16 @@
 push({
-  "title": "āra kena māyā-jāle paḍitecha jīva-mīna",
-  "author": "Unknown",
+  "title": " āra kenô māyājāle",
+  "id": 499,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śreyo-nirṇaya",
   "language": "bengali",
   "verses": `
-āra kena māyā-jāle paḍitecha jīva-mīna
-nāhi jāna baddha ha’ye ra’be tumi cira-dina (1)
+āra kenô māyājāle pôḓitechô jība mīna |
+nāhi jānô baddha ha’ye ra’be tumi ciradina ||1||
 
-ati tuccha bhoga-āśe, vandī ha’ye māyā-pāśe
-rahile vikṛta-bhāve daṇḍya jathā parādhīna (2)
+ati tuccha bhoga-āśe,    bandī ha’ye māyā-pāśe |
+rahile bikṛtabhābe daṇḍya ĵathā parādhīna ||2||
 
-ekhana bhakti-bale, kṛṣṇa-prema-sindhu-jale
-krīḍā kari’ anāyāse thāka tumi kṛṣṇādhīna (3)
-`,
-  "translation": ""
+ekhôna bhakatibôle,    kṛṣṇapremasindhu-jale |
+krīḓā kôri anāyāse thākô tumi kṛṣṇādhīna ||3||`
 })

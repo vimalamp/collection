@@ -1,28 +1,27 @@
 push({
-  "title": "bhāire! bhaja gorā-cādera caraṇa",
-  "author": "premānandera",
+  "title": "bhāire! bhajô gorācā̃dera",
+  "id": 204,
+  "author": "premānandadāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaurāṅga-niṣṭhā",
   "language": "bengali",
   "verses": `
-bhāire! bhaja gorā-cādera caraṇa
-e tina bhuvane āra, dayāra ṭhākura nāi,
-        gorā baḍa patita-pāvana (1)
+bhāire! bhajô gorācā̃dera caraṇa |
+e tina bhubane āra,    dayāra ṭhākura nāi,
+gorā baḓô patitapābana ||1||
 
-hena avatāre jā’ra, nahila bhakti leśa,
-        bala tā’ra ki have upāya
-ravira kiraṇe jā’ra, ākhi parasanna naila,
-        vidhātā vañcita kaila tāya (2)
+henô abatāre ĵā’ra,    nahilô bhakati leśa,
+bôlô tā’ra ki habe upāya |
+rabira kiraṇe ĵā’ra,    ā̃khi parasanna nailô,
+bidhātā bañcita kailô tāya ||2||
 
-hema-jalada kāya, prema-dhārā variṣaya,
-        karuṇā-maya avatāra
-gorā hena prabhu pe’ye, ye-jana śītala naila,
-        ki jāni kemana mana tā’ra (3)
+henô-jalada kāya,    premadhārā bariṣaya,
+karuṇāmaya abatāra |
+gorā henô prabhu peye,    ĵe-jana śītala nailô,
+ki jāni kemôna mana tā’ra ||3||
 
-kali-bhava-sāgare, nija-nāma bhelā kari’,
-        āpane gaurāṅga kare pāra
-tabe je ḍubiyā mare, ke tā’re uddhāra kare,
-        e <b>premānandera</b> parihāra (4)
-`,
-  "translation": ""
+kali-bhaba-sāgare,    nija-nāma bhelā kôri’,
+āpane gaurāṅga kare pāra |
+tabe ĵe ḍubiyā mare,    ke tā’re uddhāra kare,
+e premānandera parihāra ||4||`
 })

@@ -1,28 +1,29 @@
 push({
-  "title": "kali-yuge śrī-caitanya, avanī karilā dhanya",
-  "author": "govinda-dāsa",
+  "title": "kaliĵuge śrīcaitanya",
+  "id": 175,
+  "author": " govindadāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-rūpa-varṇana",
   "language": "bengali",
   "verses": `
-kali-yuge śrī-caitanya, avanī karilā dhanya,
-        patita-pāvana jā’ra vāṇā
-pūrave rādhāra bhāve, gaurāṅga hailā ebe,
-        nijarūpa dhari’ kācā sonā (1)
+kaliĵuge śrīcaitanya,    abanī kôrilā dhanya,
+patitapābana ĵā̃’ra bāṇā |
+pūrabe rādhāra bhābe,    gaurāṅga hô_ilā ebe,
+nijarūpa dhôri’ kā̃cā sonā ||1||
 
-gaurāṅga, patita-pāvana avatāri!
-kali-bhujaṅgama dekhi’, hari-nāme jīva rākhi’,
-        āpani hailā dhanvantari (2)
+gaurāṅga, patitapābana abatāri! 
+kali-bhujaṅgama dekhi’,    harināme jība rākhi’,
+āpani hô_ilā dhanvantari ||2||
 
-gadādhara ādi yata, mahā mahā-bhāgavata,
-        tā’rā saba gorā-guṇa gāya
-akhila bhuvana-pati, goloke yāhāra sthiti,
-        hari bali’ avanī loṭāya (3)
+gadādhara ādi ĵatô,    mahā mahā-bhāgavata,
+tā̃’rā saba gorāguṇa gāya |
+akhila bhubanapati,    goloke ĵā̃hāra sthiti,
+hari bali’ abanī loṭāya ||3||
 
-soṅri pūrava guṇa, mūrachaya punaḥ punaḥ,
-        paraśe dharaṇī ulasita
-caraṇa-kamala kibā, nakhara ujora śobhā,
-        <b>govinda-dāsa</b> se vañcita (4)
-`,
-  "translation": ""
+soṅari pūraba guṇa,    murachaya punaḥ punaḥ,
+paraśe dharaṇī ulasita |
+caraṇa-kamala kibā,    nakhara ujora śobhā,
+govindadāsa se bañcita ||4||
+
+śabdārtha:- bāṇā–patākā; bhujaṅgama–sarp; dhanvantari–debabaidya; murachaya–mūrcchita haya|`
 })

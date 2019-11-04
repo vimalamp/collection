@@ -1,39 +1,39 @@
 push({
-  "title": "vidyāra vilāse, kāṭāinu kāla",
-  "author": "bhaktivinoda",
+  "title": " bidyāra bilāse",
+  "id": 470,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>dainya–duḥkhātmaka (mānasika)</i>
-vidyāra vilāse, kāṭāinu kāla,
-        parama sāhase āmi
-tomāra caraṇa, nā bhajinu kabhu,
-        ekhana śaraṇa tumi (1)
+dainya—duḥkhātmaka (mānasika)
 
-paḍite paḍite, bharasā bāḍila,
-        jñāne gati have māni’
-se-āśā viphala, se-jñāna durbala,
-        se-jñāna ajñāna jāni (2)
+bidyāra bilāse,    kāṭāinu kāla,
+parama sāhase āmi |
+tomāra caraṇa,    nā bhajinu kabhu,
+ekhôna śaraṇa tumi ||1||
 
-jaḍa-vidyā jata, māyāra vaibhava,
-        tomāra bhajane bādhā
-moha janamiyā, anitya saṁsāre,
-        jīvake karaye gādhā (3)
+pôḓite pôḓite,    bharasā bāḓilô,
+jñāne gati habe māni’ |
+se-āśā biphala,    se-jñāna durbbala,
+se-jñāna ajñāna jāni ||2||
 
-sei gādhā ha’ye, saṁsārera vojhā,
-        vahinu aneka kāla
-vārddhakya ekhana, śaktira abhāve,
-        kichu nāhi lāge bhāla (4)
+jaḓabidyā ĵatô,    māyāra baibhaba,
+tomāra bhajane bādhā |
+moha-janamiyā,    anitya-saṁsāre,
+jībake karaye gādhā ||3||
 
-jīvana-jātanā, haila ekhana,
-        se-vidyā avidyā bhela
-avidyāra jvālā, ghaṭila viṣama,
-        se-vidyā haila śela (5)
+sei gādhā ha’ye,    saṁsārera bojhā,
+bahinu aneka kāla |
+bārddhakye ekhôna,    śaktira abhābe,
+kichu nāhi lāge bhālô ||4||
 
-tomāra caraṇa, vinā kichu dhana,
-        saṁsāre nā āche āra
-<b>bhaktivinoda</b>, jaḍa-vidyā chāḍi’,
-        tuyā pada kare sāra (6)
-`,
-  "translation": ""
+jībana—ĵātanā,    hô_ilô ekhôna,
+se-bidyā abidyā bhelô |
+abidyāra jvālā,    ghaṭilô biṣama,
+se-bidyā hô_ilô śelô ||5||
+
+tomāra caraṇa,    binā kichu dhana,
+saṁsāre nā āche āra |
+bhakativinoda,    jaḓabidyā chāḓi’,
+tuŵā pada kare sāra ||6||`
 })

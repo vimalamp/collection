@@ -1,23 +1,24 @@
 push({
-  "title": "bhāire! eka-dina nīlācale, prasāda sevana-kāle",
-  "author": "Unknown",
+  "title": "bhāire! ekadina nīlācale",
+  "id": 618,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-mahā-prasāda-māhātmya-kīrtana",
   "language": "bengali",
   "verses": `
-bhāire! eka-dina nīlācale, prasāda sevana-kāle,
-        mahāprabhu śrī-kṛṣṇa-caitanya
-balilena,–“bhakta-gaṇe, khecarānna śuddha-mane,
-        sevā kari’ hao āja dhanya (1)
+bhāire! 
+ekadina nīlācale,    prasāda sebana-kāle,
+mahāprabhu śrīkṛṣṇacaitanya |
+bôlilena,—“bhaktagaṇe,    khecarānna śuddhamane,
+sebā kôri’ hao āja dhanya ||1||
 
-khecarānna, piṭhāpānā, apūrva prasāda nānā,
-        jagannātha dila tomā sabe
-ākanṭa bhojana kari’, bala mukhe hari hari,
-        avidyā-durita nāhi rabe (2)
+khecarānna, piṭhāpānā,    apūrbba prasāda nānā,
+jagannātha dilô tomā sabe |
+ākaṇṭha bhojana kôri’,    bôlô mukhe hari hari,
+abidyā-durita nāhi rabe ||2||
 
-jagannātha-prasādānna, viriñci-śambhura mānya,
-        khāile prema haibe udaya
-emana durllabha dhana, pāiyācha sarva-jana,
-        jaya jaya jagannātha jaya” (3)
-`,
-  "translation": ""
+jagannātha-prasādānna,    viriñci-śambhura mānya,
+khāile prema hô_ibe udaya |
+emôna durllabha dhana,    pāiyāchô sarbbajana,
+jaya jaya jagannātha jaya ||3||”
+`
 })

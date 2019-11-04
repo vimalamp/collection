@@ -1,10 +1,10 @@
 push({
   "title": "jhulanā haite, nāmila turite",
+  "id": 581,
   "author": "dāsa vaiṣṇava",
   "category": "jhulanalīlā",
   "language": "bengali",
-  "verses": `
-jhulanā haite, nāmila turite,
+  "verses": `jhulanā haite, nāmila turite,
         rasavatī rasarāja
 ratana āsane, basiyā du’jane,
         ratana mandira mājha (1)
@@ -32,7 +32,5 @@ alase iṣta, nayana mudita,
 dekhi sakhīgaṇe, katahu yatane,
         śutāyala dohe tāya
 sakhīra iṅgite, caraṇe sevite,
-        e <b>dāsa vaiṣṇava</b> dhāya (6)
-`,
-  "translation": ""
+        e <b>dāsa vaiṣṇava</b> dhāya (6)`
 })

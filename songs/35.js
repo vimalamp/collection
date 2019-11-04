@@ -1,10 +1,10 @@
 push({
   "title": "kuṅkumākta-kāñcanābja-garvahāri-gaurabhā",
+  "id": 35,
   "category": "śrī-rādhikāṣṭakam",
   "author": "śrīla-kṛṣṇadāsa-kavirāja-gosvāmī-viracitam",
   "language": "sanskrit",
-  "verses": `
-kuṅkumākta-kāñcanābja-garvahāri-gaurabhā
+  "verses": `kuṅkumākta-kāñcanābja-garvahāri-gaurabhā
     pītanāñcitābja-gandha-kīrti-nindi-saurabhā
 ballaveśa-sūnu-sarva-vāñchitārtha-sādhikā
     mahyam-ātma-pāda-padma-dāsya-dāstu rādhikā (1)
@@ -47,7 +47,5 @@ yatna-labdha-kṛṣṇa-saṅga-nirgatākhilādhikā
 aṣṭakena yas-tv-asnena nauti kṛṣṇa-vallabhāṁ
     darśane’pi śailajādi-yoṣid-āli-durllabhām
 kṛṣṇa-saṅga-nanditātma-dāsya-sīdhu-bhājanaṁ
-    taṁ karoti nanditāli-sañcayāśu sā janam (9)
-`,
-  "translation": ""
+    taṁ karoti nanditāli-sañcayāśu sā janam (9)`
 })

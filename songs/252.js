@@ -1,33 +1,40 @@
 push({
-  "title": "rādhikā-caraṇa-padma, sakala śreyera sadma",
-  "author": "bhaktivinoda",
+  "title": "rādhikācaraṇa-padma",
+  "id": 252,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-rādhāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>(śrī-rādhā-tattva)</i>
-rādhikā-caraṇa-padma, sakala śreyera sadma,
-        jatane je nāhi ārādhila
-rādhā-padāṅkita-dhāma, vṛndāvana jāra nāma,
-        tāhā je nā āśraya karila (1)
+<i>“anārādhya rādhā-padāmbhoja-reṇu- 
+manāśritya vṛndāṭavīṁ tat.padāṅkām_ |
+asambhāṣya tadbhāva-gambhīracittān_
+kutaḥ śyāmasindhu-rasasyāvagāhaḥ ||”</i>
 
-rādhikā-bhāva-gambhīra-citta jevā mahādhīra,
-        gaṇa-saṅga nā kaila jīvane
-kemane se śyāmānanda, rasa-sindhu-snānānanda,
-        labhibe bujhaha ekamane (2)
+(śrīraghunātha dāsa gosvāmī)
 
-rādhikā ujvala-rasera ācārya
-rādhā-mādhava-śuddha-prema vicārya (3)
 
-je dharila rādhā-pada parama jatane
-se pāila kṛṣṇa-pada amūlya-ratane (4)
 
-rādhā-pada vinā kabhu kṛṣṇa nāhi mile
-rādhāra dāsīra kṛṣṇa sarva-vede bale (5)
+rādhikācaraṇa-padma,    sakala śreyera sadma,
+ĵatane ĵe nāhi ārādhilô |
+rādhā-padāṅkita-dhāma,    vṛndāvana ĵā’ra nāma,
+tāhā ĵe nā āśraya kôrilô ||1||
 
-choḍata dhana-jana, kalatra-suta-mita,
-        choḍata karama-geyāna
-rādhā pada-paṅkaja-, madhurata-sevana,
-        <b>bhaktivinoda</b> paramāṇa (6)
-`,
-  "translation": ""
+rādhikābhāba-gambhīra-,    citta ĵebā mahādhīra,
+gaṇa-saṅga nā kailô jībane |
+kemône se śyāmānanda,    rasasindhu-snānānanda,
+labhibe bujhahô ekamane ||2||
+
+rādhikā ujjvala-rasera ācārĵya | 
+rādhāmādhava-śuddhaprema bicārĵya ||3||
+
+ĵe dhôrilô rādhāpada parama ĵatane | 
+se pāilô kṛṣṇapada amūlyaratane ||4||
+
+rādhāpada binā kabhu kṛṣṇa nāhi mile | 
+rādhāra dāsīra kṛṣṇa, sarbbavede bôle ||5||
+
+choḓata dhana-jana,    kalatra-suta-mita,
+choḓata karama-geyāna |
+rādhā padapaṅkaja-,    madhurata-sebana,
+bhakativinoda paramāṇa ||6||`
 })

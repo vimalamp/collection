@@ -1,26 +1,25 @@
 push({
-  "title": "sakala vaiṣṇava gosāi dayā kara more",
-  "author": "rādhā-mohane",
+  "title": "sakala vaiṣṇava gosāñi",
+  "id": 122,
+  "author": "rādhā-mohana dāsa",
   "category": "śrī-vaiṣṇave vijñapti",
   "language": "bengali",
   "verses": `
-sakala vaiṣṇava gosāi dayā kara more
-dante tṛṇa dhari’ kahe e dīna pāmare (1)
+sakala vaiṣṇava gosāñi dayā karô more |
+dante tṛṇa dhôri’ kahe e dīna pāmare ||1||
 
-śrī-guru-caraṇa āra śrī-kṛṣṇa-caitanya
-pāda-padma pāoyāiyā more kara dhanya (2)
+śrīguru-caraṇa āra śrīkṛṣṇacaitanya |
+pādapadma pāoŵāiyā more karô dhanya ||2||
 
-tomā’ sabāra karuṇā vine ihā prāpti naya
-viśeṣe ayogya mui kahilu niścaya (3)
+tomā’ sabāra karuṇā bine ihā prāpti naya |
+biśeṣe aĵogya muñi kahilô niścaya ||3||
 
-vāñchā-kalpa-taru hao karuṇā-sāgara
-ei ta’ bharasā mui dhariye antara (4)
+bāñchā-kalpataru hao karuṇā-sāgara |
+ei tô’ bharasā muñi dhôriye antara ||4||
 
-guṇa-leśa nāhi mora aparādhera sīmā
-āmā’ uddhāriyā loke dakhāo mahimā (5)
+guṇa-leśa nāhi mora aparādhera sīmā |
+āmā’ uddhāriyā loke dekhāo mahimā ||5||
 
-nāma-saṅkīrtana-ruci āra prema-dhana
-e <b>rādhā-mohane</b> deha’ haiyā sakaruṇa (6)
-`,
-  "translation": ""
+nāma-saṅkīrttana-ruci āra prema-dhana |
+e rādhāmohane dehô’ haiyā sakaruṇa ||6||`
 })

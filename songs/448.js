@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! e-bāra bujhiba bhāri-bhuri",
+  "id": 448,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! e-bāra bujhiba bhāri-bhuri
+  "verses": `ore mana! e-bāra bujhiba bhāri-bhuri
 kupiyāche sūrya-suta, bāndhibe tāhāra dūta,
         jena phire asatāi kari (1)
 
@@ -21,7 +21,5 @@ dekhi heṭa kari’ māthā, sasainya se jama-brātā,
 śrī-guru-karuṇā-chāyā, candrātapa ṭāṅgāiyā,
         vasi’ thāka ānanda-hṛdaya
 kṛṣṇa-nitya-dāsa bali’, sarvatra phirāo ḍhuli’,
-        <b>premānanda</b> kahe kāre bhaya (4)
-`,
-  "translation": ""
+        <b>premānanda</b> kahe kāre bhaya (4)`
 })

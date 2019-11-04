@@ -1,191 +1,190 @@
 push({
   "title": "jaya jaya govinda gopāla gadādhara",
+  "id": 353,
   "category": "śrī-kṛṣṇera aṣṭotaraśatanāma",
-  "author": "dvija haridāsa",
+  "author": " dvija haridāsa",
   "language": "bengali",
   "verses": `
-jaya jaya govinda gopāla gadādhara
-kṛṣṇa-candra kara kṛpā karuṇā-sāgara (1)
+jaya jaya govinda gopāla gadādhara |
+kṛṣṇacandra karô kṛpā karuṇāsāgara ||1||
 
-jaya jaya govinda gopāla vanamālī
-śrī-rādhāra prāṇa-dhana mukunda murāri (2)
+jaya jaya govinda gopāla vanamālī |
+śrīrādhāra prāṇadhana mukunda murāri ||2||
 
-hari-nāma vine re bhāi govinda-nāma vine
-viphale manuṣya-janma jāya dine dine (3)
+harināma bine re bhāi govindanāma bine |
+biphale manuṣyajanma ĵāya dine dine ||3||
 
-dina gela miche kāje rātri gela nidre
-nā bhajinu rādhā-kṛṣṇa-caraṇāra-vinde (4)
+dina gelô miche kāje rātri gelô nidre |
+nā bhajinu rādhākṛṣṇa-caraṇārabinde ||4||
 
-kṛṣṇa bhajivāra tare saṁsāre āinu
-michā-māyāya baddha ha’ye vṛkṣa-sama hainu (5)
+kṛṣṇa-bhajivāra tare saṁsāre āinu |
+miche-māyāya baddha ha’ye bṛkṣasama hainu ||5||
 
-phala-rūpe putra-kanyā ḍāla bhāṅgi’ paḍe
-kāla-rūpe saṁsārete pakṣī vāsā kare (6)
+phalarūpe putra-kanyā ḍāla bhāṅgi’ paḓe |
+kālarūpe saṁsārete pakṣī bāsā kare ||6||
 
-jakhana kṛṣṇa janma nila devakī-udare
-mathurāte deva-gaṇa puṣpa-vṛṣṭi kare (7)
+ĵakhôna kṛṣṇa janma nilô devakī-udare |
+mathurāte debagaṇa puṣpabṛṣṭi kare ||7||
 
-vasudeva rākhi’ āila nandera mandire
-nandera ālaye kṛṣṇa dine dine vāḍe (8)
+vasudeva rākhi’ āilô nandera mandire |
+nandera ālaye kṛṣṇa dine dine bāḓe ||8||
 
-śrī-nanda rākhila nāma ‘nandera nandana’
-yaśodā rākhila nāma ‘yādu vāñchā-dhana’ (9)
+śrīnanda rākhilô nāma ‘nandera nandana’ |
+ĵaśodā rākhilô nāma ‘yādu bāchādhana’ ||9||
 
-upānanda nāma rākhe ‘sundara-gopāla’
-vraja-bālaka nāma rākhe ‘ṭhākura rākhāla’ (10)
+upānanda nāma rākhe ‘sundara-gopāla’ |
+vrajabālaka nāma rākhe ‘ṭhākura rākhāla’ ||10||
 
-subala rākhila nāma ‘ṭhākura kānāi’
-śrī-dāma rākhila nāma ‘rākhāla-rājā bhāi’ (11)
+subala rākhilô nāma ‘ṭhākura kānāi’ |
+śrīdāma rākhilô nāma ‘rākhālarājā bhāi’ ||11||
 
-‘nanīcorā’ nāma rākhe jateka gopinī
-‘kālasonā’-nāma rākhe rādhā-vinodinī (12)
+‘nanīcorā’ nāma rākhe ĵateka gopinī |
+‘kālasonā’ nāma rākhe rādhāvinodinī ||12||
 
-candrāvalī nāma rākhe ‘mohana-vaṁśī-dhārī’
-kubjā rākhila nāma ‘patita-pāvana hari’ (13)
+candrāvalī nāma rākhe ‘mohana-vaṁśīdhārī’ |
+kubjā rākhilô nāma ‘patitapābana hari’ ||13||
 
-‘ananta’ rākhila nāma anta nā pāiyā
-‘kṛṣṇa’-nāma rākhe garga dhyānete jāniyā (14)
+‘ananta’ rākhilô nāma anta nā pāiyā |
+ ‘kṛṣṇa’-nāma rākhe garga dhyānete jāniyā ||14||
 
-kaṇvamuni rākhe nāma ‘deva cakra-pāṇi’
-‘vana-mālī’ nāma rākhe vanera hariṇī (15)
+kaṇvamuni rākhe nāma ‘deba cakrapāṇi’ |
+ ‘vanamālī’ nāma rākhe banera hariṇī ||15||
 
-gajarāja nāma rākhe ‘śrī-madhusūdana’
-ajāmila nāma rākhe ‘deva nārāyaṇa’ (16)
+gajarāja nāma rākhe ‘śrīmadhusūdana’ |
+ajāmila nāma rākhe ‘deba nārāyaṇa’ ||16||
 
-purandara nāma rākhe ‘deva śrī-govinda’
-draupadī rākhila nāma ‘deva dīna-bandhu’ (17)
+purandara nāma rākhe ‘deba śrīgovinda’ |
+draupadī rākhilô nāma ‘deba dīnabandhu’ ||17||
 
-sudāmā rākhila nāma ‘dāridrya-bhañjana’
-vraja-vāsī nāma rākhe ‘vrajera jīvana’ (18)
+sudāmā rākhilô nāma ‘dāridryabhañjana’ |
+vrajavāsī nāma rākhe ‘vrajera jībana’ ||18||
 
-‘darpa-hārī’ nāma rākhe arjuna sudhīra
-‘paśu-pati’-nāma rākhe garuḍa mahāvīra (19)
+‘darpahārī’-nāma rākhe arjjuna sudhīra |
+ ‘paśupati’ nāma rākhe garuḓa mahābīra ||19||
 
-yudhiṣṭhira rākhe nāma ‘deva yaduvara’
-vidura rākhila nāma ‘kāṅgālera ṭhākura’ (20)
+yudhiṣṭhira rākhe nāma ‘deba-ĵaduvara’ |
+vidura rākhilô nāma ‘kāṅgālera ṭhākura’ ||20||
 
-vāsukī rākhila nāma ‘deva-sṛṣṭi-sthiti’
-valoke nāma rākhe ‘vera sārathi’ (21)
+vāsukī rākhilô nāma ‘deba-sṛṣṭi-sthiti’ |
+dhruvaloke nāma rākhe ‘dhruvera sārathi’ ||21||
 
-nārada rākhila nāma ‘bhakta-prāṇa-dhana’
-bhīṣma-deva nāma rākhe ‘lakṣmī-nārāyaṇa’ (22)
+nārada rākhilô nāma ‘bhaktaprāṇadhana’ |
+bhīṣmadeva nāma rākhe ‘lakṣmīnārāyaṇa’ ||22||
 
-satyabhāmā nāma rākhe ‘satyara sārathi’
-jāmbavatī nāma rākhe ‘deva-yodhāpati’ (23)
+satyabhāmā nāma rākhe ‘satyera sārathi’ |
+jāmbavatī nāma rākhe ‘deva-ĵoddhāpati’ ||23||
 
-viśvāmitra nāma rākhe ‘saṁsārera sāra’
-ahalyā rākhila nāma ‘pāṣāṇī-uddhāra’ (24)
+viśvāmitra nāma rākhe ‘saṁsārera sāra’ |
+ahalyā rākhilô nāma ‘pāṣāṇī-uddhāra’ ||24||
 
-bhṛgu-muni nāma rākhe ‘jagatera hari’
-pañca-mukhe ‘rāma’-nāma gāna tripurāri (25)
+bhṛgumuni nāma rākhe ‘jagatera hari’ |
+pañcamukhe ‘rāma’-nāma gāna tripurāri ||25||
 
-kuñja-keśī nāma rākhe ‘balī sadācārī’
-prahlāda rākhila nāma ‘nṛsiṁha murāri’ (26)
+‘kuñjakeśī’ nāma rākhe bôlī sadācārī |
+prahlāda rākhilô nāma ‘nṛsiṁha murāri’ ||26||
 
-daityāri dvārakānātha dāridrya-bhañjana
-dayā-maya draupadīra lajā-nivāraṇa (27)
+daityāri dvārakānātha dāridryabhañjana |
+dayāmaya draupadīra lajjā-nibāraṇa ||27||
 
-svarūpe sabāra haya golokete sthiti
-vaikunṭhe vaikunṭha-nātha kamalāra pati (28)
+svarūpe sabāra haya golokete sthiti |
+vaikuṇṭhe vaikuṇṭhanātha kamalāra pati ||28||
 
-vāsudeva-pradyumnādi-catrvuyaha-saha
-mahaiśvarya-pūrṇa ha’ye vihāra karaha (29)
+vāsudeva-pradyumnādi-caturbyūha-saha |
+mahaiśvarĵyapūrṇa ha’ye bihāra karahô ||29||
 
-aniruddha-saṅkarṣaṇa-nṛsiṁha-vāmana
-matsya-kūrma-varāhādi avatāra-gaṇa (30)
+aniruddha saṅkarṣaṇa nṛsiṁha vāmana |
+mat.sya-kūrmma-varāhādi abatāragaṇa ||30||
 
-kṣīrodakaśāyī hari garbhoda-vihārī
-kāraṇa-sāgare śakti māyāte sañcāri (31)
+kṣīrodakaśāyī hari garbbhodabihārī |
+kāraṇasāgare śakti māyāte sañcārī ||31||
 
-vṛndāvane kara līlā dhari’ gopaveśa
-se-līlāra anta prabhu nāhi pāya ‘śeṣa’ (32)
+vṛndāvane karô līlā dhôri’ gopabeśa |
+se-līlāra anta prabhu nāhi pāya ‘śeṣa’ ||32||
 
-pūtanā-vināśakārī śakaṭa-bhañjana
-tṛṇāvarta-baka-keśī-dhenuka-marddana (33)
+pūtanā-vināśakārī śakaṭabhañjana |
+tṛṇāvartta-baka-keśī-dhenuka-marddana ||33||
 
-aghāri go-vatsa-hārī brahmāra mohana
-giri-govarddhana-dhārī arjuna-bhañjana (34)
+aghāri govat.sahārī brahmāra mohana |
+girigovarddhanadhārī arjjunabhañjana ||34||
 
-kālīya-damana-kārī yamunā-vihārī
-gopīkula-vastra-hārī śrī-rāsa-bihārī (35)
+kālīyadamanakārī ĵamunābihārī |
+gopīkula-bastrahārī śrīrāsabihārī ||35||
 
-indra-darpa-nāśakārī kubjā-manohārī
-cāṇura-kaṁsādi-nāśī akrūra-nistārī (36)
+indradarpa-nāśakārī kubjāmanohārī |
+cāṇura-kaṁsādi-nāśī akrūranistārī ||36||
 
-navīna-nīrada-kānti śiśu-gopaveśa
-śikhi-puccha-vibhūṣita brahma parameśa (37)
+nabīna-nīrada-kānti śiśugopabeśa |
+śikhipucchabibhūṣita brahma parameśa ||37||
 
-pītāmbara veṇu-dhara śrī-vatsa-lāñchana
-gopa-gopī-parivṛta kamala-nayana (38)
+pītāmbara beṇudhara śrīvat.sa-lāñchana |
+gopa-gopī-paribṛta kamala-nayana ||38||
 
-vṛndāvana-vanacārī madana-mohana
-mathurā-maṇḍala-cārī śrī-yadunandana (39)
+vṛndāvana-vanacārī madanamohana |
+mathurāmaṇḍalacārī śrīĵadunandana ||39||
 
-satyabhāmā-prāṇa-pati rukmiṇī-ramaṇa
-pradyumna-janaka śiśupālādi-damana (40)
+satyabhāmā-prāṇapati rukmiṇīramaṇa |
+pradyumna-janaka śiśupālādi-damana ||40||
 
-uddhavera gati-dātā dvārakāra pati
-tri-bhuvana-paritrātā akhilera gati (41)
+uddhavera gatidātā dvārakāra pati |
+tribhubana-paritrātā akhilera gati ||41||
 
-śālva-dantavakra-nāśī mahiṣī-vilāsī
-sādhu-jana-trāṇakartā bhūbhāra-vināśī (42)
+śālva-dantavakra-nāśī mahiṣībilāsī |
+sādhujana-trāṇakarttā bhūbhāra-bināśī ||42||
 
-pāṇḍavera sakhā kṛṣṇa vidurera prabhu
-bhīṣmera upāsya-deva bhuvanera vibhu (43)
+pāṇḍavera sakhā kṛṣṇa vidurera prabhu |
+bhīṣmera upāsyadeba bhubanera bibhu ||43||
 
-devera ārādhyadeva muni-jana-gati
-yogi-dhyaya pāda-padma rādhikāra pati (44)
+debera ārādhyadeba munijanagati |
+ĵogidhyeya pādapadma rādhikāra pati ||44||
 
-rasa-maya rasika nāgara anupama
-nikuñja-bihārī hari nava-ghana-śyāma (45)
+rasamaya rasika nāgara anupama |
+nikuñjabihārī hari nabaghanaśyāma ||45||
 
-śālagrāma dāmodara śrīpati śrīdhara
-tāraka-brahma sanātana parama īśvara (46)
+śālagrāma dāmodara śrīpati śrīdhara |
+tāraka-brahma sanātana parama-īśvara ||46||
 
-kalpa-taru kamala-locana hṛṣīkeśa
-patita-pāvana guru jñāna-upadeśa (47)
+kalpataru kamalalocana hṛṣīkeśa |
+patitapābana guru jñāna-upadeśa ||47||
 
-cintāmaṇi caturbhuja deva cakrapāṇi
-dīna-bandhu devakī-nandana yadumaṇi (48)
+cintāmaṇi caturbhūja deba cakrapāṇi |
+dīnabandhu devakīnandana ĵadumaṇi ||48||
 
-ananta kṛṣṇera nāma ananta mahimā
-nāradādi vyāsadeva dite nāre sīmā (49)
+ananta kṛṣṇera nāma ananta mahimā |
+nāradādi vyāsadeva dite nāre sīmā ||49||
 
-nāma bhaja, nāma cinta, nāma kara sāra
-ananta kṛṣṇera nāma mahimā apāra (50)
+nāma bhajô, nāma cintô, nāma karô sāra |
+ananta kṛṣṇera nāma mahimā apāra ||50||
 
-śatabhāra-suvarṇa go-koṭī kanyā-dāna
-tathāpi nā haya kṛṣṇa-nāmera samāna (51)
+śatabhāra-subarṇa go-koṭī kanyādāna |
+tathāpi nā haya kṛṣṇa-nāmera samāna ||51||
 
-jei nāma, sei kṛṣṇa, bhaja niṣṭhā kari’
-nāmera sahita āchena āpani śrī-hari (52)
+ĵei nāma, sei kṛṣṇa bhajô niṣṭhā kôri’ |
+nāmera sahita āchena āpani śrīhari ||52||
 
-śuna śuna ore bhāi, nāma-saṅkīrtana
-je-nāma śravaṇe haya pāpa-vimocana (53)
+śunô śunô ore bhāi, nāmasaṅkīrttana |
+ĵe-nāma śrabaṇe haya pāpa-bimocana ||53||
 
-kṛṣṇa-nāma bhaja jīva, āra saba miche
-palāite patha nāi jama āche piche (54)
+kṛṣṇanāma bhajô jība, āra saba miche |
+palāite patha nāi, ĵama āche piche ||54||
 
-kṛṣṇa-nāma hari-nāma baḍai madhura
-jei jana kṛṣṇa bhaje, se baḍa catura (55)
+kṛṣṇanāma harināma baḓa_i madhura |
+ĵei jana kṛṣṇa bhaje se baḓô catura ||55||
 
-brahmā ādi deva jā’re dhyāne nāhi pāya
-se-hari vañcita ha’le ki ha’be upāya (56)
+brahmā ādi deba ĵā̃’re dhyāne nāhi pāya |
+se-hari bañcita ha’le ki habe upāya ||56||
 
-hiraṇyakaśipura kari’ udara vidāraṇa
-prahlāde karilā rakṣā deva nārāyaṇa (57)
+hiraṇyakaśipura kôri’ udara bidāraṇa |
+prahlāde kôrilā rakṣā deba nārāyaṇa ||57||
 
-balire chalite prabhu hailā vāmana
-draupadīra lajā hari kailā nivāraṇa (58)
+balire chalite prabhu hô_ilā vāmana |
+draupadīra lajjā hari kailā nibāraṇa ||58||
 
-aṣṭotara-śata-nāma je kare paṭhana
-anāyāse pāya rādhā-kṛṣṇera caraṇa (59)
+aṣṭottaraśata-nāma ĵe kare paṭhana |
+anāyāse pāya rādhākṛṣṇera caraṇa ||59||
 
-bhakta-vāñchā pūrṇa kare nandera nandana
-mathurāya kaṁsa-dhvaṁsa, laṅkāya rāvaṇa (60)
+bhaktabāñchā pūrṇa kare nandera nandana |
+mathurāya kaṁsa-dhvaṁsa, laṅkāya rāvaṇa ||60||
 
-bakāsura-badha-ādi kālīya-damana
-<b>dvija haridāsa </b>kahe nāma-saṅkīrtana (61)
-`,
-  "translation": ""
+bakāsurabadha-ādi kālīya damana |
+dvija haridāsa kahe nāmasaṅkīrttana ||61||`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "cira-mukta-gaṇādṛta-kāmya-dhanaṁ",
+  "id": 8,
   "category": "śrī-keśavācāryāṣṭakam",
   "author": "śrīmad-bhaktivedānta-ūrddhvanmahī-mahārājena viracitam",
   "language": "sanskrit",
-  "verses": `
-cira-mukta-gaṇādṛta-kāmya-dhanaṁ
+  "verses": `cira-mukta-gaṇādṛta-kāmya-dhanaṁ
     dhana-depsita-vandita-kalpatarum
 taru-rājita-cinmaya-dhāma-caraṁ
     praṇamāmi ha keśava-pūta-padam (1)
@@ -42,7 +42,5 @@ varaṇāgata-durmati-śanda-padaṁ
 nigamānta-sabhā-nava-kīrti-dharaṁ
     dharaṇī-jana-tāraka-gaura-param
 para-sevya-padābja-rajas-tamahaṁ
-    praṇamāmi ha keśava-pūta-padam (8)
-`,
-  "translation": ""
+    praṇamāmi ha keśava-pūta-padam (8)`
 })

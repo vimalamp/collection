@@ -1,10 +1,10 @@
 push({
   "title": "yoga yāga saba chāra śraddhā sakalera sāra",
+  "id": 630,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-yoga yāga saba chāra śraddhā sakalera sāra
+  "verses": `yoga yāga saba chāra śraddhā sakalera sāra
         sei śraddhā hṛdaye jāhāra
 udiyāche eka bindhu krame bhakti-rasa-sindhu
         lābhe tāra haya adhikāra (1)
@@ -27,7 +27,5 @@ tabu lauha lauha raya kañcana to’ kabhu naya
 kṛṣṇa-bhakti cintāmaṇi taṅra sparśe lauha-khani
         kārma-jñāna-gata śraddhā-bhāva
 haya jaya hema-bhara chāḍiyā to’ ku-vikāra
-        se kevala maṇira prabhāva (5)
-`,
-  "translation": ""
+        se kevala maṇira prabhāva (5)`
 })

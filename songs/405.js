@@ -1,32 +1,31 @@
 push({
-  "title": "‘dharma’ bali’ vede jā’re, eteka praśaṁsā kare",
-  "author": "bhaktivinode",
+  "title": "‘dharmma’ bôli vede ĵāre",
+  "id": 405,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
-<i>na dharmaṁ nā-dharmaṁ śruti-gaṇa-niruktaṁ kila kuru
-    vraje rādhā-kṛṣṇa-pracura paricaryām-iha tanu
-śacī-sūnuṁ nandīśvara-pati-sutatve guru-varaṁ
-    mukunda-preṣṭhatve smara param-ajasraṁ nanu manaḥ</i>
+<i>na dharmmaṁ nādharmmaṁ śrutigaṇa-niruktaṁ kila kuru
+vraje rādhākṛṣṇa-pracura-paricarĵyāmiha tanu |
+śacīsūnuṁ nandīśvarapatisutatve guruvaraṁ
+mukundapreṣṭhatve smara paramajasraṁ nanu manaḥ ||kha||</i>
 
-‘dharma’ bali’ vede jā’re, eteka praśaṁsā kare,
-        ‘adharma’ baliyā ninde jā’re
-tāhā kichu nāhi kara, dharma-ādharma parihara,
-        hao rata nigūḍha vyāpāre (1)
+‘dharmma’ bôli vede ĵāre,    eteka praśaṁsā kare,
+‘adharmma’ bôliyā ninde ĵā’re |
+tāhā kichu nāhi karô,    dharmmādharmma pariharô,
+hao rata nigūḓha byāpāre ||1||
 
-jāci’ mana, dhari’ tava pāya
-se-sakala parihari’, vraja-bhūme vāsa kari’,
-        rata hao yugala-sevāya (2)
+ĵāci’ mana, dhôri’ taba pāya |
+se-sakala parihari’,    vrajabhūme bāsa kôri’,
+rata hao ĵugalasebāya ||2||
 
-śrī-śacī-nandana-dhane, śrī-nanda-nandana-sane,
-        eka kari’ karaha bhajana
-śrī-mukunda-priya-jana, gurudeve jāna mana,
-        tomā lāgi’ patita-pāvana (3)
+śrīśacīnandana-dhane,    śrīnandanandana-sane,
+eka kôri’ karahô bhajana |
+śrīmukunda-priyajana,    gurudeve jānô mana,
+tomā’ lāgi’ patitapābana ||3||
 
-jagate prakaṭa bhāi, tāhā vinā gati nāi,
-        yadi cāo āpana kuśala
-tāhāra caraṇe dhari’, tadā-deśa sadā smari’,
-        e <b>bhaktivinode </b>deha bala (4)
-`,
-  "translation": ""
+jagate prakaṭa, bhāi,    tā̃hā binā gati nāi,
+ĵadi cāo āpana kuśala |
+tā̃hāra caraṇe dhôri’,    tadādeśa sadā smari’,
+e bhaktivinode dehô bôlô ||4||`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "āmi ati dina-mati vraja-kuñje nivasati",
+  "id": 289,
   "author": "Unknown",
   "category": "śrī-rādhā-kṛṣṇa-caraṇe saṁprārthanā",
   "language": "bengali",
-  "verses": `
-āmi ati dina-mati vraja-kuñje nivasati
+  "verses": `āmi ati dina-mati vraja-kuñje nivasati
         rādhā-kṛṣṇa-yugala-caraṇe
 kāndiyā kāndiyā aja chāḍi’ saba loka laja
         nivediba jata āche mane (1)
@@ -232,7 +232,5 @@ jalpana karaye sadā tā’ra vāñchā-pūrti tadā
 śrī-rūpa-mañjarī-pada śire dhari’ su-sampada
         kamala-mañjarī kare āśā
 śrī-godruma-vraja-vane duhu līlā-sandarśane
-        pūrṇa hao rasera pipāsā (46)
-`,
-  "translation": ""
+        pūrṇa hao rasera pipāsā (46)`
 })

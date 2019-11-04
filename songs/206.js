@@ -1,11 +1,11 @@
 push({
   "title": "mana re! kaha nā gaura kathā",
+  "id": 206,
   "author": "Unknown",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaurāṅga-niṣṭhā",
   "language": "bengali",
-  "verses": `
-mana re! kaha nā gaura kathā,
+  "verses": `mana re! kaha nā gaura kathā,
 gaurera nāma, amiyāra dhāma,
         pirīti mūrati dātā (1)
 
@@ -37,7 +37,5 @@ gaura caraṇe, parāṇa saṁpinu,
 gaura śabada, gaura sampada,
         jāhāra hiyāya jāge,
 narahari dāsa, tāra dāsera dāsa,
-        caraṇe śaraṇa māge (7)
-`,
-  "translation": ""
+        caraṇe śaraṇa māge (7)`
 })

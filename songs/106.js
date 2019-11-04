@@ -1,63 +1,71 @@
 push({
-  "title": "hā prabho! gaurakiśora, vaiṣṇavācārya ṭhākura",
+  "title": "hā prabho! gaurakiśora",
+  "id": 106,
   "category": "śrīla gaurakiśora-vandanā",
-  "author": "Unknown",
+  "author": "lekhaka ajānā",
   "language": "bengali",
   "verses": `
-hā prabho! gaurakiśora, vaiṣṇavācārya ṭhākura,
-        sākṣāt vairāgya mūrtimanta
-tava uru-kṛpā vine, sādhana-bhajana-hīne,
-        kaiche gāya se guṇa-ananta (1)
+hā prabho! gaurakiśora,    vaiṣṇavācārĵya ṭhākura,
+sākṣāt. bairāgya mūrttimanta |
+taba uru-kṛpā bine,    sādhana-bhajanahīne,
+kaiche gāya se guṇa-ananta ||1||
 
-śrī-gaurāṅga-bhakta yata, tā’ra madhya (śrī-)raghunātha,
-        vairāgya yena pāṣāṇa-rekhā
-tumi ta’ varile tāya, dekhi’ gaura sukha pāya,
-        (eka) hariprīti lāgi’ yata ceṣṭā (2)
+śrīgaurāṅga-bhakta ĵatô,    tā̃’ra madhye (śrī) raghunātha,
+bairāgya ĵenô pāṣāṇa-rekhā |
+tumi tô’ barile tāya,    dekhi’ gaura sukha pāya,
+hariprīti lāgi’ ĵatô ceṣṭā ||2||
 
-jagate virāga yāhā, kevala-kaitava tāhā,
-        bhukti-mukti-spṛhāmaya yata
-aprākṛta rasa-sindhu, tāhe jei prati-bindu,
-        se-virāge ha’le anurakta (3)
+jagate birāga ĵāhā,    kebala-kaitaba tāhā,
+bhukti-mukti spṛhāmaya ĵatô |
+aprākṛta rasasindhu,    tā̃he ĵe ‘biraha’-sīdhu,
+se-birāge ha’le anurakta ||3||
 
-jagannātha-upadeśe, vrajābhinna uddeśe,
-        vraja ha’te ele nava-vana
-bhaktivinoda saṅge, gaura-keli kathāraṅge,
-        kara vipralambha āsvādana (4)
+jagannātha-upadeśe,    vrajābhinna uddeśe,
+vraja ha’te ele naba-bana |
+bhakativinoda-saṅge,    gaurakeli kathāraṅge,
+karô vipralambha-āsvādana ||4||
 
-vipralambha śuddha-bhāva, jīvera sahaja-bhāva,
-        jā’ra ākara rādhā-padadvandva
-tāhāra dāsya-āśe, hā gaura! hā gaura! āsya,
-        divāniśi kādi haile andha (5)
+vipralambha śuddhabhāba,    jībera sahaja-bhāba,
+ĵā’ra ākara rādhā-padadvandva  |
+tā̃hāra dāsya-āśe,    ‘hā gaura! hā gaura!’ āsye,
+dibāniśi kā̃di haile andha ||5||
 
-kṛṣṇa-tattva-jñānadhane, dekhāile viśvajane,–
-        jaḍavidyā nahe kāryakarī
-śuddha-vaiṣṇavānugatya, akapaṭa haiyā cite,
-        tabe tāhā labhibāre pāri (6)
+kṛṣṇatattva-jñānadhane,    dekhāile biśvajane—
+jaḓabidyā nahe kārĵyakarī |
+śuddha-vaiṣṇavānugatye,    akapaṭa haiyā citte,
+tabe tāhā labhibāre pāri ||6||
 
-‘sādhutvera abhimāna, tyaja! sādhu avirāma’,–
-        amūlya tomāra upadeśa
-‘pūjā-pratiṣṭhāra āśa, hayo nā tāhāra dāsa,
-        yadi cāha kṛṣṇa-kṛpāleśa’ (7)
+‘sādhutvera abhimāna,    tyajô sādhu! abirāma’,— 
+amūlya tomāra upadeśa |
+‘pūjā-pratiṣṭhāra āśa,    hayo nāko tā’ra dāsa,
+ĵadi cāhô kṛṣṇakṛpāleśa ||7||’
 
-‘aikāntika nāmāśraya, ithe sarva-siddhi haya,–
-        iha gaura-śrī-mukha-vacana
-ihāte viśvāsa haya, nāme śuddha-sattva kara,
-        ha’be siddhi, līlāra sphuraṇa’ (8)
+‘aikāntika nāmāśraya,    ithe sarbbasiddhi haya,— 
+iha gaura-śrīmukha-bacana |
+ihāte biśvāsa dharô,    nāme śuddhasattva karô,
+ha’be siddhi, līlāra sphuraṇa ||8||’
 
-bhaṇḍa o pāṣaṇḍa yata, jaḍabhoge unmata,
-        tāhā dekhi’ chāḍa dīrghaśvāsa
-amala gaurāṅga-śikṣā, jīve dibe cintiyā,
-        āniyācha ‘śrī-dayitadāsa’ (9)
+bhaṇḍa o pāṣaṇḍa ĵatô,    jaḓabhoge un_#matta,
+tāhā dekhi’ chāḓô dīrghaśvāsa |
+amala gaurāṅga-śikṣā,    jībe dibe cintiyā,
+āniyāchô ‘śrīdayitadāsa’ ||9||
 
-avaśeṣe avaghoṣi’, āola śrī-ekādaśī,
-        ‘uhāna’-nāme hari-tithi
-viṣama viraha seha, garale jārala deha,
-        uhile yathā ‘harā’-sthiti (10)
+dāmodara-māsabare,    hari-jāgara-bāsare,
+parihari’ prapañcera līlā |
+‘pramoda-mañjarī’ tumi,    rūpagaṇe haile gaṇi
+śrīrādhāra ullāsa bāḓilā ||10||
 
-prabho! tumi gaṅgā-tīra, āra rādhākuṇḍa-nīḍa,
-        ācha yathā nitya-cid-vilāsa
-ei kṛpā kara ati, jāge gaura-kṛṣṇe rati,
-        śūnya hau’ anya-abhilāṣa (11)
-`,
-  "translation": ""
+prabho! tumi gaṅgā-tīra,    āra rādhākuṇḍa-nīḓa,
+āchô ĵathā nitya-cidbilāsa |
+ei kṛpā karô ati,    jāge gaura-kṛṣṇe rati,
+śūnya ha_u’ anya-abhilāṣa ||11||
+
+śabārtha:- uru—atiśaya; sīdhu—amṛta; nababana—navadvīpa; āsye—badane |
+
+(abaśeṣe abaghoṣi’,    āolô śrīekādaśī,
+‘uthāna’-nāme hari-tithi |
+biṣama biraha sehô,    garale jārala deha,
+uthile ĵathā ‘harā’-sthiti ||10||)
+
+`
 })

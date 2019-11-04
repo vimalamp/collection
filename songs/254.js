@@ -1,34 +1,34 @@
 push({
-  "title": "ramaṇī-śiromaṇi, vṛṣabhānu-nandinī",
-  "author": "bhaktivinoda",
+  "title": "ramaṇī-śiromaṇi",
+  "id": 254,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-rādhāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>(rūpa-guṇa-varṇana)</i>
-ramaṇī-śiromaṇi, vṛṣabhānu-nandinī,
-        nīla-vasana-paridhānā
-chinna-puraṭa jini’, varṇa-vikāśinī,
-        baddha-kavarī hari-prāṇā (1)
+ramaṇī-śiromaṇi,    vṛṣabhānu-nandinī,
+nīlabasana-paridhānā |
+chinna-puraṭa jini’,    barṇa-bikāśinī,
+baddhakabarī hariprāṇā ||1||
 
-ābharaṇa-maṇḍitā, hari-rasa-paṇḍitā,
-        tilaka-suśobhita-bhālā
-kañculikācchāditā, stana-maṇi-maṇḍitā,
-        kajvala-nayanī rasālā (2)
+ābharaṇa-maṇḍitā,    harirasa-paṇḍitā,
+tilaka-suśobhita-bhālā |
+kañculikācchāditā,    stanamaṇi-maṇḍitā,
+kajjvala-nayanī rasālā ||2||
 
-sakala tyajiyā se-rādhā-caraṇe
-dāsī ha’ye bhaja parama-yatane (3)
+sakala tyajiyā se-rādhā-caraṇe | 
+dāsī ha’ye bhajô parama-ĵatane ||3||
 
-saundarya kiraṇa dekhiyā yāhāra
-rati-gaurī-līlā-garva-parihāra (4)
+saundarĵya-kiraṇa dekhiyā ĵā̃hāra | 
+rati-gaurī-līlā-garbba-parihāra ||4||
 
-śacī-lakṣmī-satyā saubhāgya-balane
-parājita haya yāhāra caraṇe (5)
+śacī-lakṣmī-satyā saubhāgya-balane | 
+parājita haya ĵā̃hāra caraṇe ||5||
 
-kṛṣṇa-vaṁśīkāre candrāvalī-ādi
-parājaya māne haiyā vivādī (6)
+kṛṣṇa-baśīkāre candrāvalī-ādi | 
+parājaya māne hô_iyā bibādī ||6||
 
-hari-dayita-rādhā-caraṇa-preyasī
-<b>bhaktivinoda</b> śrī-godruma-vāsī (7)
-`,
-  "translation": ""
+haridayita-rādhā-caraṇa-pra.yasī | 
+bhakativinoda śrīgodrumavāsī ||7||
+
+śabdārtha:- chinna-puraṭa—khaṇḍita svarṇa; kabarī—khopā; bhālā—lalāṭa-ĵuktā |`
 })

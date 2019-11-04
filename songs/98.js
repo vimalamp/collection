@@ -1,10 +1,10 @@
 push({
   "title": "gurudeva! kabe tava karuṇā prakāśe",
+  "id": 98,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-guru-kṛpā-prārthanā",
   "language": "bengali",
-  "verses": `
-gurudeva! kabe tava karuṇā prakāśe
+  "verses": `gurudeva! kabe tava karuṇā prakāśe
 śrī-gaurāṅga-līlā, haya nitya-tattva,
         ei dṛḍha viśvāse
 ‘hari hari’ bali’, godruma-kānane,
@@ -23,7 +23,5 @@ dekhiyā dekhiyā, se-līlā-mādhurī,
 nā dekhi’ ābāra, se-līlā-ratana,
         kādi ‘hā gaurāṅga’ bali’
 āmāre viṣayī, pāgala baliyā,
-        aṅgete dibeka dhūli (4)
-`,
-  "translation": ""
+        aṅgete dibeka dhūli (4)`
 })

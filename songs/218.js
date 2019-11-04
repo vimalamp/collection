@@ -1,37 +1,36 @@
 push({
-  "title": "kabe ha’be hena daśā mora",
+  "title": "kabe ha’be henô daśā mora",
+  "id": 218,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-gaura-nityānande lālasāmayī prārthanā",
   "language": "bengali",
   "verses": `
-kabe ha’be hena daśā mora
-tyaji’ jaḍa āśā, vividha bandhana,
-        chāḍiba saṁsāra-ghora (1)
+kabe ha’be henô daśā mora |
+tyaji’ jaḓa-āśā,    bibidha bandhana,
+chāḓibô saṁsāra-ghora ||1||
 
-vṛndāvanābhede, navadvīpa-dhāme,
-        bādhiba kuṭīra-khāni
-śacīra nandana-, caraṇa-āśraya,
-        kariba sambandha māni’ (2)
+vṛndāvanābhede,    navadvīpa-dhāme,
+bā̃dhibô kuṭīrakhāni |
+śacīra nandana-,    caraṇa āśraya,
+kôribô sambandha māni’ ||2||
 
-jāhnavī-puline, cinmaya-kānane,
-        basiyā vijana-sthale
-kṛṣṇa-nāmāmṛta, nirantara piba,
-        ḍākiba ‘gaurāṅga’ ba’le (3)
+jāhnavī-puline,    cinmaya-kānane,
+bôsiyā bijana-sthale |
+kṛṣṇanāmāmṛta,    nirantara pibô,
+ḍākibô ‘gaurāṅga’ bô’le ||3||
 
-hā-gaura-nitāi, torā du’ṭī bhāi,
-        patita-janera bandhu
-adhama patita, āmi he durjana,
-        hao more kṛpā-sindhu (4)
+hā-gaura-nitāi,    torā du’ṭī bhāi,
+patitajanera bandhu |
+adhama patita,    āmi he durjjana,
+hao more kṛpāsindhu ||4||
 
-kādite kādite, ṣola-krośa-dhāma,
-        jāhnavī ubhaya-kūle
-bramite bramite, kabhu bhāgya-phale,
-        dekhi kichu taru-mūle (5)
+kā̃dite kā̃dite,    ṣolakrośa-dhāma,
+jāhnavī ubhaya-kūle |
+bhramite bhramite,    kabhu bhāgyaphale,
+dekhi kichu tarumūle ||5||
 
-hā hā manohara, ki dekhinu āmi,
-        baliyā mūrcchita ha’ba
-samvit pāiyā, kādiba gopane,
-        smari’ duhu kṛpā-lava (6)
-`,
-  "translation": ""
+hā hā manohara,    ki dekhinu āmi,
+bôliyā mūrcchita ha’bô |
+sambit. pāiyā,    kā̃dibô gopane,
+smari’ dũhu kṛpā-laba ||6||`
 })

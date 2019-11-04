@@ -1,10 +1,10 @@
 push({
   "title": "śrī ujvala rasa sāra svabhāvataḥ dvi-prakāra",
+  "id": 652,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-śrī ujvala rasa sāra svabhāvataḥ dvi-prakāra
+  "verses": `śrī ujvala rasa sāra svabhāvataḥ dvi-prakāra
         vipralambha sambhoga ākhyāna
 vinā vipralambhāśraya sambhogera puṣṭi naya
         tāi vipralambhera vidhāna (1)
@@ -27,7 +27,5 @@ deśa kāla veṇu-rave nirhetuka mānotsave
 viccheda āśaṅkā haite premera vaicittya citte
         premera svabhāve upajaya
 deśa grāma vanāntare priyā je pravāsa kare
-        pravāsākhya vipralambha haya (5)
-`,
-  "translation": ""
+        pravāsākhya vipralambha haya (5)`
 })

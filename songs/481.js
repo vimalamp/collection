@@ -1,32 +1,36 @@
 push({
-  "title": "‘ahaṁ’-‘mama’-śabda-arthe jāhā kichu haya",
-  "author": "bhaktivinoda",
+  "title": "‘ahaṁ’-‘mama’-śabda-arthe",
+  "id": 481,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>ātma-nivedana–ahaṁtā dehī-samarpaṇa (kāyika)</i>
-‘ahaṁ’-‘mama’-śabda-arthe jāhā kichu haya
-        arpilu tomāra pade ohe dayā-maya!
-‘āmāra’ āmi ta’ nātha! nā rahinu āra
-        ekhana hainu āmi kevala tomāra (1)
+ātmanibedana—ahaṁtāspada dehīsamarpaṇa 
+(kāyika)
 
-‘āmi’-śabde dehī jīva ahaṁtā chāḍila
-tvadīyābhimāna āji hṛdaye paśila (2)
+‘ahaṁ’-‘mama’-śabda-arthe ĵāhā kichu haya | 
+arpilũ tomāra pade ohe dayāmaya !!1!!
 
-āmāra sarvasva–deha, geha, anucara
-bhāi, bandhu, dārā, suta, dravya, dvāra, ghara (3)
+‘āmāra’ āmi tô’ nātha! nā rahinu āra | 
+ekhôna hô_inu āmi kebala tomāra ||2||
 
-se-saba haila tava, āmi hainu dāsa
-tomāra gṛhete ebe āmi kari vāsa (4)
+‘āmi’-śabde dehī jība ahaṁtā chāḓilô | 
+tvadīyābhimāna āji hṛdaye pôśilô ||3||
 
-tumi gṛha-svāmī, āmi sevaka tomāra
-tomāra sukhete ceṣṭā ekhana āmāra (5)
+āmāra sarbbasva—deha, geha, anucara | 
+bhāi, bandhu, dārā, suta, drabya, dvāra, ghara ||4||
 
-sthūla-liṅga-dehe mora sukṛta-duṣkṛta
-āra mora nahe, prabhu! āmi ta’ niṣkṛta (6)
+se-saba hô_ilô taba, āmi hainu dāsa | 
+tomāra gṛhete ebe āmi kôri bāsa ||5||
 
-tomāra icchāya mora icchā miśāila
-<b>bhaktivinoda</b> āja āpane bhulila (7)
-`,
-  "translation": ""
+tumi gṛhasvāmī, āmi sebaka tomāra | 
+tomāra sukhete ceṣṭā ekhôna āmāra ||6||
+
+sthūla-liṅga-dehe mora sukṛta-duṣkṛta | 
+āra mora nahe, prabhu! āmi tô’ niṣkṛta ||7||
+
+tomāra icchāya mora icchā miśāilô | 
+bhakativinoda āja āpane bhulilô ||8||
+
+śabdārtha:- tvadīyābhimāna—āmi tomāra jana, ei abhimāna |`
 })

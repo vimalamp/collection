@@ -1,41 +1,36 @@
 push({
-  "title": "pīta-varaṇa kali-pāvana gorā",
-  "author": "bhaktivinoda",
+  "title": "pītabaraṇa kali-pābana gorā",
+  "id": 382,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>ceto-darpaṇa-mārjanaṁ
-    bhava-mahā-dāvāgni-nirvāpaṇaṁ
-śreyaḥ-kairava-candrikā-vitaraṇaṁ
-    vidyā-vadhū-jīvanam
+<i>cetodarpaṇa-mārjjanaṁ bhava-mahādāvāgni-nirvvāpaṇaṁ
+śreyaḥkairavacandrikā-vitaraṇaṁ vidyāvadhū-jīvanam_ |
+ānandāmbudhi-varddhanaṁ pratipadaṁ pūrṇāmṛtāsvādanaṁ
+sarvvātmasnapanaṁ paraṁ vijayate śrīkṛṣṇasaṅkīrttanam_ ||ka||</i>
 
-ānandām-budhi-vardhanaṁ
-        prati-padaṁ pūrṇāmṛtāsvādanaṁ
-sarvātma-snapanaṁ paraṁ vijayate
-        śrī-kṛṣṇa-saṅkīrtanam</i>
+pītabaraṇa kali-pābana gorā | 
+gāoya_i aichana bhāba-bibhorā ||1||
 
-pīta-varaṇa kali-pāvana gorā
-gāoyai aichana bhāva-vibhorā (1)
+cittadarpaṇa-parimārjjanakārī | 
+kṛṣṇakīrttana jaya cittabihārī ||2||
 
-cita-darpaṇa-pari-mārjana-kārī
-kṛṣṇa-kīrtana jaya citta-vihārī (2)
+helā-bhabadāba-nirbbāpaṇa-bṛtti | 
+kṛṣṇakīrttana jaya kleśanibṛtti ||3||
 
-helābhava-dāva-nirvāpaṇa-vṛti
-kṛṣṇa-kīrtana jaya kleśa-nivṛti (3)
+śreyaḥ-kumudabidhu-jyot.snā-prakāśa | 
+kṛṣṇakīrttana jaya bhaktibilāsa ||4||
 
-śreyaḥ-kumuda-vidhu-jātsnā-prakāśa
-kṛṣṇa-kīrtana jaya bhakti-vilāsa (4)
+biśuddha-bidyābadhū-jībanarūpa | 
+kṛṣṇakīrttana jaya siddhasvarūpa ||5||
 
-viśuddha-vidyāvadhū-jīvanarūpa
-kṛṣṇa-kīrtana jaya siddha-svarūpa (5)
+ānanda-payonidhi-barddhana-kīrtti | 
+kṛṣṇakīrttana jaya plābana-mūrtti ||6||
 
-ānanda-payonidhi-varddhana-kīrti
-kṛṣṇa-kīrtana jaya plāvana-mūrti (6)
+pade pade pīĵūṣa-svāda-pradātā | 
+kṛṣṇakīrttana jaya premabidhātā ||7||
 
-pade pade pījūṣa-svāda-pradātā
-        kṛṣṇa-kīrtana jaya prema-vidhātā
-<b>bhaktivinoda </b>svātma-snapana-vidhāna
-        kṛṣṇa-kīrtana jaya prema-nidāna (7)
-`,
-  "translation": ""
+bhaktivinoda svātmasnapana bidhāna | 
+kṛṣṇakīrttana jaya prema-nidāna ||8||`
 })

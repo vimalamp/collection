@@ -1,28 +1,27 @@
 push({
-  "title": "rādhikā caraṇa-reṇu, bhūṣaṇa kariyā tanu",
-  "author": "śrīla narottama ṭhākura",
+  "title": "rādhikā-caraṇareṇu",
+  "id": 263,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-rādhā-niṣṭhā",
   "language": "bengali",
   "verses": `
-rādhikā caraṇa-reṇu, bhūṣaṇa kariyā tanu,
-        anāyāse pābe giridhārī
-rādhikā-caraṇāśraya, je kare se mahāśaya,
-        tā’re mui jāo balihāri (1)
+rādhikā-caraṇareṇu,    bhūṣaṇa kôriyā tanu,
+anāyāse pābe giridhārī |
+rādhikā-caraṇāśraya,    ĵe kare se mahāśaya,
+tā̃’re muñi ĵā̃o balihārī ||1||
 
-jaya jaya ‘rādhā’-nāma, vṛndāvana jā’ra dhāma,
-        kṛṣṇa-sukha-vilāsera nidhi
-hena rādhā-guṇa-gāna, nā śunila mora kāṇa,
-        vañcita karila more vidhi (2)
+jaya jaya ‘rādhā’ nāma,    vṛndāvana ĵā̃’ra dhāma,
+kṛṣṇasukha-bilāsera nidhi |
+henô rādhā-guṇagāna,    nā śunilô mora kāṇa,
+bañcita kôrilô more bidhi ||2||
 
-tā’ra bhakta-saṅge sadā, rasa-līlā prema-kathā,
-        je kare se pāya ghanaśyāma
-ihāte vimukha jei, tā’ra kabhu siddhi nāi,
-        nāhi yena śuni tā’ra nāma (3)
+tā̃’ra bhakta-saṅge sadā,    rasalīlā premakathā,
+ĵe kare se pāya ghanaśyāma |
+ihāte bimukha ĵei,    tā’ra kabhu siddhi nāi,
+nāhi ĵenô śuni tā’ra nāma ||3||
 
-kṛṣṇa-nāma-gāne bhāi, rādhikā-caraṇa pāi,
-        rādhā-nāma-gāne kṛṣṇa-candra
-saṅkṣepe kahinu kathā, ghucāo manera vyathā,
-        duḥkha-maya anya kathā-dvandva (4)
-`,
-  "translation": ""
+kṛṣṇanāma-gāne bhāi,    rādhikā-caraṇa pāi,
+rādhānāma-gāne kṛṣṇacandra |
+saṁkṣepe kahinu kathā,    ghucāo manera byathā,
+duḥkhamaya anya kathā-dvandva ||4||`
 })

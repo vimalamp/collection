@@ -1,10 +1,10 @@
 push({
   "title": "rati prema sneha māna praṇaya o rāgākhyāna",
+  "id": 637,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-rati prema sneha māna praṇaya o rāgākhyāna
+  "verses": `rati prema sneha māna praṇaya o rāgākhyāna
         anurāga bhāva ei sāta
 rati jata gāḍha haya krame sapta nāma laya
         sthāyī bhāva sadā avadāta (1)
@@ -22,7 +22,5 @@ hlādinī je para śakti tāṅrasāra śuddha-bhakti
 vibhāvādi bhāva-gaṇe nijāyate ānayane
         karena ye rasera prakāśa
 rasa nityānanda-tattva nitya-siddha sāra-sattva
-        jīva-citte tāhāra vikāśa (4)
-`,
-  "translation": ""
+        jīva-citte tāhāra vikāśa (4)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "mana, tumi bhālavāsa kāmera taraṅga",
+  "id": 416,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `
-mana, tumi bhālavāsa kāmera taraṅga
+  "verses": `mana, tumi bhālavāsa kāmera taraṅga
 jaḍa-kāma pari-hari’, śuddha-kāma sevā kari’,
         vistāraha aprākṛta raṅga
 anitya jaḍīya kāma, śānti-hīna aviśrāma,
@@ -18,7 +18,5 @@ tumi sevā kara’ jā’re, se tomā bhajite nāre,
 chāḍa’ tabe michā-kāma, hao tumi satyakāma,
         bhaja vṛndāvanera anaṅga
 jāhāra kusuma-śare, tava nitya-kalevare,
-        vyāpta ha’be prema antaraṅga (3)
-`,
-  "translation": ""
+        vyāpta ha’be prema antaraṅga (3)`
 })

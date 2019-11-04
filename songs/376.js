@@ -1,33 +1,36 @@
 push({
-  "title": "viśve udita nāma-tapana, avidyā-vināśa lāgi",
-  "author": "bhaktivinoda",
+  "title": "biśve udita, nāma-tapana",
+  "id": 376,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>yad-ābhāso ’py udyan kavalita-bhava-dhvānta vibhavo
-    dṛśaṁ tattvāndhānām-api diśati bhakti-praṇayinīm
-janas-tasyodāttaṁ jagati bhagavan-nāma-taraṇe
-    kṛtī te nirvaktuṁ ka iha mahimānaṁ prabhavati</i>
+<i>ĵadābhāso^pyudyan_ kavalita-bhavadhvāntavibhavo
+dṛśaṁ tattvāndhānāmapi diśati bhakti-praṇayinīm_ |
+janastasyodāttaṁ jagati bhagavannāma-taraṇe
+kṛtī te nirvvaktuṁ ka iha mahimānaṁ prabhavati ||ga||</i>
 
-viśve udita nāma-tapana, avidyā-vināśa lāgi’
-choḍata saba,māyā-vibhava, sādhu tāhe anurāgī (1)
+biśve udita,    nāma-tapana,
+abidyā-bināśa lāgi’ |
+choḓata saba,    māyā-bibhaba,
+sādhu tāhe anurāgī ||1||
 
-hari-nāma-prabhākara, avidyā-timirahara,
-        tomāra mahimā kevā jāne
-ke hena paṇḍita-jana, tomāra māhātmya-gaṇa,
-        uccaiḥsvare sakala vākhāne (2)
+harināma-prabhākara,    abidyā-timirahara,
+tomāra mahimā kebā jāne |
+ke henô paṇḍitajana,    tomāra māhātmyagaṇa,
+uccaiḥsvare sakala bākhāne ||2||
 
-tomāra ābhāsa pahilahi bhāya
-e bhava-timira kavalita-prāya (3)
+tomāra ābhāsa pahilahi bhāya | 
+e bhaba-timira kabalitaprāya ||3||
 
-acire timira nāśiyā prajñāna
-tattvāndha-nayane karena vidhāna (4)
+acire timira nāśiyā prajñāna | 
+tattvāndha-nayane karena bidhāna ||4||
 
-sei ta’ prajñāna viśuddhā bhakti
-upajāya hari-viṣayiṇī mati (5)
+sei tô’ prajñāna biśuddhā bhakati | 
+upajāya hari-biṣayiṇī mati ||5||
 
-e adbhuta-līlā satata tomāra
-<b>bhaktivinoda</b> jāniyāche sāra (6)
-`,
-  "translation": ""
+e adbhutalīlā satata tomāra | 
+bhakativinoda jāniyāche sāra ||6||
+
+śabdārtha:- prabhākara—sūrĵya; pahilahi—prathame; bhāya—prakāśa pāya |`
 })

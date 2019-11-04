@@ -1,10 +1,10 @@
 push({
   "title": "vandanā (1)",
+  "id": 2,
   "author": "Unknown",
   "category": "maṅgalācaraṇam",
   "language": "sanskrit",
-  "verses": `
-<b>sādhāraṇa-vandanā</b>
+  "verses": `<b>sādhāraṇa-vandanā</b>
 vande guru-pada-dvandvaṁ bhakta-vṛnda-samanvitam
 śrī-caitanya-prabhuṁ vande nityānanda-sahoditam
 
@@ -265,7 +265,5 @@ navīna-śrī-bhaktiṁ nava-kanaka-gaurākṛti-patiṁ
 navāraṇya-śreṇī-nava-sura-sarid-vāta-valitam
 navīna-śrī-rādhā-hari-rasamayotkīrtana-vidhiṁ
 navadvīpaṁ vande nava-karuṇa-mādyan nava-rucim
-<i>śrī-navadvīpa-śataka</i>
-`,
-  "translation": ""
+<i>śrī-navadvīpa-śataka</i>`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "harir iha mugdha-vadhū-nikare",
+  "id": 41,
   "author": "Unknown",
   "category": "śrī-gīta-govinda",
   "language": "sanskrit",
-  "verses": `
-<i>rāmakarī rāga; yati tāla</i>
+  "verses": `<i>rāmakarī rāga; yati tāla</i>
 harir iha mugdha-vadhū-nikare
 vilāsini vilasati keli-pare (1)
 
@@ -46,7 +46,5 @@ paśyati sa-smita-cārutarām aparām
 śrī-jayadeva-bhaṇitam idam adbhuta-
     keśava-keli-rahasyam
 vṛndāvana-vipine lalitaṁ vitanotu
-    śubhāni yaśasyam (9)
-`,
-  "translation": ""
+    śubhāni yaśasyam (9)`
 })

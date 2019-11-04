@@ -1,10 +1,10 @@
 push({
   "title": "(prāṇeśvara) kahabu ki sarama ki bāt",
+  "id": 475,
   "author": "bhaktivinoda",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
-  "verses": `
-<i>dainya–aparādha o lajātmaka</i>
+  "verses": `<i>dainya–aparādha o lajātmaka</i>
 (prāṇeśvara) kahabu ki sarama ki bāt
         aichana pāpa nāhi, jo hāma karalu,
 sahasra sahasra veri nātha (1)
@@ -23,7 +23,5 @@ karata gatāgati, bhakata-jana-saṅge,
 āpana catura-paṇa, tuyā pade sopalu,
         hṛdaya-garava dūre gela
 dīna dayā-maya, tuyā kṛpā niramala,
-        <b>bhaktivinoda</b> āśā bhela (5)
-`,
-  "translation": ""
+        <b>bhaktivinoda</b> āśā bhela (5)`
 })

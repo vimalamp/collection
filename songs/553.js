@@ -1,11 +1,11 @@
 push({
   "title": "jaya jaya pahu śrīla sanātana nātha",
+  "id": 553,
   "author": "Unknown",
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīla-sanātana-gosvāmī-prabhura śocaka",
   "language": "bengali",
-  "verses": `
-jaya jaya pahu śrīla sanātana nātha
+  "verses": `jaya jaya pahu śrīla sanātana nātha
 sakala bhuvana māhā jachu guṇa-grāma (1)
 
 tejala sakala sukha sampad apāra
@@ -30,7 +30,5 @@ bhāva-vibhūṣaṇa sakala śarīra
 anukhana viharai yamunāra tīra (8)
 
 jachu karuṇā-maya vṛndāvana pāi
-bhāvai manohara soi gosāi (9)
-`,
-  "translation": ""
+bhāvai manohara soi gosāi (9)`
 })

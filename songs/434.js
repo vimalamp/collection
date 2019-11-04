@@ -1,33 +1,28 @@
 push({
-  "title": "bhaja bhaja hari, mana dṛḍha kari’",
-  "author": "dāsa locana",
+  "title": "bhajô bhajô hari",
+  "id": 434,
+  "author": "śrīla locanadāsa ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
-bhaja bhaja hari, mana dṛḍha kari’,
-        mukhe bola tā’ra nāma
-vrajendra-nandana, gopī-prāṇa-dhana,
-        bhuvana-mohana śyāma (1)
-
-kakhana maribe, kemane taribe,
-        viṣama śamana ḍāke
-jāhāra pratāpe, bhuvana kāpaye,
-        nā jāni mara vipāke (2)
-
-kula-dhana pāiyā, unamata haiyā,
-        āpanāke jāna baḍa
-śamanera dūte, dhari’ pāye hāte,
-        bādhiyā karibe jaḍa (3)
-
-kibā jati satī, kibā nīca jāti,
-        jei hari nāhi bhaje
-tabe janamiyā, bramiyā bramiyā,
-        raurava-narake maje (4)
-
-e <b>dāsa locana</b>, bhāve anukṣaṇa,
-        michāi janama gela
-hari nā bhajinu, viṣaye majinu,
-        hṛdaye rahala śela (5)
-`,
-  "translation": ""
+bhajô bhajô hari,    mana dṛḓha kôri’,
+mukhe bolô tā̃’ra nāma |
+vrajendranandana,    gopī-prāṇadhana,
+bhubanamohana śyāma ||1||
+kakhôna môribe,    kemône taribe,
+biṣama śamana ḍāke |
+ĵā̃hāra pratāpe,    bhubana kā̃paye,
+nā jāni marô bipāke ||2||
+kula-dhana pāiyā,    unamata haiyā,
+āpanāke jānô baḓô |
+śamanera dūte,    dhôri’ pāye hāte,
+bā̃dhiyā kôribe jaḓa ||3||
+kibā ĵati, satī,    kibā nīca jāti,
+ĵei hari nāhi bhaje |
+tabe janamiyā,    bhramiyā bhramiyā,
+rauraba-narake maje ||4||
+e dāsa locana,    bhābe anukṣaṇa,
+bṛthāi janama gelô |
+hari nā bhajinu,    biṣaye majinu,
+hṛdaye rahalô śelô ||5||`
 })

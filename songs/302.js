@@ -1,40 +1,39 @@
 push({
   "title": "gopīnātha, ghucāo saṁsāra-jvālā",
+  "id": 302,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-kṛṣṇa vijñapti",
   "language": "bengali",
   "verses": `
-gopīnātha, ghucāo saṁsāra-jvālā
-avidyā-yātanā, āra nāhi sahe,
-        janama-maraṇa-mālā (1)
+gopīnātha, ghucāo saṁsāra-jvālā |
+abidyā-ĵātanā,    āra nāhi sahe,
+janama-maraṇa-mālā ||1||
 
-gopīnātha, āmi ta’ kāmera dāsa
-viṣaya-vāsanā, jāgiche hṛdaye,
-        phādiche karama-phāsa (2)
+gopīnātha, āmi tô’ kāmera dāsa |
+biṣaya-bāsanā,    jāgiche hṛdaye,
+phā̃diche karama phā̃sa ||2||
 
-gopīnātha, kabe vā jāgiba āmi
-kāma-rūpa ari, dūre teyāgiba,
-        hṛdaye sphuribe tumi (3)
+gopīnātha, kabe bā jāgibô āmi |
+kāmarūpa ari,    dūre teyāgibô,
+hṛdaye sphuribe tumi ||3||
 
-gopīnātha, āmi ta’ tomāra jana
-tomāre chāḍiyā, saṁsāra bhajinu,
-        bhuliyā āpana dhana (4)
+gopīnātha, āmi tô’ tomāra jana |
+tomāre chāḓiyā,    saṁsāra bhajinu,
+bhuliyā āpana dhana ||4||
 
-gopīnātha, tumi ta’ sakali jāna
-āpanāra jane, daṇḍiyā ekhana,
-        śrī-caraṇe deha’ sthāna (5)
+gopīnātha, tumi tô’ sakali jānô |
+āpanāra jane,    daṇḍiyā ekhôna,
+śrīcaraṇe dehô sthāna ||5||
 
-gopīnātha, ei ki vicāra tava
-vimukha dekhiyā, chāḍa nija-jane,
-        nā kara’ karuṇā-lava (6)
+gopīnātha, ei ki bicāra taba |
+bimukha dekhiyā,    chāḓô nija-jane,
+nā karô’ karuṇā-laba ||6||
 
-gopīnātha, āmi ta’ mūrakha ati
-kise bhāla haya, kabhu nā bujhinu,
-        tāi mama hena gati (7)
+gopīnātha, āmi tô’ mūrakha ati |
+kise bhālô haya,    kabhu nā bujhinu,
+tāi henô mama gati ||7||
 
-gopīnātha, tumi ta’ paṇḍita-vara
-mūḍhera maṅgala, tumi anveṣibe,
-        e dāse nā bhāva’ para (8)
-`,
-  "translation": ""
+gopīnātha, tumi tô’ paṇḍitabara |
+mūḓhera maṅgala,    tumi anbeṣibe,
+e dāse nā bhābô’ para ||8||`
 })

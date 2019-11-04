@@ -1,10 +1,10 @@
 push({
   "title": "keno āra kara dveṣa, videśi-jana-bhajane",
+  "id": 502,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śreyo-nirṇaya",
   "language": "bengali",
-  "verses": `
-keno āra kara dveṣa, videśi-jana-bhajane
+  "verses": `keno āra kara dveṣa, videśi-jana-bhajane
 bhajanera liṅga nānā, nānā deśe nānā jane (1)
 
 keha mukta-kacche bhaje, keha hāṭu gāḍi’ pūje
@@ -14,7 +14,5 @@ keha yogāsane pūje, keha saṅkīrtane maje
 sakale bhajiche sei eka-mātra kṛṣṇa-dhane (3)
 
 ataeva bhrātṛa-bhāve, thāka sabe su-sadbhāve
-hari-bhakti sādha sadā, e jīvane vā maraṇe (4)
-`,
-  "translation": ""
+hari-bhakti sādha sadā, e jīvane vā maraṇe (4)`
 })

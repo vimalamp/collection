@@ -1,10 +1,10 @@
 push({
   "title": "dekha mana, vrate jena nā hao ācchanna",
+  "id": 429,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `
-dekha mana, vrate jena nā hao ācchanna
+  "verses": `dekha mana, vrate jena nā hao ācchanna
 kṛṣṇa-bhakti āśā kari’, ācha nānā vrata dhari’,
         rādhā-kṛṣṇe karite prasanna (1)
 
@@ -26,7 +26,5 @@ bhakti yadi nā phalila, tapasyāra tuccha phala,
 ihāte je gūḍha marma, bujha vaiṣṇavera dharma,
         pātra-bhede adhikāra bhinna
 <b>vinodera</b> nivedana, vidhi-mukta anukṣaṇa,
-        sāragrāhī śrī-kṛṣṇa-prapanna (5)
-`,
-  "translation": ""
+        sāragrāhī śrī-kṛṣṇa-prapanna (5)`
 })

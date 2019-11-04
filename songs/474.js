@@ -1,32 +1,33 @@
 push({
-  "title": "nivedana kari prabhu! tomāra caraṇe",
-  "author": "bhaktivinoda",
+  "title": " nibedana kôri prabhu!",
+  "id": 474,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>dainya–aparādha o lajātmaka</i>
-nivedana kari prabhu! tomāra caraṇe
-patita-adhama āmi, jāne tribhuvane (1)
+dainya—aparādha o lajjātmaka
 
-āmā-sama pāpī nāhi jagat-bhitare
-mama-sama aparādhī nāhika saṁsāre (2)
+nibedana kôri prabhu! tomāra caraṇe | 
+patita-adhama āmi, jāne tribhubane ||2||
 
-sei saba pāpa āra aparādha, āmi
-parihāre pāi lajā, saba jāna’ tumi (3)
+āmā-sama pāpī nāhi jagat.-bhitare | 
+mama-sama aparādhī nāhikô saṁsāre ||3||
 
-tumi vinā kā’ra āmi laiba śaraṇa?
-tumi sarveśvareśvara vrajendra-nandana (4)
+sei saba pāpa āra aparādha, āmi | 
+parihāre pāi lajjā, saba jānô’ tumi ||4||
 
-jagat tomāra nātha! tumi sarva-maya
-tomā-prati aparādha tumi kara’ kṣaya (5)
+tumi binā kā’rô āmi lô_ibô śaraṇa? 
+tumi sarbbeśvareśvara vrajendranandana ||5||
 
-tumi ta’ skhalita-pada janera āśraya
-tumi vinā āra kevā āche, dayā-maya (6)
+jagat. tomāra nātha! tumi sarbbamaya | 
+tomā-prati aparādha tumi karô’ kṣaya ||6||
 
-sei-rūpa tava aparādhī jana jata
-        tomāra śaraṇāgata haibe satata
-<b>bhaktivinoda</b> pade laiyā śaraṇa
-        tuyā pade kare āja ātma-samarpaṇa (7)
-`,
-  "translation": ""
+tumi tô’ skhalita-pada janera āśraya | 
+tumi binā āra kebā āche, dayāmaya ||7||
+
+seirūpa taba aparādhī jana ĵatô | 
+tomāra śaraṇāgata hô_ibe satata ||8||
+
+bhakativinoda ebe lô_iyā śaraṇa | 
+tuŵā pade kare āja ātmasamarpaṇa ||9||`
 })

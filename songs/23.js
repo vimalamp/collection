@@ -1,10 +1,10 @@
 push({
   "title": "harir dṛṣṭvā goṣṭhe mukura-gatam ātmānam atulaṁ",
+  "id": 23,
   "category": "śrī-śacī-sūnvaṣṭakam",
   "author": "śrīla-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-harir dṛṣṭvā goṣṭhe mukura-gatam ātmānam atulaṁ
+  "verses": `harir dṛṣṭvā goṣṭhe mukura-gatam ātmānam atulaṁ
     sva-mādhuryaṁ rādhā-priyatara-sakhīvāptum abhitaḥ
 aho gauḍe jātaḥ prabhur apara-gauraika-tanu-bhāk
     śacī-sūnuḥ kiṁ me nayana-śaraṇīṁ yāsyati punaḥ (1)
@@ -47,7 +47,5 @@ muhur mūrcchāṁ gacchan mṛtakam iva viśvaṁ viracayan
 śacī-sūnor asyāṣṭakam idam abhīṣṭaṁ viracayat
     sadā dainyodrekād ati-viśada-buddhiḥ paṭhati yaḥ
 prakāmaṁ caitanyaḥ prabhur ati-kṛpāveśa-vivaśaḥ
-    pṛthu premāmbhodhau prathita-rasade majayati tam (9)
-`,
-  "translation": ""
+    pṛthu premāmbhodhau prathita-rasade majayati tam (9)`
 })

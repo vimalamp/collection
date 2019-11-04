@@ -1,10 +1,10 @@
 push({
   "title": "asādhu-saṅge bhāi, kṛṣṇa-nāma nāhi haya",
+  "id": 621,
   "category": "śrī-nāma-bhajana-praṇālī",
   "author": "Unknown",
   "language": "bengali",
-  "verses": `
-asādhu-saṅge bhāi, kṛṣṇa-nāma nāhi haya
+  "verses": `asādhu-saṅge bhāi, kṛṣṇa-nāma nāhi haya
 nāmākṣara vāhirāya vaṭe, tabu nāma kabhu naya (1)
 
 kabhu nāmābhāsa haya, sadā nāma-aparādha
@@ -29,7 +29,5 @@ sādhu pāoyā kaṣṭa vaḍa jīvera jāniyā
 sādhu-bhakta-rūpe kṛṣṇa āila nadīyā (8)
 
 gorā-pada āśraya karaha buddhimān
-gorā vai sādhu-guru āche kevā āna (9)
-`,
-  "translation": ""
+gorā vai sādhu-guru āche kevā āna (9)`
 })

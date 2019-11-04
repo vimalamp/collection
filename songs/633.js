@@ -1,10 +1,10 @@
 push({
   "title": "rūpānuga tattva-sāra bujhite akaṅkha yāṅra",
+  "id": 633,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-rūpānuga tattva-sāra bujhite akaṅkha yāṅra
+  "verses": `rūpānuga tattva-sāra bujhite akaṅkha yāṅra
         rasa-jñāna tāṅra prayojana
 cinmaya ānanda-rasa sarva-tattva yāṅra vaśa
         akhaṇḍa parama tattva-dhana (1)
@@ -22,7 +22,5 @@ sthāyī bhāve rasa haya nitya cid-ānanda-maya
 je rasa prapañca-gata jaḍa-kāvye prokāśita
         parama rasera asan-mūrti
 asan-mūrti nitya haya ādarśera chāyā haya
-        jena marīcikā jala-sphūrti (4)
-`,
-  "translation": ""
+        jena marīcikā jala-sphūrti (4)`
 })

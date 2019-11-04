@@ -1,35 +1,34 @@
 push({
-  "title": "gorā-cādera ājñā pe’ye, gṛha-vāsi-gaṇa",
-  "author": "bhaktivinoda",
+  "title": "gorācā̃dera ājñā pe’ye",
+  "id": 568,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
-gorā-cādera ājñā pe’ye, gṛha-vāsi-gaṇa
-mṛta sute aṅganete āne tatakṣaṇa (1)
+gorācā̃dera ājñā pe’ye, gṛhabāsigaṇa |
+mṛta sute aṅganete āne tatakṣaṇa ||1||
 
-kali-malahārī gorā jijñāse takhana
-śrīvāse chāḍiyā, śiśu, jāo ki-kāraṇa? (2)
+kali-malahārī gorā jijñāse takhôna |
+śrībāse chāḓiyā, śiśu, ĵāo ki kāraṇa ??2??
 
-mṛta śiśumukhe jīva kare nivedana
-–“loka-śikṣā lāgi’ prabhu, tava ācaraṇa (3)
+mṛta śiśumukhe jība kare nibedana—
+“loka-śikṣā lāgi’ prabhu, taba ācaraṇa ||3||
 
-tumi ta’ parama-tattva ananta advaya
-parā śakti tomāra abhinna tattva haya (4)
+tumi tô’ paramatattva ananta advaya |
+parāśakti tomāra abhinna tattva haya ||4||
 
-sei parā śakti tridhā haiyā prakāśa
-tava icchā-mata karāya tomāra vilāsa (5)
+sei parā śakti tridhā hô_iyā prakāśa |
+taba icchāmata karāya tomāra bilāsa ||5||
 
-cicchakti-svarūpe nitya-līlā prakāśiyā
-tomāre ānanda dena halādinī haiyā (6)
+cicchakti-svarūpe nityalīlā prakāśiyā |
+tomāre ānanda dena hlādinī hô_iyā ||6||
 
-jīva-śakti hao tava citkiraṇa-caye
-taṭastha-svabhāve jīva-gaṇe prakaṭaye (7)
+jībaśakti hañā taba cit.kiraṇacaye |
+taṭastha-svabhābe jībagaṇe prakaṭaye ||7||
 
-māyā-śakti hao kare prapañca-sṛjana
-bahirmukha jīve tāhe karaya bandhana (8)
+māyāśakti hañā kare prapañca sṛjana |
+bahirmmukha-jībe tāhe karaya bandhana ||8||”
 
-<b>bhaktivinoda</b> bale aparādha-phale
-bahirmukha ha’ye āchi prapañca-kavale” (9)
-`,
-  "translation": ""
+bhakativinoda bôle aparādhaphale |
+bahirmmukha ha’ye āchi prapañca-kabale ||9||`
 })

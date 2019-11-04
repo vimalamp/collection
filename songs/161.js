@@ -1,27 +1,26 @@
 push({
-  "title": "prakāśa hailā gaura-candra",
-  "author": "vṛndāvana-dāsa",
+  "title": "prakāśa hô_ilā gauracandra",
+  "id": 161,
+  "author": "śrīla vṛndāvana dāsa ṭhākura",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
   "verses": `
-prakāśa hailā gaura-candra
-daśa-dike uṭhila ānanda (1)
+prakāśa hô_ilā gauracandra | 
+daśa-dike uṭhilô ānanda ||1||
 
-rūpa koṭimadana jiniṇo
-hāse nija-kīrtana śuniṇo (2)
+rūpa koṭimadana jiniñā | 
+hāse nija-kīrttana śuniñā ||2||
 
-ati sumadhura mukha-ākhi
-mahārāja-cikha saba dekhi (3)
+ati sumadhura mukha-ā̃khi | 
+mahārāja-cihna saba dekhi ||3||
 
-śrī-caraṇe dhvaja-vajra śobhe
-saba aṅge jaga-mana lobhe (4)
+śrīcaraṇe dhvaja-bajra śobhe | 
+saba aṅge jaga-mana lobhe ||4||
 
-dūre gela sakala āpada
-vyakta haila sakala sampada (5)
+dūre gelô sakala āpada | 
+byakta hô_ilô sakala sampada ||5||
 
-śrī-caitanya-nityānanda jāna
-<b>vṛndāvana-dāsa</b> guṇa gāna (6)
-`,
-  "translation": ""
+śrīcaitanya-nityānanda jāna | 
+vṛndāvanadāsa guṇa gāna ||6||`
 })

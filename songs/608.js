@@ -1,33 +1,32 @@
 push({
-  "title": "jaya jaya rādhejī-ko śaraṇa tohāri",
-  "author": "dāsa manohara",
+  "title": "jaya jaya rādhejīko",
+  "id": 608,
+  "author": "manohara dāsa",
   "category": "sandhyārati",
   "subcategory": "śrī-gaura-govinda-ārati",
   "language": "bengali",
   "verses": `
-jaya jaya rādhejī-ko śaraṇa tohāri
-aichana ārati jāṅ balihārī (1)
+jaya jaya rādhejīko śaraṇa tõhāri |
+aichana ārati ĵāo bôlihārī ||1||
 
-pāṭa-paṭāmbara uḍe nīla śāḍī
-sithipara sindura jāi balihārī (2)
+pāṭa paṭāmbara uḓe nīla śāḓī |
+sĩthipara sindura ĵāi bôlihārī ||2||
 
-veśa banāota priya sahacarī
-ratana siṁhāsane vaiṭhala gaurī (3)
+beśa banāotô priya sahacarī |
+ratana siṁhāsane baiṭhalô gaurī ||3||
 
-ratane jaḍita maṇi māṇika moti
-jhalakata ābharaṇa prati aṅge yoti (4)
+ratane jaḓita maṇi māṇika moti |
+jhalakata ābharaṇa prati aṅge jyoti ||4||
 
-cuyā candana aṅge dei vrajavālā
-kata koṭī candra jini vadana ujalā (5)
+cuŵā candana aṅge dei vrajabālā |
+katô koṭī candra jini badana ujalā ||5||
 
-caudike sakhī-gaṇa dei karatāli
-ārati karatahi lalitā piyārī (6)
+caudike sakhīgaṇa dei karatāli |
+ārati karatãhi lalitā piyārī ||6||
 
-nava nava vraja-vadhū maṅgala gāoye
-priya narma-sakhī-gaṇa cāmara ḍhulāoye (7)
+naba naba vrajabadhū maṅgala gāoŵe |
+priya narmmasakhīgaṇa cāmara ḍhulāoŵe ||7||
 
-rādhā-pada paṅkaja sevanaki āśā
-<b>dāsa manohara</b> karata bharasā (8)
-`,
-  "translation": ""
+rādhāpada-paṅkaja sebanaki āśā |
+dāsa manohara karatô bharasā ||8||`
 })

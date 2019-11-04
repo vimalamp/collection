@@ -1,29 +1,28 @@
 push({
-  "title": "hari he! māyā-baddha jatakṣaṇa, thāke ta’ jīvera mana",
-  "author": "bhaktivinoda",
+  "title": "hari he! māyābaddha ĵatakṣaṇa",
+  "id": 509,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
-<i>namo namo vāñmanasāti-bhūmaye
-    namo namo vāñmanasaika-bhūmaye
-namo namo ’natan-mahāvi-bhūtaye
-    namo namo’natan-dayaika-sindhave</i>
+<i>namo namo vāṅmanasātibhūmaye 
+namo namo vāṅmanasaikabhūmaye |
+namo namo^nantamahāvibhūtaye 
+namo namo^nantadayaikasindhave ||7||</i>
 
-hari he!
-māyā-baddha jatakṣaṇa, thāke ta’ jīvera mana,
-        jaḍamājhe kare vicaraṇa
-paravyoma jñānamaya, tāhe tava sthiti haya,
-        mana nāhi pāya daraśana (1)
+hari he! 
+māyābaddha ĵatakṣaṇa,    thāke tô’ jībera mana,
+jaḓamājhe kare bicaraṇa |
+paravyoma jñānamaya,    tāhe taba sthiti haya,
+mana nāhi pāya daraśana ||1||
 
-bhakti-kṛpā-khaḍa-gāghāte, jaḍa-bandha cheda tā’te,
-        jāya mana prakṛtira pāra
-tomāra sundara rūpa, here’ tava aparūpa,
-        jaḍa-vastu karaye dhikāra (2)
+bhaktikṛpā-khaḓgāghāte,    jaḓabandha cheda tā’te,
+ĵāya mana prakṛtira pārô |
+tomāra sundara rūpa,    here’ taba aparūpa,
+jaḓabastu karaye dhikkāra ||2||
 
-ananta vibhūti jā’ra, jini dayā-pārāvāra,
-        sei prabhu jīvera īśvara
-e <b>bhaktivinoda</b> hīna, sadā śuddha-bhakti-hīna,
-        śuddha-bhakti bhāge niratanva (3)
-`,
-  "translation": ""
+ananta bibhūti ĵā̃’ra,    ĵini dayā-pārābāra,
+sei prabhu jībera īśvara |
+e bhaktivinoda hīna,    sadā śuddhabhaktihīna,
+śuddhabhakti māge nirantara ||3||`
 })

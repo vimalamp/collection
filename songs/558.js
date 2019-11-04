@@ -1,11 +1,11 @@
 push({
   "title": "tapana-miśrera putra raghunātha bhaṭṭācārya",
+  "id": 558,
   "author": "Unknown",
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīla-raghunātha-bhaṭṭa-gosvāmī-prabhura śocaka",
   "language": "bengali",
-  "verses": `
-tapana-miśrera putra raghunātha bhaṭṭācārya
+  "verses": `tapana-miśrera putra raghunātha bhaṭṭācārya
 prabhuke dekhite cale chāḍi’ sarvakārya (1)
 
 kāśī hate calilā gauḍa-patha diyā
@@ -81,7 +81,5 @@ kṛṣṇera mādhurya-guṇa jave paḍe mane
 premete vihvala haiyā kichui nā jāne (25)
 
 govindera caraṇe kaila ātma-samarpaṇa
-govinda-caraṇāravinda jā’ra prāṇadhana (26)
-`,
-  "translation": ""
+govinda-caraṇāravinda jā’ra prāṇadhana (26)`
 })

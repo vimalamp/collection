@@ -1,33 +1,32 @@
 push({
-  "title": "nitāi-gaura-nāma, ānandera dhāma",
-  "author": "dāsa locana",
+  "title": "nitāi-gaura-nāma",
+  "id": 221,
+  "author": "śrīla locanadāsa ṭhākura",
   "category": "śrī-gaura-nityānande niṣṭhā",
   "language": "bengali",
   "verses": `
-nitāi-gaura-nāma, ānandera dhāma,
-        jei jana nāhi laya
-tā’re yamarāya, dha’re la’ye jāya,
-        narake dubāya tā’ya (1)
+nitāi-gaura-nāma,    ānandera dhāma,
+ĵei jana nāhi laya |
+tā’re ĵamarāya,    dha’re la’ye ĵāya,
+narake dubāya tāya ||1||
 
-tulasīra hāra, nā pare je chāra,
-        yamālaye vāsa tā’ra
-tilaka dhāraṇa, nā kare ye-jana,
-        vṛthāya janama tā’ra (2)
+tulasīra hāra,    nā pare ĵe chāra,
+ĵamālaye bāsa tā’ra |
+tilaka dhāraṇa,    nā kare ĵe-jana,
+bṛthāya janama tā’ra ||2||
 
-nā laya hari-nāma, vidhi tā’re bāma,
-        pāmara pāṣaṇḍa-mati
-vaiṣaṇva-sevana, nā kare ye-jana,
-        ki ha’be tāhāra gati (3)
+nā laya harināma,    bidhi tā’re bāma,
+pāmara pāṣaṇḍamati |
+vaiṣṇava-sebana,    nā kare ĵe-jana,
+ki ha’be tāhāra gati ||3||
 
-guru-mantra-sāra, kara ei-bāra,
-        vrajete haibe vāsa
-tamo-guṇa jā’be, sattva-guṇa pā’be,
-        haibe kṛṣra dāsa (4)
+gurumantra sāra,    karô eibāra,
+vrajete hô_ibe bāsa |
+tamoguṇa ĵā’be,    sattva-guṇa pā’be,
+hô_ibe kṛṣṇera dāsa ||4||
 
-e <b>dāsa locana</b>, bale anukṣaṇa,
-        (nitāi)-gaura-guṇa gāo sukhe
-ei rase jā’ra, rati nā haila,
-        cūṇa-kāli tā’ra mukhe (5)
-`,
-  "translation": ""
+e dāsa locana,    bôle anukṣaṇa,
+(nitāi) gauraguṇa gāo sukhe |
+ei rase ĵā’ra,    rati nā hô_ilô,
+cūṇa-kāli tā’ra mukhe ||5||`
 })

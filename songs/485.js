@@ -1,28 +1,32 @@
 push({
-  "title": "nā karalu karama, geyāna nāhi bhela",
-  "author": "bhaktivinoda",
+  "title": " nā karalũ karama",
+  "id": 485,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>goptṛtve varaṇa–ātma-nivedanātmaka (māna-sika)</i>
-nā karalu karama, geyāna nāhi bhela,
-        nā sevilu caraṇa tohāra
-jaḍa-sukhe mātiyā, āpanaku vañcai,
-        pekhahu caudiśa āndhi-yāra (1)
+goptṛtve baraṇa—ātmanibedanātmaka 
 
-tuhu nātha! karuṇā-nidāna
-tuyā pada-paṅkaje, ātma-samarpilu,
-        more kṛpā karabi vidhāna (2)
+(mānasika)
 
-pratijñā tohāra ai, jo hi śaraṇāgata,
-        nāhi so jānaba paramāda
-so hāma duṣkṛti, gati nā herai āna,
-        āb māgo tuyā parasāda (3)
+nā karalũ karama,    geyāna nāhi bhelô,
+nā sebilũ caraṇa tohāra |
+jaḓasukhe mātiyā,    āpanaku bañca_i,
+pekhahũ caudiśa āndhiyāra ||1||
 
-āna manoratha, niḥśeṣa choḍata,
-        kab hāma haubu tohārā
-nitya sevya tuhu, nitya-sevaka muṇi,
-        <b>bhaktivinoda</b> bhāva sārā (4)
-`,
-  "translation": ""
+tuhũ nātha! karuṇā-nidāna |
+tuŵā padapaṅkaje,    ātma-samarpilũ,
+more kṛpā karôbi bidhāna ||2||
+
+pratijñā tohāra ai,    ĵo hi śaraṇāgata,
+nāhi so jānabô paramāda |
+so hāma duṣkṛti,    gati nā hera_i ānô,
+āb_ māgõ tuŵā parasāda ||3||
+
+ānô manoratha,    niḥśeṣa choḓata,
+kab_ hāma ha_ubũ tohārā |
+nitya sebya tuhũ,    nitya-sebaka muñi,
+bhakativinoda bhāba sārā ||4||
+
+śabdārtha:- geyāna—jñāna; bhelô—hô_ilô; āpanāku—āpanāke; pekhahũ—dekhitechi; caudiśa—caturddika; āndhiyāra—andhakāra; sārā—abhibhūta |`
 })

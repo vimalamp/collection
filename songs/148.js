@@ -1,11 +1,11 @@
 push({
   "title": "jaya jaga-tāraṇa-kāraṇa dhāma",
+  "id": 148,
   "author": "govinda-dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-nityānande niṣṭhā",
   "language": "bengali",
-  "verses": `
-(beloyāra-rāga)
+  "verses": `(beloyāra-rāga)
 jaya jaga-tāraṇa-kāraṇa dhāma
         ānanda-kanda nityānanda nāma (1)
 
@@ -22,7 +22,5 @@ pāṣaṇḍa khaṇḍana śrī-bhuja-maṇḍana kanaka-
 kali-yuga kālabhujaṅgama daṁśala dagadhala
         sthāvara jāṅgama dekhi
 prema-sudhā-rasa jaga bhari barikhala
-        <b>govinda-dāsa</b> ke kāṁhe upekhi (4)
-`,
-  "translation": ""
+        <b>govinda-dāsa</b> ke kāṁhe upekhi (4)`
 })

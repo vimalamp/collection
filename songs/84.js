@@ -1,10 +1,10 @@
 push({
   "title": "cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa",
+  "id": 84,
   "category": "śrī-govinda-stotram",
   "author": "śrī-brāhma-samhita pañcama adhyāya",
   "language": "sanskrit",
-  "verses": `
-cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa-
+  "verses": `cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa-
     lakṣāvṛteṣu surabhir abhipālayantam
 lakṣmī-sahasra-śata-sambhrama-sevyamānaṁ
     govindam ādi-puruṣaṁ tam ahaṁ bhajāmi (1)
@@ -147,7 +147,5 @@ kathā gānaṁ nāṭyaṁ gamanam api vaṁśī priya-sakhī
 sa yatra kṣīrābdhiḥ sravati surabhībhyaś ca su-mahān
     nimeṣārdhākhyo vā vrajati na hi yatrāpi samayaḥ
 bhaje śvetadvīpaṁ tam aham iha golokam iti yaṁ
-    vidantas te santaḥ kṣiti-virala-cārāḥ katipaye (29)
-`,
-  "translation": ""
+    vidantas te santaḥ kṣiti-virala-cārāḥ katipaye (29)`
 })

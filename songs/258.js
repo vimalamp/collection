@@ -1,28 +1,33 @@
 push({
-  "title": "śata-koṭī-gopī-mādhava-mana",
-  "author": "bhaktivinoda",
+  "title": "śatakoṭī gopī",
+  "id": 258,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-rādhāṣṭaka",
   "language": "bengali",
   "verses": `
-śata-koṭī-gopī-mādhava-mana
-        rākhite nārila kari’ yatana
-veṇu-gīte ḍāke rādhikā-nāma
-        ‘esa esa rādhe’ḍākaye śyāma (1)
+śatakoṭī gopī        mādhava-mana |
+rākhite nārilô        kôri’ ĵatana ||1||
 
-bhāṅgiyā śrī-rāsa-maṇḍala tabe
-        rādhā-anveṣaṇe calaye jabe
-‘dekhā diyā rādhe! rākhaha prāṇa’
-        baliyā kādaye kānane kāna (2)
+beṇugīte ḍāke        rādhikā-nāma | 
+‘esô esô rādhe!’        ḍākaye śyāma ||2||
 
-nirjana kānane rādhāre dhari’
-        miliyā parāṇa juḍāya hari
-bale, ‘tuhu vinā kāhāra rāsa?
-        tuhu lāgi’ mora varaja vāsa” (3)
+bhāṅgiyā śrīrāsa-        maṇḍala tabe |
+rādhā-anbeṣaṇe        calaye ĵabe ||3||
 
-e-hena rādhikā-caraṇa-tale
-        <b>bhaktivinoda</b> kādiyā bale
-“tuyā gaṇa-mājhe āmāre gaṇi’
-        kiṅkarī kariyā rākhaha āpani” (4)
-`,
-  "translation": ""
+‘dekhā diyā rādhe!        rākhahô prāṇa!’ 
+bôliyā kā̃daye        kānane kāna ||4||
+
+nirjjana-kānane        rādhāre dhôri’ |
+miliyā parāṇa        juḓāya hari ||5||
+
+bôle, ‘tũhu binā        kāhāra rāsa? 
+tũhu lāgi’ mora        varaja bāsa ||6||’
+
+ehenô rādhikā-        caraṇa-tale |
+bhakativinoda        kā̃diyā bôle ||7||
+
+“tuŵā gaṇa-mājhe        āmāre gaṇi’ |
+kiṅkarī kôriyā        rākhô āpani ||8||”
+
+`
 })

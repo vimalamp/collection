@@ -1,10 +1,10 @@
 push({
   "title": "pālya-dāsī kari’, lalitā sundarī",
+  "id": 270,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-pālya-dāsī kari’, lalitā sundarī,
+  "verses": `pālya-dāsī kari’, lalitā sundarī,
         āmāre laiyā kabe
 śrī-rādhikā-pade, kāle milāibe,
         ajña-sevā samarpibe (1)
@@ -22,7 +22,5 @@ tad-anugā ho’ye, rādhā-kuṇḍa-taṭe,
 parama ānande, sakale miliyā,
         rādhikā caraṇe raba
 ei parākāṣṭa, siddhi kabe habe,
-        pāba rādhā-padāsaba (4)
-`,
-  "translation": ""
+        pāba rādhā-padāsaba (4)`
 })

@@ -1,29 +1,31 @@
 push({
-  "title": "hari he! tavāṅghri kamaladvaya, vilāsa-vikrama-maya",
-  "author": "bhaktivinoda",
+  "title": "hari he! tabāṅghri kamaladvaya",
+  "id": 517,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
-<i>vilāsa-vikrānta-parāvarālayaṁ
-    namasyadārtik-ṣayaṇe kṛtakṣaṇam
-dhanaṁ madīyaṁ tava pāda-paṅkajaṁ
-    kadā nu sākṣāt-karavāṇi cakṣuṣā</i>
+<i>vilāsa-vikrānta-parāvarālayaṁ 
+namasyadārtti-kṣapaṇe kṛtakṣaṇam_ |
+dhanaṁ madīyaṁ tava pādapaṅkajaṁ 
+kadā nu sākṣāt.karavāṇi cakṣuṣā ||15||</i>
 
-hari he!
-tavāṅghri kamaladvaya, vilāsa-vikrama-maya,
-        parāvara jagat vyāpiyā
-sarvakṣaṇa vartamāna, bhakta-kleśa-avasāna,
-        lāgi’ sadā prastuta haiyā (1)
+hari he! 
+tabāṅghri kamaladvaya,    bilāsa-bikramamaya,
+parābara jagat. byāpiyā |
+sarbbakṣaṇa barttamāna,    bhaktakleśa-abasāna,
+lāgi’ sadā prastuta hô_iyā ||1||
 
-jagatera sei dhana, āmi jagamadhya jana,
-        ataeva sama adhikāra
-āmi kibā bhāgya-hīna, sādhane vañcita, dīna,
-        ki kāja jīvane āra chāra (2)
+jagatera sei dhana,    āmi jagamadhya jana,
+ataeba sama adhikāra |
+āmi kibā bhāgyahīna,    sādhane bañcita dīna,
+ki kāja jībane āra chāra ||2||
 
-kṛpā vinā nāhi gati, e <b>bhaktivinoda</b> ati,
-        dainya kari’ bale prabhu-pāya
-kabe tava kṛpā pe’ye, uṭhiba sabale dhe’ye,
-        heriba se padayuga hāya (3)
-`,
-  "translation": ""
+kṛpā binā nāhi gati,    e bhaktivinoda ati,
+dainya kôri’ bôle prabhu-pāya |
+kabe taba kṛpā pe’ye,    uṭhibô sabale dhe’ye,
+heribô se padaĵuga hāya ||3||`,
+  "translation": {
+    "bn": "śabdārtha:- tabāṅghri—taba caraṇa; parābara jagat.—‘para’ jagat. arthāt. vaikuṇṭha o ‘abara’-jagat. arthāt. jaḓajagat."
+  }
 })

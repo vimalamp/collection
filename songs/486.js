@@ -1,36 +1,38 @@
 push({
-  "title": "ekhana bujhinu prabhu tomāra caraṇa",
-  "author": "bhaktivinoda",
+  "title": " ekhôna bujhinu prabhu!",
+  "id": 486,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>avaśya rakṣbe kṛṣṇa–ei-rūpa viśvāsa (vācika o kāyika)</i>
-ekhana bujhinu prabhu tomāra caraṇa
-aśokābhayāmṛta-pūṇa sarvakṣaṇa (1)
+abaśya rakṣbe kṛṣṇa—eirūpa biśvāsa 
 
-sakala chāḍiyā tuyā caraṇa-kamale
-paḍiyāchi āmi nātha! tava padatale (2)
+(bācika o kāyika)
 
-tava pāda-padma nātha! rakṣibe āmāre
-āra rakṣākartā nāi e bhava-saṁsāre (3)
+ekhôna bujhinu prabhu! tomāra caraṇa | 
+aśokābhayāmṛta pūrṇa sarbbakṣaṇa ||1||
 
-āmi tava nitya-dāsa–jāninu ebāra
-āmāra pālana-bhāra ekhana tomāra (4)
+sakala chāḓiyā tuŵā caraṇakamale | 
+pôḓiyāchi āmi, nātha! taba padatale ||2||
 
-baḍa duḥkha pāiyāchi svatantra jīvane
-saba duḥkha dūre gela o-pada-varaṇe (5)
+taba pādapadma, nātha! rakṣibe āmāre | 
+āra rakṣākarttā nāhi e bhaba-saṁsāre ||3||
 
-je-pada lāgiyā ramā tapasyā karilā
-je-pada pāiyā śiva śivatva labhilā (6)
+āmi taba nityadāsa—jāninu ebāra | 
+āmāra pālana-bhāra ekhôna tomāra ||4||
 
-je-pada labhiyā brahmā kṛtārtha hailā
-je-pada nārada-muni hṛdaye dharilā (7)
+baḓô duḥkha pāiyāchi svatantra jībane | 
+saba duḥkha dūre gelô o-pada baraṇe ||5||
 
-sei se abhaya pada śirete dhariyā
-parama-ānande nāci pada-guṇa gāiyā (8)
+ĵe-pada lāgiyā ramā tapasyā kôrilā | 
+ĵe-pada pāiyā śiva śivatva labhilā ||6||
 
-saṁsāra-vipad ha’te avaśya uddhāra
-<b>bhaktivinoda</b>, o-pada karibe tomāra (9)
-`,
-  "translation": ""
+ĵe-pada labhiyā brahmā kṛtārtha hô_ilā | 
+ĵe-pada nāradamuni hṛdaye dhôrilā ||7||
+
+sei se abhaya pada śirete dhôriyā | 
+parama-ānande nāci padaguṇa gāiyā ||8||
+
+saṁsāra-bipad_ ha’te abaśya uddhāra | 
+bhakativinode, o-pada kôribe tomāra ||9||`
 })

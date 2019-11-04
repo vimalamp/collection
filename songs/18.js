@@ -1,10 +1,10 @@
 push({
   "title": "sakhe, kalaya gauram-udāram",
+  "id": 18,
   "author": "Unknown",
   "category": "śrī-saṁskṛta-gīti (gauracandra)",
   "language": "sanskrit",
-  "verses": `
-<i>gurjarī</i>
+  "verses": `<i>gurjarī</i>
 sakhe, kalaya gauram-udāram
 nindita-hāṭaka-kānti-kalevara-
     garvita-māraka-māram (1)
@@ -22,7 +22,5 @@ nidhuvana-nāgarī-mohita-mānasa-
 paramākiñcana-kiñcana-nara-gaṇa-
     karuṇā-vitaraṇa-śīlam
 kṣobhita-durmati-<b>rādhāmohana</b>-
-    nāmaka-nirupama-līlam (4)
-`,
-  "translation": ""
+    nāmaka-nirupama-līlam (4)`
 })

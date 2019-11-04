@@ -1,10 +1,10 @@
 push({
   "title": "jaya jaya śrī-kṛṣṇa-caitanya-nityānanda",
+  "id": 225,
   "author": "narottama",
   "category": "sagaṇa śrī-gaura-caraṇe prārthanā",
   "language": "bengali",
-  "verses": `
-jaya jaya śrī-kṛṣṇa-caitanya-nityānanda
+  "verses": `jaya jaya śrī-kṛṣṇa-caitanya-nityānanda
 jayādvaita-candra jaya gaura-bhakta-vṛnda (1)
 
 kṛpā kari’ sabe mili karaha karuṇā
@@ -20,7 +20,5 @@ ki-rūpe pāiba kichu nā pāi sandhāna
 prabhu lokanātha-pada nāhika smaraṇa (5)
 
 tumi ta’ dayāla prabhu, cāha eka-bāra
-<b>narottama</b>-hṛdayera ghucāo andhakāra (6)
-`,
-  "translation": ""
+<b>narottama</b>-hṛdayera ghucāo andhakāra (6)`
 })

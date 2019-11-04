@@ -1,48 +1,47 @@
 push({
   "title": "caitanya-candrera līlā-samudra apāra",
-  "author": "vinodera",
+  "id": 167,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-tattva",
   "language": "bengali",
   "verses": `
-caitanya-candrera līlā-samudra apāra
-bujhite śakati nāhi, ei kathā sāra (1)
+caitanya-candrera līlā-samudra apāra | 
+bujhite śakati nāhi, ei kathā sāra ||1||
 
-śāstre agamya tattva śrī-kṛṣṇa āmāra
-tā’ra līlā-anta bujhe śakati kāhāra (2)
+śāstrera agamya tattva śrīkṛṣṇa āmāra | 
+tā̃’ra līlā-anta bujhe śakati kā̃hāra ||2||
 
-tabe mūrkha-jana kena śāstra vicāriyā
-gaura-līlā nāhi māne anta nā pāiyā? (3)
+tabe mūrkha jana kenô śāstra bicāriyā | 
+gaura-līlā nāhi māne anta nā pāiyā ??3??
 
-anantera anta āche, kon śāstre gāya?
-śāstrā-dhīna kṛṣṇa, ihā śuni’ hāsi pāya (4)
+anantera anta āche, kon_ śāstre gāya? 
+śāstrādhīna kṛṣṇa, ihā śuni’ hāsi pāya ||4||
 
-kṛṣṇa haibena gorā icchā ha’la tā’ra
-sabaikunṭa navadvīpe hailā avatāra (5)
+kṛṣṇa hô_ibena gorā, icchā ha’lô tā̃’ra | 
+savaikuṇṭha navadvīpe hailā abatāra ||5||
 
-jakhana āsena kṛṣṇa jīva uddhārite
-saṅge saba sahacara āse pṛthivīte (6)
+ĵakhôna āsena kṛṣṇa jība uddhārite | 
+saṅge saba sahacara āse pṛthibīte ||6||
 
-gorā-avatāre tā’ra śrī-jaya-vijaya
-navadvīpe śatrubhāve haila udaya (7)
+gorā-abatāre tā̃ra śrījaya-bijaya | 
+navadvīpe śatrubhābe hô_ilô udaya ||7||
 
-pūrva pūrva avatāre asura āchila
-śāstre bale paṇḍita haiyā janamila (8)
+pūrbba pūrbba abatāre asura āchilô | 
+śāstre bôle paṇḍita hô_iyā janamilô ||8||
 
-smṛti-tarka-śāstra-bale vaira prakāśiyā
-gorācāda-saha raṇa karila mātiyā (9)
+smṛti-tarka-śāstrabale bairī prakāśiyā | 
+gorācā̃da-saha raṇa kôrilô mātiyā ||9||
 
-ataeva navadvīpa-vāsī yata jana
-śrī-caitanya-līlā puṣṭi kare anukṣaṇa (10)
+ataeba navadvīpabāsī ĵatô jana | 
+śrīcaitanya-līlā-puṣṭi kare anukṣaṇa ||10||
 
-ekhana je vrajakule caitanyara ari
-tā’ke jāni caitanyara līlā-puṣṭi-kārī (11)
+ekhôna ĵe brahmakule caitanyera ari | 
+tā’ke jāni caitanyera līlā-puṣṭikārī ||11||
 
-śrī-caitanya-anucara śatru-mitra yata
-sakalera śrī-caraṇe hailāma nata (12)
+śrīcaitanya-anucara śatru mitra ĵatô | 
+sakalera śrīcaraṇe hô_ilāma nata ||12||
 
-tomarā karaha kṛpā e dāsera prati
-caitanya sudṛḍha kara’ <b>vinodera</b> mati (13)
-`,
-  "translation": ""
+tomarā karahô kṛpā e dāsera prati | 
+caitanye sudṛḓha karô’ vinodera mati ||13||`
 })

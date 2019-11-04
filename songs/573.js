@@ -1,35 +1,34 @@
 push({
-  "title": "mṛta śiśu la’ye tabe bhakata-vatsala",
-  "author": "bhaktivinoda",
+  "title": "mṛta śiśu la’ye tabe",
+  "id": 573,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
-mṛta śiśu la’ye tabe bhakata-vatsala
-bhakata-saṅge gāya śrī-nāma-maṅgala (1)
+mṛta śiśu la’ye tabe bhakatabat.sala |
+bhakata-saṅgete gāya śrīnāma-maṅgala ||1||
 
-gāite gāite gelā jāhnavīra tīre
-bālake satkāra kaila jāhnavīra nīre (2)
+gāite gāite gelā jāhnavīra tīre |
+bālake sat.kāra kailô jāhnavīra nīre ||2||
 
-jāhnavī balena, mama saubhāgya apāra
-saphala haila vrata chila je āmāra (3)
+jāhnavī bôlena, mama saubhāgya apāra |
+saphala hô_ilô brata chilô ĵe āmāra ||3||
 
-mṛta śiśu dena gorā jāhnavīra jale
-uthali jāhnavī-devī śiśu laya kole (4)
+mṛta śiśu dena gorā jāhnavīra jale |
+uthali jāhnavīdevī śiśu laya kole ||4||
 
-uthaliyā sparśe gorā-caraṇa-kamala
-śiśu-kole preme devī haya ṭalamala (5)
+uthaliyā sparśe gorā-caraṇakamala |
+śiśu-kole preme devī haya ṭalamala ||5||
 
-jāhnavīra bhāva dekhi’ jata bhakta-gaṇa
-śrī-nāma-maṅgala-dhvani kare anukṣaṇa (6)
+jāhnavīra bhāba dekhi’ ĵatô bhaktagaṇa |
+śrīnāma-maṅgaladhvani kare anukṣaṇa ||6||
 
-svarga haite deve kare puṣpa-variṣaṇa
-vimāna-saṅkula tabe chāila gagana (7)
+svarga haite debe kare puṣpa-bariṣaṇa |
+bimāna-saṅkula tabe chāilô gagana ||7||
 
-ei-rūpe nānābhāve haiyā magana
-satkāra kariyā snāna kaila sarva-jana (8)
+eirūpe nānā bhābe hô_iyā magana |
+sat.kāra kôriyā snāna kailô sarbbajana ||8||
 
-parama-ānande sabe gela nija-ghare
-<b>bhaktivinoda</b> maje gorā-bhāva-bhare (9)
-`,
-  "translation": ""
+parama-ānande sabe gelô nija ghare |
+bhaktivinoda maje gorā-bhābabhare ||9||`
 })

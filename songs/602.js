@@ -1,24 +1,26 @@
 push({
-  "title": "maṅgala ārati gaura-kiśora",
+  "title": "maṅgala ārati gaurakiśora",
+  "id": 602,
   "category": "maṅgalārati",
   "subcategory": "śrī-gaura-ārati",
-  "author": "kṛṣṇa-dāsa",
+  "author": "kṛṣṇadāsa",
   "language": "bengali",
   "verses": `
-maṅgala ārati gaura-kiśora
-maṅgala nityānanda jora hi jora (1)
+maṅgala ārati gaurakiśora | 
+maṅgala nityānanda jora hi jora ||1||
 
-maṅgala advaita bhaka-tahi saṅge
-maṅgala gāota prema-taraṅge (2)
+maṅgala advaita bhakatahi saṅge | 
+maṅgala gāotô prema-taraṅge ||2||
 
-maṅgala bājata khola-karatāla
-maṅgala hari-dāsa nācata bhāla (3)
+maṅgala bājatô khola-karatāla | 
+maṅgala haridāsa nācatô bhālô ||3||
 
-maṅgala dhūpadīpa laiyā svarūpa
-maṅgala ārati kare aparūpa (4)
+maṅgala dhūpadīpa lô_iyā svarūpa | 
+maṅgala ārati kare aparūpa ||4||
 
-maṅgala gadādhara heri pahu hāsa
-maṅgala gāota dīna <b>kṛṣṇa-dāsa</b> (5)
-`,
-  "translation": ""
+maṅgala gadādhara heri pãhu hāsa | 
+maṅgala gāotô dīna kṛṣṇadāsa ||5||`,
+  "translation": {
+    "bn": "śabdārtha:- jora—ĵugala, ujjvala"
+  }
 })

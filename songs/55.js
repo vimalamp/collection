@@ -1,10 +1,10 @@
 push({
   "title": "śrita-kamalākuca-maṇḍala dhṛta-kuṇḍala e",
+  "id": 55,
   "author": "Unknown",
   "category": "śrī-gīta-govinda",
   "language": "sanskrit",
-  "verses": `
-<i>gurjarī-rāga–niḥsāra tāla</i>
+  "verses": `<i>gurjarī-rāga–niḥsāra tāla</i>
 śrita-kamalākuca-maṇḍala dhṛta-kuṇḍala e,
 kalita-lalita vanamāla jaya jaya deva hare (1)
 
@@ -27,7 +27,5 @@ tava-caraṇe praṇatā vayam-iti bhāvaya e,
 kuru kuśalaṁ praṇateṣu (5)
 
 <b>śrī-jayadeva</b>-kaver-idaṁ kurute mudaṁ e,
-maṅgalam-ujvala-gītam (6)
-`,
-  "translation": ""
+maṅgalam-ujvala-gītam (6)`
 })

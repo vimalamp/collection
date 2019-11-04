@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! ruci nahe kena kṛṣṇa-nāma",
+  "id": 446,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! ruci nahe kena kṛṣṇa-nāma
+  "verses": `ore mana! ruci nahe kena kṛṣṇa-nāma
 tabe jāni pūrva janme, āche kata pāpa-karme,
         se lāgi’ vidhātā tore vāma (1)
 
@@ -31,7 +31,5 @@ je-sukhe ha’yecha mata, bujhi’ dekha tā’ra tattva,
 je kaile se-kaile mana, ebe hao sacetana,
         phire vaisa ke tore hārāya
 kahe <b>premānanda</b> sukhe, ‘rādhā-kṛṣṇa’ bala mukhe,
-        śamana jiniyā uṭha nāya (6)
-`,
-  "translation": ""
+        śamana jiniyā uṭha nāya (6)`
 })

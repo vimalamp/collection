@@ -1,48 +1,51 @@
 push({
-  "title": "āna kathā āna vyathā, nāhi yena jāi tathā",
-  "author": "narottama",
+  "title": "ānô kathā ānô byathā",
+  "id": 287,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-rādhā-kṛṣṇa-caraṇe saṁprārthanā",
   "language": "bengali",
   "verses": `
-āna kathā āna vyathā, nāhi yena jāi tathā,
-        tomāra caraṇa-smṛti-mājhe
-avirata avikala, tuyā guṇa kala kala,
-        gāi yena satera samāje (1)
+ānô kathā ānô byathā,    nāhi ĵenô ĵāi tathā,
+tomāra caraṇa-smṛti-mājhe |
+abirata abikala,    tuŵā guṇa kala kala,
+gāi ĵenô satera samāje ||1||
 
-anya vrata, anya dāna, nāhi karo vastu-jñāna,
-        anya sevā anya deva-pūjā
-hā hā kṛṣṇa bali’ bali’, beḍāba ānanda kari’,
-        mane āra nahe yena dujā (2)
+anya brata anya dāna,    nāhi karõ bastu-jñāna,
+anya sebā anya debapūjā |
+hā hā kṛṣṇa bôli’ bôli’,    beḓābô ānanda kôri’,
+mane āra nahe ĵenô dujā ||2||
 
-jīvane-maraṇe gati, rādhā-kṛṣṇa-prāṇa-pati,
-        dohāra pirīti rasa-sukhe
-yugala bhajaye jā’rā, premānande bhāse tā’rā,
-        ei kathā rahu mora vuke (3)
+jībane-maraṇe gati,    rādhākṛṣṇa prāṇapati,
+dõhāra pirīti rasasukhe |
+ĵugala bhajaye ĵā̃’rā,    premānande bhāse tā̃’rā,
+ei kathā rahu mora buke ||3||
 
-yugala-caraṇa-sevā, ei dhana more dibā,
-        yugalete manera pirīti
-yugala-kiśora-rūpa, kāma-rati-guṇa-bhūpa,
-        mane rahu o-līlā-pirīti (4)
+ĵugala-caraṇasebā,    ei dhana more dibā,
+ĵugalete manera pirīti |
+ĵugala-kiśora-rūpa,    kāma-rati-guṇa-bhūpa,
+mane rahu o-līlā-pirīti ||4||
 
-daśanete tṛṇa dhari’, hā hā kiśora-kiśorī,
-        caraṇābje nivedana kari
-vrajarāja-suta śyāma, vṛṣabhānu-sutā nāma,
-        śrī-rādhikā nāma manohārī (5)
+daśanete tṛṇa dhôri’,    hā hā kiśora-kiśorī,
+caraṇābje nibedana kôri |
+vrajarāja-suta śyāma,    vṛṣabhānu-sutā nāma,
+‘śrīrādhikā’ nāma manohārī ||5||
 
-kanaka-ketakī rāi, śyāma marakata tāya,
-        kandarpa darapa karu cūra
-naṭavara-śiromaṇi, naṭinīra śikhariṇī,
-        duhu guṇe duhu mana jhura (6)
+kanaka-ketakī rāi,    śyāma marakata tāya,
+kandarpa darapa karu cūra |
+naṭabara-śiromaṇi,    naṭinīra śikhariṇī,
+dũhu guṇe dũhu mana jhura ||6||
 
-śrī-mukha sundaravara, hema-nīla-kāntidhara,
-        bhāva-bhūṣaṇa karu śobhā
-nīla-pītavāsa dhara, gaurī śyāma manohara,
-        antarera bhāve duhe lobhā (7)
+śrīmukha sundarabara,    hema-nīlakāntidhara,
+bhāba-bhūṣaṇa karu śobhā |
+nīla pīta bāsadhara,    gaurī śyāma manohara,
+antarera bhābe dũhe lobhā ||7||
 
-ābharaṇa maṇimaya, prati aṅge abhinaya,
-        tachu pāye <b>narottama</b> kahe
-divāniśi guṇa gāṅ, parama ānanda pāṅ,
-        mane ei abhilāṣa haye (8)
-`,
-  "translation": ""
+ābharaṇa maṇimaya,    prati aṅge abhinaya,
+tachu pāye narottama kahe |
+dibāniśi guṇa gāṅa,    parama ānanda pāṅa,
+mane ei abhilāṣa haye ||8||
+
+śabdārtha:- dujā—dvidhā; bhūpa—śreṣṭha; caraṇābje—caraṇakamale; rāi—śrīrādhā; marakata—haridvarṇa-maṇibiśeṣa |05 Sri Krsna 29
+
+`
 })

@@ -1,27 +1,26 @@
 push({
-  "title": "yaśomatī-nandana, vrajavara-nāgara",
-  "author": "bhaktivinoda",
+  "title": "ĵaśomatī-nandana",
+  "id": 339,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-yaśomatī-nandana, vrajavara-nāgara,
-        gokula-rañjana kāna
-gopī-parāṇa-dhana, madana-manohara,
-        kālīya-damana-vidhāna (1)
+ĵaśomatī-nandana,    vrajabara-nāgara,
+gokula-rañjana kāna |
+gopī-parāṇadhana,    madana-manohara,
+kālīya-damana-bidhāna ||1||
 
-amala harināma amiya-vilāsā
-vipina-purandara, navīna-nāgara-vara,
-        vaṁśī-vadana, suvāsā (2)
+amala harināma amiya-bilāsā |
+bipina-purandara,    nabīna-nāgarabara,
+baṁśībadana, subāsā ||2||
 
-vraja-jana-pālana, asurakula-nāśana,
-        nanda-godhana-rākhovālā
-govinda-mādhava, navanīta-stakara,
-        sundara nanda-gopālā (3)
+vrajajana-pālana,    asurakula-nāśana,
+nanda-godhana-rākhaoŵālā |
+govinda, mādhava,    nabanīta-taskara,
+sundara nandagopālā ||3||
 
-yāmuna-taṭa-cara, gopī-vasana-hara,
-        rāsa-rasika kṛpāmaya
-śrī-rādhā-vallabha, vṛndāvana-naṭavara,
-        <b>bhaktivinoda</b>-āśraya (4)
-`,
-  "translation": ""
+ĵāmuna-taṭacara,    gopī-basanahara,
+rāsa-rasika kṛpāmaya |
+śrīrādhāvallabha,    vṛndāvana-naṭabara,
+bhakativinoda-āśraya ||4||`
 })

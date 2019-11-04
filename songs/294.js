@@ -1,10 +1,10 @@
 push({
   "title": "kibā kāliyā rupera chaṭa",
+  "id": 294,
   "author": "Unknown",
   "category": "śrī-kṛṣṇa-rūpa-varṇana",
   "language": "bengali",
-  "verses": `
-kibā kāliyā rupera chaṭa
+  "verses": `kibā kāliyā rupera chaṭa
 kuvalayadala, dalita añcana,
         jiniyā jaladagaṭa (1)
 
@@ -26,7 +26,5 @@ dole ghanaghana, bhuvana bhulaye,
 
 kibā mayūra candrika māthe
 kahe narahari, heri kulavatī,
-        dāḍāila kalaṅka pathe (6)
-`,
-  "translation": ""
+        dāḍāila kalaṅka pathe (6)`
 })

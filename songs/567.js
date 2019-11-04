@@ -1,33 +1,32 @@
 push({
-  "title": "prabhura vacana, śuniyā takhana",
-  "author": "bhaktivinoda",
+  "title": "prabhura bacana",
+  "id": 567,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
-prabhura vacana, śuniyā takhana,
-        śrīvāsa loṭāo bhūmi
-bale, śuna nātha! tava rasa-bhaṅga,
-        sahite nā pāri āmi (1)
+prabhura bacana,    śuniyā takhôna,
+śrīvāsa loṭāñā bhūmi |
+bôle, śunô nātha!    taba rasabhaṅga,
+sahite nā pāri āmi ||1||
 
-ekaṭī tanaya, mariyāche nātha,
-        tāhe mora kibā duḥkha
-yadi saba mare, tomāre heriyā,
-        tabu ta’ pāiba sukha (2)
+ekaṭī tanaya,    môriyāche nātha,
+tāhe mora kibā duḥkha |
+ĵadi saba mare,    tomāre heriyā,
+tabu tô’ pāibô sukha ||2||
 
-tava nṛtya-bhaṅga, hale āmāra,
-        maraṇa haita, hari!
-tāi kusaṁvāda, nā dinu tomāre,
-        vipad āśaṅkā kari’ (3)
+taba nṛtyabhaṅga,    hô_ile āmāra,
+maraṇa hô_itô, hari!
+tāi kusaṁbāda,    nā dilô tomāre,
+bipad_ āśaṅkā kôri’ ||3||
 
-ebe ājñā deha, mṛta suta la’ye,
-        satkāra karuna sabe
-eteka śuniyā, gorā dvijamaṇi,
-        kādite lāgila tabe (4)
+ebe ājñā dehô,    mṛta suta la’ye,
+sat.kāra karuna sabe |
+eteka śuniyā,    gorā dvijamaṇi,
+kā̃dite lāgilô tabe ||4||
 
-kemane e sabe, chāḍiyā jāiba,
-        parāṇa vikala haya
-se-kathā śuniyā, <b>bhaktivinoda</b>,
-        manete pāila bhaya (5)
-`,
-  "translation": ""
+kemône e sabe,    chāḓiyā ĵāibô,
+parāṇa bikala haya |
+se-kathā śuniyā,    bhakativinoda,
+manete pāilô bhaya ||5||`
 })

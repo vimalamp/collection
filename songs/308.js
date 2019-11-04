@@ -1,27 +1,26 @@
 push({
-  "title": "prāṇeśvara! nivedana ei-jana kare",
-  "author": "narottama",
+  "title": "prāṇeśvara! nibedana eijana kare",
+  "id": 308,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-kṛṣṇa dainyabodhikā prārthanā",
   "language": "bengali",
   "verses": `
-prāṇeśvara! nivedana ei-jana kare
-govinda gokula-candra, parama ānanda-kanda,
-        gopīkula-priya dekha more (1)
+prāṇeśvara! nibedana eijana kare |
+govinda gokulacandra,    parama ānandakanda,
+gopīkula-priya dekhô more ||1||
 
-tuyā pāda-padma-sevā, ei dhana more divā,
-        tumi nātha karuṇāra nidhi
-parama-maṅgala-yaśa, śravaṇe parama rasa,
-        kā’ra kibā kārya nahe siddhi (2)
+tuŵā pādapadma-sebā,    ei dhana more dibā,
+tumi nātha karuṇāra nidhi |
+paramamaṅgala-ĵaśa,    śrabaṇe parama rasa,
+kā’ra kibā kārĵya nahe siddhi ||2||
 
-dāruṇa saṁsāra-gati, viṣama-viṣaya-mati,
-        tuyā vismaraṇa-śela vuke
-jara jara tanu mana, acetana anukṣaṇa,
-        jīyante maraṇa bhela duḥkhe (3)
+dāruṇa saṁsāra-gati,    biṣama biṣaya-mati,
+tuŵā bismaraṇa-śelô buke |
+jara jara tanu mana,    acetana anukṣaṇa,
+jīyante maraṇa bhelô duḥkhe ||3||
 
-mo hena adhama jane, kara kṛpā nirīkṣaṇe,
-        dāsa kari’ rākha vṛndāvane
-śrī-kṛṣṇa-caitanya-nāma, prabhu mora gaura-dhāma,
-        <b>narottama</b> laila śaraṇe (4)
-`,
-  "translation": ""
+mo henô adhama jane,    karô kṛpā nirīkṣaṇe,
+dāsa kôri’ rākhô vṛndāvane |
+śrīkṛṣṇacaitanya-nāma,    prabhu mora gauradhāma,
+narottama lô_ilô śaraṇe ||4||`
 })

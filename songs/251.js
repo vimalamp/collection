@@ -1,10 +1,10 @@
 push({
   "title": "hari hari! kabe hena daśā ha’be mora",
+  "id": 251,
   "author": "narottama",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-hari hari! kabe hena daśā ha’be mora
+  "verses": `hari hari! kabe hena daśā ha’be mora
 seviba dohāra pada ānande vibhora (1)
 
 bhramara haiyā sadā rahiba caraṇa
@@ -17,7 +17,5 @@ bahu-dina vāñchā kari’ pūrṇa jāte haya
 sabe mili’ dayā kara hoiyā sadaya (4)
 
 sevā-āśe <b>narottama</b> kānde divā-niśa
-kṛpā kari’ kara more anugata-dāsī (5)
-`,
-  "translation": ""
+kṛpā kari’ kara more anugata-dāsī (5)`
 })

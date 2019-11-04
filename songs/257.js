@@ -1,33 +1,39 @@
 push({
-  "title": "varaja vipine yamunā-kūle",
-  "author": "bhaktivinoda",
+  "title": "varaja-bipine",
+  "id": 257,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-rādhāṣṭaka",
   "language": "bengali",
   "verses": `
-varaja vipine yamunā-kūle
-        mañca-manohara śobhita phule
-vanaspati-latā tuṣaye ākhi
-        tadupari kata ḍākaye pākhī (1)
+varaja-bipine        ĵamunā-kūle |
+mañca manohara        śobhita phule ||1||
 
-malaya anila vahaye dhīre
-        ali-kula-madhu-lobhete phire
-vāsantīra rākā uḍapa tadā
-        kaumudī bitare ādare sadā (2)
+banaspati latā        tuṣaye ā̃khi |
+tadupari katô        ḍākaye pākhī ||2||
 
-emata samaye rasika-vara
-        ārambhila rāsa-muralīdhara
-śata-koṭī gopī-mājhete hari
-        rādhā-saha nāce ānanda kari’ (3)
+malaya anilô        bahaye dhīre |
+alikula madhu-        lobhete phire ||3||
 
-mādhava-mohinī gāiyā gīta
-        harila sakala-jagata-cita
-sthāvara-jaṅgama-mohilā satī
-        hārāola candrāvalīra mati (4)
+bāsantīra rākā-        uḓupa tadā |
+kaumudī bitare        ādare sadā ||4||
 
-mathiyā varaja-kiśora-mana
-        antarita haya rādhā takhana
-<b>bhaktivinoda</b> paramāda gaṇe
-        rāsa bhāṅgala (āji) rādhā vihane (5)
-`,
-  "translation": ""
+ematô samaye        rasikabara |
+ārambhilô rāsa        muralīdhara ||5||
+
+śatakoṭī gopī-        mājhete hari |
+rādhā-saha nāce        ānanda kôri’ ||6||
+
+mādhava-mohinī        gāiyā gīta |
+harilô sakala        jagata cita ||7||
+
+sthābara-jaṅgama        mohilā satī |
+hārāolô candrā-        valīra matī ||8||
+
+mathiyā varaja-        kiśora mana |
+antarita haya        rādhā takhôna ||9||
+
+bhakativinoda         paramāda gaṇe |
+rāsa bhāṅgalô (āji)        rādhā bihane ||10||
+
+śabdārtha:- alikūla—bhramaragaṇa; rākā-uḓupa—pūrṇimāra-candra; kaumudī—jyot.snā |`
 })

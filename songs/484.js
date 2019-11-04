@@ -1,37 +1,41 @@
 push({
-  "title": "ki jāni ki bale, tomāra dhāmete",
-  "author": "bhaktivinoda",
+  "title": " ki jāni ki bale",
+  "id": 484,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>goptṛtve varaṇa–dainyātmaka (kāyika)</i>
-ki jāni ki bale, tomāra dhāmete,
-        hainu śaraṇāgata
-tumi dayā-maya, patita-pāvana,
-        patita-tāraṇe rata (1)
+goptṛtve baraṇa—dainyātmaka 
 
-bharasā āmāra, ei mātra nātha,
-        tumi ta’ karuṇāmaya
-tava dayāpātra, nāhi mora sama,
-        avaśya ghucābe bhaya (2)
+(kāyika)
 
-āmāre tārite, kāhāro śakati,
-        avanī-bhitare nāi
-dayāla ṭhākura, ghoṣaṇā tomāra,
-        adhama pāmare trāhi (3)
+ki jāni ki bale,    tomāra dhāmete,
+hô_inu śaraṇāgata |
+tumi dayāmaya,    patita-pābana,
+patita-tāraṇe rata ||1||
 
-sakala chāḍiyā, āsiyāchi āmi, tomāra caraṇe,
-        nātha!
-āmi nitya-dāsa, tumi pālayitā, tumi goptā,
-        jagannātha!!
-tomāra sakala, āmi mātra dāsa,
-        āmāre tāribe tumi
-tomāra caraṇa, karinu varaṇa,
-        āmāra nahi ta’ āmi
-<b>bhaktivinoda</b>, kādiyā śaraṇa,
-        la’yeche tomāra pā-ya
-kṣami’ aparādha, nāme ruci diyā,
-        pālana karaha tāya (4)
-`,
-  "translation": ""
+bharasā āmāra,    eimātra nātha,
+tumi tô’ karuṇāmaya |
+taba dayāpātra,    nāhi mora sama,
+abaśya ghucābe bhaya ||2||
+
+āmāre tārite,    kāhāro śakati,
+abanī-bhitare nāhi |
+dayāla ṭhākura,    ghoṣaṇā tomāra,
+adhama pāmare trāhi ||3||
+
+sakala chāḓiyā,    āsiyāchi āmi,
+tomāra caraṇe nātha! 
+āmi nityadāsa,    tumi pālayitā,
+tumi goptā, jagannātha !!4!!
+
+tomāra sakala,    āmi mātra dāsa,
+āmāre tāribe tumi |
+tomāra caraṇa,    kôrinu baraṇa,
+āmāra nahi tô’ āmi ||5||
+
+bhakativinoda,    kā̃diyā śaraṇa,
+la’yeche tomāra pā-.ya |
+kṣami’ aparādha,    nāme ruci diyā,
+pālana karahô tāya ||6||`
 })

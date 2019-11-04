@@ -1,21 +1,22 @@
 push({
-  "title": "ke jābi ke jābi bhāi bhava-sindhu-pāra",
-  "author": "locana",
+  "title": "ke ĵābi ke ĵābi bhāi",
+  "id": 183,
+  "author": "śrīla locanadāsa ṭhākura",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
   "verses": `
-ke jābi ke jābi bhāi bhava-sindhu-pāra
-dhanya kali-yugera caitanya-avatāra (1)
+ke ĵābi ke ĵābi bhāi bhabasindhu-pāra | 
+dhanya kaliĵugera caitanya-abatāra ||1||
 
-āmāra gaurāṅgera ghāṭe adāna-kheyā vaya
-jaḍa, andha, ātura avadhi pāra haya (2)
+āmāra gaurāṅgera ghāṭe adāna-kheyā baya | 
+jaḓa, andha, ātura abadhi pāra haya ||2||
 
-hari-nāmera naukākhāni śrī-guru-kāṇḍārī
-saṅkīrtana keroyāla du’bāhu pasāri (3)
+harināmera naukākhāni śrīguru-kāṇḍārī | 
+saṅkīrttana-keroyāla du’bāhu pasāri ||3||
 
-saba jīva haila pāra premera vātāse
-paḍiyā rahila <b>locana</b> āpanāra doṣe (4)
-`,
-  "translation": ""
+saba jība hailô pāra premera bātāse | 
+paḓiyā rahilô locana āpanāra doṣe ||4||
+
+śabdārtha:- keroyāla–dā̃ḓa, nābika |`
 })

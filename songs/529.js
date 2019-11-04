@@ -1,29 +1,31 @@
 push({
-  "title": "hari he! āmi ta’ cañcalamati, amaryāda",
-  "author": "bhaktivinoda",
+  "title": "hari he! āmi tô’ cañcalamati",
+  "id": 529,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
-<i>amaryādaḥ kṣudraścala-matir-asūyā-prasavabhūḥ
-    kṛtaghno durmānī smara-paravaśo vañcanaparaḥ
-nṛśaṁsaḥ pāpiṣṭhaḥ katha-mahamito duḥkha-jaladher-
-    apārā-dutīrṇastava pari-careyaṁ caraṇayoḥ</i>
+<i>amarĵyādaḥ kṣudraścalamatirasūyāprasavabhūḥ
+kṛtaghno durmmānī smaraparavaśo vañcanaparaḥ |
+nṛśaṁsaḥ pāpiṣṭhaḥ kathamahamito duḥkhajaladhe-
+rapārāduttīrṇastava paricareyaṁ caraṇayoḥ ||27||</i>
 
-hari he!
-āmi ta’ cañcalamati, amaryāda,
-        kṣudra ati, asūyā-prasava sadā mora
-pāpiṣṭha, kṛtaghna, mānī, nṛśaṁsa, vañcane jñānī,
-        kāmavaśe thāki sadā ghora (1)
+hari he! 
+āmi tô’ cañcalamati,    amarĵyāda, kṣudra ati, 
+asūŵā-prasaba sadā mora |
+pāpiṣṭha, kṛtaghna, mānī,    nṛśaṁsa, bañcane jñānī,
+kāmabaśe thāki’ sadā ghora ||1||
 
-e hena durjana ha’ye, e duḥkha-jaladhi va’ye,
-        caritechi saṁsāra-sāgare
-kemane e bhavāmvudhi, pāra ha’ye niravadhi,
-        tava pāda-sevā mile more (2)
+e henô durjjana ha’ye,    e duḥkha-jaladhi ba’ye,
+caritechi saṁsāra-sāgare |
+kemône e bhabāmbudhi,    pāra ha’ye nirabadhi,
+taba pādasebā mile more ||2||
 
-tomāra karuṇā pāi, tabe ta’ tariyā jāi,
-        āmi ei duranta sāgara
-tumi, prabhu, śrī-caraṇe, rākha dāse dhūlisane,
-        nahe <b>bhaktivinoda</b> kātara (3)
-`,
-  "translation": ""
+tomāra karuṇā pāi,    tabe tô’ tariyā ĵāi,
+āmi ei duranta sāgara |
+tumi prabhu, śrīcaraṇe,    rākhô dāse dhūlisane,
+nahe bhaktivinoda kātara ||3||`,
+  "translation": {
+    "bn": "śabdārtha:- amarĵyāda—marĵyādājñānahīna; asūyā-prasaba—īrṣā-udaya; kṛtaghna—upakārakera apakāraka; mānī—abhimānī; bañcane jñānī—bañcane paṭu"
+  }
 })

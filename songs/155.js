@@ -1,28 +1,30 @@
 push({
-  "title": "preme mata nityānanda, sahaje ānanda kanda",
-  "author": "ananta-dāsa",
+  "title": "preme matta nityānanda",
+  "id": 155,
+  "author": "anantadāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
   "verses": `
-preme mata nityānanda, sahaje ānanda kanda,
-        ḍhuliyā ḍhuliyā cali’ jāya
-bhāiyāra bhāvete mata, jānena sakala tattva,
-        hari bali’ avanī loṭāya (1)
+preme matta nityānanda,    sahaje ānanda kanda,
+ḍhuliyā ḍhuliyā cali’ ĵāya |
+bhāiyāra bhābete matta,    jānena sakala tattva,
+hari bôli’ abanī loṭāya ||1||
 
-nitāira gorā-preme gaḍā tanukhāni
-gadādhara mukha here, loliyā loliyā paḍe,
-        dhārā vahe siñcita dharaṇī (2)
+nitāira gorāpreme gaḓā tanukhāni |
+gadādhara mukha here,    loliyā loliyā paḓe,
+dhārā bahe siñcita dharaṇī ||2||
 
-advaita ānanda kanda, heri’ nitāira mukha-candra,
-        huṅkāra pulaka śobhā gāya
-hari hari bola bale, punaḥ ‘gaura’ ‘gaura’ bale,
-        priya pāriṣada-gaṇa dhāya (3)
+advaita ānanda kanda,    heri’ nitāira mukhacandra,
+huṅkāra pulaka śobhā pāya |
+hari hari bolô bôle,    punaḥ ‘gaura’ ‘gaura’ bôle,
+priya pāriṣadagaṇa dhāya ||3||
 
-golokera prema-vanyā, jagat karila dhanyā,
-        atula apāra rasa-sindhu
-mātila jagat bhari’, nitāi caitanya kari’,
-        <b>ananta-dāsa</b> māge eka bindu (4)
-`,
-  "translation": ""
+golokera premabanyā,    jagat. kôrilô dhanyā,
+atula apāra rasasindhu |
+mātilô jagat. bhôri’,    nitāi caitanya kôri’,
+anantadāsa māge eka bindu ||4||`,
+  "translation": {
+    "bn": "śabdārthah: - loliyā—śithila hô_iyā"
+  }
 })

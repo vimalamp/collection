@@ -1,10 +1,10 @@
 push({
   "title": "kṛṣṇa-vārtā vinā āna, ‘asad-vārtā bali’ jāna",
+  "id": 407,
   "author": "bhaktivinoda",
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-<i>asad-vārtā-veśyā visṛja mati-sarvasva haraṇīḥ
+  "verses": `<i>asad-vārtā-veśyā visṛja mati-sarvasva haraṇīḥ
     kathā mukti-vyāghrā na śṛṇu kila sarvātma-gilanīḥ
 api tyaktvā lakṣmī-pati-ratim ito vyoma-nayanīṁ
     vraje rādhā-kṛṣṇau sva-rati-maṇi-dau tvaṁ bhaja manaḥ</i>
@@ -26,7 +26,5 @@ se-rati prabala ha’le, paravyāme deya phele,
 vraje rādhā-kṛṣṇa-rati, amūlya-dhanada ati,
         tāi tumi bhaja ciradina
 rūpa-raghunātha-pāya, sei rati prārthanāya,
-        e <b>bhaktivinoda</b> dīna-hīna (4)
-`,
-  "translation": ""
+        e <b>bhaktivinoda</b> dīna-hīna (4)`
 })

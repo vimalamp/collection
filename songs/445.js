@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! śuna śuna tu baḍi goāra",
+  "id": 445,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! śuna śuna tu baḍi goāra
+  "verses": `ore mana! śuna śuna tu baḍi goāra
 chāḍiyā satera saṅga, asat-saṅge sadā raṅga,
         pariṇāma nā kara vicāra (1)
 
@@ -26,7 +26,5 @@ kaha dekhi kevā chila, kāhāra ādara kaila,
 kahe <b>premānanda</b> cita, yadi cāha nija-hita,
         ‘kṛṣṇa kṛṣṇa’ kaha śvāsa śvāsa
 kṛṣṇa jagatera kartā, kṛṣṇa tina-loka-trātā,
-        bhaji’ kṛṣṇa kāṭa karma-phāsa (5)
-`,
-  "translation": ""
+        bhaji’ kṛṣṇa kāṭa karma-phāsa (5)`
 })

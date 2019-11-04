@@ -1,28 +1,27 @@
 push({
-  "title": "ṭhākura vaiṣṇava-gaṇa, kari ei nivedana",
-  "author": "narottama-dāse",
+  "title": "ṭhākura vaiṣṇavagaṇa",
+  "id": 119,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-vaiṣṇave vijñapti",
   "language": "bengali",
   "verses": `
-ṭhākura vaiṣṇava-gaṇa, kari ei nivedana,
-        mo baḍa adhama durācāra
-dāruṇa saṁsāra-nidhi, tāhe ḍubāila vidhi,
-        keśe dhari’ more kara pāra (1)
+ṭhākura vaiṣṇavagaṇa,    kôri ei nibedana,
+mo baḓô adhama durācāra |
+dāruṇa-saṁsāra-nidhi,    tāhe ḍubāilô bidhi,
+keśe dhôri’ more karô pāra ||1||
 
-vidhi baḍa balavān, nā śune dharama-jñāna,
-        sadāi karama-pāśe bāndhe
-nā dekhi tāraṇa-leśa, yata dekhi saba kleśa,
-        anātha, kātare teṇi kānde (2)
+bidhi baḓô balabān_,    nā śune dharama-jñāna,
+sadāi karama-pāśe bāndhe |
+nā dekhi tāraṇa-leśa,    ĵatô dekhi saba kleśa,
+anātha, kātare teñi kānde ||2||
 
-kāma, krodha, lobha, moha, mada, abhimāna saha,
-        āpana āpana sthāne ṭāne
-aichana āmāra mana, phire yena andha-jana,
-        supatha-vipatha nāhi jāne (3)
+kāma, krodha, lobha, moha,    mada, abhimāna saha,
+āpana āpana sthāne ṭāne |
+aichana āmāra mana,    phire ĵenô andhajana,
+supatha-bipatha nāhi jāne ||3||
 
-nā lainu sat mata, asate majila cita,
-        tuyā pāye nā karinu āśa
-<b>narottama-dāse</b> kaya, dekhi’ śuni’ lāge bhaya,
-        tarāiyā laha nija-pāśa (4)
-`,
-  "translation": ""
+nā lô_inu sat. mata,    asate majilô cita,
+tuŵā pāye nā kôrinu āśa |
+narottamadāse kaya,    dekhi’ śuni’ lāge bhaya,
+tarāiyā lahô nija-pāśa ||4||`
 })

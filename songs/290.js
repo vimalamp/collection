@@ -1,10 +1,10 @@
 push({
   "title": "pūrava janama, divasa dekhiṣā",
+  "id": 290,
   "author": "rādhāmohana dāse",
   "category": "śrī-kṛṣṇa-janmalīlā",
   "language": "bengali",
-  "verses": `
-pūrava janama, divasa dekhiṣā,
+  "verses": `pūrava janama, divasa dekhiṣā,
         āveśe gaurarāya
 nijagaṇa laiyā, haraṣita haiyā,
         nanda mahotsava gāya (1)
@@ -27,7 +27,5 @@ rāmāi maheśa, rāma gaurīdāsa,
 heriyā jateka, nīlācala loka,
         premera pāthāre bhāse
 dekhiyā vibhora, ānanda sāgara,
-        e <b>rādhāmohana dāse</b> (5)
-`,
-  "translation": ""
+        e <b>rādhāmohana dāse</b> (5)`
 })

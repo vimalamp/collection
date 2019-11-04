@@ -1,24 +1,23 @@
 push({
-  "title": "nitāi mora jīvana-dhana, nitāi mora jāti",
-  "author": "locana",
+  "title": "nitāi mora jībana-dhana",
+  "id": 143,
+  "author": "śrīla locanadāsa ṭhākura",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-nityānande niṣṭhā",
   "language": "bengali",
   "verses": `
-nitāi mora jīvana-dhana, nitāi mora jāti
-nitāi vihane mora āra nāhi gati (1)
+nitāi mora jībana-dhana, nitāi mora jāti | 
+nitāi bihane mora āra nāhi gati ||1||
 
-saṁsāra-sukhera mukhe tule diba chāi
-nagare māgiyā khā’va gāiyā nitāi (2)
+saṁsāra-sukhera mukhe tule dibô chāi | 
+nagare māgiyā khā’bô gāiyā nitāi ||2||
 
-je-deśe nitāi nāi, se-deśe nā yā’va
-nitāi-vimukha-janāra mukha nā heriba (3)
+ĵe-deśe nitāi nāi, se-deśe nā ĵā’bô | 
+nitāi-bimukha-janāra mukha nā heribô ||3||
 
-gaṅgā jā’ra pada-jala, hara śire dhare
-hena nitāi nā bhajiyā duḥkha peye mare (4)
+gaṅgā ĵā̃’ra padajala, hara śire dhare | 
+henô nitāi nā bhajiyā duḥkha peye mare ||4||
 
-<b>locana</b> bale mora nitāi yevā nāhi māne
-anala bhejāi tā’ra mājha-mukha-khāne (5)
-`,
-  "translation": ""
+locana bôle mora nitāi ĵebā nāhi māne | 
+anala bhejāi tā’ra mājha-mukhakhāne ||5||`
 })

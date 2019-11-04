@@ -1,39 +1,39 @@
 push({
-  "title": "āmāra jīvana, sadā pāpe rata",
-  "author": "bhaktivinoda",
+  "title": " āmāra jībana",
+  "id": 473,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>dainya–aparādhātmaka</i>
-āmāra jīvana, sadā pāpe rata,
-        nāhika puṇyara leśa
-parere udvega, diyāchi je kata,
-        diyāchi jīvere kleśa (1)
+dainya—aparādhātmaka
 
-nija-sukha lāgi’, pāpe nāhi ḍari,
-        dayā hīna svārtha-para
-para-sukhe duḥkhī, sadā mithyā-bhāṣī,
-        para-duḥkha sukha-kara (2)
+āmāra jībana,    sadā pāpe rata,
+nāhikô puṇyera leśa |
+parere udbega,    diyāchi ĵe katô,
+diyāchi jībere kleśa ||1||
 
-aśeṣa kāmanā, hṛdi mājhe mora,
-        krodhī dambha-parāyaṇa
-madamata sadā, viṣaye mohita,
-        hiṁsā-garva vibhūṣaṇa (3)
+nija sukha lāgi’,    pāpe nāhi ḍari,
+dayāhīna svārthapara |
+para-sukhe duḥkhī,    sadā mithyābhāṣī,
+paraduḥkha sukhakara ||2||
 
-nidrālasya-hata, sukārya virata,
-        akārya udyāgī āmi
-pratiṣṭhā lāgiyā, śāṭhya ācaraṇa,
-        lobhahata sadā kāmī (4)
+aśeṣa kāmanā,    hṛdi mājhe mora,
+krodhī dambhaparāyaṇa |
+madamatta sadā,    biṣaye mohita,
+hiṁsā-garbba-bibhūṣaṇa ||3||
 
-e hena durjana, sajana-varjita,
-        aparādhī nirantara
-śubha-kārya-śūnya, sadā-nartha-manā,
-        nānā duḥkhe jara jara (5)
+nidrālasya-hata,    sukārĵye birata,
+akārĵye udyogī āmi |
+pratiṣṭhā lāgiyā,    śāṭhya ācaraṇa,
+lobhahata sadā kāmī ||4||
 
-vārddhakya ekhana, upāya-vihīna,
-        tā’te dīna akiñcana
-<b>bhaktivinoda</b>, prabhura caraṇe,
-        kare duḥkha nivedana (6)
-`,
-  "translation": ""
+e henô durjjana,    sajjana-barjjita,
+aparādhī nirantara |
+śubhakārĵyaśūnya,    sadānarthamanā,
+nānā duḥkhe jara jara ||5||
+
+bārddhakye ekhôna,    upāyabihīna,
+tā’te dīna akiñcana |
+bhakativinoda,    prabhura caraṇe,
+kare duḥkha nibedana ||6||`
 })

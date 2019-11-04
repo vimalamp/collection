@@ -1,24 +1,23 @@
 push({
-  "title": "‘dayāla nitāi caitanya’ ba’le nāc re āmāra mana",
+  "title": "‘dayāla nitāi caitanya’ bô’le",
+  "id": 336,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-‘dayāla nitāi caitanya’ ba’le nāc re āmāra mana
-nāc re āmāra mana, nāc re āmāra mana (1)
+‘dayāla nitāi caitanya’ bô’le nāc_ re āmāra mana |
+nāc_ re āmāra mana, nāc_ re āmāra mana ||1||
 
-(emana dayāla ta’ nāi re, māra khe’ye prema deya)
-(ore) aparādha dūre jā’be, pā’be prema-dhana
-(o nāme aparādha-vicāra ta’ nāi he) (2)
+(emôna dayāla to nāi re, māra khe’ye prema deya) 
+(ore) aparādha dūre ĵā’be, pā’be premadhana |
+(o nāme aparādha-bicāra to nāi he) 
+(takhôna) kṛṣṇanāme ruci ha’be, ghucibe bandhana ||2||
+(kṛṣṇanāme anurāga to ha’be he) 
 
-(takhana) kṛṣṇa-nāme ruci ha’be, ghucibe bandhana
-(kṛṣṇa-nāme anurāga ta’ ha’be he) (3)
+(takhôna) anāyāse saphala ha’be jībera jībana |
+(kṛṣṇarati binā jībana to miche he)
+(śeṣe) vṛndāvane rādhāśyāme pā’be daraśana ||3||
+(gaura-kṛpā ha’le he) 
 
-(takhana) anāyāse saphala ha’be jīvera jīvana
-(kṛṣṇa-rati vinā jīvana ta’ miche he) (4)
-
-(śeṣe) vṛndāvane rādhā-śyāme pā’be daraśana
-(gaura-kṛpā ha’le he) (5)
-`,
-  "translation": ""
+`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "hamāre braja ke rakhavāre",
+  "id": 668,
   "author": "Unknown",
   "category": "hindī-kīrtana",
   "language": "hindi",
-  "verses": `
-hamāre braja ke rakhavāre,
+  "verses": `hamāre braja ke rakhavāre,
       kanhaiyā rādhikārānī
 kanhaiyā rādhikārānī,
       kanhaiyā rādhikārānī (1)
@@ -12,7 +12,5 @@ kanhaiyā rādhikārānī,
 hamāre nayanana ke tāre,
       kanhaiyā rādhikārānī
 sahārā vo sahāro ke,
-      kanhaiyā rādhikārānī (2)
-`,
-  "translation": ""
+      kanhaiyā rādhikārānī (2)`
 })

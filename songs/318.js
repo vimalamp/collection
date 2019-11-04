@@ -1,10 +1,10 @@
 push({
   "title": "hari hari! āra ki emana daśā haba",
+  "id": 318,
   "author": "narottama-dāsa",
   "category": "śrī-kṛṣṇe svābhīṣṭa-lālasātmaka prārthanā",
   "language": "bengali",
-  "verses": `
-hari hari! āra ki emana daśā haba
+  "verses": `hari hari! āra ki emana daśā haba
 e-bhava-saṁsāra tyaji’, parama-ānande maji’,
         āra kabe vraja-bhūme jā’ba (1)
 
@@ -26,7 +26,5 @@ vaṁśīvaṭa-chāyā pāṇo, parama-ānanda hao,
 kabe govarddhana-giri, dekhiba nayana bhari’,
         kabe ha’be rādhā-kuṇḍe vāsa
 bramite bramite kabe, e-deha patana ha’be,
-        kahe dīna <b>narottama-dāsa</b> (5)
-`,
-  "translation": ""
+        kahe dīna <b>narottama-dāsa</b> (5)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "vṛṣabhānu nandinī, nava anurāginī",
+  "id": 579,
   "author": "govinda dāsa",
   "category": "jhulanalīlā",
   "language": "bengali",
-  "verses": `
-vṛṣabhānu nandinī, nava anurāginī,
+  "verses": `vṛṣabhānu nandinī, nava anurāginī,
         turite karala abhisāra
 saṅginī raṅginī, prema taraṅginī,
         mandira hoi bāhāra (1)
@@ -17,7 +17,5 @@ hamsa gamane dhanī, āola vinodinī,
 rasika nāgara bara, vidagadha śekhara,
         turite milala dhanī pāśa
 duhu dohā darśane, ullasita locane,
-        nirakhata <b>govinda dāsa</b> (3)
-`,
-  "translation": ""
+        nirakhata <b>govinda dāsa</b> (3)`
 })

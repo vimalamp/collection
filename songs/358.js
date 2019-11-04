@@ -1,41 +1,42 @@
 push({
-  "title": "boḍo sukhera khabor gāi",
-  "author": "bhaktivinoda",
+  "title": "baḓô sukhera khabôra gāi",
+  "id": 358,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nagara-kīrtana",
   "language": "bengali",
   "verses": `
-boḍo sukhera khabor gāi
-surabhi-kuñjete nāmera hāṭa khuleche khod-nitāi (1)
+baḓô sukhera khabôra gāi | 
+surabhi-kuñjete nāmera hāṭa khuleche khoda-nitāi ||1||
 
-boḍo mojāra kathā tāya
-śraddhā mūlya śuddha-nāma sei hāṭete vikāya (2)
+baḓô majāra kathā tāya | 
+śraddhāmūlye śuddhanāma sei hāṭete bikāya ||2||
 
-jata bhakta-vṛnda vasi’
-adhikārī dekhe’ nāma becche dara kaṣi (3)
+ĵatô bhaktabṛnda bôsi’ | 
+adhikārī dekhe’ nāma bec_#che dara kaṣi ||3||
 
-yadi nāma kinbe bhāi
-āmāra saṅge cala mahā-janera kāche jāi (4)
+ĵadi nāma kin_#be bhāi | 
+āmāra saṅge calô mahājanera kāche ĵāi ||4||
 
-tumi kinbe kṛṣṇa-nāma
-dasturi laiba āmi, pūrṇa ha’be kāma (5)
+tumi kin_#be kṛṣṇanāma | 
+dasturi lô_ibô āmi, pūrṇa ha’be kāma ||5||
 
-boḍo dayāla nityānanda
-śraddhā-mātra la’ye dena parama ānanda (6)
+baḓô dayāla nityānanda |
+śraddhāmātra la’ye dena parama ānanda ||6||
 
-eka-bāra dekhle cakṣe jala
-gaura ba’le nitāi dena sakala sambala (7)
+ekabāra dekh_#le cakṣe jala | 
+gaura bô’le nitāi dena sakala sambala ||7||
 
-dena śuddha kṛṣṇa-śikṣā
-jāti, dhana, vidyā-bala nā kare apekṣā (8)
+dena śuddha kṛṣṇa-śikṣā | 
+jāti, dhana, bidyā-bala nā kare apekṣā ||8||
 
-amani chāḍe māyā-jāla
-gṛhe thāka, vane thāka, nā thāke jañjāla (9)
+amani chāḓe māyājāla | 
+gṛhe thākô, bane thākô, nā thāke jañjāla ||9||
 
-āra nāiko kalira bhaya
-ācaṇḍāle prema dena nitāi dayā-maya (10)
+āra nāiko kalira bhaya | 
+ācaṇḍāle dena nāma nitāi dayāmaya ||10||
 
-<b>bhaktivinoda </b>ḍāki’ kaya
-nitāi-cādera caraṇa vinā āra nāhi āśraya (11)
-`,
-  "translation": ""
+bhakativinoda ḍāki’ kaya | 
+nitāicā̃dera caraṇa binā āra nāhi āśraya ||11||
+
+śabdārtha:- dasturi—dālālera prāpya |`
 })

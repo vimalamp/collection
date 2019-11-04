@@ -1,109 +1,111 @@
 push({
-  "title": "o mora jīvana-gati, śrī-rūpa-gosāi ati",
-  "author": "narahari",
+  "title": "o mora jībana-gati",
+  "id": 547,
+  "author": "śrīla narahari sarakāra",
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīmad-rūpa-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
-o mora jīvana-gati, śrī-rūpa-gosāi ati,
-        guṇe samudra dayā-maya
-jāhāra karuṇā haile, caitanya-caraṇa mile,
-        vraje rādhā-kṛṣṇa-prāpti haya (1)
+o mora jībana-gati,    śrīrūpagõsāi ati,
+guṇera samudra dayāmaya |
+ĵā̃hāra karuṇā haile,    caitanya-caraṇa mile,
+vraje rādhākṛṣṇa-prāpti haya ||1||
 
-parama-vairāgya jā’ra, caritrera nāhi pāra,
-        asīma aiśvarya parihari’
-caitanyera āgamana, śuni’ haraṣita mana,
-        prayāge calilā tvarā kari’ (2)
+parama-bairāgya ĵā̃’ra,    caritrera nāhi pāra,
+asīma aiśvarĵya parihari’ |
+caitanyera āgamana,    śuni’ haraṣita mana,
+prayāge calilā tvarā kôri’ ||2||
 
-anuja ballabha-sane, śīghra gelā sei sthāne,
-        mahāprabhu jathāya vasiyā
-caitanyera śrī-caraṇa, darśane ānanda mana,
-        bhūme dohe paḍe loṭāiyā (3)
+anuja ballabha-sane,    śīghra gelā sei sthāne,
+mahāprabhu ĵathāya bôsiyā |
+caitanyera śrīcaraṇa,    darśane ānanda mana,
+bhūme dõhe paḓe loṭāiyā ||3||
 
-punaḥ punaḥ duijane, nirakhiyā prabhu-pāne,
-        prema-jale bharila nayana
-daten tṛṇa-guccha dhare, vidhi-mate stava kare,
-        śunile vyākula haya mana (4)
+punaḥ punaḥ duijane,    nirakhiyā prabhu-pāne,
+prema-jale bhôrilô nayana |
+dante tṛṇa-guccha dhare,    bidhi-mate staba kare,
+śunile byākula haya mana ||4||
 
-śrī-rūpere nirakhiye, prabhu preme mata ha’ye,
-        priyavākya aneka kahilā
-aja, bhava, deva-gaṇa, ārādhaye je-caraṇa,
-        se-caraṇa mastake dharilā (5)
+śrīrūpere nirakhiye,    prabhu preme matta ha’ye,
+priyabākya aneka kahilā |
+aja, bhaba, debagaṇa,    ārādhaye ĵe caraṇa,
+se caraṇa mastake dhôrilā ||5||
 
-preme vaśa gaurarāya, uṭha uṭha bali’ tāya,
-        mahāsukhe kaila āliṅgana
-śrī-rūpa juḍiye kara, stuti kare bahutara,
-        tāhā kichu nā haya varṇana (6)
+preme baśa gaurarāya,    uṭhô uṭhô bôli’ tāya,
+mahāsukhe kailô āliṅgana |
+śrīrūpa juḓiya kara,    stuti kare bahutara,
+tāhā kichu nā haya barṇana ||6||
 
-tabe prabhu rūpe laiye, nikaṭete vasāiye,
-        sanātanera puche samācāra
-śrī-rūpa kahila saba, śuniyā caitanyadeva,
-        kahe kichu cintā nāhi āra (7)
+tabe prabhu rūpe laiye,    nikaṭete bôsāiye,
+sanātanera puche samācāra |
+śrīrūpa kahilô saba,    śuniyā caitanyadeva,
+kahe kichu cintā nāhi āra ||7||
 
-śrī-rūpe prasanna haiyā, kichudina kāche thuyā,
-        rādhā-kṛṣṇa-tattva jānāilā
-parama ānanda mana, rūpe kari’ āliṅgana,
-        vṛndāvana jāite ājñā dilā (8)
+śrīrūpe prasanna haiyā,    kichudina kāche thu’ŵā,
+rādhākṛṣṇa-tattva jānāilā |
+parama ānanda mana,    rūpe kôri’ āliṅgana,
+vṛndāvana ĵāite ājñā dilā ||8||
 
-kātare śrī-rūpa kaya,– ‘saṅge thāki, ājñā haya’,
-        śuni prabhu mahāharṣa-cite
-kahena madhura vāṇī,– ‘sadā saṅge ācha tumi’,
-        punaśca āsibe vraja haite’ (9)
+kātare śrīrūpa kaya,—    ‘saṅge thāki, ājñā haya’,
+śuni’ prabhu mahāharṣa-citte |
+kahena madhura bāṇī,—    ‘sadā saṅge āchô tumi,
+punaśca āsibe vraja haite ||9||’
 
-ei mata kahe jata, tabe prabhu śacīsuta,
-        kāśī cale naukāya caḍiyā
-prabhura śrī-candra-mukha, nayane heriye rūpa,
-        bhūme paḍe mūrcchita haiyā (10)
+ei mata kahe ĵatô,    tabe prabhu śacīsuta,
+kāśī cale naukāya caḓiyā |
+prabhura śrīmukhacandra,    nayane heriyā rūpa,
+bhūme paḓe mūrcchita hô_iyā ||10||
 
-se-samaye bhela jāhā, kahite nā pāri tāhā,
-        katakṣaṇe kichu sambarilā
-mahāprabhura śrī-caraṇa, tāhe samarpiyā mana,
-        vṛndāvana gamana karilā (11)
+se samaye bhelô ĵāhā,    kahite nā pāri tāhā,
+katôkṣaṇe kichu sambarilā |
+mahāprabhura śrīcaraṇa,    tāhe samarpiyā mana,
+vṛndāvana gamana kôrilā ||11||
 
-atyanta ānanda cite, śīghra āilā mathurāte,
-        subuddhi, miśrera dekhā pāilā
-rāya ānandita haiyā, duijane saṅge laiyā,
-        dvādaśa-kānana dekhāilā (12)
+atyanta ānanda cite,    śīghra āilā mathurāte,
+subuddhi-rāyera dekhā pāilā |
+rāya ānandita haiyā,    duijane saṅge laiyā,
+dvādaśa-kānana dekhāilā ||12||
 
-vistārite nāri āra, gamanāgamana tā’ra,
-        katadina pare vṛndāvane
-śrī-rūpa-sanātana, haila dohe suvimala,
-        dohe preme āpta nāhi jāne (13)
+bistārite nāri āra,    gamanāgamana tā̃’ra,
+katôdina pare vṛndāvane |
+śrīrūpa, śrīsanātana,    hailô dõhe sumilana,
+dõhe preme āpta nāhi jāne ||13||
 
-āliṅgana kari’ dohe, caitanyera guṇa kahe,
-        jāhā śuni’ pāṣāṇa milāya
-ānanda haila cite, nāhi pāre sambarite,
-        kādi dohe dharaṇī loṭāya (14)
+āliṅgana kôri’ dõhe,    caitanyera guṇa kahe,
+ĵāhā śuni’ pāṣāṇa milāya |
+ānanda hô_ilô citte,    nāhi pāre sambarite,
+kā̃di dõhe dharaṇī loṭāya ||14||
 
-ati anurāga mane, śrī-rūpa śrī-vṛndāvane,
-        rahe sadā premera ullāse
-phala-mūla mādhukarī, vipragṛhe bhikṣā kari’,
-        bhuñje, kabhu thāke upavāse (15)
+ati anurāga mane,    śrīrūpa śrīvṛndāvane,
+rahe sadā premera ullāse |
+phala-mūla mādhukarī,    bipragṛhe bhikṣā kôri’,
+bhuñje, kabhu thāke upabāse ||15||
 
-chiḍā kāthā bahirvāsa, eimātra vahe pāśa,
-        taru-tale karena śayana
-divāniśi aviśrāma, japaye madhura nāma,
-        bhāva-bhare karena nartana (16)
+chĩḓā kā̃thā bahirbbāsa,    eimātra bahe pāśa,
+tarutale karena śayana |
+dibāniśi abiśrāma,    japaye madhura nāma,
+bhāba-bhare karôye narttana ||16||
 
-kṣaṇe kare saṅkīrtana, atarmanā anukṣaṇa,
-        ki ka’ba bhajana-rīti tā’ra
-prabhura ājñāya kata, varṇilā amṛta grantha,
-        prema-sama akṣara jāhāra (17)
+kṣaṇe kare saṅkīrttana,    antarmmanā anukṣaṇa,
+ki ka’bô bhajana-rīti tā̃’ra |
+prabhura ājñāya katô,    barṇilā amṛta grantha,
+prema-sama akṣara ĵā̃hāra ||17||
 
-mahādhīra atyudāra, ke bujhe hṛdaya tā’ra,
-        kabhu yamunāra taṭe jāṇo
-‘hā śacī-nandana’ bali’, kādaye du’hāta tuli’,
-        ḍāke rādhā-kṛṣṇa-nāma lao (18)
+mahādhīra atyudāra,    ke bujhe hṛdaya tā̃’ra,
+kabhu ĵamunāra taṭe ĵāñā |
+‘hā śacīnandana bôli’,    kā̃daye du’hāta tuli’,
+ḍāke rādhākṛṣṇa-nāma lañā ||18||
 
-ati sukomala deha, sadā preme nāce seha,
-        āra ki baliba eka mukhe
-adhama pāmara-gaṇa, patita duḥkhita jana,
-        nija-guṇe kṛpā karena tā’ke (19)
+ati sukomala deha,    sadā preme nāce seha,
+āra ki bôlibô eka mukhe |
+adhama pāmaragaṇe,    patita duḥkhita jane,
+nijaguṇe kṛpā karena tā’ke ||19||
 
-<b>narahari</b> durācāra, kara more aṅgīkāra,
-        tāpete haila sadā bhora
-tuyā pāda-padme mana, rahe jena sarvakṣaṇa,
-        ei nivedana śuna mora (20)
-`,
-  "translation": ""
+narahari durācāra,    karô more aṅgīkāra,
+tāpete hô_ilô sadā bhora |
+tuŵā pādapadme mana,    rahe ĵenô sarbbakṣaṇa,
+ei nibedana śunô mora ||20||`,
+  "translation": {
+    "bn": "śabdārtha:- āpta—ātmīya-svajana; milāya—drabībhūta haya"
+  }
 })

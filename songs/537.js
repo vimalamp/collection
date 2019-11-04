@@ -1,10 +1,10 @@
 push({
   "title": "ore mana, bhukti-mukti-spṛhā kara’ dūra",
+  "id": 537,
   "author": "Unknown",
   "category": "nirveda-lakṣaṇa-upalabdhi",
   "language": "bengali",
-  "verses": `
-ore mana, bhukti-mukti-spṛhā kara’ dūra
+  "verses": `ore mana, bhukti-mukti-spṛhā kara’ dūra
 bhogera nāhika śeṣa, tāhe nāhi sukha-leśa,
         nirānanda tāhāte pracura (1)
 
@@ -26,7 +26,5 @@ tāhā je chāḍite pāre, māyā nāhi chāḍe tā’re,
 ataeva spṛhādvaya, chāḍi’ śodha’ e hṛdaya,
         nāhi rākha kāmera vāsanā
 bhoga-mokṣa nāhi cāi, śrī-kṛṣṇa-caraṇa pāi,
-        vinodera ei ta’ sādhanā (5)
-`,
-  "translation": ""
+        vinodera ei ta’ sādhanā (5)`
 })

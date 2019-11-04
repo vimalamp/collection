@@ -1,10 +1,10 @@
 push({
   "title": "kṛṣṇa-prema-mayī rādhā",
+  "id": 47,
   "category": "śrī-yugalāṣṭakam",
   "author": "śrīla-jīva-goswāmī",
   "language": "sanskrit",
-  "verses": `
-kṛṣṇa-prema-mayī rādhā,
+  "verses": `kṛṣṇa-prema-mayī rādhā,
     rādhā prema-mayo hariḥ
 jīvane nidhane nityaṁ,
     rādhā-kṛṣṇau gatir mama (1)
@@ -42,7 +42,5 @@ jīvane nidhane nityaṁ,
 vṛndāvaneśvarī rādhā,
     kṛṣṇo vṛndāvaneśvaraḥ
 jīvane nidhane nityaṁ,
-    rādhā-kṛṣṇau gatir mama (8)
-`,
-  "translation": ""
+    rādhā-kṛṣṇau gatir mama (8)`
 })

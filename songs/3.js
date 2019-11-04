@@ -1,10 +1,10 @@
 push({
   "title": "vandanā (2)",
+  "id": 3,
   "author": "Unknown",
   "category": "maṅgalācaraṇam",
   "language": "sanskrit",
-  "verses": `
-<b>śrī-lalitā-devyādi-aṣṭa-sakhī-vandanā</b>
+  "verses": `<b>śrī-lalitā-devyādi-aṣṭa-sakhī-vandanā</b>
 yāṁ kām-api vraja-kule vṛṣabhānu-jāyāḥ
 prekṣya sva-pakṣa-padavīm anuruddhyamānām
 sadyas tadiṣṭa-ghaṭanena kṛtārthayantīṁ
@@ -244,7 +244,5 @@ rādhā-mukunda-muditāṁ yamunāṁ namāmi
 
 <b>śrī-gaṅgā-vandanā</b>
 ṣadyaṁ pātaka-samhantrī sadeyā duḥkha-vināśinī
-sukhadā mokṣadā gaṅgā gaṅgova paramā gatiḥ
-`,
-  "translation": ""
+sukhadā mokṣadā gaṅgā gaṅgova paramā gatiḥ`
 })

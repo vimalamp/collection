@@ -1,32 +1,31 @@
 push({
-  "title": "āmi ati pāmara durjana",
+  "title": "āmi ati pāmara durjjana",
+  "id": 530,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "anutāpa-lakṣaṇa-upalabdhi",
   "language": "bengali",
   "verses": `
-āmi ati pāmara durjana
-ki karinu hāya hāya, prakṛtira dāsa tāya,
-        kāṭāinu amūlya jīvana (1)
+āmi ati pāmara durjjana |
+ki kôrinu hāya hāya,    prakṛtira dāsa tāya,
+kāṭāinu amūlya jībana ||1||
 
-katadina garvbhāvāse, kāṭāinu anāyāse,
-        bālya gela bāla-dharma-vaśe
-grāmya-dharme e jauvana, miche dinu visarjana,
-        vṛddhakāla ebe avaśeṣe (2)
+katôdina garbbhābāse,    kāṭāinu anāyāse,
+bālya gelô bāladharmmabaśe |
+grāmyadharmme e ĵaubana,    miche dinu bisarjjana,
+bṛddhakāla elô abaśeṣe ||2||
 
-viṣaye nāhika sukha, bhoga-śakti suvai-mukha,
-        anta datan, śarīra aśakta
-jīvana jantraṇāmaya, maraṇete sadā bhaya,
-        bala’ kise hai anurakta (3)
+biṣaye nāhikô sukha,    bhogaśakti subaimukha,
+anta danta, śarīra aśakta |
+jībana ĵantraṇāmaya,    maraṇete sadā bhaya,
+bôlô’ kise hô_i anurakta ||3||
 
-bhogya-vastu-bhoga-śakti, tā’te chila anurakti,
-        je-paryanta chila dehe bala
-samasta vigata ha’la, ki laiyā thāki bala,
-        ebe cita sadāi cañcala (4)
+bhogyabastu-bhogaśakti,    tā’te chilô anurakti,
+ĵe-parĵyanta chilô dehe bala |
+samasta bigata ha’lô,    ki lô_iyā thāki bala,
+ebe citta sadāi cañcala ||4||
 
-sāmarthya thākite kāya, hari nā bhajinu hāya,
-        āsanna kālete kibā kari
-dhik mora e-jīvane, nā sādhinu nitya-dhane,
-        mitra chāḍi’ bhajilāma ari (5)
-`,
-  "translation": ""
+sāmarthya thākite kāya,    hari nā bhajinu hāya,
+āsanna kālete kibā kôri |
+dhik_ mora e-jībane,    nā sādhinu nityadhane,
+mitra chāḓi’ bhajilāma ari ||5||`
 })

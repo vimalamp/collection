@@ -1,37 +1,36 @@
 push({
-  "title": "ohe hari-nāma, tava mahimā apāra",
-  "author": "bhaktivinoda",
+  "title": "ohe harināma, taba mahimā apāra",
+  "id": 380,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
   "verses": `
-<i>suditāśrita-janārti-rāśaye ramya-
-    cid-aghana-sukha-svarūpiṇe
-nāma gokula-mahotsavāya te
-    kṛṣṇa pūrṇa-vapuṣe namo namaḥ</i>
+<i>sūditāśrita-janārttirāśaye 
+ramyacid_#ghana-sukha-svarūpiṇe |
+nāma gokula-mahot.savāya te 
+kṛṣṇa pūrṇavapuṣe namo namaḥ ||cha||</i>
 
-ohe hari-nāma, tava mahimā apāra
-tava pade nati āmi kari bāra bāra (1)
+ohe harināma, taba mahimā apāra | 
+taba pade nati āmi kôri bārabāra ||1||
 
-gokulera mahotsava ānanda-sāgara
-tomāra caraṇe paḍi haiyā kātara (2)
+gokulera mahot.saba ānandasāgara ! 
+tomāra caraṇe paḓi hô_iyā kātara ||2||
 
-tumi kṛṣṇa pūrṇavapu rasera nidāna
-tava pade paḍi’ tava guṇa kari gāna (3)
+tumi kṛṣṇa pūrṇabapu rasera nidāna | 
+taba pade pôḓi’ taba guṇa kôri gāna ||3||
 
-je kare tomāra pade ekānta āśraya
-tā’ra ārtirāśi nāśa karaha niścaya (4)
+ĵe kare tomāra pade ekānta āśraya | 
+tā’ra ārttirāśi nāśa karahô niścaya ||4||
 
-sarva aparādha tumi nāśa kara tā’ra
-nāma-aparādhāvadhi nāśaha tāhāra (5)
+sarbba aparādha tumi nāśa karô tā’ra | 
+nāma-aparādhābadhi nāśahô tāhāra ||5||
 
-sarva-doṣa dhauta kari’ tāhāra hṛdaya-
-siṁhāsane vaisa tumi parama āśraya (6)
+sarbbadoṣa dhauta kôri’ tāhāra hṛdaya-| 
+siṁhāsane baisa tumi parama āśraya ||6||
 
-atiramya cidghana-ānanda-mūrtimān
-‘raso vai saḥ’ bali’ veda kare tuyā gāna (7)
+atiramya cid_#ghana-ānanda-mūrttimān_ | 
+ ‘raso vai saḥ’ bôli’ veda kare tuŵā gāna ||7||
 
-<b>bhaktivinoda</b> rūpa-gosvāmi-caraṇe
-māgaye sarvadā nāma-sphūrti sarvakṣaṇe (8)
-`,
-  "translation": ""
+bhakativinoda rūpa-gosvāmi-caraṇe | 
+māgaye sarbbadā nāma-sphūrtti sarbbakṣaṇe ||8||`
 })

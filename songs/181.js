@@ -1,29 +1,28 @@
 push({
-  "title": "(yadi) gaurāṅga nahita, tabe ki haita",
-  "author": "narahari",
+  "title": "(ĵadi) gaurāṅga nahitô",
+  "id": 181,
+  "author": "naraharidāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-guṇa-varṇana",
   "language": "bengali",
   "verses": `
-(yadi) gaurāṅga nahita, tabe ki haita,
-        kemane dharita de?
-rādhāra mahimā, prema-rasa-sīmā,
-        jagate jānā’ta ke? (1)
+(ĵadi) gaurāṅga nahitô,    tabe ki hô_ita,
+kemône dhôritô de? 
+rādhāra mahimā,    premarasa-sīmā,
+jagate jānātô ke ??1??
 
-madhura vṛndā-, vipina-mādhurī-,
-        praveśa-cāturī-sāra
-varaja-yuvatī-, bhāvera bhakti,
-        śakati haita kā’ra? (2)
+madhura vṛndā-,    bipina-mādhurī-,
+prabeśa cāturī-sāra |
+varaja-ĵubatī-,    bhābera bhakati,
+śakati hô_itô kā’ra ??2??
 
-gāo punaḥ punaḥ, gaurāṅgera guṇa,
-        sarala haiyā mana
-e bhava-sāgare, emana dayāla,
-        nā dekhi je ekajana (3)
+gāo punaḥ punaḥ,    gaurāṅgera guṇa,
+sarala hô_iyā mana |
+e bhaba-sāgare,    emôna dayāla,
+nā dekhi ĵe ekajana ||3||
 
-gaurāṅga baliyā, nā genu galiyā,
-        kemane dharinu de
-<b>narahari</b>-hiyā, pāṣāṇa diyā,
-        kemane gaḍiyāche (4)
-`,
-  "translation": ""
+gaurāṅga bôliyā,    nā genu galiyā,
+kemône dhôrinu de |
+narahari-hiyā,    pāṣāṇa diyā,
+kemône gaḓiyāche ||4||`
 })

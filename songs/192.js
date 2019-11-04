@@ -1,11 +1,11 @@
 push({
   "title": "āju śacī-nandana nava abhiṣeka",
+  "id": 192,
   "author": "govinda-dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `
-(bhairavī-rāga)
+  "verses": `(bhairavī-rāga)
 āju śacī-nandana nava abhiṣeka
 ānanda-kanda nayana bhari dekha (1)
 
@@ -19,7 +19,5 @@ puna puna nirakhite gora-mukha-indu
 uchalala prema-sudha-rasa-sindhu (4)
 
 jaga bhari pūrala prema-taraṅge
-vañcita <b>govinda-dāsa</b> parasaṅge (5)
-`,
-  "translation": ""
+vañcita <b>govinda-dāsa</b> parasaṅge (5)`
 })

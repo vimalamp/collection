@@ -1,20 +1,26 @@
 push({
-  "title": "dharma-pathe thāki’ kara jīvana jāpana bhāi",
-  "author": "cāda-bāula",
+  "title": "dharmmapathe thāki’ karô",
+  "id": 588,
+  "author": "cā̃da-bāula (śrīla bhaktivinoda ṭhākura)",
   "category": "bāula-saṅgīta",
   "language": "bengali",
   "verses": `
-dharma-pathe thāki’ kara jīvana jāpana bhāi
-hari-nāma kara sadā (ore o bhāi) hari-nāma vinā bandhu nāi (1)
+dharmmapathe thāki’ karô jībana ĵāpana, bhāi |
+harināma karô sadā (ore o bhāi) 
+hari binā bandhu nāi ||1||
 
-je-kona vyavasā dhari’, jīvana nirvāha kari’,
-mukhe bala ‘hari hari’, ei-mātra bhikṣā cāi (2)
+ĵe-kona byabasā dhôri’,
+jībana nirbbāhô kôri’,
+bôlô mukhe ‘hari hari’,
+eimātra bhikṣā cāi ||2||
 
-gaurāṅga-caraṇe maja’, anya abhilāṣa tyaja,
-vrajendra-nandane bhaja, tabe baḍa sukha pāi (3)
+gaurāṅgacaraṇe majô’,
+anya-abhilāṣa tyajô,
+vrajendranandane bhajô,
+tabe baḓô sukha pāi ||3||
 
-āmi <b>cāda-bāula</b> dāsa, kari tava kṛpā-āśa,
-jānāiyā abhilāṣa, nityānanda-ājñā gāi (4)
-`,
-  "translation": ""
+āmi cā̃da-bāula dāsa,
+kôri taba kṛpā-āśa,
+jānāiyā abhilāṣa,
+nityānanda-ājñā gāi ||4||`
 })

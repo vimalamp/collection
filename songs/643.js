@@ -1,10 +1,10 @@
 push({
   "title": "nāyikāra śiromaṇi vraje rādhā ṭhākurāṇī",
+  "id": 643,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-nāyikāra śiromaṇi vraje rādhā ṭhākurāṇī
+  "verses": `nāyikāra śiromaṇi vraje rādhā ṭhākurāṇī
         pañca-vidha sakhī-gaṇa tā’ra
 sakhī nitya-sakhī āra prāṇa-sakhī ataḥ para
         priyā-sakhī ei haila cāra (1)
@@ -27,7 +27,5 @@ kandarpa-sundarī āra mādhavī mālatī āra
 lalitā viśākhā citrā tuṅgavidyā campalatā
         indulekhā raṅga-devī satī
 sudevīti aṣṭa-jana parama-preṣṭha sakhī-gaṇa
-        rādhā-kṛṣṇe seve eka mati (5)
-`,
-  "translation": ""
+        rādhā-kṛṣṇe seve eka mati (5)`
 })

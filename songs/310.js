@@ -1,32 +1,33 @@
 push({
   "title": "hari hari! ki mora karama abhāga",
-  "author": "narottama-dāse",
+  "id": 310,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-kṛṣṇa dainyabodhikā prārthanā",
   "language": "bengali",
   "verses": `
-hari hari! ki mora karama abhāga
-viphale jīvana gela, hṛdaye rahila śela,
-        nāhi bhela hari-anurāga (1)
+hari hari! ki mora karama abhāga |
+biphale jībana gelô,    hṛdaye rahilô śela,
+nāhi bhelô hari-anurāga ||1||
 
-yajña, dāna, tīrtha-snāna, puṇya-karma, japa, dhyāna,
-        akāraṇe saba gela mohe
-bujhilāma mane hena, upahāsa haya jena,
-        vastrahīna alaṅkāra dehe (2)
+ĵajña, dāna, tīrtha-snāna,    puṇyakarmma, japa, dhyāna,
+akāraṇe saba gelô mohe |
+bujhilāma mane henô,    upahāsa haya ĵenô,
+bastrahīna alaṅkāra dehe ||2||
 
-sādhu-mukhe kathāmṛta, śuniyā vimala cita,
-        nāhi bhela aparādha-kāraṇa
-satata asat-saṅga, sakali haila bhaṅga,
-        ki kariba āile śamana (3)
+sādhumukhe kathāmṛta,    śuniyā bimala cita,
+nāhi bhelô aparādha-kāraṇa |
+satata asat.saṅga,    sakali hô_ilô bhaṅga,
+ki kôribô āile śamana ||3||
 
-śruti-smṛti sadā rave, śuniyāchi ei sabe,
-        hari-pada abhaya śaraṇa
-janama laiyā sukhe, kṛṣṇa nā balinu mukhe,
-        nā karinu se-rūpa bhāvana (4)
+śruti-smṛti sadā rabe,    śuniyāchi ei sabe,
+haripada abhaya śaraṇa |
+janama lô_iyā sukhe,    kṛṣṇa nā bôlinu mukhe,
+nā kôrinu se-rūpa bhābana ||4||
 
-rādhā-kṛṣṇa duhu pāya, tanu-mana rahu tāya,
-        āra dūre jāuka vāsanā
-<b>narottama-dāse</b> kaya, āra mora nāhi bhaya,
-        tanu-mana sapinu āpanā (5)
-`,
-  "translation": ""
+rādhākṛṣṇa dũhu pāya,    tanu mana rahu tāya,
+āra dūre ĵāuka bāsanā |
+narottama dāse kaya,    āra mora nāhi bhaya,
+tanu-mana sãpinu āpanā ||5||
+
+śabdārtha:- bhelô—hô_ilô; śamana—ĵama; rabe—ghoṣaṇā kare |`
 })

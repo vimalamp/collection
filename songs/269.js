@@ -1,10 +1,10 @@
 push({
   "title": "heno kāle kabe, vilāsa mañjarī",
+  "id": 269,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-heno kāle kabe, vilāsa mañjarī,
+  "verses": `heno kāle kabe, vilāsa mañjarī,
         anaṅga mañjarī āra
 āmāre heriyā, ati kṛpā kari’,
         balibe vacana sāra (1)
@@ -22,7 +22,5 @@ se madhura vāṇī, śuniyā e jana,
 lalitā sundarī, sadaya haiyā,
         karibe āmāre dāsī
 sva-kuñja-kuṭīre, dibena vasati,
-        jāni’ sevā-abhilāṣī (4)
-`,
-  "translation": ""
+        jāni’ sevā-abhilāṣī (4)`
 })

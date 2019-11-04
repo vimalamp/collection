@@ -1,24 +1,23 @@
 push({
-  "title": "nāstikatā apadharma juḍila saṁsāra",
-  "author": "locana",
+  "title": "nāstikatā apadharmma",
+  "id": 135,
+  "author": "śrīla locanadāsa ṭhākura",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-advaitācārya",
   "language": "bengali",
   "verses": `
-nāstikatā apadharma juḍila saṁsāra
-kṛṣṇa-pūjā kṛṣṇa-bhakti nāhi kothā āra (1)
+nāstikatā apadharmma juḓilô saṁsāra | 
+kṛṣṇapūjā kṛṣṇabhakti nāhi kothā āra ||1||
 
-dekhiyā advaita-prabhu viṣādita hailā
-kemane taribe jīva bhāvite lāgilā (2)
+dekhiyā advaita-prabhu biṣādita hailā | 
+kemône taribe jība bhābite lāgilā ||2||
 
-netra buji’ tulasī pradāni’ viṣṇu-pade
-huṅkāri’ dilena lampha ācārya āhalāde (3)
+netra buji’ tulasī pradāni’ viṣṇupade | 
+huṅkāri’ dilena lampha ācārĵya āhlāde ||3||
 
-jitilu jitilu, mukhe bale bāra bāra
-jīva-nistārite haibe gaura-avatāra (4)
+jitilũ jitilũ, mukhe bale bāra bāra | 
+jība-nistārite habe gaura-avatāra ||4||
 
-e kathā śuniyā nāce sādhu hari-dāsa
-<b>locana</b> bale khasila jīvera moha-pāśa (5)
-`,
-  "translation": ""
+e kathā śuniyā nāce sādhu haridāsa | 
+locana bôle khasilô jībera moha-pāśa ||5||`
 })

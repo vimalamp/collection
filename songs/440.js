@@ -1,10 +1,10 @@
 push({
   "title": "e mana! āra ki mānuṣa ha’be",
+  "id": 440,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-e mana! āra ki mānuṣa ha’be
+  "verses": `e mana! āra ki mānuṣa ha’be
 bhārata-bhūmete, janama labhiye,
         ki kāja karili kabe (1)
 
@@ -31,7 +31,5 @@ tavu tora ‘mora’, nā ghuce vacana,
 kubuddhi chāḍiye, ‘hari hari’ bala,
         nikaṭe śamana bhāi
 kahe <b>premānanda</b>, je-nāma laile,
-        śamana-gamana nāi (6)
-`,
-  "translation": ""
+        śamana-gamana nāi (6)`
 })

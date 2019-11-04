@@ -1,10 +1,10 @@
 push({
   "title": "śrī-hari-vāsare hari-kīrtana-vidhāna",
+  "id": 612,
   "category": "śrīman-mahāprabhura hari-vāsara-vratapālana",
   "author": "vṛndāvana-dāsa",
   "language": "bengali",
-  "verses": `
-śrī-hari-vāsare hari-kīrtana-vidhāna
+  "verses": `śrī-hari-vāsare hari-kīrtana-vidhāna
 nṛtya ārambhilā prabhu jagatera prāṇa (1)
 
 puṇyavanta śrīvāsa-aṅgane śubhārambha
@@ -89,7 +89,5 @@ e-sakala puṇyakathā je kare śravaṇa
 bhakta-saṅge gaura-candre rahu tā’ra mana (28)
 
 śrī-kṛṣṇa-caitanya-nityānanda-cāda jāna
-<b>vṛndāvana-dāsa</b> tachu padayuge gāna (29)
-`,
-  "translation": ""
+<b>vṛndāvana-dāsa</b> tachu padayuge gāna (29)`
 })

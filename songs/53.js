@@ -1,10 +1,10 @@
 push({
   "title": "indranīla-maṇi-mañjula-varṇaḥ",
+  "id": 53,
   "category": "śrī-kuñja-bihārī-aṣṭakam",
   "author": "śrīla-rūpa-gosvami",
   "language": "sanskrit",
-  "verses": `
-indranīla-maṇi-mañjula-varṇaḥ
+  "verses": `indranīla-maṇi-mañjula-varṇaḥ
     phulla-nīpa-kusumāñcita-karṇaḥ
 kṛṣṇalābhir akṛśorasi hārī
     sundaro jayati kuñja-vihārī (1)
@@ -47,7 +47,5 @@ prema-matta-vṛṣabhānu-kumārī-
 aṣṭakaṁ madhura-kuñja-vihārī-
     krīḍayā paṭhati yaḥ kila hāri
 sa prayāti vilasat-para-bhāgaṁ
-    tasya pāda-kamalārcana-rāgam (9)
-`,
-  "translation": ""
+    tasya pāda-kamalārcana-rāgam (9)`
 })

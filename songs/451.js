@@ -1,10 +1,10 @@
 push({
   "title": "ore mana! kibā tumi vicāri nā cāo",
+  "id": 451,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-ore mana! kibā tumi vicāri nā cāo
+  "verses": `ore mana! kibā tumi vicāri nā cāo
 ‘kṛṣṇa’ bhuli ei pāpa, teha tora tina tāpa,
         nānā joni bramiyā beḍāo (1)
 
@@ -31,7 +31,5 @@ dekha saba-nāśā phādā, kevala anartha-dhādhā,
 <b>premānanda</b> kahe mana, ‘kṛṣṇa’ kaha anukṣaṇa,
         āpanāra tattve hao daḍha
 saṁsāra-vāsanā-garta, kīṭa-krimimaya kata,
-        dekhiyā śuniyā kena paḍa (6)
-`,
-  "translation": ""
+        dekhiyā śuniyā kena paḍa (6)`
 })

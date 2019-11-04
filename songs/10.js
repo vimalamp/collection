@@ -1,10 +1,10 @@
 push({
   "title": "sujanārbuda-rādhita-pāda-yugaṁ",
+  "id": 10,
   "category": "śrī-śrī-prabhupāda-padma-stavakaḥ",
   "author": "śrīla-bhakti-rakṣaka-śrīdhara-gosvāmī-mahārāja-viracitam",
   "language": "sanskrit",
-  "verses": `
-sujanārbuda-rādhita-pāda-yugaṁ
+  "verses": `sujanārbuda-rādhita-pāda-yugaṁ
     yuga-dharma-dhurandhara-pātra-varam
 varadābhaya-dāyaka pūja-padaṁ
     praṇamāmi sadā prabhupāda-padam (1)
@@ -57,7 +57,5 @@ yati-rāja-gaṇaiḥ parisevya-padaṁ
 vṛṣabhānu-sutā-dayitānucaraṁ
     caraṇāśrita-reṇu-dharas-tam-aham
 mahad-adbhuta-pāvana-śakti-padaṁ
-    praṇamāmi sadā prabhupāda-padam (11)
-`,
-  "translation": ""
+    praṇamāmi sadā prabhupāda-padam (11)`
 })

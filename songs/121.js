@@ -1,23 +1,22 @@
 push({
-  "title": "ki-rūpe pāiba sevā mui durācāra",
-  "author": "Unknown",
+  "title": "kirūpe pāibô sebā",
+  "id": 121,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-vaiṣṇave vijñapti",
   "language": "bengali",
   "verses": `
-ki-rūpe pāiba sevā mui durācāra
-śrī-guru-vaiṣṇave rati nā haila āmāra (1)
+kirūpe pāibô sebā mui durācāra |
+śrīguru-vaiṣṇave rati nā hailô āmāra ||1||
 
-aśeṣa māyāte mana magana haila
-vaiṣṇavete leśa-mātra rati nā janmila (2)
+aśeṣa māyāte mana magana hô_ilô |
+vaiṣṇavete leśamātra rati nā janmilô ||2||
 
-viṣaye bhuliyā andha hainu divāniśi
-gale phāsa dite phire māyā se piśācī (3)
+biṣaye bhuliyā andha hainu dibāniśi |
+gale phā̃sa dite phire māyā se piśācī ||3||
 
-ihāre kariyā jaya, chāḍāna nā jāya
-sādhu-kṛpā vinā āra nāhika upāya (4)
+ihāre kôriyā jaya, chāḓāna nā ĵāya |
+sādhukṛpā binā āra nāhikô upāya ||4||
 
-adoṣa-daraśi prabho, patita uddhāra’
-ei-bāra narottame karaha nistāra (5)
-`,
-  "translation": ""
+adoṣadaraśi prabho, patita uddhāra’ |
+eibāra narottame karahô nistāra ||5||`
 })

@@ -1,11 +1,11 @@
 push({
   "title": "‘namo namaḥ tulasī kṛṣṇa-preyasī’ (namo namaḥ)",
+  "id": 610,
   "author": "śrī-keśava",
   "category": "sandhyārati",
   "subcategory": "śrī-tulasī-ārati",
   "language": "bengali",
-  "verses": `
-‘namo namaḥ tulasī kṛṣṇa-preyasī’ (namo namaḥ)
+  "verses": `‘namo namaḥ tulasī kṛṣṇa-preyasī’ (namo namaḥ)
 rādhā-kṛṣṇa nitya-sevā–‘ei abhilāṣī’ (1)
 
 ‘je tomāra śaraṇa laya’, sei kṛṣṇa-sevā pāya,
@@ -35,7 +35,5 @@ sarva-tīrtha la’ye tā’rā hana adhivāsī
 
 <b>śrī-keśava</b> ati dīna, sādhana-bhajana-hīna,
 tomāra āśraye sadā nāmānande bhāsi
-        tulasī kṛṣṇa-preyasī (namo namaḥ) (8)
-`,
-  "translation": ""
+        tulasī kṛṣṇa-preyasī (namo namaḥ) (8)`
 })

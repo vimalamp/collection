@@ -1,10 +1,10 @@
 push({
   "title": "he govinda he gopāla",
+  "id": 326,
   "author": "śrīla jayadeva gosvami",
   "category": "śrī-kṛṣṇe ātma-nivedana",
   "language": "bengali",
-  "verses": `
-he govinda he gopāla
+  "verses": `he govinda he gopāla
 keśava mādhava dīna-doyāla (1)
 
 tumi parama doyāla prabhu, parama doyāla
@@ -17,7 +17,5 @@ tumi madera gopāla prabhu, madera gopāla
 keśava mādhava dīna-doyāla (4)
 
 bhava-bhaya-bhañjana śrī madhusūdana
-vipada-bhañjana tumi nārāyaṇa (5)
-`,
-  "translation": ""
+vipada-bhañjana tumi nārāyaṇa (5)`
 })

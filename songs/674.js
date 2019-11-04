@@ -1,10 +1,10 @@
 push({
   "title": "jaya rādhe jaya kṛṣṇa jaya vṛndāvana",
+  "id": 674,
   "author": "Unknown",
   "category": "hindī-kīrtana",
   "language": "hindi",
-  "verses": `
-jaya rādhe jaya kṛṣṇa jaya vṛndāvana,
+  "verses": `jaya rādhe jaya kṛṣṇa jaya vṛndāvana,
 rasika mukuṭa-maṇi jaya gopī gaṇa (1)
 
 rādhe rādhe raṭe śyāma, rādhe raṭe śyāma śyāma,
@@ -20,7 +20,5 @@ mero eka prāṇa dhana eka hī hai jīvana,
 nanda-nandana madana-mohan rādhikā ramaṇa (5)
 
 śyāma hī so mero pyāra śyāma hī mero bhartāra,
-śyāma hī samāyo āṭhõ yāma tana kī (6)
-`,
-  "translation": ""
+śyāma hī samāyo āṭhõ yāma tana kī (6)`
 })

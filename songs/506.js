@@ -1,29 +1,28 @@
 push({
-  "title": "hari he! jagatera vastu jata, baddha saba sva-bhāvataḥ",
-  "author": "bhaktivinoda",
+  "title": "hari he! jagatera bastu ĵatô",
+  "id": 506,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
-<i>ullaṅghita-trividha-sīma-samātiśāyi-
-    sambhāvanaṁ tava parivraḍhima-svabhāvam
-māyā-balena bhavatā’pi niguhyamānaṁ
-    paśyatin kecid-aniśaṁ tvad-ananya-bhāvāḥ</i>
+<i>ullaṅghita-trividhasīma-samātiśāyi-
+sambhāvanaṁ tava parivraḓhima-svabhāvam_ |
+māyābalena bhavatā^pi niguhyamānaṁ 
+paśyanti kecidaniśaṁ tvadananyabhāvāḥ ||4||</i>
 
-hari he!
-jagatera vastu jata, baddha saba sva-bhāvataḥ,
-        deśa-kāla-vastu-sīmāśraye
-tumi prabhu sarveśvara, naha sīmā-vidhipara,
-        vidhi saba kāpe tava bhaye (1)
+hari he! 
+jagatera bastu ĵatô,    baddha saba svabhābataḥ,
+deśa-kāla-bastu-sīmāśraye |
+tumi prabhu sarbbeśvara,    nahô sīmā-bidhipara,
+bidhi saba kā̃pe taba bhaye ||1||
 
-sama vā adhika tava, svabhāvataḥ asambhava,
-        vidhi laṅghi’ tava avasthāna
-svatantra-svabhāva dhara, āpane gopana kara,
-        māyā-bale kari’ adhiṣṭhāna (2)
+sama bā adhika taba,    svabhābataḥ asambhaba,
+bidhi laṅghi’ taba abasthāna |
+svatantra-svabhāba dharô,    āpane gopana karô,
+māyābale kôri’ adhiṣṭhāna ||2||
 
-tathāpi ananya-bhakta, tomāre dekhite śakta,
-        sadā dekhe svarūpa tomāra
-e <b>bhaktivinoda</b> dīna, ananya-bhajana-hīna,
-        bhakta-pada-reṇu mātra sāra (3)
-`,
-  "translation": ""
+tathāpi ananya-bhakta,    tomāre dekhite śakta,
+sadā dekhe svarūpa tomāra |
+e bhaktivinoda dīna,    ananyabhajana-hīna,
+bhakta-pada-reṇu mātra sāra ||3||`
 })

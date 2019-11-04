@@ -1,24 +1,25 @@
 push({
-  "title": "bhāire! śacīra aṅgane kabhu, mādhavendra-purī prabhu",
-  "author": "Unknown",
+  "title": "bhāire! śacīra aṅgane kabhu",
+  "id": 616,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-mahā-prasāda-māhātmya-kīrtana",
   "language": "bengali",
   "verses": `
-bhāire!
-śacīra aṅgane kabhu, mādhavendra-purī prabhu,
-        prasādānna karena bhojana
-khāite khāite tā’ra, āila prema sudurvāra,
-        bale,–“śuna sannyāsīra gaṇa (1)
+bhāire! 
+śacīra aṅgane kabhu,    mādhavendrapurī prabhu,
+prasādānna karena bhojana |
+khāite khāite tā̃’ra,    āilô prema sudurbbāra, 
+bôle—“śunô, sannyāsīra gaṇa ||1||
 
-mocā-ghaṇṭa phulavaḍi, ḍāli-ḍālnā-caccaḍi,
-        śacīmātā karila randhana
-tā’ra śuddhā bhakti heri’, bhojana karila hari,
-        sudhā-sama e anna-vyañjana (2)
+mocā-ghaṇṭa phulabaḓi,    ḍāli-ḍāl_#nā-caccaḓi,
+śacīmātā kôrilô randhana |
+tā̃’ra śuddhā bhakti heri’,    bhojana kôrilô hari,
+sudhā-sama e anna-byañjana ||2||
 
-yoge yogī pāya jāhā, bhoge āja ha’be tāhā,
-        hari bali’ khāo sabe bhāi
-kṛṣṇera prasāda anna, trijagata kare dhanya,
-        tripurāri nāce jāhā pāi” (3)
-`,
-  "translation": ""
+ĵoge ĵogī pāya ĵāhā,    bhoge āja ha’be tāhā,
+hari bôli’ khāo sabe bhāi |
+kṛṣṇera prasāda anna,    trijagat. kare dhanya,
+tripurāri nāce ĵāhā pāi ||3||”
+
+`
 })

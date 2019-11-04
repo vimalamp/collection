@@ -1,10 +1,10 @@
 push({
   "title": "jaya jaya śrī-kṛṣṇa-caitanya sabarvāśraya",
+  "id": 228,
   "author": "rādhā-mohanera",
   "category": "sagaṇa śrī-gaura-caraṇe prārthanā",
   "language": "bengali",
-  "verses": `
-jaya jaya śrī-kṛṣṇa-caitanya sabarvāśraya
+  "verses": `jaya jaya śrī-kṛṣṇa-caitanya sabarvāśraya
 jaya śrī-svarūpa-dāmodara prema-maya (1)
 
 jaya śrīla sanātana kṛpālu-hṛdaya
@@ -20,7 +20,5 @@ pratijñā āchaye ei ghora kalikāle
 uddhāra karibe mahā-pātakī sakale (5)
 
 vicāra karaha yadi mora aparādha
-e <b>rādhā-mohanera</b> tabe baḍa paramāda (6)
-`,
-  "translation": ""
+e <b>rādhā-mohanera</b> tabe baḍa paramāda (6)`
 })

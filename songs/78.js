@@ -1,10 +1,10 @@
 push({
   "title": "rādhā-mukunda-pada-sambhava-gharma-bindu",
+  "id": 78,
   "category": "śrī-lalitāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-rādhā-mukunda-pada-sambhava-gharma-bindu-
+  "verses": `rādhā-mukunda-pada-sambhava-gharma-bindu-
     nirmañchano-pakaraṇī-kṛta-deha-lakṣām
 uttuṅga-sauhṛda-viśeṣa-vaśāt pragalbhāṁ
     devīṁ guṇaiḥ sulalitāṁ lalitāṁ namāmi (1)
@@ -47,7 +47,5 @@ tāṁ gokula-priya-sakhī-nikuramba-mukhyāṁ
 nandan amūni lalitā-guṇa-lālitāni
     padyāni yaḥ paṭhati nirmala-dṛṣṭir aṣṭau
 prītyā vikarṣati janaṁ nija-vṛnda-madhye
-    taṁ kīrtidā-pati-kulojvala-kalpa-vallī (9)
-`,
-  "translation": ""
+    taṁ kīrtidā-pati-kulojvala-kalpa-vallī (9)`
 })

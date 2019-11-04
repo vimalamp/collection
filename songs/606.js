@@ -1,11 +1,11 @@
 push({
   "title": "jaya jaya rādhā-kṛṣṇa-yugala-milana",
+  "id": 606,
   "category": "sandhyārati",
   "subcategory": "śrī-yugala-ārati",
   "author": "bhaktivinoda",
   "language": "bengali",
-  "verses": `
-jaya jaya rādhā-kṛṣṇa-yugala-milana
+  "verses": `jaya jaya rādhā-kṛṣṇa-yugala-milana
 ārati karaye lalitādi sakhī-gaṇa (1)
 
 madana-mohana-rūpa tri-bhaṅga-sundara
@@ -21,7 +21,5 @@ viśākhādi sakhī-gaṇa nānā rāge gāya
 priya-narma-sakhī jata cāmara ḍhulāya (5)
 
 śrī-rādhā-mādhava-pada-sarasija-āśe
-<b>bhaktivinoda</b> sakhī-pade sukhe bhāse (6)
-`,
-  "translation": ""
+<b>bhaktivinoda</b> sakhī-pade sukhe bhāse (6)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "bramite bramite yadi sādhu-saṅga haya",
+  "id": 541,
   "category": "abhidheya-vijñāna-upalabdhi",
   "author": "bhaktivinoda",
   "language": "bengali",
-  "verses": `
-bramite bramite yadi sādhu-saṅga haya
+  "verses": `bramite bramite yadi sādhu-saṅga haya
 punarāya gupta nitya-dharmera udaya (1)
 
 sādhu-saṅge kṛṣṇa-kathā haya ālocana
@@ -92,7 +92,5 @@ kṛṣṇa-bhakta kṛṣṇa-sevā-ānande mātiyā
 sadā kṛṣṇa-prema-rase phirena gāhiyā (29)
 
 navadvīpe śrī-caitanya-prabhu avatāra
-<b>bhaktivinoda</b> gāya kṛpāya tāhāra (30)
-`,
-  "translation": ""
+<b>bhaktivinoda</b> gāya kṛpāya tāhāra (30)`
 })

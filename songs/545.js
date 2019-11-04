@@ -1,10 +1,10 @@
 push({
   "title": "bhavārṇave paḍe’ mora ākula parāṇa",
+  "id": 545,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ucchvāsa-dainyamayī-prārthanā",
   "language": "bengali",
-  "verses": `
-bhavārṇave paḍe’ mora ākula parāṇa
+  "verses": `bhavārṇave paḍe’ mora ākula parāṇa
 kise kula pā’ba, tā’ra nā pāi sandhāna (1)
 
 nā āche karama-bala, nāhi jñāna-bala
@@ -29,7 +29,5 @@ tumi nityānanda-śakti kṛṣṇa-bhakti-guru
 e dāse karaha dāna pada-kalpataru (8)
 
 kata śata pāmarere ka’recha uddhāra
-tomāra caraṇe āja e kāṅgāla chāra (9)
-`,
-  "translation": ""
+tomāra caraṇe āja e kāṅgāla chāra (9)`
 })

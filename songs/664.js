@@ -1,38 +1,37 @@
 push({
-  "title": "sundara-lālā śacī-dulālā",
-  "author": "Unknown",
+  "title": "sundaralālā śacīdulālā",
+  "id": 664,
+  "author": "lekhaka ajānā",
   "category": "hindī-kīrtana",
   "language": "hindi",
   "verses": `
-sundara-lālā śacī-dulālā,
-        nācata śrī-hari kīrtana me
+sundaralālā śacīdulālā,
+nācata śrīhari kīrttana me |
 bhāle candana tilaka manohara,
-        alakā śobhe kapolana me (1)
+alakā śobhe kapolana me ||1||
 
-sundara-lālā śacī-dulālā,
-        nācata śrī-hari kīrtana me
-śire cūḍā daraśa nirāle,
-        vana-phula-mālā hiyāpara dole (2)
+sundaralālā śacīdulālā,
+nācata śrīhari kīrttana me |
+śire cūḓā daraśa nirāle,
+vanaphulamālā hi.yāpara dole ||2||
 
-pahiraṇa pīta-paṭāmbara śobhe,
-        nūpura ruṇu jhunu caraṇo me
-sundara-lālā śacī-dulālā,
-        nācata śrī-hari kīrtana me (3)
+pahirana pīta-paṭāmbara śobhe,
+nūpura ruṇu jhunu caraṇo me |
+sundaralālā śacīdulālā,
+nācata śrīhari kīrttana me ||3||
 
-rādhā-kṛṣṇa eka tanu hai,
-        nidhuvana mājhe vaṁśī bājāya
+rādhākṛṣṇa eka tanu hyā.y_,
+nidhuvana mājhe vaṁśī bajā.ya |
 viśvarūpa prabhujī saha,
-        āota prakaṭa hi nadīyā me (4)
+āota prakaṭahi nadī.yā me ||4||
 
-sundara-lālā śacī-dulālā,
-        nācata śrī-hari kīrtana me
-koi gāota hai, rādhā-kṛṣṇa
-        nāma, koi gāota hai hari-guṇa-gāna (5)
+sundaralālā śacīdulālā,
+nācata śrīhari kīrttana me |
+koi gāota hyā.y_ rādhākṛṣṇanāma,
+koi gāota hyā.y_ hariguṇagāna ||5||
 
-mṛdaṅga-tāla madhura rasāla,
-        koi gāota hai raṅgame
-sundara-lālā śacī-dulālā,
-        nācata śrī-hari kīrtana me (6)
-`,
-  "translation": ""
+mṛdaṅgatāla madhura rasāla,
+koi gāota hyā.y_ raṅgame |
+sundaralālā śacīdulālā,
+nācata śrīhari kīrttana me ||6||`
 })

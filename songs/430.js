@@ -1,22 +1,23 @@
 push({
-  "title": "mana, tumi baḍai cañcala",
+  "title": "mana, tumi baḓô_i cañcala",
+  "id": 430,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
-mana, tumi baḍai cañcala
-ekānta sarala bhakta-jane naha anurakta,
-        dhūrta-jane āsakti prabala (1)
+mana, tumi baḓô_i cañcala |
+ekānta sarala bhakta-,    jane nahô anurakta,
+dhūrttajane āsakti prabala ||1||
 
-bujrugī jāne jei, tava sādhu-jana sei,
-        tā’ra saṅga tomāre nācāya
-krūra-veśa dekha jā’ra, śraddhāspada se tomāra,
-        bhakti kari’ paḍa tā’ra pāya (2)
+buj_#rugī jāne ĵei,    taba sādhujana sei,
+tā’ra saṅga tomāre nācāya |
+krūra-beśa dekhô ĵā’ra,    śraddhāspada se tomāra,
+bhakti kôri, paḓô tā’ra pāya ||2||
 
-bhakta-saṅga haya jā’ra, bhakti-phala phale tā’ra,
-        akaitave śānta-bhāva dhara
-cañcalatā chāḍi’ mana, bhaja śrī-kṛṣṇa-caraṇa,
-        dhūrta-saṅga dūre parihara (3)
-`,
-  "translation": ""
+bhakta-saṅga haya ĵā̃’ra,    bhaktiphala phale tā̃’ra,
+akaitabe śāntabhāba dharô |
+cañcalatā chāḓi’ mana,    bhajô kṛṣṇa-śrīcaraṇa,
+dhūrttasaṅga dūre pariharô ||3||
+
+śabdāthaḥ:- buj_#rugī—alaukika karĵyera nāme dhūrttatā; krūra-beśa—śirosthi, jaṭābhasmādi dhāraṇa |`
 })

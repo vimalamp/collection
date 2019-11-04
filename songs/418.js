@@ -1,29 +1,31 @@
 push({
-  "title": "mana, tumi baḍai pāmara",
+  "title": "mana, tumi baḓô_i pāmara",
+  "id": 418,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
-mana, tumi baḍai pāmara
-tomāra īśvara hari, tā’ke kena parihari’,
-        kāma-mārge bhaja’ devāntara?
-para-brahma eka tattva, tāhāte sapiyā sattva,
-        niṣṭhā-guṇe karaha ādara (1)
+mana, tumi baḓô_i pāmara |
+tomāra īśvara hari,    tā̃’ke kenô parihari’,
+kāmamārge bhajô’ debāntara??1??
 
-āra jata deva-gaṇa, miśra-sattva agaṇana,
-        nija nija kāryara īśvara
-se-sabe samāna kari’, bhaja’ eka-mātra hari,
-        jini sarva-īśvara-īśvara (2)
+parabrahma eka tattva,    tā̃hāte sãpiyā sattva,
+niṣṭhāguṇe karahô ādara |
+āra ĵatô debagaṇa,    ‘miśrasattva’ agaṇana,
+nija nija kārĵyera īśvara ||2||
 
-māyā jā’ra chāyā-śakti, tā’te aikāntikī bhakti,
-        sādhi’ kāla kāṭa’ nirantara
-mūlete siñcile jala, śākhā-pallavera bala,
-        śire vāri nahe kāryakara (3)
+se-sabe sammāna kôri’,    bhajô’ ekamātra hari,
+ĵini sarbba-īśvara-īśvara |
+māyā ĵā̃’ra chāyāśakti,    tā̃’te aikāntikī bhakti,
+sādhi’ kāla kāṭa nirantara ||3||
 
-hari-bhakti āche jā’ra, sarva-deva bandhu tā’ra,
-        bhakte sabe karena ādara
-<b>vinoda</b> kahiche mana, rādhā-kṛṣṇa-śrī-caraṇa,
-        bhaja bhaja bhaja nirantara (4)
-`,
-  "translation": ""
+mūlete siñcile jala,    śākhā-pallabera bala,
+śire bāri nahe kārĵyakara |
+haribhakti āche ĵā̃’ra,    sarbbadeba bandhu tā̃’ra,
+bhakte sabe karena ādara ||4||
+
+vinoda kahiche—mana,    rādhākṛṣṇa-śrīcaraṇa,
+bhajô bhajô bhajô nirantara ||5||
+
+śabdārthaḥ:- debāntara—anyadeba; sattva—citta |`
 })

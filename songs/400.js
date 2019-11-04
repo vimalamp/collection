@@ -1,31 +1,30 @@
 push({
-  "title": "vaikunṭha haite śreṣṭhā ‘mathurā’ nagarī",
-  "author": "śrīla sarasvatī ṭhākura",
+  "title": "vaikuṇṭha hô_ite śreṣṭhā",
+  "id": 400,
+  "author": "śrī śrīmad bhaktisiddhānta sarasvatī gosvāmī prabhupāda",
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
-<i>vaikunṭāj-janito varā madhupurī tatrāpi rāsotsavād-
-    vṛndāraṇyam-udāra-pāṇi-ramaṇāt-tatrāpi govardhanaḥ
-rādhā-kuṇḍam-ihāpi gokula-pateḥ premāmṛtā-plāvanāt
-    kuryād-asya virājato giri-taṭe sevāṁ vivekī na kaḥ</i>
+<i>vaikuṇṭhājjanito varā madhupurī tatrāpi rāsot.savād_-
+vṛndāraṇyamudārapāṇi-ramaṇāttatrāpi govarddhanaḥ |
+rādhākuṇḍamihāpi gokulapateḥ premāmṛtāplāvanāt.
+kurĵyādasya virājato giritaṭe sevāṁ vivekī na kaḥ ||jha||</i>
 
-vaikunṭha haite śreṣṭhā ‘mathurā’ nagarī
-janama labhilā jathā kṛṣṇa-candra hari (1)
+vaikuṇṭha hô_ite śreṣṭhā ‘mathurā’ nagarī |
+janama labhilā ĵathā kṛṣṇacandra hari ||1||
 
-mathurā haite śreṣṭha ‘vṛndāvana’-dhāma
-jathā sādhiyāche hari rāsotsava-kāma (2)
+mathurā hô_ite śreṣṭha ‘vṛndāvana-dhāma’ |
+ĵathā sādhiyāche hari rāsot.saba-kāma ||2||
 
-vṛndāvana haite śreṣṭha ‘govarddhana-śaila’
-giridhāri-gāndharvikā jathā krīḍā kaila (3)
+vṛndāvana hô_ite śreṣṭha ‘govarddhana-śaila’ |
+giridhāri-gāndharvvikā ĵathā krīḓā kailô ||3||
 
-govarddhana haite śreṣṭha ‘rādhā-kuṇḍa-taṭa’
-premāmṛte bhāsāila gokula-lampaṭa (4)
+govarddhana hô_ite śreṣṭha ‘rādhākuṇḍa-taṭa’ |
+premāmṛte bhāsāilô gokula-lampaṭa ||4||
 
-govarddhana-giritaṭa rādhā-kuṇḍa chāḍi’
-anyatra je kare nija kuñja–puṣpavāḍī (5)
+govarddhana-giritaṭa rādhākuṇḍa chāḓi’ |
+anyatra ĵe kare nija kuñja–puṣpabāḓī ||5||
 
-nirvodha tāhāra sama keha nāhi āra
-kuṇḍa-tīra sarveātama sthāna premādhāra (6)
-`,
-  "translation": ""
+nirbbodha tāhāra sama kehô nāhi āra |
+kuṇḍa-tīra sarbbottama sthāna premādhāra ||6||`
 })

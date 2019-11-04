@@ -1,10 +1,10 @@
 push({
   "title": "jaya prabhu-vara, śrī-keśava ṭhākura",
+  "id": 104,
   "category": "śrīla-keśava-gosvāmī-vandanā",
   "author": "Unknown",
   "language": "bengali",
-  "verses": `
-jaya prabhu-vara, śrī-keśava ṭhākura,
+  "verses": `jaya prabhu-vara, śrī-keśava ṭhākura,
         śrī-rādhāra nija-jana
 kṛṣṇa-icchāvaśe, udi’ gauḍa-deśe,
         pūrā’le sajana-mana (1)
@@ -149,7 +149,5 @@ he bhakta-vatsala! jīvana sambala!
 dāsya-yoga diyā, more uddhāriyā,
         deha’ kṛṣṇa-sevādhana (29)
 
-<sup>1</sup><sub>vedantaācārya śrīla baladeva vidyābhūṣaṇa prabhu<sub>
-`,
-  "translation": ""
+<sup>1</sup><sub>vedantaācārya śrīla baladeva vidyābhūṣaṇa prabhu<sub>`
 })

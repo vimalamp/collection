@@ -1,10 +1,10 @@
 push({
   "title": "aruṇa udaya belā, jata ṣiśu haiyā melā",
+  "id": 576,
   "author": "govinda-dāsa",
   "category": "goṣṭhalīḷā",
   "language": "bengali",
-  "verses": `
-aruṇa udaya belā, jata ṣiśu haiyā melā
+  "verses": `aruṇa udaya belā, jata ṣiśu haiyā melā
         sabe gela nandara duyāra
 śingā venu vāśīrava, karaye rākhāla saba
         goṭhe āisa nandera kumāra (1)
@@ -21,7 +21,5 @@ kibā suṇa-jñāna jāna, sadāi antare ṭāna
 suniyā śisura vāṇī, hāse deva cuḍāmaṇi
         mudita nayāna parakāśe
 <b>govinda-dāsa</b> pahu, hāsiyā hāsiyā rahu
-        calilena vihārera rase (4)
-`,
-  "translation": ""
+        calilena vihārera rase (4)`
 })

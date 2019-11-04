@@ -1,10 +1,10 @@
 push({
   "title": "śrīman-mahāprabhura śatanāma",
+  "id": 351,
   "author": "bhaktivinoda",
   "category": "śrīman-mahāprabhura śatanāma",
   "language": "bengali",
-  "verses": `
-nadīyā nagare nitāi nece nece gāya re (1)
+  "verses": `nadīyā nagare nitāi nece nece gāya re (1)
 
 jagannātha-suta mahāprabhu viśvambhara
 māyāpura-śaśī navadvīpa-sudhākara (2)
@@ -79,7 +79,5 @@ bhaktera gaurava-kārī bhakta-prāṇa-dhana
 hari-dāsa-raghunātha-svarūpa-jīvana (25)
 
 nadīyā-nagare nitāi nece nece gāya re
-<b>bhaktivinoda</b> tā’ra paḍe rāṅgā pāya re (26)
-`,
-  "translation": ""
+<b>bhaktivinoda</b> tā’ra paḍe rāṅgā pāya re (26)`
 })

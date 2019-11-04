@@ -1,38 +1,39 @@
 push({
-  "title": "(hari) haraye namaḥ kṛṣṇa yādavāya namaḥ",
-  "author": "narottama-dāsa",
+  "title": "(hari) haraye namaḥ kṛṣṇa",
+  "id": 331,
+  "author": "śrīla narottama dāsa ṭhākura",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-(hari) haraye namaḥ kṛṣṇa yādavāya namaḥ
-yādavāya mādhavāya keśavāya namaḥ (1)
+(hari) haraye namaḥ kṛṣṇa ĵādavāya namaḥ |
+yādavāya mādhavāya keśavāya namaḥ ||1||
 
-gopāla govinda rāma śrī-madhusūdana
-giridhārī gopī-nātha madana-mohana (2)
+gopāla govinda rāma śrīmadhusūdana |
+giridhārī gopīnātha madanamohana ||2||
 
-śrī-caitanya nityānanda śrī-advaita goptā
-hari, guru, vaiṣṇava, bhāgavata, gītā (3)
+śrīcaitanya nityānanda śrīadvaita goptā |
+hari, guru, vaiṣṇava, bhāgavata, gītā ||3||
 
-śrī-rūpa, śrī-sanātana, bhaṭṭa-raghunātha
-śrī-jīva, gopāla-bhaṭṭa, dāsa-raghunātha (4)
+śrīrūpa, śrīsanātana, bhaṭṭa-raghunātha |
+śrījīva, gopālabhaṭṭa, dāsa-raghunātha ||4||
 
-ei chaya gosāira kari caraṇa vandana
-jāhā haite vighna-nāśa abhīṣṭa-pūraṇa (5)
+ei chaya gosāñira kôri caraṇa bandana |
+ĵāhā haite bighnanāśa abhīṣṭapūraṇa ||5||
 
-ei chaya gosāī jā’ra, mui tā’ra dāsa
-tā’ sabāra pada-reṇu mora pañca-grāsa (6)
+ei chaya gosāñī ĵā̃’ra, mui tā̃’ra dāsa |
+tā̃’ sabāra padareṇu mora pañcagrāsa ||6||
 
-tā’dera caraṇa sevi bhakta-sane vāsa
-janame janame haya, ei abhilāṣa (7)
+tā̃’dera caraṇa sebi bhaktasane bāsa |
+janame janame haya, ei abhilāṣa ||7||
 
-ei chaya gosāī jabe vraje kailā vāsa
-rādhā-kṛṣṇa-nitya-līlā karilā prakāśa (8)
+ei chaya gosāñī ĵabe vraje kailā bāsa |
+rādhākṛṣṇa-nityalīlā kôrilā prakāśa ||8||
 
-ānande bala hari, bhaja vṛndāvana
-śrī-guru-vaiṣṇava-pade majāiyā mana (9)
+ānande bôlô hari, bhajô vṛndāvana |
+śrīguru-vaiṣṇava-pade majāiyā mana ||9||
 
-śrī-guru-vaiṣṇava-pāda-padma kari’ āśa
-nāma-saṅkīrtana kahe <b>narottama-dāsa</b> (10)
-`,
-  "translation": ""
+śrīguru-vaiṣṇava-pādapadma kôri’ āśa |
+nāma-saṅkīrttana kahe narottamadāsa ||10||
+
+śabdārtha:- goptā—pālayitā (pāṭhāntare sītā)|`
 })

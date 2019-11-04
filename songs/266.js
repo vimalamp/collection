@@ -1,28 +1,27 @@
 push({
-  "title": "dekhite dekhite, bhuliba vā kabe",
+  "title": "dekhite dekhite",
+  "id": 266,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
   "verses": `
-dekhite dekhite, bhuliba vā kabe,
-        nija-sthūla-paricaya
-nayane heriba, vrajapura-śobhā,
-        nitya cidānanda-maya (1)
+dekhite dekhite,    bhulibô bā kabe,
+nija-sthūla-paricaya |
+nayane heribô,    vrajapura-śobhā,
+nitya cidānandamaya ||1||
 
-vṛṣabhānu-pure, janama laiba,
-        yāvaṭe vivāha ha’be
-vraja-gopī-bhāva, haibe svabhāva,
-        āna-bhāva nā rahibe (2)
+vṛṣabhānupure,    janama lô_ibô,
+ĵāvaṭe bibāha ha’be |
+vrajagopī-bhāba,    hô_ibe svabhāba,
+ānô-bhāba nā rahibe ||2||
 
-nija-siddha-deha, nija-siddha-nāma,
-        nija-rūpa-svasana
-rādhā-kṛpā-bale, labhiba vā kabe,
-        kṛṣṇa-prema-prakaraṇa (3)
+nija siddhadeha,    nija siddhanāma,
+nija-rūpa-svasana |
+rādhākṛpā-bale,    labhibô bā kabe,
+kṛṣṇaprema-prakaraṇa ||3||
 
-yāmuna-salila, āharaṇe giyā,
-        bujhiba yugala-rasa
-prema-mugdha ha’ye, pāgalinī-prāya,
-        gāiba rādhāra yaśa (4)
-`,
-  "translation": ""
+ĵāmuna-salila,    āharaṇe giyā,
+bujhibô ĵugala-rasa |
+premamugdha ha’ye,    pāgalinī-prāya,
+gāibô rādhāra ĵaśa ||4||`
 })

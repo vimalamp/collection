@@ -1,10 +1,10 @@
 push({
   "title": "śuno śuno nityānanda, śuno haridāsa",
+  "id": 372,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-mahimā",
   "language": "bengali",
-  "verses": `
-śuno śuno nityānanda, śuno haridāsa
+  "verses": `śuno śuno nityānanda, śuno haridāsa
 sarvatra āmāra ājñā karaha prakāśa (1)
 
 prati ghare ghare giyā kara ei bhikṣā
@@ -30,7 +30,5 @@ dharma pathe giyā tumi laha harināma
 tabe tumi anyere karibā paritrāṇa (8)
 
 jata saba dasyu cora ḍākiyā āniyā
-dharma-pathe sabāre laoyāo tumi giyā (9)
-`,
-  "translation": ""
+dharma-pathe sabāre laoyāo tumi giyā (9)`
 })

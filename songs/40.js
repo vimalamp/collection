@@ -1,10 +1,10 @@
 push({
   "title": "viharati harir iha sarasa-vasante",
+  "id": 40,
   "author": "Unknown",
   "category": "śrī-gīta-govinda",
   "language": "sanskrit",
-  "verses": `
-<i>vasanta rāga; yati tāla</i>
+  "verses": `<i>vasanta rāga; yati tāla</i>
 viharati harir iha sarasa-vasante
 nṛtyati yuvati-janena samaṁ sakhi virahi-janasya durante (1)
 
@@ -46,7 +46,5 @@ vṛndāvana-vipine parisara-pari-
 śrī-jayadeva-bhaṇitam idam udayati
     hari-caraṇa-smṛti-sāram
 sarasa-vasanta-samaya-vana-varṇanam
-    anugata-madana-vikāram (9)
-`,
-  "translation": ""
+    anugata-madana-vikāram (9)`
 })

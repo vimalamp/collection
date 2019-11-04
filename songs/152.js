@@ -1,24 +1,26 @@
 push({
-  "title": "nitāi guṇa-maṇi āmāra nitāi guṇa-maṇi",
-  "author": "locana",
+  "title": "nitāi guṇamaṇi āmāra",
+  "id": 152,
+  "author": "śrīla locanadāsa ṭhākura",
   "category": "pañca-tattva-mahimā",
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
   "verses": `
-nitāi guṇa-maṇi āmāra nitāi guṇa-maṇi
-āniyā premera vanyā bhāsāila avanī (1)
+nitāi guṇamaṇi āmāra nitāi guṇamaṇi | 
+āniyā premera banyā bhāsāilô abanī ||1||
 
-premera vanyā laiyā nitāi āila gauḍa-deśe
-ḍubila bhakata-gaṇa dīna-hīna bhāse (2)
+premera banyā lô_iyā nitāi āilô gauḓadeśe | 
+ḍubilô bhakatagaṇa dīna hīna bhāse ||2||
 
-dīna hīna patita pāmara nāhi vāche
-brahmāra durlabha prema sabākāre yāce (3)
+dīna hīna patita pāmara nāhi bāche | 
+brahmāra durllabha prema sabākāre ĵāce ||3||
 
-ābadha karuṇā-sindhu kāṭiyā muhāna
-ghare ghare bule prema amiyāra vāna (4)
+ābaddha karuṇā-sindhu kāṭiyā muhāna | 
+ghare ghare bule prema-amiyāra bāna ||4||
 
-<b>locana</b> bale mora nitāi jevā nā bhajila
-jāniyā śuniyā sei ātmaghātī haila (5)
-`,
-  "translation": ""
+locana bôle mora nitāi ĵebā nā bhajilô | 
+jāniyā śuniyā sei ātmaghātī hailô ||5||`,
+  "translation": {
+    "bn": "śabdārtha:- abanī—pṛthibī; muhāna—mohanā, jalaprabeśa-patha; amiyā—amṛta"
+  }
 })

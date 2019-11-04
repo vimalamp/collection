@@ -1,51 +1,49 @@
 push({
-  "title": "prāṇa gorācāda mora, dhana gorācāda",
-  "author": "Unknown",
+  "title": "prāṇa gorācā̃da mora",
+  "id": 111,
+  "author": "lekhaka ajānā",
   "category": "śrī-vaiṣṇava-vandanā",
   "language": "bengali",
   "verses": `
-(ābhīra rāga)
-prāṇa gorācāda mora, dhana gorācāda
-jagata bādhila gorā pāti’ premaphāda (1)
+prāṇa gorācā̃da mora, dhana gorācā̃da |
+jagata bā̃dhilô gorā pāti’ premaphā̃da ||dhru||
 
-minati kariyā tṛṇa dhariyā daśane
-nivedana karo guru-vaiṣṇava-caraṇe (2)
+minati kôriyā tṛṇa dhôriyā daśane |
+nibedana karõ guru-vaiṣṇava-caraṇe ||1||
 
-śrī-kṛṣṇa-caitanya-nityānanda-avatāre
-yateka vaiṣṇava tāhā ke kahite pāre (3)
+śrīkṛṣṇacaitanya-nityānanda-abatāre |
+ĵateka vaiṣṇava tāhā ke kahite pāre ||2||
 
-vaiṣṇava cinite nāre devera śakati
-muṇi kon jana haṅ śiśu alpamati (4)
+vaiṣṇava cinite nāre devera śakati |
+muñi kon_ jana haṅ śiśu alpamati ||3||
 
-jihvāra ārati āra manera vāsanā
-teṇi se karite cāho vaiṣṇava-vandanā (5)
+jihbāra ārati āra manera bāsanā |
+teñi se kôrite cāhõ vaiṣṇava-bandanā ||4||
 
-je kichu kahiye guru-vaiṣṇava-prasāde
-krama-bhaṅga nā laibe mora aparādhe (6)
+ĵe kichu kahiye guru-vaiṣṇava-prasāde |
+kramabhaṅga nā lô_ibe mora aparādhe ||5||
 
-vando śacī jagannātha miśra-purandara
-yāhāra nandana viśvarūpa viśvambhara (7)
+bandõ śacī jagannātha miśrapurandara |
+ĵā̃hāra nandana viśvarūpa viśvambhara ||6||
 
-vandanā kariba viśvarūpa dhanya dhanya
-caitanya-agraja nāma śrī-śaṅkarāraṇya (8)
+bandanā kôribô viśvarūpa dhanya dhanya |
+caitanya-agraja nāma śrīśaṅkarāraṇya ||7||
 
-vandiba se mahāprabhu śrī-kṛṣṇa-caitanya
-patita-pāvana-avatāra dhanya dhanya (9)
+bandibô se mahāprabhu śrīkṛṣṇacaitanya |
+patitapābana-abatāra dhanya dhanya ||8||
 
-vando lakṣmī-ṭhākurāṇī āra viṣṇupriyā
-gadādhara paṇḍita-gosāi vandanā kariyā (10)
+bandõ lakṣmīṭhākurāṇī āra viṣṇupriyā |
+gadādhara paṇḍita-gosāñi bandanā kôriyā ||9||
 
-vando padmāvatī devī hāḍāi paṇḍita
-jā’ra putra nityānanda adbhuta carita (11)
+bandõ padmāvatī devī, hāḓāi paṇḍita |
+ĵā̃’ra putra nityānanda adbhuta-carita ||10||
 
-dayāra ṭhākura vando śrī-nityānanda
-yāhā haite nāṭe gīte sabhāra ānanda (12)
+dayāra ṭhākura bandõ śrīnityānanda |
+ĵā̃hā haite nāṭe gīte sabhāra ānanda ||11||
 
-vasudhā jāhnavā vando dui ṭhākurāṇī
-jā’ra putra vīrabhadra jagate vākhāni (13)
+vasudhā-jāhnavā bandõ dui ṭhākurāṇī |
+ĵā̃’ra putra vīrabhadra jagate bākhāni ||12||
 
-śrī-vīrabhadra gosāi vandiba sāvadhāne
-sakala bhuvana vaśa jā’ra ācaraṇe (14)
-`,
-  "translation": ""
+śrīvīrabhadra gosāñi bandibô sābadhāne |
+sakala bhubana baśa ĵā̃’ra ācaraṇe ||13||`
 })

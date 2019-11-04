@@ -1,36 +1,36 @@
 push({
-  "title": "tuyā bhakti-anukūla je-je kārya haya",
-  "author": "bhaktivinoda",
+  "title": " tuŵā bhakti-anukūla",
+  "id": 488,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>anukūla grahaṇa (kāyika)</i>
-tuyā bhakti-anukūla je-je kārya haya
-parama-jatane tāhā kariba niścaya (1)
+anukūla grahaṇa (kāyika)
 
-bhakti-anukūla jata viṣaya saṁsāre
-kariba tāhāte rati indriyera dvāre (2)
+tuŵā bhakti-anukūla ĵe-ĵe kārĵya haya |
+parama-ĵatane tāhā kôribô niścaya ||1||
 
-śuniba tomāra kathā jatana kariyā
-dekhiba tomāra dhāma nayana bhariyā (3)
+bhakti-anukūla ĵatô biṣaya saṁsāre | 
+kôribô tāhāte rati indriyera dvāre ||2||
 
-tomāra prasāde deha kariba poṣaṇa
-naivedya-tulasī-ghrāṇa kariba grahaṇa (4)
+śunibô tomāra kathā ĵatana kôriyā | 
+dekhibô tomāra dhāma nayana bhôriyā ||3||
 
-kara-dvāre kariba tomāra sevā sadā
-tomāra vasati-sthale basiba sarvadā (5)
+tomāra prasāde deha kôribô poṣaṇa | 
+naibedya-tulasī-ghrāṇa kôribô grahaṇa ||4||
 
-tomāra sevāya kāma niyoga kariba
-tomāra vidveṣi-jane krodha dekhāiba (6)
+kara-dvāre kôribô tomāra sebā sadā | 
+tomāra basati-sthale bôsibô sarbbadā ||5||
 
-ei-rūpe sarva-vṛtti āra sarva-bhāva
-tuyā anukūla ha’ye labhuka prabhāva (7)
+tomāra sebāya kāma niyoga kôribô | 
+tomāra bidveṣi-jane krodha dekhāibô ||6||
 
-tuyā bhakta-anukūla jāhā jāhā kari
-tuyā bhakti-anukūla bali’ tāhā dhari (8)
+eirūpe sarbbabṛtti āra sarbbabhāba | 
+tuŵā anukūla ha’ye labhuka prabhāba ||7||
 
-<b>bhaktivinoda</b> nāhi jāne dharmādharma
-bhakti-anukūla tā’ra hau saba karma (9)
-`,
-  "translation": ""
+tuŵā bhakta-anukūla ĵāhā ĵāhā kôri | 
+tuŵā bhakti-anukūla bôli’ tāhā dhôri ||8||
+
+bhakativinoda nāhi jāne dharmmādharmma | 
+bhakti-anukūla tā’ra ha_u saba karmma ||9||`
 })

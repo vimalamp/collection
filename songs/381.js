@@ -1,10 +1,10 @@
 push({
   "title": "nārada-vīṇojjīvana sudhormi-niryāsa-mādhurī-pura",
+  "id": 381,
   "author": "bhaktivinoda-dāsa",
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
-  "verses": `
-<i>nārada-vīṇojjīvana
+  "verses": `<i>nārada-vīṇojjīvana
     sudhormi-niryāsa-mādhurī-pura
 tvaṁ kṛṣṇa-nāma kāmaṁ
     sphura me rasane rasena sadā</i>
@@ -37,7 +37,5 @@ nāma-prabhāve, mātila viśva,
 śrī-kṛṣṇa-nāma, rasane sphuri’,
         pūrā’la āmāra āśa
 śrī-rūpa-pade, jācaye ihā,
-        <b>bhaktivinoda-dāsa</b> (6)
-`,
-  "translation": ""
+        <b>bhaktivinoda-dāsa</b> (6)`
 })

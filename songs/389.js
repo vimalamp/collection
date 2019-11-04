@@ -1,31 +1,32 @@
 push({
-  "title": "gāite govinda-nāma, upajila bhāva-grāma",
-  "author": "bhaktivinoda",
+  "title": "gāite govinda nāma",
+  "id": 389,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
   "verses": `
-gāite govinda-nāma, upajila bhāva-grāma,
-        dekhilāma yamunāra kūle
-vṛṣabhānusutā-saṅge, śyāma naṭavara raṅge,
-        bāśarī bājāya nīpamūle (1)
+gāite govinda nāma,    upajilôbhābagrāma,
+dekhilāma ĵamunāra kūle |
+vṛṣabhānusutā-saṅge,    śyāma naṭabara-raṅge,
+bā̃śarī bājāya nīpamūle ||1||
 
-dekhiyā yugala-dhana, asthira haila mana,
-        jñānahārā hailu takhana
-katakṣaṇa nāhi jāni, jñāna lābha haila māni,
-        āra nāhi bhela daraśana (2)
+dekhiyā ĵugaladhana,    asthira hô_ilô mana,
+jñānahārā hô_ilũ takhôna |
+katakṣaṇa nāhi jāni,    jñāna lābha hailô māni,
+āra nāhi bhelô daraśana ||2||
 
-sakhi go,
-kemate dhariba parāṇa, nimeṣa haila yugera samāna (3)
+sakhi go, kemôte dhôribô parāṇa | 
+nimeṣa hô_ilô ĵugera samāna ||3||
 
-śrāvaṇera dhārā, ākhi variṣaya,
-        śūnya bhela dharātala
-govinda-virahe, prāṇa nāhi rahe,
-        kemane vāciba bala (4)
+śrābaṇera dhārā,    ā̃khi bariṣaya,
+śūnya bhelô dharātala |
+govinda-birahe,    prāṇa nāhi rahe,
+kemône bā̃cibô bôlô ||4||
 
-<b>bhaktivinoda</b>, asthira haiyā,
-        punaḥ nāmāśraya kari’
-ḍāke rādhā-nātha, diyā daraśana,
-        prāṇa rākha, nahe mari (5)
-`,
-  "translation": ""
+bhakativinoda,    asthira hô_iyā,
+punaḥ nāmāśraya kôri’ |
+ḍāke rādhānātha,    diyā daraśana,
+prāṇa rākhô, nahe mari ||5||
+
+śabdārtha:- nīpamūle—kadambabṛkṣera nīce; bhelô—hô_ilô |`
 })

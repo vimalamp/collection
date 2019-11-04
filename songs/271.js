@@ -1,10 +1,10 @@
 push({
   "title": "cintāmaṇi-maya, rādhā-kuṇḍa-taṭa",
+  "id": 271,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-cintāmaṇi-maya, rādhā-kuṇḍa-taṭa,
+  "verses": `cintāmaṇi-maya, rādhā-kuṇḍa-taṭa,
         tāhe kuñja śata śata
 prabala vidruma-maya taru-latā,
         muktā-phale abanata (1)
@@ -22,7 +22,5 @@ emona samaya muralīra gāna,
 rādhe rādhe boli’, muralī ḍākibe,
         madīya īśvarī nāma
 śuniyā camaki’, uṭhibe e dāsī,
-        kemana karibe prāṇa (4)
-`,
-  "translation": ""
+        kemana karibe prāṇa (4)`
 })

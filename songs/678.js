@@ -1,29 +1,28 @@
 push({
-  "title": "prabhu–e, o dayā-maya!",
-  "author": "Unknown",
+  "title": "prabhu—e, o da.yāma.ya",
+  "id": 678,
+  "author": "lekhaka ajānā",
   "category": "asamīyā-kīrtana",
   "language": "assamese",
   "verses": `
-prabhu–e, o dayā-maya!
-kṛpā kari diyā moka caraṇe āśraya (1)
+prabhu—e, o da.yāma.ya | 
+kṛpā kôri di.yā moka caraṇe āśra.ya ||1||
 
-mukha tuli coyā moka vaiṣṇava gosāi
-dayālu tomāra sama bhuvanete nāi (2)
+mukha tuli co.yā moka vaiṣṇava go~sāi |
+da.yālu tomāra sama bhuvanete nāi ||2||
 
-premara hāṭata tumi mātra mahājana
-jāke tāke diyā tumi, bhakti mahā-dhana (3)
+premera hāṭata tumi mātra mahājana |
+ĵāke tāke di.yā tumi, bhakti mahādhana ||3||
 
-tomāra kṛpāra leśa yadi mai pāoṁ
-janama saphala haya, hari-guṇa gāoṁ (4)
+tomāra kṛpāra leśa ĵadi ma_i pāo~ |
+janama saphala ha.ya, hari-guṇa gāo~ ||4||
 
-katanā jātanā bhuñji bharami phuricho
-nakarā nirāśa ivāra kākuti karicho (5)
+katanā ĵātanā bhuñji bharami phuricho~ |
+nakarā nirāśa ibāra kākuti kôricho~ ||5||
 
-dāsa vuli dhari moka, caraṇata ṭhāi,–
-di pālā adhamaka dayālu gosāi (6)
+dāsa buli dhôri moka, caraṇata ṭhā̃i,— 
+di pālā adhamaka da.yālu go~sāi ||6||
 
-agnidagdha eārata mala nethākaya
-sidare moka ātmasāt karā dayā-maya (7)
-`,
-  "translation": ""
+agnidagdha eṅārata mala nethāka.ya |
+sidare moka ātmasāt. karā da.yāma.ya ||7||`
 })

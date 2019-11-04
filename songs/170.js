@@ -1,11 +1,11 @@
 push({
   "title": "śrī-kṛṣṇa-caitanya gorā śacīra dulāla",
+  "id": 170,
   "author": "govinda",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-tattva",
   "language": "bengali",
-  "verses": `
-śrī-kṛṣṇa-caitanya gorā śacīra dulāla
+  "verses": `śrī-kṛṣṇa-caitanya gorā śacīra dulāla
 ei se pūrave chila gokulera gopāla (1)
 
 keha bale,-‘jānakī-vallabha chila rāma’
@@ -21,7 +21,5 @@ sannyāsī vairāgī haiyā brame deśe deśe
 tavu nā pāila rādhāra premera uddeśe (5)
 
 <b>govinda</b> hāsiyā kaya kiśorī kiśorā
-svarūpa-rāmera sane sei rase bhorā (6)
-`,
-  "translation": ""
+svarūpa-rāmera sane sei rase bhorā (6)`
 })

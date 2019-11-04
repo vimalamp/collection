@@ -1,69 +1,73 @@
 push({
-  "title": "o mora karuṇā-maya, śrī-ṭhākura mahāśaya",
-  "author": "narahari",
+  "title": "o mora karuṇāmaya",
+  "id": 559,
+  "author": "śrīla narahari sarakāra",
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīla-narotama-ṭhākurera śocaka",
   "language": "bengali",
   "verses": `
-o mora karuṇā-maya, śrī-ṭhākura mahāśaya,
-        narottama premera mūrati
-kibā se komala tanu, śiriṣa-kusuma janu,
-        jiniyā kanaka deha-jyoti (1)
+o mora karuṇāmaya,    śrīṭhākura mahāśaya,
+narottama premera mūrati |
+kibā se komala tanu,    śiriṣa-kusuma janu,
+jiniyā kanaka deha-jyoti ||1||
 
-alapa vayasa tāya, kona sukha nāhi bhāya,
-        gora-guṇa śuni’ sadā jhure
-rāyabhoga teyāgiyā, ati lālāyita haiyā,
-        gamana karilā vrajapure (2)
+alapa bayasa tāya,    kona sukha nāhi bhāya,
+gora-guṇa śuni’ sadā jhure |
+rājyabhoga teyāgiyā,    ati lālāyita haiyā,
+gamana kôrilā vrajapure ||2||
 
-praveśiyā vṛndāvane, parama ānandamane,
-        lokanāthe ātma-samarpila
-kṛpā kari’ lokanātha, karilena ātma-sātha,
-        rādhā-kṛṣṇa-mantra-dīkṣā dila (3)
+prabeśiyā vṛndāvane,    parama ānandamane,
+lokanāthe ātmasamarpilô |
+kṛpā kôri’ lokanātha,    kôrilena ātmasātha,
+rādhākṛṣṇamantra-dīkṣā dilô ||3||
 
-narottama-ceṣṭā dekhi’, vṛndāvane sabe sukhī,
-        prāṇera samāna kare sneha
-śrīnivāsācārya-sane, je marma tā’ kevā jāne,
-        prāṇa eka, bhinna-mātra deha (4)
+narottama-ceṣṭā dekhi’,    vṛndāvane sabe sukhī,
+prāṇera samāna kare sneha |
+śrīnivāsācārĵya-sane,    ĵe marmma tā’ kebā jāne,
+prāṇa eka, bhinnamātra deha ||4||
 
-śrī-rādhā-vinoda dekhi’, sadāi juḍāya ākhi,
-        prabhu-lokanātha-sevārata
-bhakti-śāstra-adhyayane, mahānanda vāḍe mane,
-        pūrṇa haila abhilāṣa jata (5)
+śrīrādhābinoda dekhi’,    sadāi juḓāya ā̃khi,
+prabhu-lokanātha sebārata |
+bhaktiśāstra-adhyayane,    mahānanda bāḓaye mane,
+pūrṇa hailô abhilāṣa ĵatô ||5||
 
-prabhu-anumati mate, śrī-vraja-maṇḍala haite,
-        śrī-gaura-maṇḍale praveśilā
-prabhu-anugraha-bale, navadvīpa-nīlācale,
-        bhakta-gṛhe bramaṇa karilā (6)
+prabhu-anumati mate,    śrīvrajamaṇḍala haite,
+śrīgauḓamaṇḍale prabeśilā |
+prabhu-anugrahabale,    navadvīpa-nīlācale,
+bhaktagṛhe bhramaṇa kôrilā ||6||
 
-kibā se madhura rīti, khetari-grāmete sthiti,
-        seve ‘gaura’, ‘śrī-rādhā-ramaṇe’
-‘śrī-ballabhī-kānta’-nāma, ‘rādhā-kānta’ rasa-dhāma,
-        ‘rādhā-kṛṣṇa’, ‘śrī-vraja-mohane’ (7)
+kibā se madhura rīti,    khetari-grāmete sthiti,
+sebe ‘gaura’, ‘śrīrādhāramaṇe’ |
+‘śrīballabhīkānta’-nāma,    ‘rādhākānta’ rasadhāma,
+‘rādhākṛṣṇa’, ‘śrīvrajamohane’ ||7||
 
-ei chaya vigrahadra jena, sākṣāt vihare hena,
-        śobhā dekhi’ keha nāhi bhule
-priya rāmacandra-saṅge, narotama mahā-raṅge,
-        bhāse prema-rasera hillole (8)
+ei chaya bigraha* ĵenô,    sākṣāt. bihare henô,
+śobhā dekhi’ kebā nāhi bhule |
+priya-rāmacandra-saṅge,    narottama mahāraṅge,
+bhāse premarasera hillole ||8||
 
-narottama-guṇa jata, ke tāhā kahibe kata,
-        prema-vṛṣṭi jā’ra saṅkīrtane
-śrī-advaita, nityānanda, gaṇasaha gaura-candra,
-        nācaye–dekhila bhāgyavāne (9)
+*gaurāṅga! vallabhikānta! śrīkṛṣṇa! vrajamohana!
+rādhāramaṇa! he rādhe! rādhakānta! namo^stute ||
 
-gaura-gaṇa-priya ati, narottama mahāmati,
-        vaiṣṇava-sevane jā’ra dhvani
-ki adbhuta dayāvān, kā’re vā nā kare dāna,
-        nirmala-bhakti cintāmaṇi (10)
+narottama guṇa ĵatô,    ke tāhā kahibe katô,
+premabṛṣṭi ĵā̃’ra saṅkīrttane |
+śrīadvaita, nityānanda,    gaṇasaha gauracandra,
+nācaye—dekhilô bhāgyabāne ||9||
 
-pāṣaṇḍī asuragaṇe, mātāilā gorā-guṇe,
-        vihvala haiyā premāveśe
-alaukika kriyā jā’ra, hena ki haibe āra,
-        se nā yaśa ghoṣe deśe deśe (11)
+gauragaṇa-priya ati,    narottama mahāmati,
+vaiṣṇava-sebane ĵā̃’ra dhvani |
+ki adbhuta dayābān_,    kāre bā nā kare dāna,
+nirmmala-bhakati cintāmaṇi ||10||
 
-kahe <b>narahari</b> dīna, ha’be ki emana dina,
-        narottama-pade vikāiba?
-saghane du’bāhu tuli’, ‘prabhu-narottama’ bali’,
-        kādi’ ki dhūlāya loṭāiba?? (12)
-`,
-  "translation": ""
+pāṣaṇḍī asuragaṇe,    mātāilā gorā-guṇe,
+bihbala hô_iyā premābeśe |
+alaukika kriyā ĵā’ra,    henô ki hô_ibe āra,
+se nā ĵaśa ghoṣe deśe deśe ||11||
+
+kahe narahari dīna,    ha’be ki emôna dina,
+narottama-pade bikāibô? 
+saghane du’bāhu tuli’,    ‘prabhu-narottama’ bôli’,
+kā̃di’ ki dhūlāya loṭāibô ??12??
+
+`
 })

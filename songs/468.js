@@ -1,44 +1,45 @@
 push({
-  "title": "bhuliyā tomāre, saṁsāre āsiyā",
-  "author": "bhaktivinoda",
+  "title": " bhuliyā tomāre",
+  "id": 468,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
-<i>dainya–duḥkhātmaka (vācika)</i>
-bhuliyā tomāre, saṁsāre āsiyā,
-        pe’ye nānā-vidha vyathā
-tomāra caraṇe, āsiyāchi āmi,
-        baliba duḥkhera kathā (1)
+bhuliyā tomāre,    saṁsāre āsiyā,
+peye nānābidha byathā |
+tomāra caraṇe,    āsiyāchi āmi,
+bôlibô duḥkhera kathā ||1||
 
-jananī-jaṭhare, chilāma jakhana,
-        viṣama bandhana-pāśe
-eka-bāra prabhu, dekhā diyā more,
-        vañcile e dīna dāse (2)
+jananī-jaṭhare,    chilāma ĵakhôna,
+biṣama bandhanapāśe |
+ekabāra prabhu,    dekhā diyā more,
+bañcile e dīna dāse ||2||
 
-takhana bhāvinu, janama pāiyā,
-        kariba bhajana tava
-janama haila, paḍi’ māyā-jāle,
-        nā haila jñāna-lava (3)
+takhôna bhābinu,    janama pāiyā,
+kôribô bhajana taba |
+janama hô_ilô,    pôḓi’ māyā-jāle,
+nā hô_ilô jñāna-laba ||3||
 
-ādarera chele, svajanera kole,
-        hāsiyā kāṭānu kāla
-janaka-jananī, snehete bhuliyā,
-        saṁsāra lāgila bhāla (4)
+ādarera chele,    svajanera kole,
+hāsiyā kāṭānu kāla |
+janaka-jananī,    snehete bhuliyā,
+saṁsāra lāgilô bhālô ||4||
 
-krame dina dina, bālaka haiyā,
-        khelinu bālaka-saha
-āra kichu dine, jñāna upajila,
-        pāṭha paḍi aharahaḥ (5)
+krame dina dina,    bālaka hô_iyā,
+khelinu bālaka-saha |
+āra kichu dine,    jñāna upajilô,
+pāṭha pôḓi’ aharahaḥ ||5||
 
-vidyāra gaurave, brami’ deśe deśe,
-        dhana upārjana kari
-svajana-pālana, kari ekamane,
-        bhulinu tomāre hari (6)
+bidyāra gaurabe,    bhrami’ deśe deśe,
+dhana upārjjana kôri |
+svajana-pālana,    kôri ekamane,
+bhulinu tomāre hari !!6!!
 
-vārddhakya ekhana, <b>bhaktivinoda</b>,
-        kādiyā kātara ati
-nā bhajiyā tore, dina vṛthā gela,
-        ekhana ki ha’be gati! (7)
+bārddhakye ekhôna,    bhakativinoda,
+kā̃diyā kātara ati |
+nā bhajiyā tore,    dina bṛthā gela,
+ekhôna ki ha’be gati !!7!!
+
 `,
-  "translation": ""
+  "notes": "dainya—duḥkhātmaka, (bācika)"
 })

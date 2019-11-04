@@ -1,10 +1,10 @@
 push({
   "title": "kṛṣṇera jateka khelā tāra madhye nara-līlā",
+  "id": 656,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-kṛṣṇera jateka khelā tāra madhye nara-līlā
+  "verses": `kṛṣṇera jateka khelā tāra madhye nara-līlā
         sarvottama rasera ālaya
 e rasa goloke nāi tabe bolo kothā pāi
         vraja-dhāma tāhāra nilaya (1)
@@ -22,7 +22,5 @@ tāhāra virāma nāi sei nitya-līlā bhāi
 jñāna yoga kara jata haya tāhā dūra-gata
         śuddha rāga nayane kevala
 sei līlā rākhita haya parānanda bitaraya
-        haya bhakta-jīvana sambala (4)
-`,
-  "translation": ""
+        haya bhakta-jīvana sambala (4)`
 })

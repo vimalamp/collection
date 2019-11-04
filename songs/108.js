@@ -1,10 +1,10 @@
 push({
   "title": "(kothā) bhaktivinoda śrī-gaura-svajana!",
+  "id": 108,
   "author": "Unknown",
   "category": "śrī-bhaktivinoda-jaya-guṇa-gāna",
   "language": "bengali",
-  "verses": `
-(kothā) bhaktivinoda śrī-gaura-svajana!
+  "verses": `(kothā) bhaktivinoda śrī-gaura-svajana!
 kṛṣṇa-prema dite, esechile martya,
         mānavera sāje karuṇā-kāraṇa (1)
 
@@ -81,7 +81,5 @@ sādha viśvāsi! ai pada-prānte,
 (āja) baṅge o bhārate, pāścātya-nagare,
         pūjārī pūjiche yogya upacāre
 ātma-puṣpāñjali– saṅkīrtana-dvāre,
-        (o) pādapūjā kari’ yāce kṛpākaṇa (16)
-`,
-  "translation": ""
+        (o) pādapūjā kari’ yāce kṛpākaṇa (16)`
 })

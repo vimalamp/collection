@@ -1,10 +1,10 @@
 push({
   "title": "sādhāraṇi samañjasā sthāyī lābhe bhāva daśā",
+  "id": 651,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-sādhāraṇi samañjasā sthāyī lābhe bhāva daśā
+  "verses": `sādhāraṇi samañjasā sthāyī lābhe bhāva daśā
         kubjā āra mahiṣī pramāṇa
 eka vraja-devī-gaṇe mahā-bhāva saṅghaṭane
         rūḍha adhirūḍha su-vidhāna (1)
@@ -27,7 +27,5 @@ mohanete śrī-rādhāra mādanākhya daśā sāra
 sādhāraṇī dhūmayitā samañjasā sadā dīpta
         rūḍhe tathoddīpta samarthāya
 śuddīpta śrī-rādhā-prema jena ujvalita hema
-        modanādi bhāve sadā tāya (5)
-`,
-  "translation": ""
+        modanādi bhāve sadā tāya (5)`
 })

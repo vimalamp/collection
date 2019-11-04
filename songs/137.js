@@ -1,29 +1,28 @@
 push({
-  "title": "jaya jaya adbhuta, so pahu advaita",
-  "author": "Unknown",
+  "title": "jaya jaya adbhuta",
+  "id": 137,
+  "author": " śrīla vṛndāvana dāsa ṭhākura????",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-advaitācārya",
   "language": "bengali",
   "verses": `
-jaya jaya adbhuta, so pahu advaita,
-        suradhunī sannidhāne
-ākhi mudi’ rahe, prema-nadī vahe,
-        vasana titila ghāme (1)
+jaya jaya adbhuta,    so pahũ advaita,
+suradhunī sannidhāne |
+ā̃khi mudi’ rahe,    prema-nadī bahe,
+basana titilô ghāme ||1||
 
-nija pahu mane, ghana garajane,
-        uṭhe joḍe joḍe lampha
-ḍāke bāhu tuli’, kāde phuli’ phuli’,
-        dehe viparīta kampa (2)
+nija pahũ mane,    ghana garajane,
+uṭhe joḓe joḓe lampha |
+ḍāke bāhu tuli’,    kā̃de phuli’ phuli’,
+dehe biparīta kampa ||2||
 
-advaita-huṅkāre, suradhunī-tīre,
-        āilā nāgara-rāja
-tāhāra pīrite, āilā tvarite,
-        udaya nadīyā-mājha (3)
+advaita-huṅkāre,    suradhunī-tīre,
+āilā nāgara-rāja |
+tā̃hāra pīrite,    āilā tvarite,
+udaya nadīyā-mājha ||3||
 
-jaya sītānātha, karala vekata,
-        nandera nandana hari
-kahe vṛndāvana, advaita-caraṇa,
-        hiyāra mājhāre dhari (4)
-`,
-  "translation": ""
+jaya sītānātha,    karalô bekata,
+nandera nandana hari |
+kahe vṛndāvana,    advaita-caraṇa,
+hiyāra mājhāre dhôri ||4||`
 })

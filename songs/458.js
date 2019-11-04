@@ -1,10 +1,10 @@
 push({
   "title": "e mana! tu baḍa kalira bhūta",
+  "id": 458,
   "author": "premānande",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-e mana! tu baḍa kalira bhūta
+  "verses": `e mana! tu baḍa kalira bhūta
 kara bala jāri, śūnya diyā bāḍi,
         hāsaye tapana-suta (1)
 
@@ -26,7 +26,5 @@ kapālera jora, baḍa vaṭe tora,
 mūrakharvara, sujukati dhara,
         yadi tarivāre cāo
 kahe <b>premānande</b>, manera ānande,
-        sadā hari-guṇa gāo (5)
-`,
-  "translation": ""
+        sadā hari-guṇa gāo (5)`
 })

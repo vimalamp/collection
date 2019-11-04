@@ -1,10 +1,10 @@
 push({
   "title": "prabhu tava padayuge mora nivedana",
+  "id": 385,
   "author": "bhaktivinoda",
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
-  "verses": `
-<i>na dhanaṁ na janaṁ sundarīṁ
+  "verses": `<i>na dhanaṁ na janaṁ sundarīṁ
     kavitāṁ vā jagadīśa kāmaye
 mama janmani janmanīśvare
     bhavatād-bhaktir-ahaitukī tvayi</i>
@@ -28,7 +28,5 @@ vipade sampade tāhā thākuka samabhāve
 dine dine vṛddhi hauka nāmera prabhāve (6)
 
 paśu-pakṣī ha’ye thāki svarge vā niraye
-tava bhakti rahu <b>bhaktivinoda</b>-hṛdaye (7)
-`,
-  "translation": ""
+tava bhakti rahu <b>bhaktivinoda</b>-hṛdaye (7)`
 })

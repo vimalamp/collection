@@ -1,10 +1,10 @@
 push({
   "title": "rādhā-kṛṣṇa-sevon muñi jīvane maraṇe",
+  "id": 284,
   "category": "śrī-rūpa-ratī-mañjaryah vijñaptih",
   "author": "narottama-dāsa",
   "language": "bengali",
-  "verses": `
-rādhā-kṛṣṇa-sevon muñi jīvane maraṇe
+  "verses": `rādhā-kṛṣṇa-sevon muñi jīvane maraṇe
 tāṅra sthāna taṅra līlā dekhoṅ rātri dine (1)
 
 je sthāne je līlā kare yugala-kiśora
@@ -20,7 +20,5 @@ anukṣaṇa deha tuyā pāda-padma-chāyā (4)
 anukṣaṇa deha tuyā pāda-padma-dhyāna (5)
 
 vṛndāvane nitya nitya yugala-vilāsa
-prārthanā karaye sadā <b>narottama-dāsa</b> (6)
-`,
-  "translation": ""
+prārthanā karaye sadā <b>narottama-dāsa</b> (6)`
 })

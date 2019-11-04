@@ -1,10 +1,10 @@
 push({
   "title": "mana re, kena kara vidyāra gaurava",
+  "id": 424,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `
-mana re, kena kara vidyāra gaurava
+  "verses": `mana re, kena kara vidyāra gaurava
 smṛti-śāstra, vyākaraṇa, nānā-bhāṣā-ālocana,
         vṛddhi kare yaśera saurabha (1)
 
@@ -21,7 +21,5 @@ je vidyāra ālocane, kṛṣṇa-rati sphure mane,
 bhakti-bādhā jāhā ha’te, se vidyāra mastakete,
         padāghāta kara’ akaitava
 sarasvatī kṛṣṇa-priyā, kṛṣṇa-bhakti tā’ra hiyā,
-        <b>vinodera</b> sei se vaibhava (4)
-`,
-  "translation": ""
+        <b>vinodera</b> sei se vaibhava (4)`
 })

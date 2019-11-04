@@ -1,32 +1,33 @@
 push({
-  "title": "kāma-krodha-ādi kari’, bāhire se-saba ari",
-  "author": "bhaktivinoda",
+  "title": "kāma-krodha-ādi kôri’",
+  "id": 409,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
-<i>are cetaḥ prodyat-kapaṭa-kuṭināṭi-bhara-khara-
-    kṣaran-mūtre snātvā dahasi katham-ātmānam api mām
-sadā tvaṁ gāndharvā-giridhara pāda-premavilasat-
-    sudhāmbhodhau-snātvā svamapi nitarāṁ māṁ ca sukhaya</i>
+<i>are cetaḥ prodyat.-kapaṭa-kuṭināṭī-bhara-khara-
+kṣaranmūtre snātvā dahasi kathamātmānamapi mām_ |
+sadā tvaṁ gāndharvvā-giridharapada-premavilasat.-
+sudhāmbhodhau snātvā svamapi nitarāṁ māñca sukhaya ||ca||</i>
 
-kāma-krodha-ādi kari’, bāhire se-saba ari,
-        āche eka gūḍhaśatru tava
-‘kapaṭatā’-nāma tā’ra, tā’he kuṭināṭī bhāra,
-        kharamūrti parama kitava (1)
+kāma-krodha-ādi kôri’,    bāhire se-saba ari,
+āche eka gūḓhaśatru taba |
+‘kapaṭatā’-nāma tā’ra,    tā’he kuṭināṭī bhāra,
+kharamūrtti parama kitaba ||1||
 
-ore mana, gūḍha kathā dhara
-sei kharamūtre bhu’le, snāna kari’ kutūhale,
-        ‘pavitra’ baliyā mane kara (2)
+ore mana, gūḓha kathā dharô |
+sei kharamūtre bhu’le,    snāna kôri’ kutūhale,
+‘pabitra’ bôliyā mane karô ||2||
 
-vane vā gṛhe vā thāka, sei khare dūre rākha,
-        jā’ra mūtre tumi āmi jvali
-chāḍiyā kāpaṭya-vaśa, yugala-vilāsarasa,
-        sāgare karaha snāna-keli (3)
+bane bā gṛhe bā thākô,    sei khare dūre rākhô,
+ĵā’ra mūtre tumi āmi jvali |
+chāḓiyā kāpaṭya-baśa,    ĵugala-bilāsarasa-,
+sāgare karahô snānakeli ||3||
 
-rūpa-raghunātha-pāya, e <b>bhaktivinoda</b> cāya,
-        dekhite yugala-rasa-sindhu
-jīvana sārthaka kare, sarva-jīva-cita hare,
-        sei sāgarera eka bindu (4)
-`,
-  "translation": ""
+rūpa-raghunātha-pāya,    e bhaktivinoda cāya,
+dekhite ĵugala-rasasindhu |
+jībana sārthaka kare,    sarbbajība-citta hare,
+sei sāgarera eka bindu ||4||
+
+śabdārthaḥ:- khara—gādhā; kitaba—bañcaka |`
 })

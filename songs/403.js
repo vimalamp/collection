@@ -1,37 +1,37 @@
 push({
-  "title": "vraja-dhāma nitya-dhana, rādhā-kṛṣṇa dui-jana",
-  "author": "bhaktivinoda",
+  "title": "vrajadhāma nityadhana",
+  "id": 403,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
-<i>gurau goṣṭhe goṣṭhālayiṣu sujane bhūsura-gaṇe
-    sva-mantre śrī-nāmni vraja-nava-yuva-dvandva-śaraṇe
-sadā dambhaṁ hitvā kuru ratim-apūrvām-atitarām-
-    aye svāntar bhrātaś-caṭubhir-abhiyāce dhṛta-padaḥ</i>
+<i>gurau goṣṭhe goṣṭhālayiṣu sujane bhūsuragaṇe
+svamantre śrīnāmni vraja-navaĵuvadvandva-śaraṇe |
+sadā dambhaṁ hitvā kuru ratimapūrvvāmatitarā-
+maye svāntarbhrātaścaṭubhirabhiĵāce dhṛtapadaḥ ||ka||</i>
 
-vraja-dhāma nitya-dhana, rādhā-kṛṣṇa dui-jana,
-        līlāveśe eka-tanu hao
-dhāmasaha gauḍadeśe, prakaṭa hailā ese’,
-        nija nitya-pāriṣada lao (1)
+vrajadhāma nityadhana,    rādhākṛṣṇa duijana,
+līlābeśe ekatanu hañā |
+dhāmasaha gauḓadeśe,    prakaṭa hô_ilā ese’,
+nija nitya-pāriṣada lañā ||1||
 
-mana, tumi satya bali’ jāna
-navadvīpe gaura-hari, nāma-saṅkīrtana kari’,
-        premāmṛta gauḍe kaila dāna (2)
+mana, tumi satya bôli’ jānô |
+navadvīpe gaurahari,    nāma-saṅkīrttana kôri’,
+premāmṛta gauḓe kailô dāna ||2||
 
-sannyāsera chala kari’, nīlācale sei hari,
-        śrī-kṛṣṇa-caitanya jatīśvara
-dāmodara, rāmānanda, laye kari’ parānanda,
-        gūḍha-tattva jānāya vistara (3)
+sannyāsera chala kôri’,    nīlācale sei hari,
+śrīkṛṣṇacaitanya ĵatīśvara |
+dāmodara, rāmānanda,    laye kôri’ parānanda,
+gūḓhatattva jānāya bistara ||3||
 
-raghunāthe sei tattva, śikhāiyā paramārtha,
-        pāṭhāilā śrī-rūpera kāche
-śrī-dāsa-gosvāmī vraje, rūp-asaha kṛṣṇa-bha’je,
-        ‘manaḥ-śikṣā’-śloka likhiyāche (4)
+raghunāthe sei tattva,    śikhāiyā paramārtha,
+pāṭhāilā śrīrūpera kāche |
+śrīdāsagosvāmī vraje,    rūpasaha kṛṣṇa-bha’je,
+‘manaḥśikṣā’-śloka likhiyāche ||4||
 
-tāhāra dāsera dāsa, haite jā’ra baḍa āśa,
-        e <b>bhaktivinoda</b> akiñcana
-manaḥ-śikṣā-bhāṣā gāya, jathā śuddha-bhakta pāya,
-        dayā kari’ karena śravaṇa (5)
-`,
-  "translation": ""
+tā̃hāra dāsera dāsa,    haite ĵā’ra baḓô āśa,
+e bhaktivinoda akiñcana |
+‘manaḥśikṣā bhāṣā’ gāya,    ĵathā śuddhabhakta pāya,
+dayā kôri’ karena śrabaṇa ||5||`,
+  "notes": "[śrīla-raghunāthadāsa-gosvāmī-biracitā]"
 })

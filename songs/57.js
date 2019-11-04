@@ -1,10 +1,10 @@
 push({
   "title": "hare hare govinda hare",
+  "id": 57,
   "author": "Unknown",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `
-<i>vihā-gaḍā</i>
+  "verses": `<i>vihā-gaḍā</i>
 hare hare govinda hare
 kāliya-mardana kaṁsa-nisūdana,
 devakī-nandana rāma hare (1)
@@ -22,7 +22,5 @@ goloka-indu-gokula-candra-gadādhara-
 śrī-puruṣotama parameśvara prabhu
     parama-brahma parameṣṭhī aghāre
 duḥkhite dayāṁ kuru deva devakī-suta
-    durmati <b>paramānanda</b> parihāre (4)
-`,
-  "translation": ""
+    durmati <b>paramānanda</b> parihāre (4)`
 })

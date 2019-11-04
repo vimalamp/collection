@@ -1,32 +1,31 @@
 push({
-  "title": "rāgāveśe vraja-dhāma-vāse yadi tīvra kāma",
-  "author": "bhaktivinodera",
+  "title": "rāgābeśe vrajadhāma",
+  "id": 406,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
-<i>yadīccher-āvāsaṁ vraja-bhūvi sa-rāgaṁ prati-janur-
-    yuva-dvandvaṁ tac cet paricaritum-ārād abhilaṣeḥ
-svarūpaṁ śrī-rūpaṁ sa-gaṇam iha tasyāgrajam api
-    sphuṭaṁ premṇā nityaṁ smara nama tadā tvaṁ śṛṇu manaḥ</i>
+<i>yadīccherāvāsaṁ vrajabhuvi sarāgaṁ pratijanu-
+rĵuvadvandvaṁ taccet. paricaritumārādabhilaṣeḥ |
+svarūpaṁ śrīrūpaṁ sagaṇamiha tasyāgrajamapi
+sphuṭaṁ prem_#ṇā nityaṁ smara nama tadā tvaṁ śṛṇu manaḥ ||ga||</i>
 
-rāgāveśe vraja-dhāma-vāse yadi tīvra kāma,
-        thāke tava hṛdaya-bhitare
-rādhā-kṛṣṇa-līlā-rasa, pari-caryā-sulālasa,
-        hao yadi nitānta antare (1)
+rāgābeśe vrajadhāma-,    bāse ĵadi tībra kāma,
+thāke taba hṛdaya-bhitare |
+rādhākṛṣṇa-līlārasa,    paricarĵyā-sulālasa,
+hao ĵadi nitānta antare ||1||
 
-bali tabe, śuna, mama mana
-bhajana caturavara, śrī-svarūpa-dāmodara,
-        prabhu-sevā jāhāra jīvana (2)
+bôli tabe, śunô, mama mana |
+bhajana caturabara,    śrīsvarūpadāmodara,
+prabhusebā ĵā̃hāra jībana ||2||
 
-sagaṇa śrī-rūpa–jini, rasa-tattva-jñāna-maṇi,
-        līlā-tattva je kaila prakāśa
-tāhāra agraja bhāi, jāhāra samāna nāi,
-        varṇila je yugala-vilāsa (3)
+sagaṇa śrīrūpa—ĵini,    rasatattva-jñānamaṇi,
+līlātattva ĵe kailô prakāśa |
+tā̃hāra agraja bhāi,    ĵā̃hāra samāna nāi,
+barṇilô ĵe ĵugalabilāsa ||3||
 
-sei saba mahā-jane, spaṣṭa-prema-vijñāpane,
-        smara, mana tumi nirantara
-<b>bhaktivinodera</b> nati, mahājana-gaṇa-prati,
-        vijñāpita karaha satvara (4)
-`,
-  "translation": ""
+sei saba mahājane,    spaṣṭaprema-bijñāpane,
+smarô, mana tumi nirantara |
+bhaktivinodera nati,    mahājanagaṇa-prati,
+bijñāpita karahô satbara ||4||`
 })

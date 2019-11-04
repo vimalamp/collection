@@ -1,10 +1,10 @@
 push({
   "title": "vṛṣabha-danuja-nāśān-antaraṁ yat sva-goṣṭhīm",
+  "id": 72,
   "category": "śrī-śyāma-kuṇḍāṣṭakam",
   "author": "śrīmad-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-vṛṣabha-danuja-nāśān-antaraṁ yat sva-goṣṭhīm
+  "verses": `vṛṣabha-danuja-nāśān-antaraṁ yat sva-goṣṭhīm
     ayasi vṛṣabha-śatro mā spṛśa tvaṁ vadantyām
 iti vṛṣa-ravi-putryāṁ kṛṣṇa-pārṣṇiṁ prakhātaṁ
     tad ati-vimala-nīraṁ śyāma-kuṇḍaṁ gatir me (1)
@@ -47,7 +47,5 @@ vividha-kusuma-vallī-kalpa-vṛkṣādi-rājaṁ
 paripaṭhati sumedhāḥ śyāma-kuṇḍāṣṭakaṁ yo
     nava-jaladhara-rūpe svarṇa-kāntyāṁ ca rāgāt
 vraja-narapati-putras tasya labhyaḥ suśīghraṁ
-    saha sa-gaṇa-sakhībhī rādhayā syāt subhajyaḥ (9)
-`,
-  "translation": ""
+    saha sa-gaṇa-sakhībhī rādhayā syāt subhajyaḥ (9)`
 })

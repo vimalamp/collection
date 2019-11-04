@@ -1,10 +1,10 @@
 push({
   "title": "mana, tumi sannyāsī sājite kena cāo?",
+  "id": 427,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `
-mana, tumi sannyāsī sājite kena cāo?
+  "verses": `mana, tumi sannyāsī sājite kena cāo?
 bāhirera sāja jata, antarete phāki tata,
         dambha pūji’ śarīra nācāo (1)
 
@@ -36,7 +36,5 @@ pratiṣṭhā karaha dūra, vāsa tava śānti-pura,
 vaiṣṇavera paricaya, āvaśyaka nāhi haya,
         āḍambare kabhu nāhi jāo
 <b>vinodera</b> nivedana, rādhā-kṛṣṇa-guṇa-gaṇa,
-        phukāri’ phukāri’ sadā gāo (7)
-`,
-  "translation": ""
+        phukāri’ phukāri’ sadā gāo (7)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "gurau mantre nāmni prabhuvara-śacīgarbhaja-pade",
+  "id": 82,
   "category": "śrī-sva-niyama-daśaka",
   "author": "śrīla-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `
-gurau mantre nāmni prabhuvara-śacīgarbhaja-pade
+  "verses": `gurau mantre nāmni prabhuvara-śacīgarbhaja-pade
     svarūpe śrī-rūpe gaṇa-yuji tadīya-prathamaje
 girīndre gāndharvā-sarasi madhu-puryām-vraja-vane
     vraje bhakte goṣthālayiṣu param āstām-mama ratiḥ (1)
@@ -57,7 +57,5 @@ vidhāsye kuñjādau vividha-varivasyāḥ sa-rabhasaṁ
 kṛtam-kenāpy etan nija-niyama-śaṁsi-stavam imaṁ
     paṭhed yo viśrabdhaḥ priya-yugala-rūpe ‘rpita-manāḥ
 dṛḍham-goṣṭhe hṛṣṭo vasati-vasatim-prāpya samaye
-    mudā rādhā-kṛṣṇau bhajati sa hi tenaiva sahitaḥ (11)
-`,
-  "translation": ""
+    mudā rādhā-kṛṣṇau bhajati sa hi tenaiva sahitaḥ (11)`
 })

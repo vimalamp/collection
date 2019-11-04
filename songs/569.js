@@ -1,38 +1,37 @@
 push({
-  "title": "pūrṇa-cid-ānanda tumi, tomāra citkaṇa āmi",
-  "author": "bhaktivinodera",
+  "title": "pūrṇacidānanda tumi",
+  "id": 569,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
-pūrṇa-cid-ānanda tumi, tomāra citkaṇa āmi,
-        svabhāvataḥ āmi tuyā dāsa
-parama svantatra tumi, tuyā parantatra āmi,
-        tuyā pada chāḍi’ sarvanāśa (1)
+“pūrṇacidānanda tumi,    tomāra cit.kaṇa āmi,
+svabhāvataḥ āmi tuŵā dāsa |
+parama svatantra tumi,    tuŵā paratantra āmi,
+tuŵā pada chāḓi’ sarbbanāśa ||1||
 
-svantatra ha’ye jakhana, māyā-prati kainu mana,
-        sva-svabhāva chāḍila āmāya
-prapañce māyāra vandhe, paḍinu karmera dhande,
-        karma-cakre āmāre phelāya (2)
+svatantra ha’ye ĵakhôna,    māyā-prati kainu mana,
+sva-svabhāba chāḓilô āmāya |
+prapañce māyāra bandhe,    pôḓinu karmmera dhande,
+karmmacakre āmāre phelāya ||2||
 
-māyā tava icchā-mate, bādhe mora e jagate,
-        adṛṣṭanir-bandha-lauhakare
-sei ta’ nirvandha more, āne śrīvāsera ghare,
-        putrarūpe mālinī-jaṭhare (3)
+māyā taba icchāmate,    bā̃dhe mora e jagate,
+adṛṣṭa-nirbbandha-lauha-kare |
+sei tô’ nirbbandha more,    āne śrīvāsera ghare,
+putrarūpe mālinī-jaṭhare ||3||
 
-se-nirvandha punarāya, more ebe la’ye jāya,
-        āmi ta’ thākite nāri āra
-tava icchā suprabala, mora icchā sudurbala,
-        āmi jīva akiñcana chāra (4)
+se-nirbbandha punarāya,    more ebe la’ye ĵāya,
+āmi tô’ thākite nāri āra |
+taba icchā suprabala,    mora icchā sudurbbala,
+āmi jība akiñcana chāra ||4||
 
-jathāya pāṭhāo tumi, avaśya jāiba āmi,
-        kā’ra kebā putra-pati-pitā
-jaḍera sambandha saba, tāhā nāhi satya saba,
-        tumi jīvera nitya pālayitā (5)
+ĵathāya pāṭhāo tumi,    abaśya ĵāibô āmi,
+kā’ra kebā putra-pati-pitā |
+jaḓera sambandha saba,    tāhā nāhi satya saba,
+tumi jībera nitya pālayitā ||5||
 
-saṁyoga-viyoge jini, sukha-duḥkha mane gaṇi’,
-        tava pade chāḍena āśraya
-māyāra garddabha ha’ye, majena saṁsāra la’ye,
-        <b>bhaktivinodera</b> sei bhaya (6)
-`,
-  "translation": ""
+saṁĵoga-bi.yoge ĵini,    sukha-duḥkha mane gaṇi’,
+taba pade chāḓena āśraya |
+māyāra garddabha ha’ye,    majena saṁsāra la’ye”,
+bhaktivinodera sei bhaya ||6||`
 })

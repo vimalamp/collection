@@ -1,21 +1,29 @@
 push({
-  "title": "bhāva nā bhāva nā mana, tumi ati duṣṭa",
+  "title": "bhābô nā bhābô nā, mana",
+  "id": 367,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "bhajana-kīrtana",
   "language": "bengali",
   "verses": `
-bhāva nā bhāva nā mana, tumi ati duṣṭa
-(viṣaya-viṣe ācha he) kāma-krodha-lobha-moha-madādi-āviṣṭa (1)
+bhābô nā bhābô nā, mana, tumi ati duṣṭa | 
+(biṣaya-biṣe āchô he) 
+kāma-krodha-lobha-moha-madādi-ābiṣṭa ||1||
+(ripura baśe āchô he)
 
-(ripura vaśe ācha he) asad-vārtā-bhukti-mukti-pipāsā-ākṛṣṭa
-(asat-kathā bhāla lāge he) pratiṣṭhāśā-kuṭināṭi śaṭhatādi-piṣṭa (2)
+asadbārttā-bhukti-mukti-pipāsā-ākṛṣṭa |
+(asat.kathā bhālô lāge he) 
+pratiṣṭhāśā-kuṭināṭi śaṭhatādi-piṣṭa ||2||
+(sarala tô’ ha’le nā he)
 
-(sarala ta’ ha’le nā he) ghireche tomāre, bhāi, e saba ariṣṭa
-(e saba ta’ śatru he) e saba nā cheḍe’ kise pā’ve rādhā-kṛṣṇa (3)
+ghireche tomāre, bhāi, e saba ariṣṭa |
+(e saba tô’ śatru he) 
+e saba nā cheḓe’ kise pā’be rādhākṛṣṇa ||3||
+(ĵatane chāḓô, chāḓô he)
 
-(jatane chāḍa, chāḍa he) sādhu-saṅga vinā āra kothā tava iṣṭa?
-(sādhusaṅga kara he) vaiṣṇava-caraṇe maja, ghucibe aniṣṭa
-(eka-bāra bheve dekha he) (4)
-`,
-  "translation": ""
+sādhusaṅga binā āra kothā taba iṣṭa?
+(sādhusaṅga karô he) 
+vaiṣṇava-caraṇe maja, ghucibe aniṣṭa ||4||
+(ekabāra bhebe dekhô he)\t
+
+`
 })

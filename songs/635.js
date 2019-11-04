@@ -1,10 +1,10 @@
 push({
   "title": "jei rati janme jāra sei mata rasa tāra",
+  "id": 635,
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `
-jei rati janme jāra sei mata rasa tāra
+  "verses": `jei rati janme jāra sei mata rasa tāra
         rasa mukhya pañca-vidha haya
 gauṇa-sapta-rasa punaḥ haya ratira anuguṇa
         ratira sambandha bhāvāśraya (1)
@@ -22,7 +22,5 @@ gauṇa rasa āche jata saba sañcārīra mata
 madhura ujvala-rasa sadā śṛṅgārera vaśa
         vraja-raja-nandana viṣaya
 aiśvarya su-gupta ta’te mādhurja-prabhāve mate
-        tāhāra āśraya bhakta-caya (4)
-`,
-  "translation": ""
+        tāhāra āśraya bhakta-caya (4)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "rūpera gaurava kena kara bhāi?",
+  "id": 425,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `
-rūpera gaurava kena kara bhāi?
+  "verses": `rūpera gaurava kena kara bhāi?
 anitya e kalevara, kabhu nahe sthiratara,
         śamana āile kichu nāi
 e aṅga śītala ha’be, ākhi spanda-hīna ra’be,
@@ -23,7 +23,5 @@ tumi kā’ra ke tomāra, ebe bujhi dekha sāra,
 sunitya-sambala cāo, hari-guṇa sadā gāo,
         hari-nāma japaha sadāi
 kutarka chāḍiyā mana, kara kṛṣṇa-ārādhana,
-        <b>vinodera</b> āśraya tāhāi (4)
-`,
-  "translation": ""
+        <b>vinodera</b> āśraya tāhāi (4)`
 })

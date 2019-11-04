@@ -1,32 +1,33 @@
 push({
-  "title": "viṣaya-vāsanā-rūpa citera vikāra",
+  "title": "biṣaya-bāsanārūpa",
+  "id": 130,
   "category": "śrī-rūpa-sanātane dainyamayī prārthanā",
   "author": "śrīla bhaktivinoda ṭhākura",
   "language": "bengali",
   "verses": `
-viṣaya-vāsanā-rūpa citera vikāra
-āmāra hṛdaye bhoga kare anivāra (1)
+biṣaya-bāsanārūpa cittera bikāra | 
+āmāra hṛdaye bhoga kare anibāra ||1||
 
-kata je yatana āmi karilāma hāya
-nā gela vikāra-buddhi śeṣe prāṇa jāya (2)
+katô ĵe ĵatana āmi kôrilāma hāya | 
+nā gelô bikāra buddhi śeṣe prāṇa ĵāya ||2||
 
-e ghora vikāra more karila asthira
-śānti nā pāila sthāna, antara adhīra (3)
+e ghora bikāra more kôrilô asthira | 
+śānti nā pāilô sthāna, antara adhīra ||3||
 
-śrī-rūpa gosvāmī more kṛpā vitariyā
-uddhāribe kabe yukta-vairāgya arpiyā (4)
+śrīrūpa gosvāmī more kṛpā bitariyā | 
+uddhāribe kabe ĵuktabairāgya arpiyā ||4||
 
-kabe sanātana more chāḍā’ye viṣaya
-nityānande samarpibe haiyā sadaya (5)
+kabe sanātana more chāḓāye biṣaya | 
+nityānande samarpibe hô_iyā sadaya ||5||
 
-śrī-jīva gosvāmī kabe siddhānta-salile
-nivāibe tarkānala, cita jāhe jvale (6)
+śrījīva gosvāmī kabe siddhānta-salile | 
+nibhāibe tarkānala, citta ĵāhe jvale ||6||
 
-śrī-caitanya-nāma śune udibe pulaka
-rādhā-kṛṣṇāmṛta-pāne haiba aśoka (7)
+śrīcaitanya-nāma śune udibe pulaka | 
+rādhākṛṣṇāmṛta-pāne hô_ibô aśoka ||7||
 
-kāṅgālera sukāṅgāla durjana e-jana
-vaiṣṇava-caraṇāśraya yāce akiñcana (8)
-`,
-  "translation": ""
+kāṅgālera sukāṅgāla durjjana e-jana | 
+vaiṣṇava-caraṇāśraya ĵāce akiñcana ||8||02 Panca tattva 30
+
+`
 })

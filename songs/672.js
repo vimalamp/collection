@@ -1,10 +1,10 @@
 push({
   "title": "śrī govardhana mahārāja",
+  "id": 672,
   "author": "Unknown",
   "category": "hindī-kīrtana",
   "language": "hindi",
-  "verses": `
-śrī govardhana mahārāja,
+  "verses": `śrī govardhana mahārāja,
 tere māthe mukuṭa virāja rahyo (1)
 
 tere kānana kuṇḍala sohe rahe,
@@ -24,7 +24,5 @@ tope caḍhe dudha kī dhāra (6)
 
 terī sāta koṣa kī parikrammā,
 aura cakaleśvara viśrāma,
-śrī govardhana kī jaya bolo! (7)
-`,
-  "translation": ""
+śrī govardhana kī jaya bolo! (7)`
 })

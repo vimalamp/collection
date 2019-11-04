@@ -1,24 +1,23 @@
 push({
   "title": "jaya jaya jagannātha śacīra nandana",
-  "author": "vāsudeva",
+  "id": 169,
+  "author": "vāsudeva ghoṣa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-tattva",
   "language": "bengali",
   "verses": `
-jaya jaya jagannātha śacīra nandana
-tri-bhuvana kare jā’ra caraṇa vandana (1)
+jaya jaya jagannātha śacīra nandana | 
+tribhubana kare ĵā̃’ra caraṇa bandana ||1||
 
-nīlācale śaṅkha-cakra-gadā-padma-dhara
-nadīyā-nagare daṇḍa-kamaṇḍalu kara (2)
+nīlācale śaṅkha-cakra-gadā-padmadhara | 
+nadīyā nagare daṇḍa-kamaṇḍalu-kara ||2||
 
-keha bale,–‘pūravete rāvaṇa badhilā’
-golokera vaibhava līlā prakāśa karilā (3)
+kehô bale, –‘pūrabete rāvaṇa badhilā |’ 
+golokera baibhaba līlā prakāśa kôrilā ||3||
 
-śrī-rādhāra bhāve ebe gorā avatāra
-‘hare kṛṣṇa’-nāma gaura karilā pracāra (4)
+śrīrādhāra bhābe ebe gorā abatāra | 
+‘hare kṛṣṇa’-nāma gaura kôrilā pracāra ||4||
 
-<b>vāsudeva</b> ghoṣa bale kari’ yoḍa hāta
-jei gaura sei kṛṣṇa sei jagannātha (5)
-`,
-  "translation": ""
+vāsudeva ghoṣa bôle kôri’ ĵoḓa hāta | 
+ĵei gaura, sei kṛṣṇa, sei jagannātha ||5||`
 })

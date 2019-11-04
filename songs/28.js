@@ -1,10 +1,10 @@
 push({
   "title": "kalayati nayanaṁ diśi diśi valitam",
+  "id": 28,
   "author": "śrī rāmānanda-rāya",
   "category": "śrī-saṁskṛta-gīti (śrīmatī rādhikā)",
   "language": "sanskrit",
-  "verses": `
-<i>kedāra</i>
+  "verses": `<i>kedāra</i>
 kalayati nayanaṁ diśi diśi valitam
 paṅkajam-iva mṛdu-māruta-calitam (1)
 
@@ -15,7 +15,5 @@ vinidadhati mṛdu-manthara-pādam
 racayati kuñjara-gatim-anuvādam (3)
 
 janayati rudra-gajādhipa-muditam
-<b>rāmānanda-rāya</b>-kavi-gaditam (4)
-`,
-  "translation": ""
+<b>rāmānanda-rāya</b>-kavi-gaditam (4)`
 })

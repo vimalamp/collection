@@ -1,29 +1,29 @@
 push({
-  "title": "mana, yogī ha’te tomāra vāsanā",
+  "title": "mana, ĵogī ha’te tomāra bāsanā",
+  "id": 421,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
-mana, yogī ha’te tomāra vāsanā
-yoga-śāstra adhyayana, niyama-yama-sādhana,
-        prāṇāyāma, āsana-racanā
-pratyāhāra, dhyāna, dhṛti, samādhite ha’le vratī,
-        phala kibā haibe bala nā (1)
+mana, ĵogī ha’te tomāra bāsanā |
+ĵogaśāstra adhyayana,    niyama-ĵama-sādhana,
+prāṇāyāma, āsana-racanā ||1||
 
-deha-mana śuṣka kari’, rahibe kumbhaka dhari’,
-        brahmātmatā karibe bhāvanā
-aṣṭādaśa siddhi pā’be, paramārtha bhule jā’be,
-        aiśvaryādi karibe kāmanā (2)
+pratyāhāra, dhyāna, dhṛti,    samādhite ha’le bratī,
+phala kibā hô_ibe bôlô nā |
+deha-mana śuṣka kôri’,    rahibe kumbhaka dhôri’,
+brahmātmatā kôribe bhābanā ||2||
 
-sthūla-jaḍa parihari’, sūkṣmete praveśa kari’,
-        punarāya bhujibe jātanā
-ātmā nitya śuddha-dhana, hari-dāsa akiñcana,
-        yoge tā’ra ki phala ghaṭanā (3)
+aṣṭādaśa siddhi pā’be,    paramārtha bhule ĵā’be,
+aiśvarĵyādi kôribe kāmanā |
+sthūla-jaḓa parihari’,    sūkṣmete prabeśa kôri’,
+punarāya bhugibe ĵātanā ||3||
 
-kara’ bhakti-yogāśraya, nā thākibe kona bhaya,
-        sahaja amṛta sambhāvanā
-<b>vinodera</b> e minati, chāḍi’ anya yoga-gati,
-        kara’ rādhā-kṛṣṇa-ārādhanā (4)
-`,
-  "translation": ""
+ātmā nitya śuddhadhana,    haridāsa akiñcana,
+ĵoge tā’ra ki phala ghaṭanā |
+karô’ bhakti-ĵogāśraya,    nā thākibe kona bhaya,
+sahaja amṛta sambhābanā ||4||
+
+vinodera e minati,    chāḓi’ anya ĵogagati,
+karô’ rādhākṛṣṇa-ārādhanā ||5||`
 })

@@ -1,44 +1,43 @@
 push({
   "title": "jaya jaya prabhupādera ārati nehāri",
+  "id": 600,
   "category": "śrīla prabhupādera ārati",
-  "author": "Unknown",
+  "author": "śrī śrīmad bhaktiprajñāna keśava gosvāmī mahārāja",
   "language": "bengali",
   "verses": `
-jaya jaya prabhupādera ārati nehāri
-yoga-māyāpura-nitya-sevā-dānakārī (1)
+jaya jaya prabhupādera ārati nehāri |
+ĵogamāyāpura-nityasebā-dānakārī ||1||
 
-sarvatra pracāra-dhūpa saurabha manohara
-baddha-mukta alikula mugdha carācara (2)
+sarbbatra pracāra-dhūpa saurabha manohara |
+baddha-mukta alikula mugdha carācara ||2||
 
-bhakti-siddhānta-dīpa jvāliyā jagate
-pañca-rasa-sevā-śikhā pradīpta tāhāte (3)
+bhakati-siddhānta-dīpa jvāliyā jagate |
+pañcarasa-sebā-śikhā pradīpta tāhāte ||3||
 
-pañca mahādīpa yathā pañca mahāyotiḥ
-triloka timira nāśe avidyā-durmati (4)
+pañca mahādīpa ĵathā pañca mahājyotiḥ |
+triloka-timira nāśe abidyā-durmmati ||4||
 
-bhaktivinoda-dhārā jala-śaṅkha-dhāra
-niravadhi vahe tāhā rodha nāhi āra (5)
+bhakativinoda-dhārā jala-śaṅkha-dhāra |
+nirabadhi bahe tāhā rodha nāhi āra ||5||
 
-sarva-vādyamayī ghaṇṭā bāje sarvakāla
-bṛhat mṛdaṅga-vādya parama rasāla (6)
+sarbbabādyamayī ghaṇṭā bāje sarbbakāla |
+bṛhat.mṛdaṅga-bādya parama rasāla ||6||
 
-viśāla lalāṭe śobhe tilaka ujvala
-galadeśe tulasī-mālā kare jhalamala (7)
+biśāla lalāṭe śobhe tilaka ujjvala |
+galadeśe tulasīmālā kare jhalamala ||7||
 
-ājānulambita bāhu dīrgha kalevara
-tapta-kāñcana-varaṇa parama sundara (8)
+ājānulambita bāhu dīrgha kalebara |
+taptakāñcana-baraṇa parama sundara ||8||
 
-lalita lāvaṇya-mukhe snehabharā hāsi
-aṅgakātin śobhe jaiche nitya pūrṇaśaśī (9)
+lalita-lābaṇyamukhe sneha-bharā hāsi |
+aṅgakānti śobhe ĵaiche nitya-pūrṇaśaśī ||9||
 
-yati-dharme paridhāne aruṇa vasana
-mukta kaila meghāvṛta gauḍīya-gagana (10)
+ĵatidharmme paridhāne aruṇa basana |
+mukta kailô meghābṛta gauḓīya-gagana ||10||
 
-bhakti-kusume kata kuñja viracita
-saundarya-saurabhe tāra viśva-vimohita (11)
+bhakati-kusume katô kuñja biracita |
+saundarĵya-saurabhe tāra biśva-bimohita ||11||
 
-sevādarśe narahari cāmara ḍhulāya
-keśava ati ānande nīrājana gāya (12)
-`,
-  "translation": ""
+sebādarśe narahari cāmara ḍhulāya |
+keśava ati ānande nīrājana gāya ||12||`
 })

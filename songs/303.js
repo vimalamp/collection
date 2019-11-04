@@ -1,40 +1,41 @@
 push({
   "title": "gopīnātha, āmāra upāya nāi",
-  "author": "vinode",
+  "id": 303,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-kṛṣṇa vijñapti",
   "language": "bengali",
   "verses": `
-gopīnātha, āmāra upāya nāi
-tumi kṛpā kari’, āmāre laile,
-        saṁsāre uddhāra pāi (1)
+gopīnātha, āmāra upāya nāi |
+tumi kṛpā kôri’,    āmāre lô_ile,
+saṁsāre uddhāra pāi ||1||
 
-gopīnātha, paḍechi māyāra phere
-dhana-dārā-suta, ghireche āmāre,
-        kāmete rekheche jere (2)
+gopīnātha, paḓechi māyāra phere |
+dhana-dārā-suta,    ghireche āmāre,
+kāmete rekheche jere ||2||
 
-gopīnātha, mana je pāgala mora
-nā māne śāsana, sadā acetana,
-        viṣaye ra’yeche ghora (3)
+gopīnātha, mana ĵe pāgala mora |
+nā māne śāsana,    sadā acetana,
+biṣaye ra’yeche ghora ||3||
 
-gopīnātha, hāra je menechi āmi
-aneka yatana, haila viphala,
-        ekhana bharasā tumi (4)
+gopīnātha, hāra ĵe menechi āmi |
+aneka ĵatana,    hô_ilô biphala,
+ekhôna bharasā tumi ||4||
 
-gopīnātha, kemane haibe gati
-prabala indriya, vaśībhūta mana,
-        nā chāḍe viṣaya-rati (5)
+gopīnātha, kemône hô_ibe gati |
+prabala indriya-,    baśībhūta mana,
+nā chāḓe biṣaya-rati ||5||
 
-gopīnātha, hṛdaye vasiyā mora
-manake śamiyā, laha nija-pāne,
-        ghucibe vipada ghora (6)
+gopīnātha, hṛdaye bôsiyā mora |
+manake śamiyā,    lahô nija-pāne,
+ghucibe bipada ghora ||6||
 
-gopīnātha, anātha dekhiyā more
-tumi hṛṣīkeśa, hṛṣīka damiyā,
-        tāra’ he saṁsṛti-ghore (7)
+gopīnātha, anātha dekhiyā more |
+tumi hṛṣīkeśa,    hṛṣīka damiyā,
+tāra’ he saṁsṛti-ghore ||7||
 
-gopīnātha, galāya legeche phāsa
-kṛpā-asi dhari’, bandhana chediyā,
-        <b>vinode</b> karaha dāsa (8)
-`,
-  "translation": ""
+gopīnātha, galāya legeche phā̃sa |
+kṛpā-asi dhôri’,    bandhana chediyā,
+vinode karahô dāsa ||8||
+
+śabdārtha:- hṛṣīka—indriya; saṁsṛti—saṁsāra |`
 })

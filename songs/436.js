@@ -1,10 +1,10 @@
 push({
   "title": "bholā mana, eka-bāra bhāva pariṇāma",
+  "id": 436,
   "author": "Unknown",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `
-bholā mana, eka-bāra bhāva pariṇāma
+  "verses": `bholā mana, eka-bāra bhāva pariṇāma
 bhaja kṛṣṇa, kaha kṛṣṇa,
         laha kṛṣṇa-nāma (1)
 
@@ -31,7 +31,5 @@ kena bhāi michāmichi haicha phāphara (8)
 
 kahe e adhama dāsa ghucibe vikāra
 nāma bhaja, nāma cinta,
-        nāma kara sāra (9)
-`,
-  "translation": ""
+        nāma kara sāra (9)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "śrīmatī rādhikā–kṛṣṇa-kāntā-śiromaṇi",
+  "id": 402,
   "author": "śrīla sarasvatī ṭhākura",
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
-  "verses": `
-<i>kṛṣṇasyoccaiḥ praṇaya-vasatiḥ preyasībhyo’pi rādhā-
+  "verses": `<i>kṛṣṇasyoccaiḥ praṇaya-vasatiḥ preyasībhyo’pi rādhā-
     kuṇḍaṁ cāsyā munibhir-abhitas-tādṛg-eva vyadhāyi
 yat preṣṭhyair-apy-alam-asulabhaṁ kiṁ punar-bhakti-bhājāṁ
     tat premedaṁ sakṛd-api saraḥ snātur-āviṣkaroti</i>
@@ -40,7 +40,5 @@ bhaktivinoda-prabhu-anuga je-jana
 dayita-dāsera tā’ra pade nivedana (10)
 
 dayā kari’, doṣa hari’, bala, ‘hari! hari!’
-‘upadeśāmṛta’-vāri śiropari dhari’ (11)
-`,
-  "translation": ""
+‘upadeśāmṛta’-vāri śiropari dhari’ (11)`
 })

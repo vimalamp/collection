@@ -1,27 +1,28 @@
 push({
-  "title": "jatane jateka dhana, pāpe vaṭāralo",
+  "title": "ĵatane ĵateka dhana",
+  "id": 323,
   "author": "vidyāpati",
   "category": "śrī-kṛṣṇe ātma-nivedana",
   "language": "bengali",
   "verses": `
-jatane jateka dhana, pāpe vaṭāralo,
-        meli meli parijana khāya
-maraṇaka veri, koi nā puchai,
-        karama saṅge cali jāya (1)
+ĵatane ĵateka dhana,    pāpe baṭāralo,
+meli meli parijana khāya|
+maraṇaka beri,    koi nā pucha_i,
+karama saṅge cali ĵāya ||1||
 
-e hari vando tuyā pada-nāya
-tuyā pada parihari, pāpa-payonidhi,
-        pāra haba kon upāya (2)
+e hari bando tuŵā pada-nāya |
+tuŵā pada parihari,    pāpa-payonidhi,
+pārô habô kon_ upāya ||2||
 
-jāvata janama hāma, tuyā pada nā sevinu,
-        yuvatī matimaya meli
-amṛta tyaji kiye, halāhala piyanu,
-        sampade vipadahi bheli (3)
+ĵābata janama hāma,    tuŵā pada nā sebinu,
+ĵubatī matimaya meli |
+amṛta tyaji kiye,    halāhala piyanu,
+sampade bipadahi bheli ||3||
 
-bhaṇahu <b>vidyāpati</b>, leha mane gaṇi,
-        kahile ki bāḍhaba kāje
-sājhaka veri, seva koi māgai,
-        heraite tuyā pada lāje (4)
-`,
-  "translation": ""
+bhaṇahũ vidyāpati,    lehô mane gaṇi,
+kahile ki bāḓhabô kāje |
+sā̃jhaka beri,    seba koi māga_i,
+hera_ite tuŵā pada lāje ||4||
+
+śabārtha:- baṭāralo—sañcaya kôrilāma; beri—samaya; meli—saṅge; kiye—katô; bheli—hô_ilô; lehô—praṇaya; sā̃jhaka—sandhyā; seba—ārādhya |`
 })

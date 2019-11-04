@@ -1,10 +1,10 @@
 push({
   "title": "hede he! nāgara bara śuna he mūralīdhara",
+  "id": 276,
   "author": "narottama-dāsa",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-hede he! nāgara bara śuna he mūralīdhara
+  "verses": `hede he! nāgara bara śuna he mūralīdhara
         nivedana kari tuyā pāya
 caraṇa nakhara maṇi yena cāṅdera gāṅthani
         bhāla śobhe āmāra galāya (1)
@@ -32,7 +32,5 @@ ki mora manera sādha vāmana haye cāṅda hāta
 <b>narottama-dāsa</b> kaya śuna ahe dayāmaya
         tumī āmāya nā chāḍiha dayā
 je dina tomāra bhāve āmāra e deha jābe
-        sei dine diya pada chāyā (6)
-`,
-  "translation": ""
+        sei dine diya pada chāyā (6)`
 })

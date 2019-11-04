@@ -1,10 +1,10 @@
 push({
   "title": "śavīra nandana gorā e cāda vayāne",
+  "id": 575,
   "author": "vamśīvadane",
   "category": "goṣṭhalīḷā",
   "language": "bengali",
-  "verses": `
-śavīra nandana gorā e cāda vayāne
+  "verses": `śavīra nandana gorā e cāda vayāne
 dhavalī śāṅlī vali ḍāke ghane ghane (1)
 
 bujhiyā bhāvera gati nityānanda rāya
@@ -20,7 +20,5 @@ dekhiyā gairāṅga rūpa premera āveśa
 śire cuḍā śikhi-pākhā naṭavara veśa (5)
 
 caraṇe nūpūra bāje sarvāṅge candana
-<b>vamśīvadane</b> kahe cala govardhana (6)
-`,
-  "translation": ""
+<b>vamśīvadane</b> kahe cala govardhana (6)`
 })

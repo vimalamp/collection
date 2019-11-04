@@ -1,10 +1,10 @@
 push({
   "title": "jayare jayare jaya, parama-haṁsa mahāśaya",
+  "id": 105,
   "category": "śrīla-prabhupāda-vandanā",
   "author": "Unknown",
   "language": "bengali",
-  "verses": `
-jayare jayare jaya, parama-haṁsa mahāśaya,
+  "verses": `jayare jayare jaya, parama-haṁsa mahāśaya,
         śrī-bhaktisiddhānta sarasvatī
 gosvāmī ṭhākura jaya, parama karuṇāmaya,
         dīna-hīna agatira gati (1)
@@ -106,7 +106,5 @@ kalitama-vināśite, ānilena avanīte,
 kara kṛpā vitaraṇa, premasudhā anukṣaṇa,
         mātiyā uṭhuka jīvagaṇa
 harināma-saṅkīrtane, nācuka jagata-jane,
-        vaiṣṇava-dāsera nivedana (21)
-`,
-  "translation": ""
+        vaiṣṇava-dāsera nivedana (21)`
 })

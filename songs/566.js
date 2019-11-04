@@ -1,38 +1,37 @@
 push({
-  "title": "śrīvāsa-vacana, śravaṇa kariyā",
-  "author": "bhaktivinoda",
+  "title": "śrīvāsa-bacana",
+  "id": 566,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
-śrīvāsa-vacana, śravaṇa kariyā,
-        sādhvī pati-vratāgaṇa
-śoka parihari’, mṛta śiśu rākhi’,
-        hari-rase dila mana (1)
+śrīvāsa-bacana,    śrabaṇa kôriyā,
+sādhvī patibratāgaṇa |
+śoka parihari’,    mṛta śiśu rākhi’,
+hari-rase dilô mana ||1||
 
-śrīvāsa takhana, ānande mātiyā,
-        aṅgane āila punaḥ
-nāce gorā-sane, sakala pāsari,
-        gāya nandasuta-guṇa (2)
+śrīvāsa takhôna,    ānande mātiyā,
+aṅgane āilô punaḥ |
+nāce gorā-sane,    sakala pāsari,
+gāya nandasuta-guṇa ||2||
 
-cāri daṇḍa rātre, marila kumāra,
-        aṅgane keha nā jāne
-śrī-nāma-maṅgale, tṛtīya prahara,
-        rajanī atīta gāne (3)
+cāri daṇḍa rātre,    môrilô kumāra,
+aṅgane kehô nā jāne |
+śrīnāma-maṅgale,    tṛtīya prahara,
+rajanī atīta gāne ||3||
 
-kīrtana bhāṅgile, kahe gaura-hari,
-        āji kena pāi duḥkha?
-bujhi, ei gṛhe, kichu amaṅgala,
-        ghaṭiyā harila sukha (4)
+kīrttana bhāṅgile,    kahe gaurahari,
+āji kena pāi duḥkha? 
+bujhi, ei gṛhe,    kichu amaṅgala,
+ghaṭiyā harilô sukha ||4||
 
-tabe bhakta-jana, nivedana kare,
-        śrīvāsa-śiśura kathā
-śuni’ gorārāya, bale, hāya hāya,
-        marame pāinu vyathā (5)
+tabe bhaktajana,    nibedana kare,
+śrīvāsa-śiśura kathā |
+śuni’ gorārāya,    bôle, hāya hāya,
+marame pāinu byathā ||5||
 
-keha nā kahile, āmāre takhana,
-        vipad-saṁvāda sabe
-<b>bhaktivinoda</b>, bhakata-vatsala,
-        snehete majila tabe (6)
-`,
-  "translation": ""
+kehô nā kahile,    āmāre takhôna,
+bipada-saṁbāda sabe |
+bhakativinoda,    bhakata-bat.sala,
+snehete majilô tabe ||6||`
 })

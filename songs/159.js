@@ -1,11 +1,11 @@
 push({
   "title": "dekhite gaurāṅga-candra",
+  "id": 159,
   "author": "vṛndāvana-dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
-  "verses": `
-dekhite gaurāṅga-candra
+  "verses": `dekhite gaurāṅga-candra
 nadīyāra loka, śoka saba nāśala,
         dine dine bāḍala ānanda (1)
 
@@ -17,7 +17,5 @@ pahu bhela parakāśa, bhuvana catur-daśa,
 dundubhi bāje, śata śaṅkha gāje,
         bāje veṇu-viṣāṇa
 śrī-caitanya-ṭhākura, nityānanda-prabhu,
-        <b>vṛndāvana-dāsa</b> gāna (3)
-`,
-  "translation": ""
+        <b>vṛndāvana-dāsa</b> gāna (3)`
 })

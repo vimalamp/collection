@@ -1,28 +1,25 @@
 push({
-  "title": "bhajahu re mana, śrī-nanda-nandana",
-  "author": "govinda-dāsa",
+  "title": "bhajahũ re mana",
+  "id": 435,
+  "author": "govindadāsa kavirāja",
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
-bhajahu re mana, śrī-nanda-nandana,
-        abhaya caraṇāra-vinda re
-durlabha mānava-, janama sat-saṅge,
-        taraha e bhava-sindhu re (1)
-
-śīta ātapa, vāta variṣaṇa,
-        e dina yāminī jāgi’ re
-viphale sevinu, kṛpaṇa durajana,
-        capala sukha-lava lāgi’ re (2)
-
-e dhana, jauvana, putra-parijana,
-        ithe ki āche paratīti re
-kamala-dala-jala, jīvana ṭalamala,
-        bhajahu hari-pada niti re (3)
-
-śravaṇa, kīrtana, smaraṇa, vandana, pāda-sevana,
-        dāsya re
-pūjana sakhī-jana, ātma-nivedana,
-        <b>govinda-dāsa </b>abhilāṣa re (4)
-`,
-  "translation": ""
+bhajahũ re mana,    śrīnandanandana,
+abhaya caraṇārabinda re |
+durllabha mānaba-,    janama sat.saṅge,
+tarahô e bhabasindhu re ||1||
+śīta-ātapa,    bāta-bariṣaṇa,
+e dina ĵāminī jāgi’ re |
+biphale sebinu,    kṛpaṇa durajana,
+capala sukha-laba lāgi’ re ||2||
+e dhana, ĵaubana,    putra-parijana,
+ithe ki āche paratīti re |
+kamaladala-jala,    jībana ṭalamala,
+bhajahũ haripada niti re ||3||
+śrabaṇa, kīrttana,    smaraṇa, bandana,
+pādasebana, dāsya re |
+pūjana, sakhījana,    ātmanibedana,
+govindadāsa abhilāṣa re ||4||
+śabdārtha:- ĵāminī—rātri; paratīti—pratīti, biśvāsa; kamaladala—padmapatra|`
 })

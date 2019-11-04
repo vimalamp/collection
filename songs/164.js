@@ -1,11 +1,11 @@
 push({
   "title": "phālgunī pūrṇima tithi subhaga sakali",
+  "id": 164,
   "author": "Unknown",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
-  "verses": `
-phālgunī pūrṇima tithi subhaga sakali
+  "verses": `phālgunī pūrṇima tithi subhaga sakali
 janama labhilā gorā paḍe hulāhuli (1)
 
 ambare amara sabhe bhela unamukha
@@ -24,7 +24,5 @@ sei kāle candra rāhu karilā grahaṇa
 hari hari dhvani uṭhe bhariyā bhuvana (6)
 
 dīna hīna uddhāra haibe bhela āśa
-dekhiyā ānande bhāse jagannātha dāsa (7)
-`,
-  "translation": ""
+dekhiyā ānande bhāse jagannātha dāsa (7)`
 })

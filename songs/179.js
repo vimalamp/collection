@@ -1,29 +1,28 @@
 push({
-  "title": "śacī-suta gaura-hari, navadvīpe avatari’",
-  "author": "dāsa narahari",
+  "title": "śacīsuta gaurahari",
+  "id": 179,
+  "author": "naraharidāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-guṇa-varṇana",
   "language": "bengali",
   "verses": `
-śacī-suta gaura-hari, navadvīpe avatari’,
-        karilena vividha vilāsa
-saṅge laiyā priya-gaṇa, prakāśiyā saṅkīrtana,
-        bāḍhāilā sabāra ullāsa (1)
+śacīsuta gaurahari,    navadvīpe abatari,
+kôrilena bibidha bilāsa |
+saṅge laiyā priyagaṇa,    prakāśiyā saṅkīrttana,
+bāḓhāilā sabāra ullāsa ||1||
 
-kibā se sannyāsa-veśe, brami prabhu deśe deśe,
-        nīlācale āsiyā rahila
-rādhikāra preme māti’, nā jāni divārāti,
-        se preme jagat mātāilā (2)
+kibā se sannyāsabeśe,    bhrami prabhu deśe deśe,
+nīlācale āsiyā rahilā |
+rādhikāra preme māti’,    nā jāni dibārāti,
+se preme jagat. mātāilā ||2||
 
-nityānanda-balārāma, advaita–guṇera dhāma,
-        gadādhara śrīvāsādi yata
-dekhi’ se adbhuta rīti, keha nā dharaye dhṛti,
-        premāya vihvala avirata (3)
+nityānanda–balarāma,    advaita–guṇera dhāma,
+gadādhara śrīvāsādi ĵatô |
+dekhi se adbhuta rīti,    kehô nā dharaye dhṛti,
+premāya bihbala abirata ||3||
 
-devera durllabha ratna, milāilā kari’ yatna,
-        kṛpāra bālāi laiyā mari
-kailā kali-yuga dhanya, prabhu śrī-kṛṣṇa-caitanya,
-        yaśa gāya <b>dāsa narahari</b> (4)
-`,
-  "translation": ""
+debera durllabha ratna,    milāilā kôri’ ĵatna,
+kṛpāra bālāi lô_iyā mari |
+kailā kaliĵuga dhanya,    prabhu śrīkṛṣṇacaitanya,
+ĵaśa gāya dāsa narahari ||4||`
 })

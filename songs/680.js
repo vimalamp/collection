@@ -1,35 +1,34 @@
 push({
-  "title": "o hari, mai kiya chārilu tomāra seyā",
-  "author": "Unknown",
+  "title": "o hari, ma_i ki.ya chārilu",
+  "id": 680,
+  "author": "lekhaka ajānā",
   "category": "asamīyā-kīrtana",
   "language": "assamese",
   "verses": `
-o hari, mai kiya chārilu tomāra seyā
-lainu śaraṇa, dāsa kari loyā (1)
+o hari, ma_i ki.ya chārilu tomāra se.yā | 
+la_inu śaraṇa, dāsa kôri lo.yā ||1||
 
-nadīre nāchāre talalai gamana
-mairāi nāchāre āpona pekhana (2)
+nadī.ye nāchāre talalai gamana | 
+mairāi nāchāre āpona pekhana ||2||
 
-vagalī nāchāre dhyānara bhāonā
-cātake nāchāre pānīra kāmanā (3)
+bagalī nāchāre dhyānara bhāonā | 
+cātake nāchāre pānīra kāmanā ||3||
 
-hastīye nāchāre nijara gamana
-dharmīye nāchāre āpona dharama (4)
+hastīre nāchāre nijara gamana | 
+dharmmī.ye nāchāre āpona dharama ||4||
 
-ḍāuke nāchāre koyā koyā vāṇī
-rāmakoṅenāchāre rāmara kāhinī (5)
+ḍāuke nāchāre ko.yā ko.yā vāṇī | 
+rāmako~ṅe nāchāre rāmara kāhinī ||5||
 
-satīye nāchāre nijapati-seyā
-sādhure nāchāre āponāra dayā (6)
+satī.ye nāchāre nijapati-se.yā | 
+sādhu.ye nāchāre āponāra da.yā ||6||
 
-yogīye nāchāre yogera abhyāsa
-bhakate nāchāre bhakatera pāśa (7)
+yogī.ye nāchāre yogera abhyāsa | 
+bhakate nāchāre bhakatera pāśa ||7||
 
-bhane nimānanda śunā mora mana
-bhakti jīvara svabhāva āpona (8)
+bhane nimānanda śunā mora mana | 
+bhakati jīvera svabhāva āpona ||8||
 
-bhakti virodhī kariyā karama
-nahavi hi tai paśuto adhama (9)
-`,
-  "translation": ""
+bhakati virodhī kôri.yā karama | 
+nahabi hi ta_i paśuto adhama ||9||`
 })

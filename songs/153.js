@@ -1,32 +1,36 @@
 push({
-  "title": "gajendra-gamane nitāi calaye manthare",
-  "author": "devakīnandane",
+  "title": "gajendragamane nitāi",
+  "id": 153,
+  "author": "devakīnandana dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
   "verses": `
-gajendra-gamane nitāi calaye manthare
-yā’re dekhe tā’re bhāsāya premera pāthāre (1)
+gajendragamane nitāi calaye manthare |
+ĵā’re dekhe tā’re bhāsāya premera pāthāre ||1||
 
-patita durgata pāpīra ghare ghare giyā
-brahmāra durllabha prema dicchena yāciyā (2)
+patita durgata pāpīra ghare ghare giyā |
+brahmāra durllabha prema dicchena ĵāciyā ||2||
 
-je nā laya, tā’re kaya dante tṛṇa dhari’
-‘āmāre kiniyā lao, bala gaura-hari (3)
+ĵe nā laya, tā’re kaya dante tṛṇa dhôri’ |
+‘āmāre kiniyā lao, bôlô gaurahari ||3||
 
-to’ sabāra lāgiyā kṛṣṇera avatāra
-śuna bhāi, gaurāṅga-sundara nadīyāra (4)
+to’ sabāra lāgiyā kṛṣṇera abatāra |
+śunô bhāi, gaurāṅgasundara nadīyāra ||4||
 
-je pahu gokula-pure nandera kumāra
-        to’ sabāra lāgi’ ebe kaila avatāra’
-śuniyā kādaye pāpī caraṇe dhariyā
-        pulake pūrala aṅga gara gara hiyā (5)
+ĵe pãhu gokulapure nandera kumāra |
+to’ sabāra lāgi’ ebe kailô abatāra ||5||’
 
-tā’re kole kari’ nitāi jāi ānaṭhāma
-hena-mate preme bhāsāola pura-grāma (6)
+śuniyā kā̃daye pāpī caraṇe dhôriyā |
+pulake pūralô aṅga gara gara hiyā ||6||
 
-<b>devakīnandane</b> bole mui abhāgiyā
-ḍubilu viṣaya-kūpe nitāi nā bhajiyā (7)
-`,
-  "translation": ""
+tā’re kole kôri’ nitāi ĵāi ānaṭhāma |
+henômate preme bhāsāolô pura-grāma ||7||
+
+devakīnandane bole mui abhāgiyā |
+ḍubilũ biṣaya-kūpe nitāi nā bhajiyā ||8||
+
+śabdārtha:- pāthāra—sāgara; ānaṭhāma—āpana sthāna
+
+`
 })

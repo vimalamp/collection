@@ -1,10 +1,10 @@
 push({
   "title": "jitaṁ ta ātma-vid-varya -svastaye svastir astu me",
+  "id": 89,
   "category": "śrī-rudra-gīta",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `
-jitaṁ ta ātma-vid-varya -svastaye svastir astu me
+  "verses": `jitaṁ ta ātma-vid-varya -svastaye svastir astu me
 bhavatārādhasā rāddhaṁ sarvasmā ātmane namaḥ (1)
 
 namaḥ paṅkaja-nābhāya bhūta-sūkṣmendriyātmane
@@ -166,7 +166,5 @@ idaṁ yaḥ kalya utthāya prāñjaliḥ śraddhayānvitaḥ
 gītaṁ mayedaṁ naradeva-nandanāḥ
     parasya puṁsaḥ paramātmanaḥ stavam
 japanta ekāgra-dhiyas tapo mahat
-    caradhvam ante tata āpsyathepsitam (47)
-`,
-  "translation": ""
+    caradhvam ante tata āpsyathepsitam (47)`
 })

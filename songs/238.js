@@ -1,10 +1,10 @@
 push({
   "title": "kusumita vṛndāvane, nācata śikhi-gaṇe",
+  "id": 238,
   "author": "narottama",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
-  "verses": `
-kusumita vṛndāvane, nācata śikhi-gaṇe,
+  "verses": `kusumita vṛndāvane, nācata śikhi-gaṇe,
         pika-kula, bhramara-jhaṇkāra
 priya-sahacarī saṇge, gāiyā jāiba raṇge,
         manohara nikuñja-kuṭīre (1)
@@ -41,7 +41,5 @@ adhara-sudhā-rase, tāmbūla-suvāse,
 śrī-guru-karuṇā-sindhu, lokanātha dīna-bandhu,
         mui dīne kara avadhāna
 rādhā-kṛṣṇa, vṛndāvana, priya-narma-sakhī-gaṇa,
-        <b>narottama</b> māge ei dāna (8)
-`,
-  "translation": ""
+        <b>narottama</b> māge ei dāna (8)`
 })

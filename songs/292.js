@@ -1,41 +1,42 @@
 push({
-  "title": "janama saphala tā’ra, kṛṣṇa daraśana jā’ra",
-  "author": "Unknown",
+  "title": "janama saphala tā’ra",
+  "id": 292,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-kṛṣṇa-rūpa-varṇana",
   "language": "bengali",
   "verses": `
-janama saphala tā’ra, kṛṣṇa daraśana jā’ra,
-        bhāgya haiyāche eka-bāra
-vikaśiyā hṛn-nayana, kari’ kṛṣṇa daraśana,
-        chāḍe jīva citera vikāra (1)
+janama saphala tā’ra,    kṛṣṇa daraśana ĵā’ra,
+bhāgye hô_iyāche ekabāra |
+bikaśiyā hṛnnayana,    kôri’ kṛṣṇa-daraśana,
+chāḓe jība cittera bikāra ||1||
 
-vṛndāvana-keli-catura vanamālī
-tribhaṅga-bhaṅgima-rūpa, vaṁśī-dhārī aparūpa,
-        rasa-mayanidhi, guṇaśālī (2)
+vṛndāvana-kelicatura banamālī |
+tribhaṅga-bhaṅgima rūpa,    baṁśīdhārī aparūpa,
+rasamayanidhi guṇaśālī ||2||
 
-varṇa nava-jaladhara, śire śikhi-picchavara,
-        alakā tilaka śobhā pāya
-paridhāne pītavāsa, vadane madhura hāsa,
-        hena rūpa jagata mātāya (3)
+barṇa nabajaladhara,    śire śikhipicchabara,
+alakā tilaka śobhā pāya |
+paridhāne pītabāsa,    badane madhura hāsa,
+henô rūpa jagata mātāya ||3||
 
-indranīla-jini’, kṛṣṇa-rūpa-khāni,
-        heriyā kadamba-mūle
-mana ucāṭana, nā cale caraṇa,
-        saṁsāra gelāma bhule (4)
+indranīla jini’,    kṛṣṇarūpakhāni,
+heriyā kadambamūle |
+mana ucāṭana,    nā cale caraṇa,
+saṁsāra gelāma bhule ||4||
 
-(sakhi he) sudhā-maya, se rūpa-mādhurī
-dekhile nayana, haya acetana,
-        jhare prema-maya vāri (5)
+(sakhi he) sudhāmaya, se rūpamādhurī |
+dekhile nayana,    haya acetana,
+jhare premamaya bāri ||5||
 
-kibā cūḍā śire, kibā vaṁśī kare,
-        kibā se tri-bhaṅga-ṭhāma
-caraṇa-kamale, amiyā uchale,
-        tāhāte nūpuradāma (6)
+kibā cūḓā śire,    kibā baṁśī kare,
+kibā se tribhaṅga-ṭhāma |
+caraṇakamale,    amiyā uchale,
+tāhāte nūpuradāma ||6||
 
-sadā āśā kari’, bhṛṅga-rūpa dhari’,
-        caraṇa-kamale sthāna
-anāyāse pāi, kṛṣṇa-guṇa gāi,
-        āra nā bhajiba āna (7)
-`,
-  "translation": ""
+sadā āśā kôri’,    bhṛṅgarūpa dhôri’,
+caraṇakamale sthāna |
+anāyāse pāi,    kṛṣṇaguṇa gāi,
+āra nā bhajibô ānô ||7||
+
+śabdārtha:- hṛnna.yana—hṛdayacakṣu; indranīla—nīlabarṇera śreṣṭha maṇi; ucāṭana—byākula |`
 })

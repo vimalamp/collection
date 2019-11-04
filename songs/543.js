@@ -1,33 +1,35 @@
 push({
-  "title": "ciyaḍera dvaita jini karena sthāpana",
+  "title": "cijjaḓera dvaita ĵini",
+  "id": 543,
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "prayojana-vijñāna-upalabdhi",
   "language": "bengali",
   "verses": `
-ciyaḍera dvaita jini karena sthāpana
-        jaḍīya kutarkabale hāya!
-bramajāla tā’ra buddhi kare ācchādana,
-        vijñāna-āloka nāhi tāya (1)
+cijjaḓera dvaita ĵini karena sthāpana, 
+jaḓīya kutarkabale hāya! 
+bhramajāla tā’ra buddhi kare ācchādana,
+bijñāna-āloka nāhi tāya ||1||
 
-citattbe ādarśa bali’ jāne jei jane
-        jaḍe anukṛti, bali’ māni’,
-tāhāra vijñāna śuddha-rahasya-sādhane
-        samartha baliyā āmi jāni (2)
+cittattve ādarśa bôli’ jāne ĵei jane,
+jaḓe anukṛti bôli’ māni |
+tāhāra bijñāna śuddha-rahasya-sādhane, 
+samartha bôliyā āmi jāni ||2||
 
-ataeva e jagate jāhā lakṣya haya
-        vaikunṭera jaḍa anukṛti
-nirddoṣa vaikunṭagata-satā-samudaya
-        sadoṣa jaḍīya parimiti (3)
+ataeba e jagate ĵāhā lakṣya haya, 
+vaikuṇṭhera jaḓa anukṛti |
+nirddoṣa vaikuṇṭhagata-sattā-samudaya, 
+sadoṣa jaḓīya parimiti ||3||
 
-vaikunṭa-nilaye jei aprākṛta rati
-        sumadhura mahābhāvāvadhi
+vaikuṇṭha-nilaye ĵei aprākṛta rati— 
+sumadhura mahābhābābadhi |
 tā’ra tuccha anukṛti puruṣa-prakṛti-
-        saṅga-sukha-saṁkleśa-jaladhi (4)
+saṅgasukha—saṁkleśa-jaladhi ||4||
 
-aprākṛta siddha-deha kariyā āśraya
-        sahaja-samādhi-yogabale
-sādhaka prakṛti-bhāve śrī-nanda-tanaya
-        bhajena sarvadā kautūhale (5)
-`,
-  "translation": ""
+aprākṛta siddha deha kôriyā āśraya, 
+sahaja-samādhi-ĵogabale |
+sādhaka prakṛti-bhābe śrīnandatanaya 
+bhajena sarbbadā kautūhale ||5||`,
+  "translation": {
+    "bn": "śabdārtha:- dvaita—bheda; ādarśa—mūlabimba; anukṛti—anukaraṇa"
+  }
 })

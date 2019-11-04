@@ -1,15 +1,14 @@
 push({
-  "title": "jaya godruma-pati gorā",
-  "author": "Unknown",
+  "title": "jaya godrumapati gorā",
+  "id": 342,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
   "verses": `
-jaya godruma-pati gorā
-nitāi-jīvana, advaitera dhana,
-vṛndāvana-bhāva-vibhorā (1)
+jaya godrumapati gorā |
+nitāi-jībana,    advaitera dhana,
+vṛndāvana-bhāba-bibhorā |
 
-gadādhara-prāṇa, śrīvāsa-śaraṇa,
-kṛṣṇa-bhakta-mānasa-corā (2)
-`,
-  "translation": ""
+gadādhara-prāṇa,    śrīvāsa-śaraṇa,
+kṛṣṇabhakta-mānasa-corā ||`
 })

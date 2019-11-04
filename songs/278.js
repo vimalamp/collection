@@ -1,10 +1,10 @@
 push({
   "title": "prāṇeśvari! ei bāra karuṇā kara more",
+  "id": 278,
   "author": "narottama-dāsa",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `
-prāṇeśvari! ei bāra karuṇā kara more
+  "verses": `prāṇeśvari! ei bāra karuṇā kara more
 daśanete tṛṇa dhari añjali mastake kari ei-jana nivedana kare (1)
 
 priya-sahacarī-saṅge sevana kariba raṅge aṅge beśa karibeka sādhe
@@ -17,7 +17,5 @@ jala suvāsita kāri ratana bhṛṅgāre bhari karpūra-vāsita guyā pāna
 e-saba sājāiya dālā labaṅga mālatī-mālā bhakṣya-dravya nānā anupama (4)
 
 sakhīra iṅgita habe e-saba āniyā kabe yogāiba lalitāra kāche
-<b>narottama-dāsa</b> kaya ei jena mora haya dāṅṛhaiyā rahu sakhīra pāche (5)
-`,
-  "translation": ""
+<b>narottama-dāsa</b> kaya ei jena mora haya dāṅṛhaiyā rahu sakhīra pāche (5)`
 })

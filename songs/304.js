@@ -1,48 +1,47 @@
 push({
-  "title": "brahmāṇḍa vyāpiyā, āchaye je-jana",
-  "author": "caṇḍī-dāse",
+  "title": "brahmāṇḍa byāpiyā",
+  "id": 304,
+  "author": "caṇḍīdāsa",
   "category": "śrī-kṛṣṇa-prīti-prārthanā",
   "language": "bengali",
   "verses": `
-brahmāṇḍa vyāpiyā, āchaye je-jana,
-        keha nā dekhaye tā’re
-premera pirīti, je-jana jānaye,
-        sei se pāite pāre (1)
+brahmāṇḍa byāpiyā,    āchaye ĵe-jana,
+kehô nā dekhaye tā’re |
+premera pirīti,    ĵe-jana jānaye,
+sei se pāite pāre ||1||
 
-‘pirīti’-‘pirīti’–tinaṭī ākhara,
-        jānibe bhajana sāra
-rāga-mārge jei, bhajana karaye,
-        prāpti haibe tā’ra (2)
+‘pirīti’ ‘pirīti’,    tinaṭī ākhara,
+jānibe bhajana-sāra |
+rāga-mārge ĵei,    bhajana karaye,
+prāpti hô_ibe tā’ra ||2||
 
-mṛtikāra upare, jalera vasati,
-        tāhāra upare ḍheu
-tāhāra upare, pirīti-vasati,
-        tāhā ki jānaye keu (3)
+mṛttikāra upare,    jalera basati,
+tāhāra upare ḍheu |
+tāhāra upare,    pirīti-basati,
+tāhā ki jānaye keu ||3||
 
-rasera pirīti, rasika jānaye,
-        rasa udagārila ke?
-sakala tyajiyā, yugala haiyā,
-        goloke rahila se (4)
+rasera pirīti,    rasika jānaye,
+rasa udgārilô ke? 
+sakala tyajiyā,    ĵugala hô_iyā,
+goloke rahilô se ||4||
 
-putra-parijana, saṁsāra āpana,
-        sakala tyajiyā lekha
-pirīti karile, tāhāre pāibe,
-        manete bhāviyā dekha (5)
+putra-parijana,    saṁsāra āpana,
+sakala tyajiyā lekhô |
+pirīti kôrile,    tāhāre pāibe,
+manete bhābiyā dekhô ||5||
 
-‘pirīti’, ‘pirīti’, tinaṭī ākhara,
-        pirīti trividha mata
-bhajite bhajite, nigūḍha haile,
-        haibe ekai mata (6)
+‘pirīti’ ‘pirīti’,    tinaṭī ākhara,
+pirīti tribidha mata |
+bhajite bhajite,    nigūḓha hô_ile,
+hô_ibe eka_i mata ||6||
 
-parakīyā dhana, sakala-pradhāna,
-        yatana kariyā lai
-naiṣṭhika haiyā bhajana karile,
-        paddhati-sādhaka hai (7)
+parakīyā dhana,    sakala-pradhāna,
+ĵatana kôriyā lô_i |
+naiṣṭhika hô_iyā,    bhajana kôrile,
+paddhati-sādhaka hô_i ||7||
 
-paddhati haiyā, rasa āsvādiyā,
-        naiṣṭhike pravṛta haya
-tāhāra caraṇa, hṛdaye dhariyā,
-        dvija <b>caṇḍī-dāse</b> kaya (8)
-`,
-  "translation": ""
+paddhati hô_iyā,    rasa āsvādiyā,
+naiṣṭhike prabṛtta haya |
+tā̃hāra caraṇa,    hṛdaye dhôriyā,
+dvija caṇḍīdāse kaya ||8||`
 })

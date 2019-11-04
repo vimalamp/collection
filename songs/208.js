@@ -1,11 +1,11 @@
 push({
   "title": "āre mora āre mora gaurāṅga gosāī",
+  "id": 208,
   "author": "vallabha-dāsiyā",
   "category": "pañca-tattva-mahimā",
   "subcategory": "ākṣepa",
   "language": "bengali",
-  "verses": `
-āre mora āre mora gaurāṅga gosāī,
+  "verses": `āre mora āre mora gaurāṅga gosāī,
 dīne dayā tomā vinā kare keha nāi (1)
 
 ei ta’ brahmāṇḍa-mājhe yata reṇuprāya
@@ -18,7 +18,5 @@ hena prabhu nā bhajinu ki gati āmāra
 āpanāra mukhe dilāma jvalanta aṅgāra (4)
 
 kena vā āchaye prāṇa ki sukha lāgiyā
-<b>vallabha-dāsiyā</b> kena nā jāya mariyā (5)
-`,
-  "translation": ""
+<b>vallabha-dāsiyā</b> kena nā jāya mariyā (5)`
 })

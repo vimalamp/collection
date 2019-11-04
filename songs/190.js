@@ -1,11 +1,11 @@
 push({
   "title": "kādaye ninduka saba kari hāya hāya",
+  "id": 190,
   "author": "vṛndāvana-dāsa",
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `
-(śrī rāga)
+  "verses": `(śrī rāga)
 kādaye ninduka saba kari hāya hāya
 eka-bāra nadīyāya ele dhirava tāra pāya (1)
 
@@ -22,7 +22,5 @@ gaurangera sange jata pāriṣada-gaṇe
 tārā saba suniyāchi patita-pāvana (5)
 
 ninduka pāṣanda jata pāila prakāśa
-kādiyā ākula bhela <b>vṛndāvana-dāsa</b> (6)
-`,
-  "translation": ""
+kādiyā ākula bhela <b>vṛndāvana-dāsa</b> (6)`
 })

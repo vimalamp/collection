@@ -1,10 +1,10 @@
 push({
   "title": "kena mana, kāmere nācāo prema-prāya?",
+  "id": 433,
   "author": "śrīla bhaktivinoda ṭhākura, manaḥśikṣā",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `
-kena mana, kāmere nācāo prema-prāya?
+  "verses": `kena mana, kāmere nācāo prema-prāya?
 carma-māṁsamaya kāma, jaḍasukha avirāma,
         jaḍa viṣayete sadā dhāya (1)
 
@@ -26,7 +26,5 @@ e-krama-sādhane bhaya, kena kara’ durāśaya,
 nāṭakābhinaya prāya, sakapaṭa prema bhāya,
         tāhe mātra indriya-santoṣa
 indriya-toṣaṇa chāra, sadā kara’ parihāra,
-        chā’ḍa bhāi aparādha-doṣa (5)
-`,
-  "translation": ""
+        chā’ḍa bhāi aparādha-doṣa (5)`
 })

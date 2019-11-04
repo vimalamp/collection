@@ -1,10 +1,10 @@
 push({
   "title": "śrī-kṛṣṇa-caitanya prabhu dayā kara more",
+  "id": 226,
   "author": "narottama-dāsa",
   "category": "sagaṇa śrī-gaura-caraṇe prārthanā",
   "language": "bengali",
-  "verses": `
-śrī-kṛṣṇa-caitanya prabhu dayā kara more
+  "verses": `śrī-kṛṣṇa-caitanya prabhu dayā kara more
 tomā’ vinā ke dayālu jagat-saṁsāre (1)
 
 patita-pāvana-hetu tava avatāra
@@ -26,7 +26,5 @@ dayā kara prabhupāda śrī-dayita-dāsa
 vaiṣṇavera kṛpā māge e adhama dāsa (7)
 
 dayā kara gurudeva patita-pāvana
-śrī caraṇe sevā māge e patita jana (8)
-`,
-  "translation": ""
+śrī caraṇe sevā māge e patita jana (8)`
 })

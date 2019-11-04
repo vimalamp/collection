@@ -1,10 +1,10 @@
 push({
   "title": "śarac-candra-brāntiṁ sphurad-amala-kāntiṁ gaja-gatiṁ",
+  "id": 15,
   "category": "śrī-nityānandāṣṭakam",
   "author": "śrīmad-vṛndāvana-dāsa-ṭhakura-viracitam",
   "language": "sanskrit",
-  "verses": `
-śarac-candra-brāntiṁ sphurad-amala-kāntiṁ gaja-gatiṁ
+  "verses": `śarac-candra-brāntiṁ sphurad-amala-kāntiṁ gaja-gatiṁ
     hari-premonmattaṁ dhṛta-parama-sattvaṁ smita-mukham
 sadā ghūrṇan-netraṁ kara-kalita-vetraṁ kalibhidaṁ
     bhaje nityānandaṁ bhajana-taru-kandaṁ niravadhi (1)
@@ -47,7 +47,5 @@ bramantaṁ mādhuryyair-ahaha! madayantaṁ pura-janān
 rasānām-ādhānaṁ rasika-vara-sad-vaiṣṇava-dhanaṁ
     rasāgāraṁ sāraṁ patita-tati-tāraṁ smaraṇataḥ
 paraṁ nityānandāṣṭakam-idam-apūrvaṁ paṭhati yas
-    tad-aṅghri-dvaṅgāvjaṁ sphuratu nitarāṁ tasya hṛdaye (9)
-`,
-  "translation": ""
+    tad-aṅghri-dvaṅgāvjaṁ sphuratu nitarāṁ tasya hṛdaye (9)`
 })

@@ -1,38 +1,37 @@
 push({
-  "title": "yoga-pīṭhopari sthita, aṣṭa-sakhī-suveṣṭita",
-  "author": "bhaktivinoda",
+  "title": "ĵogapīṭhopari sthita",
+  "id": 391,
+  "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-śikṣāṣṭaka",
   "subcategory": "adhikārī-bhede",
   "language": "bengali",
   "verses": `
-yoga-pīṭhopari sthita, aṣṭa-sakhī-suveṣṭita,
-        vṛndāraṇya kadamba-kānane
-rādhāsaha vaṁśī-dhārī, viśvajana-citahārī,
-        prāṇa mora tāhāra caraṇe (1)
+ĵogapīṭhopari sthita,    aṣṭasakhī-subeṣṭita,
+vṛndāraṇye kadamba-kānane |
+rādhāsaha baṁśīdhārī,    biśvajana-cittahārī,
+prāṇa mora tā̃hāra caraṇe ||1||
 
-sakhī-ājñāmata kari dohāra sevana
-pālya-dāsī sadā bhāvi dohāra caraṇa (2)
+sakhī-ājñāmata kôri dõhāra sebana | 
+pālyadāsī sadā bhābi dõhāra caraṇa ||2||
 
-kabhu kṛpā kari’, mama hasta dhari’,
-        madhura vacana bale
-tāmvula laiyā, khāya duijane,
-        mālā laya kutūhale (3)
+kabhu kṛpā kôri’,    mama hasta dhôri’,
+madhura bacana bôle |
+tāmbūla lô_iyā,    khāya duijane,
+mālā laya kutūhale ||3||
 
-adarśana haya kakhana ki chale
-nā dekhiyā dohe hiyā mora jvale (4)
+adarśana haya kakhôna ki chale | 
+nā dekhiyā dõhe hiyā mora jvale ||4||
 
-jekhāne sekhāne, thākuka du’jane,
-        āmi ta’ caraṇa-dāsī
-milane ānanda, virahe jātanā,
-        sakala samāna vāsi (5)
+ĵekhāne sekhāne,    thākuka du’jane,
+āmi tô’ caraṇa-dāsī |
+milane ānanda,    birahe ĵātanā,
+sakala samāna bāsi ||5||
 
-rādhā-kṛṣṇa prāṇa mora jīvane maraṇe
-more rākhi’ māri’ sukhe thākuka du’jane (6)
+rādhākṛṣṇa prāṇa mora jībane maraṇe | 
+more rākhi’ māri’ sukhe thākuka du’jane ||6||
 
-<b>bhaktivinoda</b>, āna nāhi jāne,
-        paḍi’ nija-sakhī-pāya
-rādhikāra gaṇe, thākiyā satata,
-        yugala-caraṇa cāya (7)
-`,
-  "translation": ""
+bhakativinoda,    ānô nāhi jāne,
+pôḓi’ nijasakhī-pāya |
+rādhikāra gaṇe,    thākiyā satata,
+ĵugala-caraṇa cāya ||7||`
 })

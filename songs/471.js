@@ -1,10 +1,10 @@
 push({
   "title": "jauvane jakhana, dhana-upārjane",
+  "id": 471,
   "author": "bhaktivinoda",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
-  "verses": `
-<i>dainya–trāsātmaka</i>
+  "verses": `<i>dainya–trāsātmaka</i>
 jauvane jakhana, dhana-upārjane,
         hainu vipula kāmī
 dharama smariyā, gṛhiṇīra kara,
@@ -33,7 +33,5 @@ saba samāpiyā, bhajiba tomāya,
 ebe śuna, prabhu! āmi gatihīna,
         <b>bhaktivinoda</b> kaya
 tava kṛpā vinā, sakali nirāśā,
-        deha more padāśraya (6)
-`,
-  "translation": ""
+        deha more padāśraya (6)`
 })

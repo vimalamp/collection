@@ -1,29 +1,28 @@
 push({
-  "title": "hari–e o hari rāma",
-  "author": "Unknown",
+  "title": "hari—e ohari rāma",
+  "id": 682,
+  "author": "lekhaka ajānā",
   "category": "asamīyā-kīrtana",
   "language": "assamese",
   "verses": `
-hari–e o hari rāma
-adhamaka uddhāra karāhe nārāyaṇa (1)
+hari—e ohari rāma |
+adhamaka uddhāra karāhe nārā.yaṇa ||1||
 
-dhana-jana nāmāgo mai mokṣa parasāda
-kṛpā kari karā prabhu moka ātmasāt (2)
+dhanajana nāmāgo ma_i mokṣa parasāda |
+kṛpā kôri karā prabhu moka ātmasāt. ||2||
 
-tumi jagatara svāmī sakalo tomāra
-tumi mātra dātā prabhu, dātā kon āra (3)
+tumi jagatara svāmī sakalo tomāra |
+tumi mātra dātā prabhu, dātā kon_ āra ||3||
 
-mora vuli bhāvi karo mithyā abhimāna
-dāsa kari la’le haya tāra avasāna (4)
+mora buli bhābi karo~ mithyā abhimāna |
+dāsa kôri la’le ha.ya tāra avasāna ||4||
 
-karma-doṣe jate thāko svarga vā narake
-ei kṛpā karā jena nubhulo tomāke (5)
+karmmadoṣe ĵate thāko~ svarga bā narake |
+ei kṛpā karā ĵenô nubhulo tomāke ||5||
 
-bhakti parama dhana taju bharālata
-nukhujoho āna eko tāka diyā moka (6)
+bhakati parama dhana taĵu bharālata |
+nukhujoho āna eko tāka di.yā moka ||6||
 
-taju bhakatara saṅga diyā sarvakṣaṇe
-taju nāma-guṇa śuno sadāya jena kāne (7)
-`,
-  "translation": ""
+taĵu bhakatara saṅga di.yā sarvvakṣaṇe |
+taĵu nāma-guṇa śuno sadā.ya ĵenô kāne ||7||`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "hari hari! baḍa śela marame rahila",
+  "id": 235,
   "author": "narottama-dāsa",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
-  "verses": `
-hari hari! baḍa śela marame rahila
+  "verses": `hari hari! baḍa śela marame rahila
 pāiyā durllabha tanu, śrī-kṛṣṇa-bhajana vinu,
         janma mora viphala haila (1)
 
@@ -21,7 +21,5 @@ divya-cintāmaṇi-dhāma, vṛndāvana hena sthāna,
 viśeṣa viṣaye mati, nahila vaiṣaṇve rati,
         nirantara kheda uṭhe mane
 <b>narottama-dāsa</b> kahe, jīvāra ucita nahe,
-        śrī-guru-vaiṣaṇva-sevā vine (4)
-`,
-  "translation": ""
+        śrī-guru-vaiṣaṇva-sevā vine (4)`
 })

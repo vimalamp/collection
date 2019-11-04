@@ -1,30 +1,29 @@
 push({
-  "title": "āhe nīla śaila, prabaḍa mata vāraṇa",
-  "author": "kālavega",
+  "title": "āhe nīla śa_ila",
+  "id": 683,
+  "author": "kālavega dāsa",
   "category": "śrī-śrī-jagannātha-janāna",
   "language": "oriya",
   "verses": `
-<i>[ jhāpatāla–bhairava rāga ]</i>
-āhe nīla śaila, prabaḍa mata vāraṇa
-mo ārata nalinī vanaku kara dalana (1)
+āhe nīla śa_ila, prabaḓô mata bāraṇa |
+mo ārata nalinī vanaku karô dalana ||1||
 
-gajarāja cintākalā, thāi ghora jalena
-cakrapeśī grāha nāśi uddhārila āpana (2)
+gajarāja cintākalā, thāi ghora jalena |
+cakrapeśī grāha nāśi uddhārilô āpana ||2||
 
-ghora vane mṛguṇiki paḍithilā vasana
-kete vaḍa vipatiru kari acha tāraṇa (3)
+ghora vane mṛguṇiki paḓithilā vasana |
+kete baḓa vipattiru kôri achô tāraṇa ||3||
 
-kuru-sabhātaḍe śuni draupadīra janāna
-koṭī vastra dei heḍe, lajā kala vāraṇa (4)
+kurusabhātaḓe śuni draupadīra janāna |
+koṭī vastra dei heḓe, lajjā kala vāraṇa ||4||
 
-rāvaṇara bhāi vibhīṣaṇa, galā śaraṇa
-caraṇa sambhāḍi tāku laṅke kala rājana (5)
+rāvaṇara bhāi vibhīṣaṇa, galā śaraṇa |
+caraṇa sambhāḓi tāku laṅke kala rājana ||5||
 
-prahalāda pitā se je vaḍa duṣṭa dāruṇa
-stambharu vāhāri tāku vidārila takṣaṇa (6)
+prahlāda pitā se ĵe baḓa duṣṭa dāruṇa |
+stambharu bāhāri tāku bidārilô takṣaṇa ||6||
 
-kahe <b>kālavega</b> hīna jātire mu javana
-śrī-raṅgā caraṇataḍe karu āchi janāna (7)
-`,
-  "translation": ""
+kahe kālavega hīna jātire mu ĵavana |
+śrīraṅgā̃ caraṇa taḓe karu āchi janāna ||7||`,
+  "notes": "[jhāpatāla—bhairava rāga]"
 })

@@ -1,10 +1,10 @@
 push({
   "title": "rāi-kānu yamunāra mājhe",
+  "id": 584,
   "author": "Unknown",
   "category": "naukāvihāra",
   "language": "bengali",
-  "verses": `
-rāi-kānu yamunāra mājhe
+  "verses": `rāi-kānu yamunāra mājhe
 phiraye taranī, jalera ghūraṇī,
         dūra gela kula lāje (1)
 
@@ -26,7 +26,5 @@ e bhāṅgā taraṇī, pāra hare ekhani,
 e saba vacana, śuniyā kāṇḍārī,
         kahaye lalitā pāśe
 tomāra sakhīra, paraśa māgiye,
-        vamśī śuniyā hāse (5)
-`,
-  "translation": ""
+        vamśī śuniyā hāse (5)`
 })

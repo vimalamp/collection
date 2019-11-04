@@ -1,10 +1,10 @@
 push({
   "title": "e mana! tumi se kevala bhūta",
+  "id": 456,
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `
-e mana! tumi se kevala bhūta
+  "verses": `e mana! tumi se kevala bhūta
 kusaṅga-śmaśāne, satata vasicha,
         pāiyā parama juta (1)
 
@@ -31,7 +31,5 @@ emana durddaiva, tāhāra paraśa,
 śrī-hari-caraṇa, karaha śaraṇa,
         gayā-gaṅgā saba tā’te
 kahe <b>premānanda</b>, tabe se uddhāra,
-        nahile vā habe kā’te (6)
-`,
-  "translation": ""
+        nahile vā habe kā’te (6)`
 })

@@ -1,10 +1,10 @@
 push({
   "title": "jaya re jaya re jaya ṭhākura narottama",
+  "id": 131,
   "category": "śrī-narottama prārthanā",
   "author": "govinda-dāsa",
   "language": "bengali",
-  "verses": `
-jaya re jaya re jaya ṭhākura narottama
+  "verses": `jaya re jaya re jaya ṭhākura narottama
 prema-bhakti-mahārāja yāṁke mantrī ’bhinu kalevara
 rāmacandra kavirāja prema-mukuṭa-maṇi bhūṣaṇa bhāvāvali (1)
 
@@ -21,7 +21,5 @@ tāka gaurava āpa sāṅkhya mīmāṁsaka-tarkādika yata
 malina dekhi paratāpa abhakata cauradūrahi bhāgi rahu (5)
 
 niyaḍe nāhi parakāśa dīna hīna jane-
-deyala bhakti-dhane vañcita <b>govinda-dāsa</b> (6)
-`,
-  "translation": ""
+deyala bhakti-dhane vañcita <b>govinda-dāsa</b> (6)`
 })

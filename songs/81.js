@@ -1,10 +1,10 @@
 push({
   "title": "devi! sureśvari! bhagavati! gaṅge",
+  "id": 81,
   "category": "śrī-gaṅgā-stotram",
   "author": "śrīmad-śaṇkarācārya-viracitam",
   "language": "sanskrit",
-  "verses": `
-devi! sureśvari! bhagavati! gaṅge!
+  "verses": `devi! sureśvari! bhagavati! gaṅge!
     tribhuvana-tāriṇi! tarala taraṅge
 śaṅkara-mauli-nivasini! vimale!
     mama matirāstāṁ tava padakamale (1)
@@ -72,7 +72,5 @@ madhura-manohara-pajhatikābhih
 gaṅgāstotram idaṁ bhavasāraṁ
     vāñchita-phaladaṁ vigalita-bhāram
 śaṅkara-sevaka śaṅkara-racitaṁ
-    paṭhati ca viṣayīdamiti samāptam (14)
-`,
-  "translation": ""
+    paṭhati ca viṣayīdamiti samāptam (14)`
 })
