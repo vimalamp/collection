@@ -5,6 +5,7 @@ push({
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
+
 ātmanibedana—mamatāspada dehasamarpaṇa 
 (mānasika)
 

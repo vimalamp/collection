@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "kalyana-kalpataru maṅgalācaraṇa",
   "language": "bengali",
-  "verses": `vande vṛndāṭavī-candraṁ rādhikākṣi-mahotsavam
+  "verses": `
+vande vṛndāṭavī-candraṁ rādhikākṣi-mahotsavam
 brahmātmānanda-dhik-kāri-pūrṇānanda-rasālayam (1)
 
 caitanya-caraṇaṁ vande kṛṣṇa-bhakta-janāśrayam

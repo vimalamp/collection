@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `chāḍi’ anya abhilāṣa jñāna-karma-sahāvāsa
+  "verses": `
+chāḍi’ anya abhilāṣa jñāna-karma-sahāvāsa
         ānukūlya kṛṣṇānuśīlana
 śuddha-bhakti boli’ tāre bhakti-śāstra su-vicāre
         śrī-rūpera siddhānta-vacana (1)

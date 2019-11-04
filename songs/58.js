@@ -4,7 +4,8 @@ push({
   "author": "śrīla prabodhānanda sarasvatī",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `<i>vasanta rāga</i>
+  "verses": `
+<i>vasanta rāga</i>
 vasatu mano mama madana-gopāle
 nava-rati-keli-vilāsa-parāvadhi-rādhā-surata-rasāle (1)
 

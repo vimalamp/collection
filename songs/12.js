@@ -4,7 +4,8 @@ push({
   "category": "śrīla-bhaktivinoda-daśakam",
   "author": "śrīla-bhakti-rakṣaka-śrīdhara-gosvāmī-mahārāja-viracitam",
   "language": "sanskrit",
-  "verses": `amanda-kāruṇya-guṇā-kara-śrī-
+  "verses": `
+amanda-kāruṇya-guṇā-kara-śrī-
     caitanya-devasya dayā-vatāraḥ
 sa gaura-śaktir-bhavitā punaḥ
     kiṁ padaṁ dṛśor-bhaktivinoda-devaḥ (1)

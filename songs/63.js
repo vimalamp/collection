@@ -4,7 +4,8 @@ push({
   "author": "śrī-rūpa gosvāmī",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `<i>bhairava rāga</i>
+  "verses": `
+<i>bhairava rāga</i>
 jaya jaya vallava-rāja-kumāra
 rādhā-vakṣasi hari-maṇihāra (1)
 

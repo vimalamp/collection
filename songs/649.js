@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `sthāyī bhāvāviṣṭa citta pāiyā vibhāva-vitta
+  "verses": `
+sthāyī bhāvāviṣṭa citta pāiyā vibhāva-vitta
         udbhaṭa bhāvete āpanāra
 prāṇa-vṛtte nyasa kare prāṇa sei nyāsa-bhore
         deha prati vikṛti cālāya (1)

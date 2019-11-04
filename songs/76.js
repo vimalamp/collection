@@ -4,7 +4,8 @@ push({
   "category": "śrī-vṛndā-devyaṣṭakam",
   "author": "śrīla-viśvanātha-cakravartī-ṭhākura",
   "language": "sanskrit",
-  "verses": `gāṅgeya-cāmpeya-taḍid-vinindi-
+  "verses": `
+gāṅgeya-cāmpeya-taḍid-vinindi-
     rociḥ-pravāha-snapitātma-vṛnde!
 bandhūka-bandhu-dyuti-divya-vāso
     vṛnde! numas te caraṇāravindam (1)

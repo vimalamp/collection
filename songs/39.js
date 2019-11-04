@@ -4,7 +4,8 @@ push({
   "category": "śrī-gopī-gītā",
   "author": "śrīla-jīva-goswāmī",
   "language": "sanskrit",
-  "verses": `jayati te ‘dhikaṁ janmanā vrajaḥ,
+  "verses": `
+jayati te ‘dhikaṁ janmanā vrajaḥ,
     śrayata indirā pyasya bhū-rajaḥ
 tadapi hā’jahā nastvaṁ-atra bho!
     vayaṁ-imaḥ kathaṁ vānyatāṁ prabho! (1)

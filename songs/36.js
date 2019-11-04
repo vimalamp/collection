@@ -4,7 +4,8 @@ push({
   "category": "śrī-rādhikāṣṭakam",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `tvat prema-nāma-guṇa-rūpa-sudhā-payodheḥ
+  "verses": `
+tvat prema-nāma-guṇa-rūpa-sudhā-payodheḥ
     sacchrikarapti pari-hina sukhāntarasya
 ekāṁ svakarna padaviṁ naya vāsanāṁ me
     dāsi bhavāni vṛśabhānu kumārike te (1)

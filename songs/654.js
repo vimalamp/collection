@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `sandarśana saṁsparśana jalpa vartma-nirodhana
+  "verses": `
+sandarśana saṁsparśana jalpa vartma-nirodhana
         rāsa vṛndāvana-līlā bhūri
 jala-keli yamunāya naukā-khelā cauryatāya
         ghaṭṭa-līlā kuñje lukocuri (1)

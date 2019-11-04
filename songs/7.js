@@ -4,7 +4,8 @@ push({
   "category": "śrī-keśavācāryāṣṭakam",
   "author": "śrīmad-bhaktivedānta trivikrama-mahārājena viracitam",
   "language": "sanskrit",
-  "verses": `namaḥ oṁ viṣṇu-pādāya ācārya-siṁha-rūpiṇe
+  "verses": `
+namaḥ oṁ viṣṇu-pādāya ācārya-siṁha-rūpiṇe
 śrī-śrīmad-bhaktiprajñāna-keśava-iti-nāmine (1)
 
 śrī-sarasvatya-bhīpsitaṁ sarvathā suṣṭhu-pāline

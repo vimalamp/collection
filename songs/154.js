@@ -6,6 +6,7 @@ push({
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
   "verses": `
+
 pūrabe govarddhana,    dharalô anuja ĵā̃’ra,
 jagajane kahe balarāma |
 ebe se caitanya-saṅge,    āilā kīrttana-raṅge,

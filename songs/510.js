@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>na dharmmaniṣṭho^smi na cātmavedī 
 na bhaktimāṁstvaccaraṇāravinde |
 akiñcano^nanyagatiḥ śaraṇya! 

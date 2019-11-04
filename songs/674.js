@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "hindī-kīrtana",
   "language": "hindi",
-  "verses": `jaya rādhe jaya kṛṣṇa jaya vṛndāvana,
+  "verses": `
+jaya rādhe jaya kṛṣṇa jaya vṛndāvana,
 rasika mukuṭa-maṇi jaya gopī gaṇa (1)
 
 rādhe rādhe raṭe śyāma, rādhe raṭe śyāma śyāma,

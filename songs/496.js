@@ -5,6 +5,7 @@ push({
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
+
 siddha-deha—pratikūla (trāsa o duḥkhātmaka)
 
 āmi tô svānanda-sukhadabāsī | 

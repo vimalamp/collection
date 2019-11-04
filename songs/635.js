@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `jei rati janme jāra sei mata rasa tāra
+  "verses": `
+jei rati janme jāra sei mata rasa tāra
         rasa mukhya pañca-vidha haya
 gauṇa-sapta-rasa punaḥ haya ratira anuguṇa
         ratira sambandha bhāvāśraya (1)

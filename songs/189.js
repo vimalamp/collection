@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `gorā-preme gara gara nitāi āmāra
+  "verses": `
+gorā-preme gara gara nitāi āmāra
 aruṇa-nayane bahe suradhunī-dhāra (1)
 
 bipula-pulakābalī śohe pahuṁ gāya

@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-advaita prabhura janmalīlā",
   "language": "bengali",
-  "verses": `e tina bhuvana mājhe, avanī mandala sāje
+  "verses": `
+e tina bhuvana mājhe, avanī mandala sāje
         tāhe punaḥ ati anupāma
 śoka duḥkha tāpatraya, jāra nāma śānti haya
         hena sei śāntipura grāma (1)

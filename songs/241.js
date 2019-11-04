@@ -4,7 +4,8 @@ push({
   "author": "dāsa vallabhī",
   "category": "śrī-rādhā-janmalīlā",
   "language": "bengali",
-  "verses": `priyāra janama, divasa āveśe,
+  "verses": `
+priyāra janama, divasa āveśe,
         ānanda bharala tanu
 nadīyā nagare, vṛṣabhānu pure,
         udaya karala janu (1)

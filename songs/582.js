@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "naukāvihāra",
   "language": "bengali",
-  "verses": `nā jāniye gorācādera kona bhāva mane
+  "verses": `
+nā jāniye gorācādera kona bhāva mane
 suradhunī tīre gelā sahacara sane (1)
 
 priya gadādhara ādi saṅgete kariyā

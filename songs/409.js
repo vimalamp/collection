@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 <i>are cetaḥ prodyat.-kapaṭa-kuṭināṭī-bhara-khara-
 kṣaranmūtre snātvā dahasi kathamātmānamapi mām_ |
 sadā tvaṁ gāndharvvā-giridharapada-premavilasat.-

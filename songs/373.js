@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-mahimā",
   "language": "bengali",
-  "verses": `keno hare kṛṣṇa nāma hari bole
+  "verses": `
+keno hare kṛṣṇa nāma hari bole
 mano prāṇa kāṅde nā (1)
 
 pakhi nā jāni kon aparādhe

@@ -4,7 +4,8 @@ push({
   "author": "narottame",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `śrī-rūpa paścāte āmi rahiba bhīta hañā
+  "verses": `
+śrī-rūpa paścāte āmi rahiba bhīta hañā
 dohe pūnaḥ kahibena āmā pāne cāñā (1)
 
 sadaya hṛdaye dohe kahibena hāsi

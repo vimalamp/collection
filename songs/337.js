@@ -4,7 +4,8 @@ push({
   "author": "vinoda",
   "category": "śrī-nāma-kīrtana",
   "language": "bengali",
-  "verses": `‘hari’ bala, ‘hari’ bala, ‘hari’ bala bhāi re
+  "verses": `
+‘hari’ bala, ‘hari’ bala, ‘hari’ bala bhāi re
 harināma āniyāche gaurāṅga-nitāi re (1)
 
 (modera duḥkha de’khe re)

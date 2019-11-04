@@ -5,7 +5,8 @@ push({
   "subcategory": "śrī-yugala-ārati",
   "author": "bhaktivinoda",
   "language": "bengali",
-  "verses": `jaya jaya rādhā-kṛṣṇa-yugala-milana
+  "verses": `
+jaya jaya rādhā-kṛṣṇa-yugala-milana
 ārati karaye lalitādi sakhī-gaṇa (1)
 
 madana-mohana-rūpa tri-bhaṅga-sundara

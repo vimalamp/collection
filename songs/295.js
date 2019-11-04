@@ -4,7 +4,8 @@ push({
   "author": "vinoda",
   "category": "śṛī-kṛṣṇa-guṇa-varṇana",
   "language": "bengali",
-  "verses": `bahir-mukha ha’ye, māyāre bhajiye,
+  "verses": `
+bahir-mukha ha’ye, māyāre bhajiye,
     saṁsāre hainu rāgī
 kṛṣṇa dayā-maya, prapañce udaya,
     hailā āmāra lāgi’ (1)

@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda",
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `<i>asad-vārtā-veśyā visṛja mati-sarvasva haraṇīḥ
+  "verses": `
+<i>asad-vārtā-veśyā visṛja mati-sarvasva haraṇīḥ
     kathā mukti-vyāghrā na śṛṇu kila sarvātma-gilanīḥ
 api tyaktvā lakṣmī-pati-ratim ito vyoma-nayanīṁ
     vraje rādhā-kṛṣṇau sva-rati-maṇi-dau tvaṁ bhaja manaḥ</i>

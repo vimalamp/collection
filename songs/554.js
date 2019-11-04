@@ -6,6 +6,7 @@ push({
   "subcategory": "śrīla-raghunātha-dāsa-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
+
 ĵabe rūpa-sanātana,    vraje gelā dui jana,
 śuna_ite raghunāthadāsa |
 nijarājya adhikāra,    indrasama sukha ĵā̃’ra,

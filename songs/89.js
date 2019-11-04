@@ -4,7 +4,8 @@ push({
   "category": "śrī-rudra-gīta",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `jitaṁ ta ātma-vid-varya -svastaye svastir astu me
+  "verses": `
+jitaṁ ta ātma-vid-varya -svastaye svastir astu me
 bhavatārādhasā rāddhaṁ sarvasmā ātmane namaḥ (1)
 
 namaḥ paṅkaja-nābhāya bhūta-sūkṣmendriyātmane

@@ -6,6 +6,7 @@ push({
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
   "verses": `
+
 gajendragamane ĵāya,    sakaruṇa diṭhe cāya,
 padabhare mahī ṭalamala |
 matta siṁha jini’,    kampamāna medinī,

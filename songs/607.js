@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-govinda-ārati",
   "language": "bengali",
   "verses": `
+
 bhāle gorā-gadādharera ārati nehāri |
 nadīyā-pūraba-bhābe ĵā̃u bôlihārī ||1||
 

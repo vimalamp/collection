@@ -4,7 +4,8 @@ push({
   "category": "śrī-yamunāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `bhrātur antakasya pattane ’bhipatti-hāriṇī
+  "verses": `
+bhrātur antakasya pattane ’bhipatti-hāriṇī
     prekṣayāti-pāpino ’pi pāpa-sindhu-tāriṇī
 nīra-mādhurībhir apy aśeṣa-citta-bandhinī
     māṁ punātu sarvadāravinda-bandhu-nandinī (1)

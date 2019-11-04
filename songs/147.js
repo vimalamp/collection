@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-nityānande niṣṭhā",
   "language": "bengali",
-  "verses": `nitāi āmāra parama dayāla
+  "verses": `
+nitāi āmāra parama dayāla
 āniyā premera vanya, bhagat karila dhanya
         bharila premete nahi khāla (1)
 

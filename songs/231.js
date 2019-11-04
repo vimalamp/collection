@@ -5,6 +5,7 @@ push({
   "category": "sapārṣada śrī-gaura-viraha-vilāpa",
   "language": "bengali",
   "verses": `
+
 gaurāṅgera sahacara,    śrīvāsādi gadādhara,
 narahari mukunda murāri |
 saṅge svarūpa rāmānanda,    haridāsa prema-kanda,

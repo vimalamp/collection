@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `parama caitanya hari tāṅra śakti vaneśvarī
+  "verses": `
+parama caitanya hari tāṅra śakti vaneśvarī
         parā-śakti boli’ bede gāya
 śaktimāne sevivāre śakti kāya-byūha kare
         nānā śakti tāhe bahirāya (1)

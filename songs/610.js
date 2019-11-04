@@ -5,7 +5,8 @@ push({
   "category": "sandhyārati",
   "subcategory": "śrī-tulasī-ārati",
   "language": "bengali",
-  "verses": `‘namo namaḥ tulasī kṛṣṇa-preyasī’ (namo namaḥ)
+  "verses": `
+‘namo namaḥ tulasī kṛṣṇa-preyasī’ (namo namaḥ)
 rādhā-kṛṣṇa nitya-sevā–‘ei abhilāṣī’ (1)
 
 ‘je tomāra śaraṇa laya’, sei kṛṣṇa-sevā pāya,

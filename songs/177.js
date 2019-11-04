@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-guṇa-varṇana",
   "language": "bengali",
-  "verses": `jaya jagannātha-śacī-nandana gaurāṅga pahu,
+  "verses": `
+jaya jagannātha-śacī-nandana gaurāṅga pahu,
         jaya nityānanda prema-dhāma
 jagat duḥkhita dekhi’, haiyā sakaruṇa ākhi,
         uddhārilā diyā hari-nāma (1)

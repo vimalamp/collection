@@ -4,7 +4,8 @@ push({
   "author": "govinda-dāsa",
   "category": "śrī-kṛṣṇa dainyabodhikā prārthanā",
   "language": "bengali",
-  "verses": `(śrī-rāga)
+  "verses": `
+(śrī-rāga)
 jaya jaya jaga-jana-locana-phānda
 rādhā-ramaṇa vṛndāvana-cānda (1)
 

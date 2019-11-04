@@ -4,7 +4,8 @@ push({
   "category": "śrīla gurudevera ārati",
   "author": "trivikrama",
   "language": "bengali",
-  "verses": `jaya jaya gurudeva śrī-bhaktiprajñāna
+  "verses": `
+jaya jaya gurudeva śrī-bhaktiprajñāna
 parama mohana rūpa ārta-vimocana (1)
 
 mūrtimanta śrī-vedānta aśubha-nāśana

@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaurasundare vijñapti",
   "language": "bengali",
   "verses": `
+
 ohe premera ṭhākura gorā ||dhru||
 prāṇera ĵātanā kibā kabô, nātha! 
 hayechi āpana-hārā ||1||

@@ -4,7 +4,8 @@ push({
   "category": "śrī-kṛṣṇa-stuti",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `aṅga-śyāmalima-chaṭābhir abhito mandī-kṛtendīvaraṁ
+  "verses": `
+aṅga-śyāmalima-chaṭābhir abhito mandī-kṛtendīvaraṁ
     jāḍyam-jāguḍa-rociṣām-vidadhatam-paṭṭāmbarasya śriyā
 vṛndāraṇya-vilāsinam-hṛdi lasad-dāmābhir āmodaraṁ
     rādhā-skandha-niveśitojjvala-bhujam-dhyāyema dāmodaram (1)

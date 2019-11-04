@@ -4,7 +4,8 @@ push({
   "category": "śrī-guru-paramparā",
   "author": "śrīla-kakirṇapūrānumoditā, śrīla-gopāla-bhaṭṭa-gosvāminā, śrīla-baladeva-vidyā-bhūṣaṇena coddhṛtā",
   "language": "sanskrit",
-  "verses": `śrī-kṛṣṇa-brahma-devarṣi-vādarāyaṇa-saṁjñakān
+  "verses": `
+śrī-kṛṣṇa-brahma-devarṣi-vādarāyaṇa-saṁjñakān
 śrī-madhva-śrī-padmanābha-śrīman-nṛhari-mādhavān (1)
 
 akṣobhya-jayatīrtha-śrī-jñānasindhu-dayānidhīn

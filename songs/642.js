@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `śrī-kṛṣṇe seviba boli’ gṛha chāḍi’ kuñje coli’
+  "verses": `
+śrī-kṛṣṇe seviba boli’ gṛha chāḍi’ kuñje coli’
         jāite haya abhisārī sakhī
 kuñja sajā kare jabe vāsaka sajā ha’na tabe
         utkaṇṭhita kṛṣṇa-patha lakhi’ (1)

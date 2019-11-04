@@ -4,7 +4,8 @@ push({
   "author": "govinda-dāsa",
   "category": "goṣṭhalīḷā",
   "language": "bengali",
-  "verses": `aruṇa udaya belā, jata ṣiśu haiyā melā
+  "verses": `
+aruṇa udaya belā, jata ṣiśu haiyā melā
         sabe gela nandara duyāra
 śingā venu vāśīrava, karaye rākhāla saba
         goṭhe āisa nandera kumāra (1)

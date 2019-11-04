@@ -5,6 +5,7 @@ push({
   "category": "śrī-guru-vaiṣṇave lālasāmayī prārthanā",
   "language": "bengali",
   "verses": `
+
 śrīguru-vaiṣṇava-kṛpā katô dine ha’be | 
 upādhi-rahita-rati citte upajibe ||1||
 

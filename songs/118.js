@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda",
   "category": "śrī-vaiṣṇava-kṛpā-prārthanā",
   "language": "bengali",
-  "verses": `hari hari! kabe mora haibe hena dina
+  "verses": `
+hari hari! kabe mora haibe hena dina
 bimala vaiṣṇave, rati upajibe,
         vāsanā haibe kṣīṇa (1)
 

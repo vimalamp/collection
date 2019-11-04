@@ -4,7 +4,8 @@ push({
   "category": "śrī-govinda-stotram",
   "author": "śrī-brāhma-samhita pañcama adhyāya",
   "language": "sanskrit",
-  "verses": `cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa-
+  "verses": `
+cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa-
     lakṣāvṛteṣu surabhir abhipālayantam
 lakṣmī-sahasra-śata-sambhrama-sevyamānaṁ
     govindam ādi-puruṣaṁ tam ahaṁ bhajāmi (1)

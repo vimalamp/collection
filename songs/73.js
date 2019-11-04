@@ -4,7 +4,8 @@ push({
   "category": "śrī-govardhana-vāsa-prārthanā-daśakam",
   "author": "śrīmad-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `nija-pati-bhuja-daṇḍa-cchatra-bhāvaṁ prapadya
+  "verses": `
+nija-pati-bhuja-daṇḍa-cchatra-bhāvaṁ prapadya
     prati-hata-mada-dhṛṣṭod-daṇḍa-devendra-garva
 atula-pṛthula-śaila-śreṇi-bhūpa! priyaṁ me
     nija-nikaṭa-nivāsaṁ dehi govardhana! tvam (1)

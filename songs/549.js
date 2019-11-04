@@ -6,6 +6,7 @@ push({
   "subcategory": "śrīmad-rūpa-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
+
 yaṅ_ kali rūpa śarīra na dharata |
 taṅ_ vrajaprema,    mahānidhi kuṭharīka,
 kon_ kapāṭa ughāḓata ||1||

@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `mana re, kena miche bhajicha asāra?
+  "verses": `
+mana re, kena miche bhajicha asāra?
 bhūtamaya e saṁsāra, jīvera pakṣete chāra,
         amaṅgala-samudra pāra (1)
 

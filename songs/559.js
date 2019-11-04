@@ -6,6 +6,7 @@ push({
   "subcategory": "śrīla-narotama-ṭhākurera śocaka",
   "language": "bengali",
   "verses": `
+
 o mora karuṇāmaya,    śrīṭhākura mahāśaya,
 narottama premera mūrati |
 kibā se komala tanu,    śiriṣa-kusuma janu,

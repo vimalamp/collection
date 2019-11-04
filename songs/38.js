@@ -4,7 +4,8 @@ push({
   "category": "śrī-gopī-gītā",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `jayati te ‘dhikaṁ janmanā vrajaḥ
+  "verses": `
+jayati te ‘dhikaṁ janmanā vrajaḥ
     śrayata indirā śaśvad atra hi
 dayita dṛśyatāṁ dikṣu tāvakās
     tvayi dhṛtāsavas tvāṁ vicinvate (1)

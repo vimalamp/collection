@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda",
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
-  "verses": `<i>tṛṇād-api sunīcena taror-api sahiṣṇunā
+  "verses": `
+<i>tṛṇād-api sunīcena taror-api sahiṣṇunā
 amāninā mānadena kīrtanīyaḥ sadā hariḥ</i>
 
 śrī-kṛṣṇa-kīrtane yadi mānasa tohāra

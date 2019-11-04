@@ -5,6 +5,7 @@ push({
   "category": "sambandhābhidheya-prayojana",
   "language": "bengali",
   "verses": `
+
 ore mana, bôli, śunô tattva-bibaraṇa | 
 ĵā̃hāra bismṛti-janya jībera bandhana ||1||
 

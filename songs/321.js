@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "śrī-kṛṣṇe svābhīṣṭa-lālasātmaka prārthanā",
   "language": "bengali",
-  "verses": `ei-bāra pāile dekhā caraṇa du’ khāni
+  "verses": `
+ei-bāra pāile dekhā caraṇa du’ khāni
 hiyāra mājhāre rākhi juḍāba parāṇī (1)
 
 tāṅre nā dekhiyā mora mane baḍa tāpa

@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 <i>ratiṁ gaurīlīle api tapati saundarĵyakiraṇaiḥ
 śacī-lakṣmī-satyāḥ paribhavati saubhāgyavalanaiḥ |
 vaśīkāraiścandrāvalīmukha-navīna-vrajasatīḥ

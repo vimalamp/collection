@@ -4,7 +4,8 @@ push({
   "category": "śrī-ṣaḍ-gosvāmyaṣṭakam",
   "author": "śrīla-śrīnivāsācārya-viracitam",
   "language": "sanskrit",
-  "verses": `kṛṣṇotkīrtana-gāna-nartana-parau premāmṛtāmbho-nidhī
+  "verses": `
+kṛṣṇotkīrtana-gāna-nartana-parau premāmṛtāmbho-nidhī
     dhīrādhīra-jana-priyau priya-karau nirmatsarau pūjitau
 śrī-caitanya-kṛpā-bharau bhuvi bhuvo bhārāvahantārakau
     vande rūpa-sanātanau raghu-yugau śrī-jīva-gopālakau (1)

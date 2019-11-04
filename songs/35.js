@@ -4,7 +4,8 @@ push({
   "category": "śrī-rādhikāṣṭakam",
   "author": "śrīla-kṛṣṇadāsa-kavirāja-gosvāmī-viracitam",
   "language": "sanskrit",
-  "verses": `kuṅkumākta-kāñcanābja-garvahāri-gaurabhā
+  "verses": `
+kuṅkumākta-kāñcanābja-garvahāri-gaurabhā
     pītanāñcitābja-gandha-kīrti-nindi-saurabhā
 ballaveśa-sūnu-sarva-vāñchitārtha-sādhikā
     mahyam-ātma-pāda-padma-dāsya-dāstu rādhikā (1)

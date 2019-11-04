@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 <i>na dharmmaṁ nādharmmaṁ śrutigaṇa-niruktaṁ kila kuru
 vraje rādhākṛṣṇa-pracura-paricarĵyāmiha tanu |
 śacīsūnuṁ nandīśvarapatisutatve guruvaraṁ

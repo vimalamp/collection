@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>nāvekṣase ĵadi tato bhuvanānyamuni
 nālaṁ prabho bhavitumeva kutaḥ pravṛttiḥ |
 evaṁ nisarga-suhṛdi tvayi sarvvajantoḥ

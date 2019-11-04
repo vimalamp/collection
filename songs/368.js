@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "bhajana-kīrtana",
   "language": "bengali",
-  "verses": `jaya jagannātha, jaya jagannātha,
+  "verses": `
+jaya jagannātha, jaya jagannātha,
 jaya jagannātha, jaya jagannātha (1)
 
 jaya baladeva, jaya subhadrā,

@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "anutāpa-lakṣaṇa-upalabdhi",
   "language": "bengali",
-  "verses": `ore mana, kleśa-tāpa dekhi je aśeṣa!
+  "verses": `
+ore mana, kleśa-tāpa dekhi je aśeṣa!
 avidyā, asmitā āra, abhiniveśa durvāra, rāga,
         dveṣa–ei pañca kleśa (1)
 

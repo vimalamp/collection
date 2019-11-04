@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-advaitācārya",
   "language": "bengali",
   "verses": `
+
 jaya jaya adbhuta,    so pahũ advaita,
 suradhunī sannidhāne |
 ā̃khi mudi’ rahe,    prema-nadī bahe,

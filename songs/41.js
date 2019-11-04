@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-gīta-govinda",
   "language": "sanskrit",
-  "verses": `<i>rāmakarī rāga; yati tāla</i>
+  "verses": `
+<i>rāmakarī rāga; yati tāla</i>
 harir iha mugdha-vadhū-nikare
 vilāsini vilasati keli-pare (1)
 

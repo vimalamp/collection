@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-rūpa-varṇana",
   "language": "bengali",
   "verses": `
+
 debādideba gauracandra gaurīdāsa-mandire |
 nityānanda-saṅge gaura ambikāte bihare ||1||
 

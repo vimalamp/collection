@@ -6,6 +6,7 @@ push({
   "subcategory": "rūpa-varṇana",
   "language": "bengali",
   "verses": `
+
 dekhô nitāicā̃dera mādhurī |
 pulake pūralô tanu,    kadamba keśara janu,
 bāhu tuli’ bale hari hari ||1||

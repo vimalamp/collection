@@ -4,7 +4,8 @@ push({
   "category": "śrī-guṇa-mañjaryah vijñaptih",
   "author": "śrīnivasa dāsa",
   "language": "bengali",
-  "verses": `(tathā rāga)
+  "verses": `
+(tathā rāga)
 tuhu guṇa-manjari, rupe guṇe agari,
         madhura madhura guṇa-dhāmā
 vraja-nava-yuva dvandva, prema-seva-parabandha

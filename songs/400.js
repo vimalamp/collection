@@ -5,6 +5,7 @@ push({
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
+
 <i>vaikuṇṭhājjanito varā madhupurī tatrāpi rāsot.savād_-
 vṛndāraṇyamudārapāṇi-ramaṇāttatrāpi govarddhanaḥ |
 rādhākuṇḍamihāpi gokulapateḥ premāmṛtāplāvanāt.

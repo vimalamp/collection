@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `(śrī rāga)
+  "verses": `
+(śrī rāga)
 kādaye ninduka saba kari hāya hāya
 eka-bāra nadīyāya ele dhirava tāra pāya (1)
 

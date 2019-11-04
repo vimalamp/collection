@@ -4,7 +4,8 @@ push({
   "author": "govinda-dāsa",
   "category": "śrī-kṛṣṇa dainyabodhikā prārthanā",
   "language": "bengali",
-  "verses": `(sindhuḍā-rāga)
+  "verses": `
+(sindhuḍā-rāga)
 sajani pekhalu varaja-kiśora
 piba-ite vadana-sudhākara-mādhurī mātala nayana-cakora (1)
 

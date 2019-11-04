@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>namo namo vāṅmanasātibhūmaye 
 namo namo vāṅmanasaikabhūmaye |
 namo namo^nantamahāvibhūtaye 

@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `dekha mana, vrate jena nā hao ācchanna
+  "verses": `
+dekha mana, vrate jena nā hao ācchanna
 kṛṣṇa-bhakti āśā kari’, ācha nānā vrata dhari’,
         rādhā-kṛṣṇe karite prasanna (1)
 

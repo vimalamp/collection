@@ -4,7 +4,8 @@ push({
   "author": "premānanda-dāsa",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! kise kara dehera gumāna
+  "verses": `
+ore mana! kise kara dehera gumāna
 maile dehera je-avasthā, naha ki tāhāra jñātā,
         dekhiye śuniye nahe jñāna (1)
 

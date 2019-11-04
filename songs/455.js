@@ -4,7 +4,8 @@ push({
   "author": "premānande",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! svarga naraka bujha kothā
+  "verses": `
+ore mana! svarga naraka bujha kothā
 je jemana karma kare, temani bhuñjāya tā’re,
         bhāviyā dekhile saba hethā (1)
 

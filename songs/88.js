@@ -4,7 +4,8 @@ push({
   "category": "śrī-nṛsiṁha-kavaca-stotram",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `nṛsiṁha-kavacaṁ vakṣye, prahlādenoditaṁ purā
+  "verses": `
+nṛsiṁha-kavacaṁ vakṣye, prahlādenoditaṁ purā
 sarva-rakṣa-karaṁ punyaṁ, sarvopadrava-nāśanam (1)
 
 sarva-sampat-karaṁ caiva, svarga-mokṣa-pradāyakam

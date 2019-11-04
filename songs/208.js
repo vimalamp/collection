@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "ākṣepa",
   "language": "bengali",
-  "verses": `āre mora āre mora gaurāṅga gosāī,
+  "verses": `
+āre mora āre mora gaurāṅga gosāī,
 dīne dayā tomā vinā kare keha nāi (1)
 
 ei ta’ brahmāṇḍa-mājhe yata reṇuprāya

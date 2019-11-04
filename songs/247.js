@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāse",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `hā hā prabhu! kara dayā karuṇā tomāra
+  "verses": `
+hā hā prabhu! kara dayā karuṇā tomāra
 michā māyā-jāle tanu dahiche āmāra (1)
 
 kabe hena daśā habe sakhī-saṅga pāba

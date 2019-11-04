@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>vapurādiṣu ĵo^pi ko^pi vā 
 guṇato^sāni ĵathātathāvidhaḥ |
 tadayaṁ tava pādapadmayo-

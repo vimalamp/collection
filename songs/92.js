@@ -4,7 +4,8 @@ push({
   "author": "śrī-śrīmad-bhakti-viveka bhāratī gosvāmī mahārāja-kartṛka śrīla-viśvanātha-cakravarti-ṭhākura-kṛta śrī-gurvaṣṭakera padyānuvāda",
   "category": "śrī-guru-vandanā",
   "language": "bengali",
-  "verses": `dāvānala-sama saṁsāra dahane
+  "verses": `
+dāvānala-sama saṁsāra dahane
         dagdha jīva-kula-uddhāra-kāraṇe,
 karuṇā-vārida kṛpā-vāri-dāne
         guṇa-sindhu gurura caraṇa-kamala (1)

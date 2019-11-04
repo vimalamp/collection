@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `prāṇeśvari kabe more habe kṛpa diṭhi
+  "verses": `
+prāṇeśvari kabe more habe kṛpa diṭhi
 ājñāya āniya kabe vividha phula-bara śunaba racana duhu miṭhi (1)
 
 arūṇa-kamala-dale śeṣa bichāiba basāiba kiśora-kiśorī

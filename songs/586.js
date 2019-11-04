@@ -4,7 +4,8 @@ push({
   "author": "tulasī-dāsa",
   "category": "śrī-rāmacandra",
   "language": "sanskrit",
-  "verses": `śrī-ramacandra kṛpālu bhaju mana
+  "verses": `
+śrī-ramacandra kṛpālu bhaju mana
     haraṇa bhavabhaṣa dāruṇam
 navakañja-locana, kañja-mukha kara-
     kañja pada-kañjāruṇam (1)

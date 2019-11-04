@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-rūpa-varṇana",
   "language": "bengali",
   "verses": `
+
 āre mora nācata gaurakiśora |
 hiraṇa kiraṇa jini,    o tanu sundara,
 daśa diśa sakala ujora ||1||

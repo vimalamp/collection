@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 <i>madīśānāthatve vrajavipinacandraṁ vrajavane-
 śvarīṁ tannāthatve tadatulasakhītve tu lalitām_ |
 viśākhāṁ śikṣālī-vitaraṇa-gurutve priyasaro-

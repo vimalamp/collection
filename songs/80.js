@@ -4,7 +4,8 @@ push({
   "category": "śrī-daśāvatāra-stotram",
   "author": "śrīmad-jayadeva-gosvāmī-viracitam",
   "language": "sanskrit",
-  "verses": `pralaya-payodhi-jale dhṛtavān-asi vedaṁ
+  "verses": `
+pralaya-payodhi-jale dhṛtavān-asi vedaṁ
 vihita-vahitra-caritram-akhedam
     keśava-dhṛta-mīna-śarīra jaya jagadīśa hare (1)
 

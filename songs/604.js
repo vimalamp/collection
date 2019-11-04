@@ -5,7 +5,8 @@ push({
   "subcategory": "śrī-bhoga-ārati",
   "author": "bhaktivinoda",
   "language": "bengali",
-  "verses": `bhaja bhakata-vatsala śrī-gaurahari
+  "verses": `
+bhaja bhakata-vatsala śrī-gaurahari
 śrī-gaurahari sohi goṣṭha-bihārī,
 nanda-yaśomatī-citahārī (1)
 

@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
-  "verses": `phālgunī pūrṇima tithi subhaga sakali
+  "verses": `
+phālgunī pūrṇima tithi subhaga sakali
 janama labhilā gorā paḍe hulāhuli (1)
 
 ambare amara sabhe bhela unamukha

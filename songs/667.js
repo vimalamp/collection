@@ -5,6 +5,7 @@ push({
   "category": "hindī-kīrtana",
   "language": "hindi",
   "verses": `
+
 aba tau harināma lau lāgī |
 saba jaga ko o mākhana-corā, 
 nāma dharo vairāgī ||1||

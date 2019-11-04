@@ -6,6 +6,7 @@ push({
   "author": "lekhaka ajānā",
   "language": "bengali",
   "verses": `
+
 haratô sakala santāpa janamako,
 miṭata talapa ĵama kāla ki |
 ārati kiye jaya jaya madanagopāla ki ||1||

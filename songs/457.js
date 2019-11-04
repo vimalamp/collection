@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `<i>jalajā nava-lakṣāṇi sthāvarā lakṣa-viṁśatiḥ
+  "verses": `
+<i>jalajā nava-lakṣāṇi sthāvarā lakṣa-viṁśatiḥ
 krimayo rudra-saṁkhyakāḥ pakṣīnāṁ daśa-lakṣakam
 triṁśal-lakṣāṇi paśavaś-catur-lakṣāṇi mānavāḥ</i>
 

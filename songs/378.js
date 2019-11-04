@@ -5,6 +5,7 @@ push({
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
   "verses": `
+
 <i>aghadamana-ĵaśodānandanau nandasūno
 kamalanayana-gopīcandra-vṛndāvanendrāḥ |
 praṇatakaruṇa-kṛṣṇāvityanekasvarūpe

@@ -5,6 +5,7 @@ push({
   "category": "nirveda-lakṣaṇa-upalabdhi",
   "language": "bengali",
   "verses": `
+
 śarīrera sukhe, mana, deha jalāñjali |
 e deha tomāra naya,    barañca e śatru haya,
 siddha-deha-sādhana-samaye |

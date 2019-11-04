@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-rādhā-janmalīlā",
   "language": "bengali",
-  "verses": `vṛṣabhānu-pure āja ānanda bādhāi
+  "verses": `
+vṛṣabhānu-pure āja ānanda bādhāi
 ratna-bhānu subhānu nācaye tina bhāi (1)
 
 dadhi ghṛta navanīta gorasa haladi

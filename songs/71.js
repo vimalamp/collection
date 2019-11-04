@@ -4,7 +4,8 @@ push({
   "category": "śrī-rādhā-kuṇḍāṣṭakam",
   "author": "śrīmad-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `vṛṣabha-danuja-nāśān narma-dharmokti-raṅgair
+  "verses": `
+vṛṣabha-danuja-nāśān narma-dharmokti-raṅgair
     nikhila-nija-sakhībhir yat sva-hastena pūrṇam
 prakaṭitam api vṛndāraṇya-rājñyā pramodais
     tad ati-surabhi-rādhā-kuṇḍam evāśrayo me (1)

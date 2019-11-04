@@ -5,6 +5,7 @@ push({
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
+
 goptṛtve baraṇa—ātmanibedanātmaka 
 
 (mānasika)

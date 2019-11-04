@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-gīta-govinda",
   "language": "sanskrit",
-  "verses": `<i>vasanta rāga; yati tāla</i>
+  "verses": `
+<i>vasanta rāga; yati tāla</i>
 viharati harir iha sarasa-vasante
 nṛtyati yuvati-janena samaṁ sakhi virahi-janasya durante (1)
 

@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! śuna śuna tu baḍi goāra
+  "verses": `
+ore mana! śuna śuna tu baḍi goāra
 chāḍiyā satera saṅga, asat-saṅge sadā raṅga,
         pariṇāma nā kara vicāra (1)
 

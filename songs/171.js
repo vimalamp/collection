@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-tattva",
   "language": "bengali",
-  "verses": `madana-mohana tanu gaurāṅga-sundara
+  "verses": `
+madana-mohana tanu gaurāṅga-sundara
 lalāṭe tilaka-śobhā ūrdhve manohara (1)
 
 trikaccha vasana śobhe kuṭila kuntala

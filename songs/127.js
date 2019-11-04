@@ -5,6 +5,7 @@ push({
   "category": "śrī-guru-vaiṣṇave lālasāmayī prārthanā",
   "language": "bengali",
   "verses": `
+
 āmāra emôna bhāgya katô dine ha’be | 
 āmāre āpana bôli’ jānibe vaiṣṇave ||1||
 

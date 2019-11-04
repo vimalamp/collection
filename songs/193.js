@@ -6,6 +6,7 @@ push({
   "subcategory": "varṇa-mālāya śrī-gaura-mahimā",
   "language": "bengali",
   "verses": `
+
 a, \taśeṣa guṇera nidhi gaurāṅgasundara |
 ā, \tānande bibhora sadā premera sāgara ||1||
 

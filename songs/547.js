@@ -6,6 +6,7 @@ push({
   "subcategory": "śrīmad-rūpa-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
+
 o mora jībana-gati,    śrīrūpagõsāi ati,
 guṇera samudra dayāmaya |
 ĵā̃hāra karuṇā haile,    caitanya-caraṇa mile,

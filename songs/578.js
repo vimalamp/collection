@@ -4,7 +4,8 @@ push({
   "author": "vāsughoṣa",
   "category": "jhulanalīlā",
   "language": "bengali",
-  "verses": `dekhata jhulata, gauracandra,
+  "verses": `
+dekhata jhulata, gauracandra,
         aparūpa dvija-maṇiyā
 vidhira avadhi, rūpa nirupama,
         kaṣita kāñcana jiniyā (1)

@@ -5,6 +5,7 @@ push({
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
+
 mana re, dhanamada nitānta asāra |
 dhana jana bitta ĵatô,    e dehera anugata,
 deha gele se-sakala chāra ||1||

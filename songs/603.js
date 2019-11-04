@@ -6,6 +6,7 @@ push({
   "author": "śyāmānanda dāsa",
   "language": "bengali",
   "verses": `
+
 maṅgala ārati ĵugalakiśora |
 jaya jaya karatahĩ sakhīgaṇa thora ||1||
 

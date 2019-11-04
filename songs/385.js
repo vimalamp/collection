@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda",
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
-  "verses": `<i>na dhanaṁ na janaṁ sundarīṁ
+  "verses": `
+<i>na dhanaṁ na janaṁ sundarīṁ
     kavitāṁ vā jagadīśa kāmaye
 mama janmani janmanīśvare
     bhavatād-bhaktir-ahaitukī tvayi</i>

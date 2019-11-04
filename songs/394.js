@@ -5,6 +5,7 @@ push({
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
+
 <i>ut.sāhānniścayāddhairĵyāt. 
 tattat.karmma-pravarttanāt. |
 saṅgatyāgāt. sato vṛtteḥ 

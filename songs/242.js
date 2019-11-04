@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-rādhā-janmalīlā",
   "language": "bengali",
-  "verses": `bhādra śuklāṣṭami tithi, viśāthā nakṣe tithi
+  "verses": `
+bhādra śuklāṣṭami tithi, viśāthā nakṣe tithi
         śrīmatī janama joi kāle
 madhya dina gata ravi, dekhiyā bālikā chavi
         jaya jaya dei hutūhale (1)

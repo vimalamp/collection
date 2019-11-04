@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-advaita prabhura janmalīlā",
   "language": "bengali",
-  "verses": `kuvera pandita, ati hara sita,
+  "verses": `
+kuvera pandita, ati hara sita,
         dekhiyā putrera mukha
 kari jāta-karma, achila dharma,
         vāḍaye manera sukha (1)

@@ -4,7 +4,8 @@ push({
   "author": "uddhava dāsa",
   "category": "jhulanalīlā",
   "language": "bengali",
-  "verses": `jhulata śyāma, gaurī vāma, ānanda raṅge mātiyā
+  "verses": `
+jhulata śyāma, gaurī vāma, ānanda raṅge mātiyā
 iṣata hasita rabhasa keli jhulāyata kata sakhinī meli
         gāota kata bhātiyā (1)
 

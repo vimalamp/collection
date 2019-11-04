@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `su-ramyādi guṇa-gaṇa haiyāche vibhūṣaṇa
+  "verses": `
+su-ramyādi guṇa-gaṇa haiyāche vibhūṣaṇa
         lalanā-ucita jata-dūra
 pṛthu-prema su-mādhurya sampadera su-pracurya
         śrī-kṛṣṇa-vallabha rasa-pūra (1)

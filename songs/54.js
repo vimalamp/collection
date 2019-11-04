@@ -4,7 +4,8 @@ push({
   "category": "śrī-keśavāṣṭakam",
   "author": "śrīla-rūpa-gosvami",
   "language": "sanskrit",
-  "verses": `nava-priyaka-mañjarī-racita-karṇa-pūra-śriyaṁ
+  "verses": `
+nava-priyaka-mañjarī-racita-karṇa-pūra-śriyaṁ
     vinidratara-mālatī-kalita-śekhareṇojvalam
 darocchvasita-yūthikā-grathita-valgu-vaikakṣakaṁ
     vraje vijayinaṁ bhaje vipina-deśataḥ keśavam (1)

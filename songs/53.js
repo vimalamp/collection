@@ -4,7 +4,8 @@ push({
   "category": "śrī-kuñja-bihārī-aṣṭakam",
   "author": "śrīla-rūpa-gosvami",
   "language": "sanskrit",
-  "verses": `indranīla-maṇi-mañjula-varṇaḥ
+  "verses": `
+indranīla-maṇi-mañjula-varṇaḥ
     phulla-nīpa-kusumāñcita-karṇaḥ
 kṛṣṇalābhir akṛśorasi hārī
     sundaro jayati kuñja-vihārī (1)

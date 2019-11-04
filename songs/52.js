@@ -4,7 +4,8 @@ push({
   "category": "śrī-kevalāṣṭakam",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `madhuraṁ madhurebhyo ‘pi, maṅgalebhyo ‘pi maṅgalam
+  "verses": `
+madhuraṁ madhurebhyo ‘pi, maṅgalebhyo ‘pi maṅgalam
 pāvanaṁ pāvanebhyo ‘pi, harer nāmaiva kevalam (1)
 
 ābrahmā-stamba-paryantaṁ, sarvaṁ māyā-mayaṁ jagat

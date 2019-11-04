@@ -5,6 +5,7 @@ push({
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
+
 <i>tannāma-rūpa-caritādi-sukīrttanānu-
 smṛtyoḥ krameṇa rasanā-manasī niĵojya |
 tiṣṭhan_ vraje tadanurāgi-janānugāmī 

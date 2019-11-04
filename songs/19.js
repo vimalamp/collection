@@ -4,7 +4,8 @@ push({
   "category": "śrī-godruma-candra-bhajanopadeśaḥ",
   "author": "oṁ viṣṇupāda-śrīla-bhaktivinoda-ṭhakura-kṛtaḥ",
   "language": "sanskrit",
-  "verses": `<i>toṭaka-chandaḥ</i>
+  "verses": `
+<i>toṭaka-chandaḥ</i>
 yadi te hari pāda-saroja-sudhā-
     rasa-pāna-paraṁ hṛdayaṁ satatam
 parihṛtya gṛhaṁ kali-bhāvamayaṁ

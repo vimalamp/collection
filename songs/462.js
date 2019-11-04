@@ -4,7 +4,8 @@ push({
   "author": "premānandera",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore bhāi! kṛṣṇa se e tina-loka-bandhu
+  "verses": `
+ore bhāi! kṛṣṇa se e tina-loka-bandhu
 jīva nija-karme baddha, māyāte paḍiyā andha,
         uddhārite karuṇāra sindhu (1)
 

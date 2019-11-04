@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 <i>gurau goṣṭhe goṣṭhālayiṣu sujane bhūsuragaṇe
 svamantre śrīnāmni vraja-navaĵuvadvandva-śaraṇe |
 sadā dambhaṁ hitvā kuru ratimapūrvvāmatitarā-

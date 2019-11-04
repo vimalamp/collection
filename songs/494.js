@@ -5,6 +5,7 @@ push({
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
+
 siddhadehe—ātmanibedana
 
 ātmasamarpaṇe gelā abhimāna | 

@@ -4,7 +4,8 @@ push({
   "category": "śrī-dāmodarāṣṭakam",
   "author": "śrī-satyavrata-muni",
   "language": "sanskrit",
-  "verses": `namāmīśvaraṁ sac-cid-ānanda-rūpaṁ
+  "verses": `
+namāmīśvaraṁ sac-cid-ānanda-rūpaṁ
     lasat-kuṇḍalaṁ gokule vrājamānam
 yaśodā-bhiyolūkhalād-dhāvamānaṁ
     parāmṛṣṭam-atyaṁ tato-drutya gopyā (1)

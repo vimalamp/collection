@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "svābhīṣṭa-lālasātmaka-prārthanā",
   "language": "bengali",
-  "verses": `hari hari! kabe mora haibe sudina
+  "verses": `
+hari hari! kabe mora haibe sudina
 bhajiba śrī-rādhā-kṛṣṇa hai-ā premādhīna (1)
 
 suyantre miśāiyā gā’ba sumadhura tāna

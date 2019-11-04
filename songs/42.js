@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-gīta-govinda",
   "language": "sanskrit",
-  "verses": `<i>gurjarī rāga; ekatālī tāla</i>
+  "verses": `
+<i>gurjarī rāga; ekatālī tāla</i>
 dhīra-samīre yamunā-tīre
     vasati vane vanamālī
 pīna-payodhara-parisara-mardana-

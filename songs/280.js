@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `kṛṣṇa-vaṁśī-gīta śuni ’dekhi’ citra-pata-khani
+  "verses": `
+kṛṣṇa-vaṁśī-gīta śuni ’dekhi’ citra-pata-khani
         loka-mukhe guṇa śravaṇiyā
 pūrva-rāgākrānta cita unmāda-lakhaṇānvita
         sakhī-saṅge calilā dhāiyā (1)

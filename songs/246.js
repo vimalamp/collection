@@ -4,7 +4,8 @@ push({
   "author": "narottamera-daśā",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `ei nava-dāsī bali śrī-rūpa cāhibe
+  "verses": `
+ei nava-dāsī bali śrī-rūpa cāhibe
 hena śubha-kṣaṇa mora kata-dine habe (1)
 
 śīghra ājñā karibena—dāsi hethā āya

@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `śrī-nandānandana dhana tadīya vallabhā-gaṇa
+  "verses": `
+śrī-nandānandana dhana tadīya vallabhā-gaṇa
         madhura-rasera ālambana
 gopī-gata rati jāhān gopī-cittāśraya tāhān
         kṛṣṇa-mātra viṣaya takhan (1)

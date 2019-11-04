@@ -4,7 +4,8 @@ push({
   "author": "rādhā-mohanera",
   "category": "sagaṇa śrī-gaura-caraṇe prārthanā",
   "language": "bengali",
-  "verses": `jaya jaya śrī-kṛṣṇa-caitanya sabarvāśraya
+  "verses": `
+jaya jaya śrī-kṛṣṇa-caitanya sabarvāśraya
 jaya śrī-svarūpa-dāmodara prema-maya (1)
 
 jaya śrīla sanātana kṛpālu-hṛdaya

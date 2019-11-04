@@ -4,7 +4,8 @@ push({
   "author": "premānande",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! nivedana śunaha āmāra
+  "verses": `
+ore mana! nivedana śunaha āmāra
 janmile maraṇa āche, kāla-dūta āche piche,
         bhuñjāibe karma-anusāra (1)
 

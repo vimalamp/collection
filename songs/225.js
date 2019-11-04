@@ -4,7 +4,8 @@ push({
   "author": "narottama",
   "category": "sagaṇa śrī-gaura-caraṇe prārthanā",
   "language": "bengali",
-  "verses": `jaya jaya śrī-kṛṣṇa-caitanya-nityānanda
+  "verses": `
+jaya jaya śrī-kṛṣṇa-caitanya-nityānanda
 jayādvaita-candra jaya gaura-bhakta-vṛnda (1)
 
 kṛpā kari’ sabe mili karaha karuṇā

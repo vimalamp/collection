@@ -5,6 +5,7 @@ push({
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
   "verses": `
+
 <i>jaya nāmadheya munivṛndageya 
 janarañjanāya paramakṣarākṛte |
 tvamanādarādapi manāgudīritaṁ 

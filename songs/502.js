@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śreyo-nirṇaya",
   "language": "bengali",
-  "verses": `keno āra kara dveṣa, videśi-jana-bhajane
+  "verses": `
+keno āra kara dveṣa, videśi-jana-bhajane
 bhajanera liṅga nānā, nānā deśe nānā jane (1)
 
 keha mukta-kacche bhaje, keha hāṭu gāḍi’ pūje

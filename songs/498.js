@@ -4,7 +4,8 @@ push({
   "author": "vinodera",
   "category": "śreyo-nirṇaya",
   "language": "bengali",
-  "verses": `kṛṣṇa-bhakti vinā kabhu nāhi phalodaya
+  "verses": `
+kṛṣṇa-bhakti vinā kabhu nāhi phalodaya
 miche saba dharmādharma jīvera upādhimaya (1)
 
 yoga-jāga-tapo-dhyāna, sannyāsādi brahma-jñāna

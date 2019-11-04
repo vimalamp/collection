@@ -4,7 +4,8 @@ push({
   "category": "abhidheya-vijñāna-upalabdhi",
   "author": "bhaktivinoda",
   "language": "bengali",
-  "verses": `bramite bramite yadi sādhu-saṅga haya
+  "verses": `
+bramite bramite yadi sādhu-saṅga haya
 punarāya gupta nitya-dharmera udaya (1)
 
 sādhu-saṅge kṛṣṇa-kathā haya ālocana

@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `hede he! nāgara bara śuna he mūralīdhara
+  "verses": `
+hede he! nāgara bara śuna he mūralīdhara
         nivedana kari tuyā pāya
 caraṇa nakhara maṇi yena cāṅdera gāṅthani
         bhāla śobhe āmāra galāya (1)

@@ -4,7 +4,8 @@ push({
   "category": "śrī-śacī-sūnvaṣṭakam",
   "author": "śrīla-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `harir dṛṣṭvā goṣṭhe mukura-gatam ātmānam atulaṁ
+  "verses": `
+harir dṛṣṭvā goṣṭhe mukura-gatam ātmānam atulaṁ
     sva-mādhuryaṁ rādhā-priyatara-sakhīvāptum abhitaḥ
 aho gauḍe jātaḥ prabhur apara-gauraika-tanu-bhāk
     śacī-sūnuḥ kiṁ me nayana-śaraṇīṁ yāsyati punaḥ (1)

@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `raty-āsvāda hetu jata vibhāva nāmete khyāta
+  "verses": `
+raty-āsvāda hetu jata vibhāva nāmete khyāta
         ālambana uddīpana haya
 viṣaya-āśraya-gata ālambana dui mata
         kṛṣṇa kṛṣṇa-bhakta se ubhaya (1)

@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-guru-kṛpā-prārthanā",
   "language": "bengali",
-  "verses": `gurudeva! kabe tava karuṇā prakāśe
+  "verses": `
+gurudeva! kabe tava karuṇā prakāśe
 śrī-gaurāṅga-līlā, haya nitya-tattva,
         ei dṛḍha viśvāse
 ‘hari hari’ bali’, godruma-kānane,

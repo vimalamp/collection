@@ -4,7 +4,8 @@ push({
   "author": "rādhāmohana dāse",
   "category": "śrī-kṛṣṇa-janmalīlā",
   "language": "bengali",
-  "verses": `pūrava janama, divasa dekhiṣā,
+  "verses": `
+pūrava janama, divasa dekhiṣā,
         āveśe gaurarāya
 nijagaṇa laiyā, haraṣita haiyā,
         nanda mahotsava gāya (1)

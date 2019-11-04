@@ -4,7 +4,8 @@ push({
   "author": "narottama",
   "category": "śrī-rādhā-kṛṣṇa-caraṇe saṁprārthanā",
   "language": "bengali",
-  "verses": `rādhā-kṛṣṇa! nivedana ei jana kare
+  "verses": `
+rādhā-kṛṣṇa! nivedana ei jana kare
 dohe ati rasamaya, sakaruṇa-hṛdaya,
         avadhāna kara nātha more (1)
 

@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! ki bhaya śamane kari āra
+  "verses": `
+ore mana! ki bhaya śamane kari āra
 yadi kṛṣṇa-pade rati, ki karibe pitṛ-pati,
         ihā kene nā kara vicāra (1)
 

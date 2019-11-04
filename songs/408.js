@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 <i>asacceṣṭā-kaṣṭaprada-vikaṭa-pāśālibhiriha
 prakāmaṁ kāmādi-prakaṭa-pathapātivyatikaraiḥ |
 gale baddhvā hanye^hamiti bakabhid_#vartmapagaṇe

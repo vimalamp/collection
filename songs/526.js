@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>na dehaṁ na prāṇānna ca sukhamaśeṣābhilaṣitaṁ
 na cātmānaṁ nānyattava kimapi śeṣatvavibhavāt. |
 bahirbhūtaṁ nātha kṣaṇamapi sahe ĵātu śatadhā

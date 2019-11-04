@@ -4,7 +4,8 @@ push({
   "author": "śrī-rūpa gosvāmī",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `<i>dhānasī</i>
+  "verses": `
+<i>dhānasī</i>
 kṛṣṇa deva! bhavantaṁ vande,
 mana-mānasa-madhukaram-arpaya nija-pada-paṅkaja-makarande (1)
 

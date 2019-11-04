@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-advaitācārya",
   "language": "bengali",
-  "verses": `jaya jaya advaita ācārya dayā-maya
+  "verses": `
+jaya jaya advaita ācārya dayā-maya
 jā’ra huhuṅkāre gaura-avatāra haya (1)
 
 premadātā sītānātha karuṇā-sāgara

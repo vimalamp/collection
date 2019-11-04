@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `bholā mana, eka-bāra bhāva pariṇāma
+  "verses": `
+bholā mana, eka-bāra bhāva pariṇāma
 bhaja kṛṣṇa, kaha kṛṣṇa,
         laha kṛṣṇa-nāma (1)
 

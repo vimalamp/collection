@@ -5,6 +5,7 @@ push({
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
+
 bastutaḥ sakali taba, jība kehô naya | 
 ‘ahaṁ’-‘mama’-bhrame bhrami’ bhoge śoka-bhaya ||1||
 

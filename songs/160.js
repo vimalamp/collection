@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
   "verses": `
+
 jiniyā rabikara,    śrīaṅga-sundara,
 nayane hera_i nā pāri |
 āyata locana,    iṣat. baṅkima,

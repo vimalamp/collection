@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "maṅgalācaraṇam",
   "language": "sanskrit",
-  "verses": `<b>sādhāraṇa-vandanā</b>
+  "verses": `
+<b>sādhāraṇa-vandanā</b>
 vande guru-pada-dvandvaṁ bhakta-vṛnda-samanvitam
 śrī-caitanya-prabhuṁ vande nityānanda-sahoditam
 

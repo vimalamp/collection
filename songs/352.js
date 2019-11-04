@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda",
   "category": "śrī-kṛṣṇera viṁśotara-śatanāma",
   "language": "bengali",
-  "verses": `nagare nagare gorā gāya (1)
+  "verses": `
+nagare nagare gorā gāya (1)
 
 yaśomatī-stanyapāyī śrī-nanda-nandana
 indranīla-maṇi vraja-janera jīvana (2)

@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
-  "verses": `<i>dainya–trāsātmaka</i>
+  "verses": `
+<i>dainya–trāsātmaka</i>
 jauvane jakhana, dhana-upārjane,
         hainu vipula kāmī
 dharama smariyā, gṛhiṇīra kara,

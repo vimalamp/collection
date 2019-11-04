@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! dhana-jana-jīvana-jauvana
+  "verses": `
+ore mana! dhana-jana-jīvana-jauvana
 ei āche ei nāi, cakṣe kinā dekha tāi,
         tumi kise balicha āpana (1)
 

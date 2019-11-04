@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-rādhā-kṛṣṇa-caraṇe saṁprārthanā",
   "language": "bengali",
-  "verses": `āmi ati dina-mati vraja-kuñje nivasati
+  "verses": `
+āmi ati dina-mati vraja-kuñje nivasati
         rādhā-kṛṣṇa-yugala-caraṇe
 kāndiyā kāndiyā aja chāḍi’ saba loka laja
         nivediba jata āche mane (1)

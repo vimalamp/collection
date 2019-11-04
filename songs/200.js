@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaurasundare vijñapti",
   "language": "bengali",
-  "verses": `gaurāṅga karuṇā kara, dīna hīna jane
+  "verses": `
+gaurāṅga karuṇā kara, dīna hīna jane
 mo-sama patita prabhu, nāhi tri-bhuvane (1)
 
 dante tṛṇa dhari’ gaura, ḍāki he tomāra

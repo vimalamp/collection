@@ -5,6 +5,7 @@ push({
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
   "verses": `
+
 gāite govinda nāma,    upajilôbhābagrāma,
 dekhilāma ĵamunāra kūle |
 vṛṣabhānusutā-saṅge,    śyāma naṭabara-raṅge,

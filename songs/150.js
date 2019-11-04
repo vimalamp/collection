@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "rūpa-varṇana",
   "language": "bengali",
-  "verses": `āre bhāi! nitāi āmāra dayāra avadhi
+  "verses": `
+āre bhāi! nitāi āmāra dayāra avadhi
 jīvere karuṇā kari’, deśe deśe phiri’ phiri’,
         prema-dhana yāce niravadhi (1)
 

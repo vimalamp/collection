@@ -4,7 +4,8 @@ push({
   "category": "śrī-śrī-gadādharaṣṭakam",
   "author": "śrīla-svarūpa-dāmodara-gosvāmī viracitam",
   "language": "sanskrit",
-  "verses": `sva-bhakti-yoga-lāsinaṁ sadā vraje vihāriṇaṁ
+  "verses": `
+sva-bhakti-yoga-lāsinaṁ sadā vraje vihāriṇaṁ
     hari-priyā-gaṇāgragaṁ śacī-suta-priyeśvaram
 sa-rādhā-kṛṣṇa-sevana-prakāśakaṁ mahāśayaṁ
     bhajāmy ahaṁ gadādharaṁ supaṇḍitaṁ guruṁ prabhum (1)

@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "hindī-kīrtana",
   "language": "hindi",
-  "verses": `hamāre braja ke rakhavāre,
+  "verses": `
+hamāre braja ke rakhavāre,
       kanhaiyā rādhikārānī
 kanhaiyā rādhikārānī,
       kanhaiyā rādhikārānī (1)

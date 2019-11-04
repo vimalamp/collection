@@ -4,7 +4,8 @@ push({
   "category": "śrī-rūpa-ratī-mañjaryah vijñaptih",
   "author": "narottama-dāsa",
   "language": "bengali",
-  "verses": `rādhā-kṛṣṇa-sevon muñi jīvane maraṇe
+  "verses": `
+rādhā-kṛṣṇa-sevon muñi jīvane maraṇe
 tāṅra sthāna taṅra līlā dekhoṅ rātri dine (1)
 
 je sthāne je līlā kare yugala-kiśora

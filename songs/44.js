@@ -4,7 +4,8 @@ push({
   "category": "śrī-prema-sudhā-sattrākhya",
   "author": "śrī-vṛndāvaneśvari-nāmāṣṭottara-śata-nāma-stotra",
   "language": "sanskrit",
-  "verses": `manasaṁ mana-santyagad, utkanṭhartaṁ nirundhatīm
+  "verses": `
+manasaṁ mana-santyagad, utkanṭhartaṁ nirundhatīm
 radhaṁ samvidya vidyaḍhya, tuṅgavidyedam abravīt (1)
 
 vimuñca bandhure manaṁ, nibandhaṁ śṛnu mad-vacaḥ

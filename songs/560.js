@@ -5,7 +5,8 @@ push({
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīmad-rūpa-gosvāmī-prabhupādenoktam",
   "language": "bengali",
-  "verses": `<i>anyābhilāṣitā-śūnyaṁ jñāna-karmādya-anāvṛtam
+  "verses": `
+<i>anyābhilāṣitā-śūnyaṁ jñāna-karmādya-anāvṛtam
 ānukūleyna kṛṣṇānu-śīlanaṁ bhaktir uttamā</i>
 
 anya-abhilāṣa chāḍi ’jñāna karma parihāri’

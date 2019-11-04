@@ -5,6 +5,7 @@ push({
   "category": "śrī-vaiṣṇava-vandanā",
   "language": "bengali",
   "verses": `
+
 gorā gosāñi patitapābana abatāra |
 tomāra karuṇāya sarbbajībera uddhāra ||dhru||
 

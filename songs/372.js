@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śrī-nāma-mahimā",
   "language": "bengali",
-  "verses": `śuno śuno nityānanda, śuno haridāsa
+  "verses": `
+śuno śuno nityānanda, śuno haridāsa
 sarvatra āmāra ājñā karaha prakāśa (1)
 
 prati ghare ghare giyā kara ei bhikṣā

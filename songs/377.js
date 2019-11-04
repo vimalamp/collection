@@ -5,6 +5,7 @@ push({
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
   "verses": `
+
 <i>yad_#brahma sākṣāt.kṛtiniṣṭhayāpi 
 vināśamāyāti binā na bhogaiḥ |
 apaiti nāma-sphuraṇena tatte 

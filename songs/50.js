@@ -4,7 +4,8 @@ push({
   "category": "śrī-caurāgragaṇya-puruṣāṣṭakam",
   "author": "bilvamaṅgala-ṭhākura",
   "language": "sanskrit",
-  "verses": `vraje prasiddhaṁ navanīta-cauraṁ
+  "verses": `
+vraje prasiddhaṁ navanīta-cauraṁ
     gopāṅganānāṁ ca dukūla-cauram
 aneka-janmārjita-pāpa-cauraṁ
     caurāgragaṇyaṁ puruṣaṁ namāmi (1)

@@ -5,6 +5,7 @@ push({
   "category": "manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 duṣṭa mana, tumi kisera vaiṣṇava? 
 pratiṣṭhāra tare,    nirjjanera ghare,
 taba harināma kebala kaitaba ||1||

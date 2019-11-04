@@ -4,7 +4,8 @@ push({
   "author": "narottama dāse",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `govardhana girivara kevala nirjana sthala
+  "verses": `
+govardhana girivara kevala nirjana sthala
         rāi kānu karibe śayane
 lalitā-viśākhā-saṅge sevana kariba raṅge
         sukhamaya rātūla caraṇe (1)

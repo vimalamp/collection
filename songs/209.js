@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "ākṣepa",
   "language": "bengali",
-  "verses": `śrī-kṛṣṇa-caitanya, balarāma nityānanda,
+  "verses": `
+śrī-kṛṣṇa-caitanya, balarāma nityānanda,
         pāriṣada-saṅge avatāra
 golokera prema-dhana, sabāre yāci-ā dila,
         nā lainu mui durācāra (1)

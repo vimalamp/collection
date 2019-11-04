@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
-  "verses": `prakāśa ihalā gaura canda
+  "verses": `
+prakāśa ihalā gaura canda
 daśadike bāḍila ānanda (1)
 
 rupa koṭa madana jiniyā

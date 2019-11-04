@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-nityānande niṣṭhā",
   "language": "bengali",
-  "verses": `nitāi nāma hāṭe, o ke jābire bhāi, āya chuṭe
+  "verses": `
+nitāi nāma hāṭe, o ke jābire bhāi, āya chuṭe
 ese pāṣaṇḍa jagāi mādhāi du-jana sakala hāṭera māla nile juṭe (1)
 
 hāṭera aṁśī mahājana, śrī advaita, sanātana

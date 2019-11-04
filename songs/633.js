@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `rūpānuga tattva-sāra bujhite akaṅkha yāṅra
+  "verses": `
+rūpānuga tattva-sāra bujhite akaṅkha yāṅra
         rasa-jñāna tāṅra prayojana
 cinmaya ānanda-rasa sarva-tattva yāṅra vaśa
         akhaṇḍa parama tattva-dhana (1)

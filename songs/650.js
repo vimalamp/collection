@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `nirveda viṣāda mada dainya glāni śramon-māda
+  "verses": `
+nirveda viṣāda mada dainya glāni śramon-māda
         garva trāsa śaṅkā apasmṛti
 āvega ālasya vyādhi moha mṛtyu jaḍatādi
         vrīḍā avahitthā āra smṛti (1)

@@ -4,7 +4,8 @@ push({
   "author": "narottama-dās",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
-  "verses": `vṛndāvana ramya-sthāna, divya cintāmaṇi-dhāma,
+  "verses": `
+vṛndāvana ramya-sthāna, divya cintāmaṇi-dhāma,
         ratana-mandira manohara
 āvṛta kālindī nīre, rāja-haṁsa keli kare,
         tāhe śobhe kanaka-kamala (1)

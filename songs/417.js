@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `mana re, tumi baḍa sandigdha-antara
+  "verses": `
+mana re, tumi baḍa sandigdha-antara
 āsiyācha e saṁsāre, baddha ha’ye jaḍādhāre,
         jaḍāsakta ha’le nirantara
 bhuliyā svakīya dhāma, sevi’ jaḍa-gata kāma,

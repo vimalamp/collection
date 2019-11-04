@@ -4,7 +4,8 @@ push({
   "category": "śrī-śrī-rādhā-kṛpā-kaṭākṣa-stava-rāja",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `munīndra-vṛnda-vandite tri-loka-śoka-hārini
+  "verses": `
+munīndra-vṛnda-vandite tri-loka-śoka-hārini
     prasanna-vaktra-paṅkaje nikuñja-bhū-vilāsini
 vrajendra-bhānu-nandini vrajendra-sūnu-saṅgate
     kadā kariṣyasīha māṁ kṛpā-kaṭākṣa-bhājanam (1)

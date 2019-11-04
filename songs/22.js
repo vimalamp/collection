@@ -4,7 +4,8 @@ push({
   "category": "śrī-gaurāṅga-stotram",
   "author": "śrīmad-bhaktideśika-ācārya-mahārāja-viracitam",
   "language": "sanskrit",
-  "verses": `śrī-rādhikā-rūpa-guṇormi-cauraḥ
+  "verses": `
+śrī-rādhikā-rūpa-guṇormi-cauraḥ
     pratapta-kārsta-vara-kānta-gauraḥ
 vedānta-vedāṅga-purāṇasāro
     jīyāt sa gauraḥ karuṇā-vatāraḥ (1)

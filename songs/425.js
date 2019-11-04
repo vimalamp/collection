@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `rūpera gaurava kena kara bhāi?
+  "verses": `
+rūpera gaurava kena kara bhāi?
 anitya e kalevara, kabhu nahe sthiratara,
         śamana āile kichu nāi
 e aṅga śītala ha’be, ākhi spanda-hīna ra’be,

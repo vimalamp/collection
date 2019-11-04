@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda",
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
-  "verses": `<i>vācyaṁ vācakam ity udeti bhavato nāma-svarūpa-dvayaṁ
+  "verses": `
+<i>vācyaṁ vācakam ity udeti bhavato nāma-svarūpa-dvayaṁ
     pūrvasmāt param eva hanta karuṇaṁ tatrāpi jānīmahe
 yas tasmin vihitāparādha-nivahaḥ prāṇī samantād bhaved
     āsyenedam upāsya so’pi hi sadānandāmbudhau majjati</i>

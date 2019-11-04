@@ -5,6 +5,7 @@ push({
   "author": "śrī jagadānanda paṇḍita",
   "language": "bengali",
   "verses": `
+
 gorā bhajô, gorā bhajô, gorā bhajô bhāi |
 gorā binā e jagate guru āra nāi ||1||
 

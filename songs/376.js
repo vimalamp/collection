@@ -5,6 +5,7 @@ push({
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
   "verses": `
+
 <i>ĵadābhāso^pyudyan_ kavalita-bhavadhvāntavibhavo
 dṛśaṁ tattvāndhānāmapi diśati bhakti-praṇayinīm_ |
 janastasyodāttaṁ jagati bhagavannāma-taraṇe

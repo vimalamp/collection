@@ -4,7 +4,8 @@ push({
   "category": "śrī-anurāga-valli",
   "author": "śrīla-viśvanātha-cakravartī-ṭhākura",
   "language": "sanskrit",
-  "verses": `dehārbudāni bhagavan! yugapat prayaccha
+  "verses": `
+dehārbudāni bhagavan! yugapat prayaccha
     vaktrārbudāni ca punaḥ pratideham eva
 jihvārbudāni kṛpayā prativaktram eva
     nṛtyantu teṣu tava nātha! guṇārbudāni (1)

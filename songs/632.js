@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `śraddhā-devi nāma jāra du-iti svabhāva tāra
+  "verses": `
+śraddhā-devi nāma jāra du-iti svabhāva tāra
         vidhi-mūla ruci-mūla bhede
 śāstrera śāsana jabe śraddhāra udaya ho’be
         vaidhī śraddhā tāre bole bede (1)

@@ -4,7 +4,8 @@ push({
   "author": "mādhava",
   "category": "śrī-kṛṣṇa-janmalīlā",
   "language": "bengali",
-  "verses": `śaṅkha dundubhi bāje nāce devagaṇa
+  "verses": `
+śaṅkha dundubhi bāje nāce devagaṇa
 jaya jaya haridhvani bharilā bhivana (1)
 
 bhādra kṛṣṇāṣṭhamī tithi nakṣatra rohiṇī

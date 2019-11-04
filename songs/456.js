@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `e mana! tumi se kevala bhūta
+  "verses": `
+e mana! tumi se kevala bhūta
 kusaṅga-śmaśāne, satata vasicha,
         pāiyā parama juta (1)
 

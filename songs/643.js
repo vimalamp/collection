@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `nāyikāra śiromaṇi vraje rādhā ṭhākurāṇī
+  "verses": `
+nāyikāra śiromaṇi vraje rādhā ṭhākurāṇī
         pañca-vidha sakhī-gaṇa tā’ra
 sakhī nitya-sakhī āra prāṇa-sakhī ataḥ para
         priyā-sakhī ei haila cāra (1)

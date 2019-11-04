@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `mana re, kena kara vidyāra gaurava
+  "verses": `
+mana re, kena kara vidyāra gaurava
 smṛti-śāstra, vyākaraṇa, nānā-bhāṣā-ālocana,
         vṛddhi kare yaśera saurabha (1)
 

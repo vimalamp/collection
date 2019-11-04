@@ -5,7 +5,8 @@ push({
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīmad-rūpa-gosvāmī-prabhupādenoktam",
   "language": "bengali",
-  "verses": `<i>śrī-nathe jānakī-nāthe abhedaḥ paramātmani
+  "verses": `
+<i>śrī-nathe jānakī-nāthe abhedaḥ paramātmani
 tathāpi mama sarvasvaṁ rāmaḥ kamala-locanaḥ</i>
 
 devaloka pitṛloka-pāya tāra mahā-sukha

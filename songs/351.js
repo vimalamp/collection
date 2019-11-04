@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda",
   "category": "śrīman-mahāprabhura śatanāma",
   "language": "bengali",
-  "verses": `nadīyā nagare nitāi nece nece gāya re (1)
+  "verses": `
+nadīyā nagare nitāi nece nece gāya re (1)
 
 jagannātha-suta mahāprabhu viśvambhara
 māyāpura-śaśī navadvīpa-sudhākara (2)

@@ -4,7 +4,8 @@ push({
   "author": "narottama",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `hari hari! kabe mora haibe sudina
+  "verses": `
+hari hari! kabe mora haibe sudina
 govardhana girivare parama nibhṛta ghare rai kānu karāiba śayana (1)
 
 bhṛṅgarera jale raṅgā caraṇa dhoyāiba muchāba āpana cikure

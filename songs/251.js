@@ -4,7 +4,8 @@ push({
   "author": "narottama",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `hari hari! kabe hena daśā ha’be mora
+  "verses": `
+hari hari! kabe hena daśā ha’be mora
 seviba dohāra pada ānande vibhora (1)
 
 bhramara haiyā sadā rahiba caraṇa

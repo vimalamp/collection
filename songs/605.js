@@ -5,7 +5,8 @@ push({
   "category": "sandhyārati",
   "subcategory": "śrī-gaura-ārati",
   "language": "bengali",
-  "verses": `jaya jaya gorācādera āratiko śobhā
+  "verses": `
+jaya jaya gorācādera āratiko śobhā
 jāhnavī-taṭa-vane jaga-mano-lobhā (1)
 
 dakṣiṇe nitāi-cāda, bāme gadādhara

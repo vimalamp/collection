@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `kṛṣṇera jateka khelā tāra madhye nara-līlā
+  "verses": `
+kṛṣṇera jateka khelā tāra madhye nara-līlā
         sarvottama rasera ālaya
 e rasa goloke nāi tabe bolo kothā pāi
         vraja-dhāma tāhāra nilaya (1)

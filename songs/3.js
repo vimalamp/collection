@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "maṅgalācaraṇam",
   "language": "sanskrit",
-  "verses": `<b>śrī-lalitā-devyādi-aṣṭa-sakhī-vandanā</b>
+  "verses": `
+<b>śrī-lalitā-devyādi-aṣṭa-sakhī-vandanā</b>
 yāṁ kām-api vraja-kule vṛṣabhānu-jāyāḥ
 prekṣya sva-pakṣa-padavīm anuruddhyamānām
 sadyas tadiṣṭa-ghaṭanena kṛtārthayantīṁ

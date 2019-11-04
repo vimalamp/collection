@@ -4,7 +4,8 @@ push({
   "category": "śrī-nanda-nandanāṣṭakam",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `sucāru-vaktra-maṇḍalaṁ
+  "verses": `
+sucāru-vaktra-maṇḍalaṁ
     sukarṇa-ratna-kuṇḍalam
 sucarcitāṅga-candanaṁ
     namāmi nanda-nandanam (1)

@@ -5,6 +5,7 @@ push({
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
+
 <i>atyāhāraḥ prayāsaśca 
 prajalpo niyamāgrahaḥ |
 janasaṅgaśca laulyañca 

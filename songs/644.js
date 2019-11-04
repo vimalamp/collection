@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `rādhā-kṛṣṇa-guṇa-gāna mithāsakti samvardhana
+  "verses": `
+rādhā-kṛṣṇa-guṇa-gāna mithāsakti samvardhana
         ubhayābhisāra sampadana
 kṛṣṇa sakhī-samarpaṇa narma-vākya-āsvādana
         ubhayera suveśa-racana (1)

@@ -6,6 +6,7 @@ push({
   "subcategory": "śrīla-gopāla-bhaṭṭa-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
+
 śrīgopālabhaṭṭa prabhu,    tuŵā śrīcaraṇa kabhu,
 dekhibô ki nayana bhôriyā |
 śuniyā asīma guṇa,    pā̃jare bindhilô ghuṇa,

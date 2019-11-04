@@ -5,6 +5,7 @@ push({
   "category": "anutāpa-lakṣaṇa-upalabdhi",
   "language": "bengali",
   "verses": `
+
 āmi ati pāmara durjjana |
 ki kôrinu hāya hāya,    prakṛtira dāsa tāya,
 kāṭāinu amūlya jībana ||1||

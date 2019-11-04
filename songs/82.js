@@ -4,7 +4,8 @@ push({
   "category": "śrī-sva-niyama-daśaka",
   "author": "śrīla-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `gurau mantre nāmni prabhuvara-śacīgarbhaja-pade
+  "verses": `
+gurau mantre nāmni prabhuvara-śacīgarbhaja-pade
     svarūpe śrī-rūpe gaṇa-yuji tadīya-prathamaje
 girīndre gāndharvā-sarasi madhu-puryām-vraja-vane
     vraje bhakte goṣthālayiṣu param āstām-mama ratiḥ (1)

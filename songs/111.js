@@ -5,6 +5,7 @@ push({
   "category": "śrī-vaiṣṇava-vandanā",
   "language": "bengali",
   "verses": `
+
 prāṇa gorācā̃da mora, dhana gorācā̃da |
 jagata bā̃dhilô gorā pāti’ premaphā̃da ||dhru||
 

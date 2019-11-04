@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "maṅgalācaraṇam",
   "language": "sanskrit",
-  "verses": `<b>śrī-yamunā-snana-vandanā</b>
+  "verses": `
+<b>śrī-yamunā-snana-vandanā</b>
 kalinda-tanaye! devi! paramānanda-vardhini!
 snāmi te salile sarvāparādhānmāṁ vimocaya
 

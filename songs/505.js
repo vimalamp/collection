@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>tvāṁ śīlarūpacaritaiḥ paramaprakṛṣṭa-
 sattvena sāttvikatayā prabalaiśca śāstraiḥ |
 prakhyāta-daibaparamārthavidāṁ mataiśca

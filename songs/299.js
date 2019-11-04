@@ -5,6 +5,7 @@ push({
   "category": "śrī-kṛṣṇa vijñapti",
   "language": "bengali",
   "verses": `
+
 mora prabhu madanagopāla,    govinda gopīnātha,
 dayā karô muñi adhamere |
 saṁsāra-sāgara-mājhe,    paḓiyā baiyāchi nātha,

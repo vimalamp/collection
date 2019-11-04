@@ -4,7 +4,8 @@ push({
   "author": "premānande",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `e mana! tu baḍa kalira bhūta
+  "verses": `
+e mana! tu baḍa kalira bhūta
 kara bala jāri, śūnya diyā bāḍi,
         hāsaye tapana-suta (1)
 

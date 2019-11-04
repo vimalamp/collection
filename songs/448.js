@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! e-bāra bujhiba bhāri-bhuri
+  "verses": `
+ore mana! e-bāra bujhiba bhāri-bhuri
 kupiyāche sūrya-suta, bāndhibe tāhāra dūta,
         jena phire asatāi kari (1)
 

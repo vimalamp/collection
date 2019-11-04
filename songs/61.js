@@ -4,7 +4,8 @@ push({
   "author": "śrī-rūpa gosvāmī",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `<i>vasanta rāga</i>
+  "verses": `
+<i>vasanta rāga</i>
 madhuri-puratra-vasante
     khelati gokula, yuvatibhir-ujvala,
 puṣpa-sugandhi-digante (1)

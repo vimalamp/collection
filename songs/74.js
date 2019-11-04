@@ -4,7 +4,8 @@ push({
   "category": "śrī-govardhanāṣṭakam",
   "author": "śrīla-viśvanātha-cakravartī-ṭhākura",
   "language": "sanskrit",
-  "verses": `kṛṣṇa-prasādena samasta-śaila-
+  "verses": `
+kṛṣṇa-prasādena samasta-śaila-
     sāmrājyam āpnoti ca vairiṇo ‘pi
 śakrasya yaḥ prāpa baliṁ sa sākṣād
     govardhano me diśatām abhīṣṭam (1)

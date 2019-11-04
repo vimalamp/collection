@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "anutāpa-lakṣaṇa-upalabdhi",
   "language": "bengali",
-  "verses": `ore mana, karmera kuhare gela kāla
+  "verses": `
+ore mana, karmera kuhare gela kāla
 svargādi sukhera āśe, parilāma karma-phāse,
         ūrṇanābhi-sama karma-jāla (1)
 

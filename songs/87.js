@@ -4,7 +4,8 @@ push({
   "category": "śrī-caitanya-mahāprabhu-stuti",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `namas tri-kāla-satyāya
+  "verses": `
+namas tri-kāla-satyāya
     jagannātha-sutāya ca
 sa-bhṛtyāya sa-putrāya
     sa-kalatrāya te namaḥ (1)

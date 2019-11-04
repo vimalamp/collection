@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `e mana! vicāri kena nā cāo
+  "verses": `
+e mana! vicāri kena nā cāo
 dekha bhava-roga, te kene ghuce nā,
         kata nā ouṣadha khāo (1)
 

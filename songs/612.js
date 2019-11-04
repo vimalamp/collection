@@ -4,7 +4,8 @@ push({
   "category": "śrīman-mahāprabhura hari-vāsara-vratapālana",
   "author": "vṛndāvana-dāsa",
   "language": "bengali",
-  "verses": `śrī-hari-vāsare hari-kīrtana-vidhāna
+  "verses": `
+śrī-hari-vāsare hari-kīrtana-vidhāna
 nṛtya ārambhilā prabhu jagatera prāṇa (1)
 
 puṇyavanta śrīvāsa-aṅgane śubhārambha

@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "śrī-kṛṣṇe svābhīṣṭa-lālasātmaka prārthanā",
   "language": "bengali",
-  "verses": `hari hari! kabe haba vṛndāvana-vāsī
+  "verses": `
+hari hari! kabe haba vṛndāvana-vāsī
 nirakhiba nayane yugala-rūparāśi (1)
 
 tyajiyā śayanasukha vicitra pālaṅka

@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! kṛṣṇa-nāma-sama nāhi āna
+  "verses": `
+ore mana! kṛṣṇa-nāma-sama nāhi āna
 dharma-karma-tapa-tyāga, dhyāna-jñāna-vrata-jāga,
         kichu nahe nāmera samāna (1)
 

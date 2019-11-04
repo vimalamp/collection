@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `nirjana kuṭīre, śrī rādhā-caraṇa,
+  "verses": `
+nirjana kuṭīre, śrī rādhā-caraṇa,
         smaraṇe thākiba rata
 śrī rūpa mañjarī, dhīre dhīre āsi’,
         kahibe āmāya kata (1)

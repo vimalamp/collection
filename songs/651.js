@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `sādhāraṇi samañjasā sthāyī lābhe bhāva daśā
+  "verses": `
+sādhāraṇi samañjasā sthāyī lābhe bhāva daśā
         kubjā āra mahiṣī pramāṇa
 eka vraja-devī-gaṇe mahā-bhāva saṅghaṭane
         rūḍha adhirūḍha su-vidhāna (1)

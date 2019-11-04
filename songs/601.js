@@ -5,7 +5,8 @@ push({
   "category": "maṅgalārati",
   "subcategory": "śrī-gaura-govinda-ārati",
   "language": "bengali",
-  "verses": `(prabhātī sura)
+  "verses": `
+(prabhātī sura)
 maṅgala śrī-guru-gaura maṅgala-mūrati
 maṅgala śrī-rādhā-kṛṣṇa-yugala-pīriti (1)
 

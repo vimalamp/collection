@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaurasundare vijñapti",
   "language": "bengali",
-  "verses": `jaya jaya śrī-kṛṣṇa-caitanya dayā-sindhu
+  "verses": `
+jaya jaya śrī-kṛṣṇa-caitanya dayā-sindhu
 patita uddhāra hetu jaya dīna-bandhu (1)
 
 jaya prema-bhakti-dātā, dayā kara more

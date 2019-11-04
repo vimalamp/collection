@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-gīta-govinda",
   "language": "sanskrit",
-  "verses": `<i>gurjarī-rāga–niḥsāra tāla</i>
+  "verses": `
+<i>gurjarī-rāga–niḥsāra tāla</i>
 śrita-kamalākuca-maṇḍala dhṛta-kuṇḍala e,
 kalita-lalita vanamāla jaya jaya deva hare (1)
 

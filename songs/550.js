@@ -6,6 +6,7 @@ push({
   "subcategory": "śrīmad-rūpa-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
+
 jaya jaya rūpa mahārasasāgara |
 daraśana-paraśana,    bacana rasāyana,
 ānandahu ke gāgara ||1||

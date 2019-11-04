@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-kṛṣṇa-prīti-prārthanā",
   "language": "bengali",
-  "verses": `antara mandire jāgo jāgo
+  "verses": `
+antara mandire jāgo jāgo
         mādhava kṛṣṇa gopāl
 nava-aruṇa-sama, jāgo hṛdoye mama
         sundara giridhārī-lāla, mādhava kṛṣṇa gopāla (1)

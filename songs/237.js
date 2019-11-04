@@ -5,6 +5,7 @@ push({
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
   "verses": `
+
 hari hari! ki mora karama anurata |
 biṣaye kuṭilamati,    sat.saṅge nā hailô rati,
 kise āra taribāra patha ||1||

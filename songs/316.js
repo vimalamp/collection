@@ -4,7 +4,8 @@ push({
   "author": "govinda-dāsa",
   "category": "śrī-kṛṣṇa dainyabodhikā prārthanā",
   "language": "bengali",
-  "verses": `(kāmoda-rāga)
+  "verses": `
+(kāmoda-rāga)
 nanda-nandana candra-candana gandha nindiha aṅga
 jalada sundara-kambu-kandhara nindi sindhura aṅga (1)
 

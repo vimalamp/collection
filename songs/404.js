@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 gurudeve, vrajabane,    vrajabhūmibāsī jane,
 śuddhabhakte, āra bipragaṇe |
 iṣṭamantre, harināme,    ĵugala-bhajana-kāme,

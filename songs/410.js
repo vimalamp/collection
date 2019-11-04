@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 <i>pratiṣṭhāśā dhṛṣṭā śvapacaramaṇī me hṛdi naṭet.
 kathaṁ sādhuḥ premā spṛśati śuciretannanu manaḥ |
 sadā tvaṁ sevasva prabhudayita-sāmantamatulaṁ

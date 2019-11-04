@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
-  "verses": `jaya jaya nityānanda rohiṇī kumāra
+  "verses": `
+jaya jaya nityānanda rohiṇī kumāra
 patita uddhāra lāgi du’bāhu pasāra (1)
 
 gada gada madhura madhura ādho bola

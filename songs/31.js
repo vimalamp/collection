@@ -4,7 +4,8 @@ push({
   "author": "śrīla-prabodhānanda-sarasvatīpāda",
   "category": "śrī-saṁskṛta-gīti (śrīmatī rādhikā)",
   "language": "sanskrit",
-  "verses": `gāyata rādhā mādhava-līlaṁ,
+  "verses": `
+gāyata rādhā mādhava-līlaṁ,
 kuruta matiṁ rasarañjita-śīlām (1)
 
 vṛndāraṇya carācara vṛndaṁ

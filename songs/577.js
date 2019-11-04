@@ -4,7 +4,8 @@ push({
   "author": "jñāna-dāsa",
   "category": "goṣṭhalīḷā",
   "language": "bengali",
-  "verses": `śrīdāma bale ogo rāṇī, bidāya de tora nīlamaṇi
+  "verses": `
+śrīdāma bale ogo rāṇī, bidāya de tora nīlamaṇi
         laye jāba goṣṭha vihāre
 godhana cāraṇa kari, āmi diba tomāra hari
         nivedana kari joḍa kare (1)

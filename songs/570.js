@@ -5,6 +5,7 @@ push({
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
+
 bā̃dhilô māyā,    ĵedina ha’te,
 abidyā-moha-ḍore |
 aneka janma,    labhinu āmi,

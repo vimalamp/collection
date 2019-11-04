@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "kalyana-kalpataru maṅgalācaraṇa",
   "language": "bengali",
-  "verses": `dīkṣā-guru kṛpā kari’ mantra-upadeśa
+  "verses": `
+dīkṣā-guru kṛpā kari’ mantra-upadeśa
 kariyā dekhāna kṛṣṇa-tattvera nirdeśa (1)
 
 śikṣā-guru-vṛnda kṛpā kariyā apāra

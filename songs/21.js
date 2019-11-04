@@ -4,7 +4,8 @@ push({
   "category": "śrī-śacī-sutāṣṭakam",
   "author": "śrīla-sārvabhauma-bhaṭṭācārya viracitam",
   "language": "sanskrit",
-  "verses": `nava gaura-varaṁ nava-puṣpa-śaraṁ
+  "verses": `
+nava gaura-varaṁ nava-puṣpa-śaraṁ
     nava-bhāva-dharaṁ nava-lāsya-param
 nava-hāsya-karaṁ nava-hema-varaṁ
     praṇamāmi śacī-suta-gaura-varam (1)

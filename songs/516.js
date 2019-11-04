@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>udīrṇa-saṁsāra-davāśuśukṣaṇiṁ 
 kṣaṇena nirvvāpya parāñca nirvṛtim_ |
 praĵacchati tvaccaraṇāruṇāmbuja-

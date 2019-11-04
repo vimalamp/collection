@@ -4,7 +4,8 @@ push({
   "author": "śrī viśvanātha cakravartī ṭhākura",
   "category": "śrī-saṁskṛta-gīti (śrīmatī rādhikā)",
   "language": "sanskrit",
-  "verses": `<i>vasanta rāga</i>
+  "verses": `
+<i>vasanta rāga</i>
 vande śrī vṛṣabhānu-sutā-pada
 kamala-nayana locana sampada (1)
 

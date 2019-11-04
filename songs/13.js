@@ -4,7 +4,8 @@ push({
   "category": "śrīla-jagannāthāṣṭakam",
   "author": "śrīla-bhakti-rakṣaka-śrīdhara-gosvāmī-mahārāja-viracitam",
   "language": "sanskrit",
-  "verses": `rūpānugānāṁ pravaraṁ sudāntaṁ,
+  "verses": `
+rūpānugānāṁ pravaraṁ sudāntaṁ,
     śrī-gauracadra-priya-bhakta-rājam
 śrī-rādhikā-mādhava-cita-rāmaṁ,
     vande jagannātha-vibhuṁ vareṇyam (1)

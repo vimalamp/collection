@@ -5,6 +5,7 @@ push({
   "category": "śrī-guru-vaiṣṇave lālasāmayī prārthanā",
   "language": "bengali",
   "verses": `
+
 kabe mora mūḓha mana chāḓi’ anya dhyāna | 
 śrīkṛṣṇa-caraṇe pā’be biśrāmera sthāna ||1||
 

@@ -4,7 +4,8 @@ push({
   "category": "jīvera durgati o sādhu-saṅge nistāra",
   "author": "Unknown",
   "language": "bengali",
-  "verses": `citkaṇa jīva, kṛṣṇa cinmaya bhāskara
+  "verses": `
+citkaṇa jīva, kṛṣṇa cinmaya bhāskara
 nitya kṛṣṇa dekhi’ kṛṣṇe karena ādara (1)
 
 kṛṣṇa bahir-mukha hao bhoga-vāñchā kare

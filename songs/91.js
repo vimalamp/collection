@@ -4,7 +4,8 @@ push({
   "category": "śrī-guru-vandanā",
   "author": "śrī-caitanya-caritāmṛta",
   "language": "bengali",
-  "verses": `<i>vande gurūn-īśa-bhaktān-īśam-īśāvatārakān
+  "verses": `
+<i>vande gurūn-īśa-bhaktān-īśam-īśāvatārakān
 tat-prakāśāṁś-ca-tac-chaktīḥ kṛṣṇa-caitanya-saṁjñakam</i>
 
 mantra-guru āra yata śikṣā-guru-gaṇa

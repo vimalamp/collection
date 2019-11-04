@@ -5,6 +5,7 @@ push({
   "author": "śrī jagadānanda paṇḍita",
   "language": "bengali",
   "verses": `
+
 ekadina gaurahari,    śrīguṇḍicā parihari,
 ‘jagannāthavallabhe’ bôsilā |
 śuddhā ekādaśī dine,    kṛṣṇanāma-sukīrttane,

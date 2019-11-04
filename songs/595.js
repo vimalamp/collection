@@ -5,6 +5,7 @@ push({
   "category": "bāula-saṅgīta",
   "language": "bengali",
   "verses": `
+
 ghare bô’se bāula hao re mana, 
 kenô kôr_#bi duṣṭa-ācaraṇa ||1||
 mane mane rākh_#bi bāula-bhāba,

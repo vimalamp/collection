@@ -6,6 +6,7 @@ push({
   "subcategory": "guṇa-varṇana",
   "language": "bengali",
   "verses": `
+
 gajendragamane nitāi calaye manthare |
 ĵā’re dekhe tā’re bhāsāya premera pāthāre ||1||
 

@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaurasundare vijñapti",
   "language": "bengali",
   "verses": `
+
 pahũ mora gaurāṅga gosāñī |
 ei kṛpā karô ĵenô tomāra guṇa gāi ||1||
 

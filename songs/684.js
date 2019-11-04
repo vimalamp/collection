@@ -4,7 +4,8 @@ push({
   "author": "sadānanda",
   "category": "śrī-śrī-jagannātha-janāna",
   "language": "oriya",
-  "verses": `śrī-nīlādrī-nātha-mahimā-janāna
+  "verses": `
+śrī-nīlādrī-nātha-mahimā-janāna
 maṇimā śunimā heu garīvara ḍāka
 nirakṣa janaku rakṣa paṅkaja mukha (maṇi. . ) (1)
 

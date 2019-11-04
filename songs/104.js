@@ -4,7 +4,8 @@ push({
   "category": "śrīla-keśava-gosvāmī-vandanā",
   "author": "Unknown",
   "language": "bengali",
-  "verses": `jaya prabhu-vara, śrī-keśava ṭhākura,
+  "verses": `
+jaya prabhu-vara, śrī-keśava ṭhākura,
         śrī-rādhāra nija-jana
 kṛṣṇa-icchāvaśe, udi’ gauḍa-deśe,
         pūrā’le sajana-mana (1)

@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-govinda-ārati",
   "language": "bengali",
   "verses": `
+
 jaya jaya rādhejīko śaraṇa tõhāri |
 aichana ārati ĵāo bôlihārī ||1||
 

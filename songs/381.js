@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda-dāsa",
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
-  "verses": `<i>nārada-vīṇojjīvana
+  "verses": `
+<i>nārada-vīṇojjīvana
     sudhormi-niryāsa-mādhurī-pura
 tvaṁ kṛṣṇa-nāma kāmaṁ
     sphura me rasane rasena sadā</i>

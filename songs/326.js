@@ -4,7 +4,8 @@ push({
   "author": "śrīla jayadeva gosvami",
   "category": "śrī-kṛṣṇe ātma-nivedana",
   "language": "bengali",
-  "verses": `he govinda he gopāla
+  "verses": `
+he govinda he gopāla
 keśava mādhava dīna-doyāla (1)
 
 tumi parama doyāla prabhu, parama doyāla

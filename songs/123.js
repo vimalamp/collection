@@ -5,6 +5,7 @@ push({
   "category": "śrī-vaiṣṇave vijñapti",
   "language": "bengali",
   "verses": `
+
 śrīkṛṣṇa-bhajana lāgi’ saṁsāre āinu |
 māyājāle bandī haiyā bṛkṣasama hainu ||1||
 

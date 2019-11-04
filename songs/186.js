@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `eka-mukhe ki kahiba goracandera līla
+  "verses": `
+eka-mukhe ki kahiba goracandera līla
 hāmāguḍi nānā range jaya sacī-bālā (1)
 
 lāle mukha jhara jhara dekhite sundara

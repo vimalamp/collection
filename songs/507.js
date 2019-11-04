@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>vaśī vadānyo guṇavānṛjuḥ śuci-
 rmṛdurdayālurmadhuraḥ sthiraḥ samaḥ |
 kṛtī kṛtajñastvasmasi svabhāvataḥ 

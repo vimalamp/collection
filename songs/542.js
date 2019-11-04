@@ -5,6 +5,7 @@ push({
   "category": "prayojana-vijñāna-upalabdhi",
   "language": "bengali",
   "verses": `
+
 apūrbba vaiṣṇava-tattva! ātmāra ānanda-
 prasrabaṇa! nāhi ĵā’ra tulanā saṁsāre |
 svadharmma bôliyā ĵā’ra āche paricaya 

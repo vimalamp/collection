@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>ĵanmūrdhni me śrutiśiraḥsu ca bhāti ĵasmi-
 nnasmanmanorathapathaḥ sakalaḥ sameti |
 stoṣyāmi naḥ kuladhanaṁ kuladaivataṁ tat.

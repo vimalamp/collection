@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-advaitācārya",
   "language": "bengali",
-  "verses": `<i>(pāhiḍā)</i>
+  "verses": `
+<i>(pāhiḍā)</i>
 āre mora ācārya ṭhākura
         dayāra sāgara-vara, jagabhari vithārala,
 rādhā-kṛṣṇa līlā-rasa pūra (1)

@@ -5,6 +5,7 @@ push({
   "category": "śrī-guru-kṛpā-prārthanā",
   "language": "bengali",
   "verses": `
+
 kabe mora śubhadina hô_ibe udaya | 
 vṛndāvana-dhāma mama hô_ibe āśraya ||1||
 

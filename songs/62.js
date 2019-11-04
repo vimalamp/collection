@@ -4,7 +4,8 @@ push({
   "author": "śrī-rūpa gosvāmī",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `<i>vasanta rāga</i>
+  "verses": `
+<i>vasanta rāga</i>
 jaya jaya sundara! nanda-kumāra
     saurabha-saṅkaṭa, vṛndāvana-taṭa,
 vihita-vasanta-vihāra (1)

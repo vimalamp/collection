@@ -4,7 +4,8 @@ push({
   "author": "govinda dāsa",
   "category": "śrī-kṛṣṇa-mahimā",
   "language": "bengali",
-  "verses": `tuhū se rahili madhupura
+  "verses": `
+tuhū se rahili madhupura
 vrajakula ākula, dukūla kalarava,
         kānu kānu kori jhura (1)
 

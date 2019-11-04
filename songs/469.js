@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinode",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
-  "verses": `<i>dainya–duḥkhātmaka (kāyika)</i>
+  "verses": `
+<i>dainya–duḥkhātmaka (kāyika)</i>
 (prabhu he!) śuna mora duḥkhera kāhinī
         viṣaya-halāhala, sudhābhāṇe piyalu,
 āb avasāna dina-maṇi (1)

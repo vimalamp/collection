@@ -4,7 +4,8 @@ push({
   "category": "śrīla-prabhupāda-vandanā",
   "author": "Unknown",
   "language": "bengali",
-  "verses": `jayare jayare jaya, parama-haṁsa mahāśaya,
+  "verses": `
+jayare jayare jaya, parama-haṁsa mahāśaya,
         śrī-bhaktisiddhānta sarasvatī
 gosvāmī ṭhākura jaya, parama karuṇāmaya,
         dīna-hīna agatira gati (1)

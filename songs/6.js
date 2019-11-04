@@ -4,7 +4,8 @@ push({
   "category": "śrī-gurvaṣṭakam",
   "author": "śrīla-viśvanātha-cakravarti-ṭhakura viracitam",
   "language": "sanskrit",
-  "verses": `saṁsāra-dāvānala-līḍha-loka-
+  "verses": `
+saṁsāra-dāvānala-līḍha-loka-
     trāṇāya kāruṇya-ghanā-ghana-tvam
 prāptasya kalyāṇa-guṇārṇavasya
     vande guroḥ śrī-caraṇāravindam (1)

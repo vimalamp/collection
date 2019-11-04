@@ -5,6 +5,7 @@ push({
   "category": "śrī-vaiṣṇava-vandanā",
   "language": "bengali",
   "verses": `
+
 vṛndāvanabāsī ĵatô vaiṣṇavera gaṇa |
 prathame bandanā kôri sabāra caraṇa ||1||
 

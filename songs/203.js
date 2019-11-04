@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaurāṅga-niṣṭhā",
   "language": "bengali",
   "verses": `
+
 āre bhāi! bhaja mora gaurāṅga-caraṇa |
 nā bhajiyā mainu duḥkhe,    ḍubi’ gṛha-biṣakūpe,
 dagdha kailô e pā̃ca parāṇa ||1||

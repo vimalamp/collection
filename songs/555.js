@@ -6,6 +6,7 @@ push({
   "subcategory": "śrīla-raghunātha-dāsa-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
+
 śrīcaitanya-kṛpā haite,    raghunātha-dāsa-cite,
 parama bairāgya upajilô |
 kalatra, gṛha, sampada,    nijarājya, adhipada,

@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
-  "verses": `dekhite gaurāṅga-candra
+  "verses": `
+dekhite gaurāṅga-candra
 nadīyāra loka, śoka saba nāśala,
         dine dine bāḍala ānanda (1)
 

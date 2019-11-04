@@ -5,6 +5,7 @@ push({
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
+
 abaśya rakṣibe kṛṣṇa—eirūpa biśvāsa 
 
 (mānasika)

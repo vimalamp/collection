@@ -5,6 +5,7 @@ push({
   "category": "śrotṛgaṇera prati nivedana",
   "language": "bengali",
   "verses": `
+
 nadīyā-nagare gorā-carita-amṛta |
 piyā śoka-bhaya chāḓô, sthira karô cita ||1||
 

@@ -5,6 +5,7 @@ push({
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
+
 <i>kṛṣṇeti ĵasya giri taṁ manasādriyeta 
 dīkṣāsti cet. praṇatibhiśca bhajantamīśam_ |
 śuśrūṣayā bhajanavijñamananyamanya-

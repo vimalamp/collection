@@ -4,7 +4,8 @@ push({
   "category": "śrī-jagannāthāṣṭakam",
   "author": "śrī-gaura-candra-mukha-padma-vinirgatam",
   "language": "sanskrit",
-  "verses": `kadācit kālindī-taṭa-vipina-saṅgīta-taralo
+  "verses": `
+kadācit kālindī-taṭa-vipina-saṅgīta-taralo
     mudābhīrī-nārī-vadana-kamalāsvāda-madhupaḥ
 ramā-śambhu-brahmāmara-pati-gaṇeśārccita-pado
     jagannāthaḥ svāmī nayana-patha-gāmī bhavatu me (1)

@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! kibā tumi vicāri nā cāo
+  "verses": `
+ore mana! kibā tumi vicāri nā cāo
 ‘kṛṣṇa’ bhuli ei pāpa, teha tora tina tāpa,
         nānā joni bramiyā beḍāo (1)
 

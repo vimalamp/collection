@@ -4,7 +4,8 @@ push({
   "category": "śrī-vṛndāvanāṣṭakam",
   "author": "śrīla-viśvanātha-cakravartī-ṭhākura",
   "language": "sanskrit",
-  "verses": `na yoga-siddhir na mamāstu
+  "verses": `
+na yoga-siddhir na mamāstu
     mokṣo vaikuṇṭha-loke ’pi na pārṣadatvam
 premāpi na syād iti cettarāṁ tu
     mamāstu vṛndāvana eva vāsaḥ (1)

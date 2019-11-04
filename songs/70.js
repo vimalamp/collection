@@ -4,7 +4,8 @@ push({
   "category": "śrī-navadvīpāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `śrī gauḍa-deśe sura-dīrghikāyās
+  "verses": `
+śrī gauḍa-deśe sura-dīrghikāyās
     tīre’ ti-ramye pura-puṇya-mayyāḥ
 lasantam ānanda-bhareṇa nityaṁ,
     taṁ śrī navadvīpam ahaṁ smarāmi (1)

@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 <i>samaṁ śrīrūpeṇa smara-vivaśa-rādhāgiribhṛto-
 rvraje sākṣāt.sevā-labhana-vidhaye tad_#gaṇaĵujoḥ |
 tadijyākhyā-dhyāna-śravaṇa-nati pañcāmṛtamidaṁ

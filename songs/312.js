@@ -4,7 +4,8 @@ push({
   "author": "govinda-dāsa",
   "category": "śrī-kṛṣṇa dainyabodhikā prārthanā",
   "language": "bengali",
-  "verses": `(suha-i-rāga)
+  "verses": `
+(suha-i-rāga)
 jaya jaya yadu-kula-jalanidhi-candra
 braja-kula gokula ānanda-kanda (1)
 

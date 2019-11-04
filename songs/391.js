@@ -6,6 +6,7 @@ push({
   "subcategory": "adhikārī-bhede",
   "language": "bengali",
   "verses": `
+
 ĵogapīṭhopari sthita,    aṣṭasakhī-subeṣṭita,
 vṛndāraṇye kadamba-kānane |
 rādhāsaha baṁśīdhārī,    biśvajana-cittahārī,

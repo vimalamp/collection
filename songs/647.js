@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `kṛṣṇa kṛṣṇa-bhakta-gaṇa guṇa nāma su-carita
+  "verses": `
+kṛṣṇa kṛṣṇa-bhakta-gaṇa guṇa nāma su-carita
         maṇḍana sambandhi taṭasthādi
 bhāva jata agaṇana e rasera uddīpana
         hetu boli’ bole rasa-bedi (1)

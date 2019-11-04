@@ -4,7 +4,8 @@ push({
   "author": "śrīla prabodhānanda sarasvatī",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `<i>maṅgala-gurjarī-rāga</i>
+  "verses": `
+<i>maṅgala-gurjarī-rāga</i>
 jaya jaya prāṇa-sakhe!
     praṇata-sakala-sukha-dāyaka, vraja-nāyaka he,
 ballabha-rāja-kumāra!

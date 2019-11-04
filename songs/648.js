@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `vibhāvita rati jabe kriyāpara ho’ye tabe
+  "verses": `
+vibhāvita rati jabe kriyāpara ho’ye tabe
         anubhāva haya to’ udita
 citta-bhāva udghāṭiyā kare bāhya su-vikriyā
         jakhana je haya to’ ucita (1)

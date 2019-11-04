@@ -4,7 +4,8 @@ push({
   "author": "dāsa vaiṣṇava",
   "category": "jhulanalīlā",
   "language": "bengali",
-  "verses": `jhulanā haite, nāmila turite,
+  "verses": `
+jhulanā haite, nāmila turite,
         rasavatī rasarāja
 ratana āsane, basiyā du’jane,
         ratana mandira mājha (1)

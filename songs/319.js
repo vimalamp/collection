@@ -5,6 +5,7 @@ push({
   "category": "śrī-kṛṣṇe svābhīṣṭa-lālasātmaka prārthanā",
   "language": "bengali",
   "verses": `
+
 karaṅga kaupīna lañā,    chẽḓā kānthā gāye diyā,
 teyāgibô sakala biṣaya |
 kṛṣṇe anurāga ha’be,    vrajera nikuñje kabe,

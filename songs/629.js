@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `bahu-janma-bhāgya-vaśe cinmaya madhura rase
+  "verses": `
+bahu-janma-bhāgya-vaśe cinmaya madhura rase
         spṛhā janme jīvera hiyāya
 sei spṛhā lobha haya vraja-dhāme jīva laya
         rūpānuga-bhajane mātāya (1)

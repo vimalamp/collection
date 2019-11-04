@@ -5,6 +5,7 @@ push({
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
   "verses": `
+
 <i>nikhila-śrutimauli-ratnamālā-
 dyuti-nīrājita-pādapaṅkajānta |
 ayi muktakulairupāsyamānaṁ 

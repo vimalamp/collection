@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-guru-kṛpā-prārthanā",
   "language": "bengali",
-  "verses": `gurudeva! dayāmaya!
+  "verses": `
+gurudeva! dayāmaya!
 prānera yātanā jānāva ki tomā,
         hayeche jivana yantraṇā-maya (1)
 

@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-bhaktivinoda-jaya-guṇa-gāna",
   "language": "bengali",
-  "verses": `(kothā) bhaktivinoda śrī-gaura-svajana!
+  "verses": `
+(kothā) bhaktivinoda śrī-gaura-svajana!
 kṛṣṇa-prema dite, esechile martya,
         mānavera sāje karuṇā-kāraṇa (1)
 

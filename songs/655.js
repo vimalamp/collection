@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `rasa-tattva nitya jaiche vraja-tattva nitya taiche
+  "verses": `
+rasa-tattva nitya jaiche vraja-tattva nitya taiche
         līlā-rasa eka kari’ jñāna
 kṛṣṇa je sākhāt rasa sakala-i kṛṣṇera vaśa
         beda bhāgavate kare gāna (1)

@@ -4,7 +4,8 @@ push({
   "category": "śrī-gāndharvā-samprārthanāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `vṛndāvane viharator iha keli-kuñje
+  "verses": `
+vṛndāvane viharator iha keli-kuñje
     matta-dvipa-pravara-kautuka-vibhrameṇa
 sandarśa yasva yuvayor vadanāravinda-
     dvandvaṁ vidhehi mayi devi! kṛpāṁ prasīda (1)

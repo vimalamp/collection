@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! sādhu-saṅge karaha vasati
+  "verses": `
+ore mana! sādhu-saṅge karaha vasati
 yadi karma-pāśa-vandhe, magana karaye andhe,
         yadi kula-vihīna utpati (1)
 

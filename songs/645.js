@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `pañca-sakhī madhye cāra nitya-siddha rādhikāra
+  "verses": `
+pañca-sakhī madhye cāra nitya-siddha rādhikāra
         se sakale sādhana nā kaila
 sakhī boli’ ukta jei sādhana-prabhāve tei
         vraja-rāja pure vāsa pāila (1)

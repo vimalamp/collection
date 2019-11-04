@@ -5,6 +5,7 @@ push({
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
+
 <i>vāco vegaṁ manasaḥ krodhavegaṁ 
 jihvā-vegamudaropastha-vegam_ |
 etān_ vegān_ ĵo viṣaheta dhīraḥ 

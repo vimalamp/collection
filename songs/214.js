@@ -4,7 +4,8 @@ push({
   "author": "locana bale",
   "category": "śrī-gaura-nityānande vijñapti",
   "language": "bengali",
-  "verses": `ei-bāra karuṇā kara caitanya-nitāi
+  "verses": `
+ei-bāra karuṇā kara caitanya-nitāi
 mo-sama pātakī āra tri-bhuvane nāi (1)
 
 mui ati mūḍha-mati māyāra naphara

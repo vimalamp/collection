@@ -5,6 +5,7 @@ push({
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
+
 dhana, jana, deha, geha kṛṣṇe samarpaṇa |
 kôriyāchô, śuddha citte karahô smaraṇa ||1||
 

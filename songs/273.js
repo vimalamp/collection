@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `śrī rūpa mañjarī kabe madhura vacane
+  "verses": `
+śrī rūpa mañjarī kabe madhura vacane
 rādhā-kuṇḍa mahimā varṇibe saṅgopane (1)
 
 e caudda bhuvanopari vaikuṇṭha nilaya

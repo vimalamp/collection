@@ -5,6 +5,7 @@ push({
   "category": "śrī-nāmāṣṭaka",
   "language": "bengali",
   "verses": `
+
 <i>sūditāśrita-janārttirāśaye 
 ramyacid_#ghana-sukha-svarūpiṇe |
 nāma gokula-mahot.savāya te 

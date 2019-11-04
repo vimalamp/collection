@@ -4,7 +4,8 @@ push({
   "author": "śrīla sarasvatī ṭhākura",
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
-  "verses": `<i>kṛṣṇasyoccaiḥ praṇaya-vasatiḥ preyasībhyo’pi rādhā-
+  "verses": `
+<i>kṛṣṇasyoccaiḥ praṇaya-vasatiḥ preyasībhyo’pi rādhā-
     kuṇḍaṁ cāsyā munibhir-abhitas-tādṛg-eva vyadhāyi
 yat preṣṭhyair-apy-alam-asulabhaṁ kiṁ punar-bhakti-bhājāṁ
     tat premedaṁ sakṛd-api saraḥ snātur-āviṣkaroti</i>

@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>ullaṅghita-trividhasīma-samātiśāyi-
 sambhāvanaṁ tava parivraḓhima-svabhāvam_ |
 māyābalena bhavatā^pi niguhyamānaṁ 

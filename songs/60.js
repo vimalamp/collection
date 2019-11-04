@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-saṁskṛta-gīti (śrī-kṛṣṇacandra)",
   "language": "sanskrit",
-  "verses": `<i>śrī-rāga</i>
+  "verses": `
+<i>śrī-rāga</i>
 dhvaja-vajrāṅkuśa-paṅkaja-kalitam
 vraja-vanitākuca-kuṅkuma-lalitam (1)
 

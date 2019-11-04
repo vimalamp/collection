@@ -5,6 +5,7 @@ push({
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
   "verses": `
+
 <i>nāmnāmakāri bahudhā nijasarvvaśakti-
 statrārpitā niyamitaḥ smaraṇe na kālaḥ |
 etādṛśī tava kṛpā bhagavanmamāpi 

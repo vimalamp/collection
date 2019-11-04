@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-rūpa-varṇana",
   "language": "bengali",
   "verses": `
+
 navadvīpe udaya kôrilā dvijarāja |
 kali-timira-ghora,    gorācā̃da ujora,
 pāriṣada-tārāgaṇa-mājha ||1||

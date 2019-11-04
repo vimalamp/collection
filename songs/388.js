@@ -5,6 +5,7 @@ push({
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
   "verses": `
+
 <i>yugāyitaṁ nimeṣeṇa 
 cakṣuṣā prāvṛṣāyitam_ |
 śūnyāyitaṁ jagat. sarvvaṁ 

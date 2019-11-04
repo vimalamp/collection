@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "nirveda-lakṣaṇa-upalabdhi",
   "language": "bengali",
-  "verses": `ore mana, bhukti-mukti-spṛhā kara’ dūra
+  "verses": `
+ore mana, bhukti-mukti-spṛhā kara’ dūra
 bhogera nāhika śeṣa, tāhe nāhi sukha-leśa,
         nirānanda tāhāte pracura (1)
 

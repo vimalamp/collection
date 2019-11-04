@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "hindī-kīrtana",
   "language": "hindi",
-  "verses": `manaro lāge nā sakhīrī mero śyāma binā manaro lāge nā,
+  "verses": `
+manaro lāge nā sakhīrī mero śyāma binā manaro lāge nā,
 śyām binā re ghanaśyāma binā manaro lāge nā (1)
 
 sunī sunī lāge mohe sārī braja nagarī,

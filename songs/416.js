@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `mana, tumi bhālavāsa kāmera taraṅga
+  "verses": `
+mana, tumi bhālavāsa kāmera taraṅga
 jaḍa-kāma pari-hari’, śuddha-kāma sevā kari’,
         vistāraha aprākṛta raṅga
 anitya jaḍīya kāma, śānti-hīna aviśrāma,

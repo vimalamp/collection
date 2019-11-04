@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 <i>ĵathā duṣṭatvaṁ me davayati śaṭhasyāpi kṛpayā
 ĵathā mahyaṁ premāmṛtamapi dadātyujjvalamasau |
 ĵathā śrīgāndharvvā-bhajana-vidhaye prerayati māṁ

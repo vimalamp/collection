@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `e mana! ‘harināma’ kara sāra
+  "verses": `
+e mana! ‘harināma’ kara sāra
 e bhava-sāgara, ha’be vāli-cara,
         hāṭiyā haibi pāra (1)
 

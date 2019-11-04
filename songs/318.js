@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "śrī-kṛṣṇe svābhīṣṭa-lālasātmaka prārthanā",
   "language": "bengali",
-  "verses": `hari hari! āra ki emana daśā haba
+  "verses": `
+hari hari! āra ki emana daśā haba
 e-bhava-saṁsāra tyaji’, parama-ānande maji’,
         āra kabe vraja-bhūme jā’ba (1)
 

@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `darśana āśleṣanvita ānukūlya sevāśrīta
+  "verses": `
+darśana āśleṣanvita ānukūlya sevāśrīta
         ullāse ārūḍha jei bhāva
 yuva-dvandva hṛdi mājhe rasākāre su-virājye
         sambhogākhya tāra haya lābha (1)

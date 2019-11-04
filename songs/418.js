@@ -5,6 +5,7 @@ push({
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
+
 mana, tumi baḓô_i pāmara |
 tomāra īśvara hari,    tā̃’ke kenô parihari’,
 kāmamārge bhajô’ debāntara??1??

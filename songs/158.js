@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
   "verses": `
+
 nadīyā-udayagiri,    pūrṇacandra gaurahari,
 kṛpā kôri’ hô_ilô udaya |
 pāpa-tamo hailô nāśa,    trijagatera ullāsa,

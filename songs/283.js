@@ -4,7 +4,8 @@ push({
   "author": "narottama",
   "category": "śrī-rādhā-kṛṣṇa vijñapti",
   "language": "bengali",
-  "verses": `hari hari! hena dina haibe āmāra
+  "verses": `
+hari hari! hena dina haibe āmāra
 duhū aṅga paraśiba duhu aṅga nirakhiba
         sevana kariba dohākāra (1)
 

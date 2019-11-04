@@ -5,6 +5,7 @@ push({
   "category": "śoka-śātana",
   "language": "bengali",
   "verses": `
+
 “pūrṇacidānanda tumi,    tomāra cit.kaṇa āmi,
 svabhāvataḥ āmi tuŵā dāsa |
 parama svatantra tumi,    tuŵā paratantra āmi,

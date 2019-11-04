@@ -4,7 +4,8 @@ push({
   "author": "śrīla rūpa gosvāmī",
   "category": "śrī-saṁskṛta-gīti (śrīmatī rādhikā)",
   "language": "sanskrit",
-  "verses": `<i>lalita rāga</i>
+  "verses": `
+<i>lalita rāga</i>
 sīdati sakhi mama hṛdayam-adhīram
 yad-abhajam-iha na hi gokula-vīram (1)
 

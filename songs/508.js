@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>tadāśritānāṁ jagadudbhava-sthiti-
 praṇāśa-saṁsāra-vimocanādayaḥ |
 bhavanti līlā vidhayaśca vaidikā-

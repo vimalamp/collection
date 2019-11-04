@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaurāṅga-niṣṭhā",
   "language": "bengali",
   "verses": `
+
 bhāire! bhajô gorācā̃dera caraṇa |
 e tina bhubane āra,    dayāra ṭhākura nāi,
 gorā baḓô patitapābana ||1||

@@ -4,7 +4,8 @@ push({
   "author": "śrīla rūpa gosvāmī",
   "category": "śrī-saṁskṛta-gīti (śrīmatī rādhikā)",
   "language": "sanskrit",
-  "verses": `<i>bhairava</i>
+  "verses": `
+<i>bhairava</i>
 rādhe jaya jaya mādhava dayite
 gokula-taruṇī-maṇḍala-mahīte (1)
 

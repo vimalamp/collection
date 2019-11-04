@@ -4,7 +4,8 @@ push({
   "author": "narottama",
   "category": "śrī-rādhā-kṛṣṇa-caraṇe saṁprārthanā",
   "language": "bengali",
-  "verses": `aji rase bādara niśi
+  "verses": `
+aji rase bādara niśi
 preme bhāsala saba vṛndavāna-vāsī (1)
 
 śyāma-ghana barikhaye prema-sudhā-dhāra

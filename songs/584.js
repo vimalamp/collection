@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "naukāvihāra",
   "language": "bengali",
-  "verses": `rāi-kānu yamunāra mājhe
+  "verses": `
+rāi-kānu yamunāra mājhe
 phiraye taranī, jalera ghūraṇī,
         dūra gela kula lāje (1)
 

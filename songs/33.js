@@ -4,7 +4,8 @@ push({
   "category": "śrī-rādhikāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `diśi diśi racayantīṁ sañcaran-netra-lakṣmī-
+  "verses": `
+diśi diśi racayantīṁ sañcaran-netra-lakṣmī-
     vilasita-khuralībhiḥ khañjarī ṭasya khelām
 hṛdaya-madhupa-mallīṁ ballavādhīśa-sūnor
     akhila-guṇa-gambhīrāṁ rādhikām arcayāmi (1)

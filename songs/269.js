@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `heno kāle kabe, vilāsa mañjarī,
+  "verses": `
+heno kāle kabe, vilāsa mañjarī,
         anaṅga mañjarī āra
 āmāre heriyā, ati kṛpā kari’,
         balibe vacana sāra (1)

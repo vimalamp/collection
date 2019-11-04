@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `e mana! ki lāgi’ āili bhave
+  "verses": `
+e mana! ki lāgi’ āili bhave
 emana janame, hari nā bhajili,
         se tui mānuṣa kabe (1)
 

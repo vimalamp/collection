@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-guṇa-varṇana",
   "language": "bengali",
   "verses": `
+
 śacīsuta gaurahari,    navadvīpe abatari,
 kôrilena bibidha bilāsa |
 saṅge laiyā priyagaṇa,    prakāśiyā saṅkīrttana,

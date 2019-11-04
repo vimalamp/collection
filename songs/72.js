@@ -4,7 +4,8 @@ push({
   "category": "śrī-śyāma-kuṇḍāṣṭakam",
   "author": "śrīmad-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `vṛṣabha-danuja-nāśān-antaraṁ yat sva-goṣṭhīm
+  "verses": `
+vṛṣabha-danuja-nāśān-antaraṁ yat sva-goṣṭhīm
     ayasi vṛṣabha-śatro mā spṛśa tvaṁ vadantyām
 iti vṛṣa-ravi-putryāṁ kṛṣṇa-pārṣṇiṁ prakhātaṁ
     tad ati-vimala-nīraṁ śyāma-kuṇḍaṁ gatir me (1)

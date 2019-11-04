@@ -5,7 +5,8 @@ push({
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīla-sanātana-gosvāmī-prabhura śocaka",
   "language": "bengali",
-  "verses": `jaya jaya pahu śrīla sanātana nātha
+  "verses": `
+jaya jaya pahu śrīla sanātana nātha
 sakala bhuvana māhā jachu guṇa-grāma (1)
 
 tejala sakala sukha sampad apāra

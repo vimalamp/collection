@@ -5,6 +5,7 @@ push({
   "category": "śrī-manaḥ-śikṣā",
   "language": "bengali",
   "verses": `
+
 <i>yadīccherāvāsaṁ vrajabhuvi sarāgaṁ pratijanu-
 rĵuvadvandvaṁ taccet. paricaritumārādabhilaṣeḥ |
 svarūpaṁ śrīrūpaṁ sagaṇamiha tasyāgrajamapi

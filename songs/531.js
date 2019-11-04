@@ -5,6 +5,7 @@ push({
   "category": "anutāpa-lakṣaṇa-upalabdhi",
   "language": "bengali",
   "verses": `
+
 sādhusaṅga nā hô_ilô hāya! 
 gelô dina akāraṇa,    kôri’ artha upārjjana,
 paramārtha rahilô kothāya ??1??

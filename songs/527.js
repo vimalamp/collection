@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>durantasyānāderapariharaṇīyasya mahato
 vihīnācāro^haṁ nṛpaśuraśubhasyāspadamapi |
 dayāsindho vandho niravadhika-vāt.salya-jaladhe-

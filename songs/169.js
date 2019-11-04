@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-tattva",
   "language": "bengali",
   "verses": `
+
 jaya jaya jagannātha śacīra nandana | 
 tribhubana kare ĵā̃’ra caraṇa bandana ||1||
 

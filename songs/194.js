@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "varṇa-mālāya śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `ka, kali-yuge śrī-kṛṣṇa-caitanya-avatāra
+  "verses": `
+ka, kali-yuge śrī-kṛṣṇa-caitanya-avatāra
 kha, khelivāra pravandhe kaila kholakaratāla (1)
 
 ga, gaḍāgaḍi yāna prabhu nija saṅkīrtane

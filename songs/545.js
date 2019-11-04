@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "ucchvāsa-dainyamayī-prārthanā",
   "language": "bengali",
-  "verses": `bhavārṇave paḍe’ mora ākula parāṇa
+  "verses": `
+bhavārṇave paḍe’ mora ākula parāṇa
 kise kula pā’ba, tā’ra nā pāi sandhāna (1)
 
 nā āche karama-bala, nāhi jñāna-bala

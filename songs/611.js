@@ -5,7 +5,8 @@ push({
   "category": "sandhyārati",
   "subcategory": "śrī-tulasī-ārati",
   "language": "bengali",
-  "verses": `<i>(adhikārī-bhede)</i>
+  "verses": `
+<i>(adhikārī-bhede)</i>
 namo namaḥ tulasī kṛṣṇa-preyasī
 rādhā-kṛṣṇa-pada-sevā ei abhilāṣī (1)
 

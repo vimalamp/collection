@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `svataḥ-siddhi rati tāṅre sambandhādi-sahākāre s
+  "verses": `
+svataḥ-siddhi rati tāṅre sambandhādi-sahākāre s
         amartha kariyā rākhe sadā
 kṛṣṇa-sevā vinā tāṅra udyama nāhika āra
         svīya sukha ceṣṭa nāhi kadā (1)

@@ -4,7 +4,8 @@ push({
   "category": "viśuddha vairāgī o tāhāra kartavya",
   "author": "Unknown",
   "language": "bengali",
-  "verses": `viśuddha vairāgī kare nāma-saṅkīrtana
+  "verses": `
+viśuddha vairāgī kare nāma-saṅkīrtana
 māgiyā khāiyā kare jīvana-jāpana (1)
 
 vairāgī haiyā jevā kare parāpekṣā

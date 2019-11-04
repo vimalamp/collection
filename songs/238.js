@@ -4,7 +4,8 @@ push({
   "author": "narottama",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
-  "verses": `kusumita vṛndāvane, nācata śikhi-gaṇe,
+  "verses": `
+kusumita vṛndāvane, nācata śikhi-gaṇe,
         pika-kula, bhramara-jhaṇkāra
 priya-sahacarī saṇge, gāiyā jāiba raṇge,
         manohara nikuñja-kuṭīre (1)

@@ -5,6 +5,7 @@ push({
   "category": "śrī-gaura-nityānande vijñapti",
   "language": "bengali",
   "verses": `
+
 nitāi caitanya dõhe baḓô abatāra | 
 emôna dayāla dātā nā hô_ibe āra ||1||
 

@@ -4,7 +4,8 @@ push({
   "category": "śrīmatī-rādhārānī-stuti",
   "author": "Unknown",
   "language": "sanskrit",
-  "verses": `yat-kiṅkarīṣu bahuśaḥ khalu kāku-vāṇī
+  "verses": `
+yat-kiṅkarīṣu bahuśaḥ khalu kāku-vāṇī
     nityaṁ parasya puruṣasya śikhaṇḍa-mauleḥ
 tasyāḥ kadā rasa-nidher vṛṣabhānu-jāyās
     tat-keli-kuñja-bhavanāṅgana-marjanī syām (1)

@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>tadahaṁ tvadṛte nā nāthavān_ 
 madṛte tvaṁ dayanīyavānna ca |
 vidhinirmmitametadanvayaṁ 

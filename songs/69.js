@@ -4,7 +4,8 @@ push({
   "category": "śrī-śrī-rādhā-vinoda-bihāri-tattvāṣṭakam",
   "author": "paramahaṁsa-parivrājakācārya-varyeṇāṣṭottara-śata-śrī-śrīmad bhaktiprajñāna-keśava-gosvāmī-mahārājena viracitam",
   "language": "sanskrit",
-  "verses": `rādhā-cintā niveśena yasya kāntir-vilopitā
+  "verses": `
+rādhā-cintā niveśena yasya kāntir-vilopitā
 śrī-kṛṣṇa-caraṇaṁ vande rādhāliṅgita-vigraham (1)
 
 sevya-sevaka-sambhoge dvayor-bhedaḥ kuto bhavet

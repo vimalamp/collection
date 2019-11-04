@@ -5,6 +5,7 @@ push({
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
   "verses": `
+
 dainya—duḥkhātmaka (mānasika)
 
 bidyāra bilāse,    kāṭāinu kāla,

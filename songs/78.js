@@ -4,7 +4,8 @@ push({
   "category": "śrī-lalitāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `rādhā-mukunda-pada-sambhava-gharma-bindu-
+  "verses": `
+rādhā-mukunda-pada-sambhava-gharma-bindu-
     nirmañchano-pakaraṇī-kṛta-deha-lakṣām
 uttuṅga-sauhṛda-viśeṣa-vaśāt pragalbhāṁ
     devīṁ guṇaiḥ sulalitāṁ lalitāṁ namāmi (1)

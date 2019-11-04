@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura, manaḥśikṣā",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `kena mana, kāmere nācāo prema-prāya?
+  "verses": `
+kena mana, kāmere nācāo prema-prāya?
 carma-māṁsamaya kāma, jaḍasukha avirāma,
         jaḍa viṣayete sadā dhāya (1)
 

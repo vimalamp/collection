@@ -5,6 +5,7 @@ push({
   "category": "śrī-śikṣāṣṭaka",
   "language": "bengali",
   "verses": `
+
 <i>cetodarpaṇa-mārjjanaṁ bhava-mahādāvāgni-nirvvāpaṇaṁ
 śreyaḥkairavacandrikā-vitaraṇaṁ vidyāvadhū-jīvanam_ |
 ānandāmbudhi-varddhanaṁ pratipadaṁ pūrṇāmṛtāsvādanaṁ

@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "śreyo-nirṇaya",
   "language": "bengali",
-  "verses": `‘nirākāra’ ‘nirākāra’ kariyā cītkāra
+  "verses": `
+‘nirākāra’ ‘nirākāra’ kariyā cītkāra
 kena sādhakera śānti bhāṅga, bhāi vāra vāra (1)
 
 tumi jā’ bujhecha bhāla, tāi laye kāṭa kāla

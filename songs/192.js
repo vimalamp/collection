@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `(bhairavī-rāga)
+  "verses": `
+(bhairavī-rāga)
 āju śacī-nandana nava abhiṣeka
 ānanda-kanda nayana bhari dekha (1)
 

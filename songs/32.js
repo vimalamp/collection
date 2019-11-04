@@ -4,7 +4,8 @@ push({
   "author": "śrīla-prabodhānanda-sarasvatīpāda",
   "category": "smaratu mano mama niravadhi rādhām",
   "language": "sanskrit",
-  "verses": `smaratu mano mama niravadhi rādhām
+  "verses": `
+smaratu mano mama niravadhi rādhām
 madhupati-rūpa-guṇa-śravaṇodita-sahaja-manobhava-bādhām (1)
 
 varasīmanta-rasāmṛta-saraṇī-dhṛta-sindūra-surekhām

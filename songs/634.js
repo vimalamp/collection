@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `rasera ādhāra jini tāṅra citte rasa-khani
+  "verses": `
+rasera ādhāra jini tāṅra citte rasa-khani
         sei cittera avasthā viśeṣe
 śraddhā-niṣṭhā-rucy-āsakti krame haya bhāva-bhakti
         rati-nāme tāṅhāra nirdeśe (1)

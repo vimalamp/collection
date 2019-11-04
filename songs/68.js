@@ -4,7 +4,8 @@ push({
   "category": "śrī-śrī-madhurāṣṭakam",
   "author": "śrīmad vallabhācārya",
   "language": "sanskrit",
-  "verses": `adharaṁ madhuraṁ vadanaṁ madhuraṁ
+  "verses": `
+adharaṁ madhuraṁ vadanaṁ madhuraṁ
     nayanaṁ madhuraṁ hasitaṁ madhuram
 hṛdayaṁ madhuraṁ gamanaṁ madhuraṁ
     madhurādhi-pater-akhilaṁ madhuram (1)

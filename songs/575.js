@@ -4,7 +4,8 @@ push({
   "author": "vamśīvadane",
   "category": "goṣṭhalīḷā",
   "language": "bengali",
-  "verses": `śavīra nandana gorā e cāda vayāne
+  "verses": `
+śavīra nandana gorā e cāda vayāne
 dhavalī śāṅlī vali ḍāke ghane ghane (1)
 
 bujhiyā bhāvera gati nityānanda rāya

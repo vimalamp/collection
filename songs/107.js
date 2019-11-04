@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-bhaktivinoda-jaya-guṇa-gāna",
   "language": "bengali",
-  "verses": `jaya gadādharābhinna bhaktivinoda
+  "verses": `
+jaya gadādharābhinna bhaktivinoda
 cidānandamaya tanu bhakta-prāṇāmoda (1)
 
 uddhāra karile lupta-tīrtha māyāpura

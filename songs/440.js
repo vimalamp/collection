@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `e mana! āra ki mānuṣa ha’be
+  "verses": `
+e mana! āra ki mānuṣa ha’be
 bhārata-bhūmete, janama labhiye,
         ki kāja karili kabe (1)
 

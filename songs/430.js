@@ -5,6 +5,7 @@ push({
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
+
 mana, tumi baḓô_i cañcala |
 ekānta sarala bhakta-,    jane nahô anurakta,
 dhūrttajane āsakti prabala ||1||

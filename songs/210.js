@@ -4,7 +4,8 @@ push({
   "author": "vṛndāvana-dāsa",
   "category": "śrī-gaura-nityānande vijñapti",
   "language": "bengali",
-  "verses": `śrī-kṛṣṇa-caitanya nityānanda dui prabhu
+  "verses": `
+śrī-kṛṣṇa-caitanya nityānanda dui prabhu
 ei kṛpā kara yena nā pāsara kabhu (1)
 
 haila pāpiṣṭha-janma nā haila takhane

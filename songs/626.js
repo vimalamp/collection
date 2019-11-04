@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "kalyana-kalpataru maṅgalācaraṇa",
   "language": "bengali",
-  "verses": `jaya jaya śrī-caitanya patita-pāvana,
+  "verses": `
+jaya jaya śrī-caitanya patita-pāvana,
 jaya nityānanda prabhu anātha-taraṇa (1)
 
 jaya jayādvaitacandra kṛpāra sāgara

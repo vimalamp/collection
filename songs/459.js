@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! ebe tora e kemana rīta
+  "verses": `
+ore mana! ebe tora e kemana rīta
 je karme āili hethā, se-saba rahila kothā,
         ebe je dekhiye viparīta (1)
 

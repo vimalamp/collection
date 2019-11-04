@@ -4,7 +4,8 @@ push({
   "category": "śrī-kṛṣṇa-candrāṣṭakam",
   "author": "śrīla-kṛṣṇa-dāsa kavirāja goswāmī",
   "language": "sanskrit",
-  "verses": `ambudāñjanendra-nīla-nindi-kānti-ḍambaraḥ
+  "verses": `
+ambudāñjanendra-nīla-nindi-kānti-ḍambaraḥ
     kuṅkumodyad-arka-vidyud-aṁśu-divyad-ambaraḥ
 śrīmad-aṅga-carcitendu-pītanākta-candanaḥ
     svāṅghri-dāsyado ’stu me sa ballavendra-nandanaḥ (1)

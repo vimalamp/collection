@@ -4,7 +4,8 @@ push({
   "author": "tulasī dāsa",
   "category": "śrī-rāmacandra",
   "language": "bengali",
-  "verses": `ṭhumaka calata rāmacandra bājata paiñjaniyā (1)
+  "verses": `
+ṭhumaka calata rāmacandra bājata paiñjaniyā (1)
 
 kilaka kilaka oṭhata dhāe, girata bhūmi laṭapaṭāe
 dhāya māta goda leta daśaratha ki raniyā (2)

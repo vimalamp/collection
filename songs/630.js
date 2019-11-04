@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `yoga yāga saba chāra śraddhā sakalera sāra
+  "verses": `
+yoga yāga saba chāra śraddhā sakalera sāra
         sei śraddhā hṛdaye jāhāra
 udiyāche eka bindhu krame bhakti-rasa-sindhu
         lābhe tāra haya adhikāra (1)

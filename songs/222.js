@@ -4,7 +4,8 @@ push({
   "author": "vṛndāvana dāsa",
   "category": "śrī-gaura-nityānande niṣṭhā",
   "language": "bengali",
-  "verses": `nācere nācere nitāi-gaura (dvija/guṇa)maṇiyā
+  "verses": `
+nācere nācere nitāi-gaura (dvija/guṇa)maṇiyā
 bāme priya gadādhara, śrīvāsa advaita bara,
         pāriśada tārāgaṇa jinyā (1)
 

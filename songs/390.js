@@ -6,6 +6,7 @@ push({
   "subcategory": "adhikārī-bhede",
   "language": "bengali",
   "verses": `
+
 <i>āśliṣya vā pādaratāṁ pinaṣṭu mām-
 adarśanānmarmmahatāṁ karotu vā |
 ĵathā tathā vā vidadhātu lampaṭo 

@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "upadeśa",
   "language": "bengali",
-  "verses": `ohe bhāi, mana kena brahma ha’te cāya?
+  "verses": `
+ohe bhāi, mana kena brahma ha’te cāya?
 ki āścarya ka’ba kā’ke, sadopāsya bala jā’ke,
         tā’te kena āpane miśāya
 bindu nāhi haya sindhu, vāmana nā sparśe indu,

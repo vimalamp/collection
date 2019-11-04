@@ -5,6 +5,7 @@ push({
   "category": "anutāpa-lakṣaṇa-upalabdhi",
   "language": "bengali",
   "verses": `
+
 ore mana, ki bipada hô_ilô āmāra |
 māyāra daurātmya-jvare,    bikāra jībere dhare,
 tāhā haite pāite nistāra ||1||

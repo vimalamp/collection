@@ -4,7 +4,8 @@ push({
   "category": "śrī-śrī-prabhupāda-padma-stavakaḥ",
   "author": "śrīla-bhakti-rakṣaka-śrīdhara-gosvāmī-mahārāja-viracitam",
   "language": "sanskrit",
-  "verses": `sujanārbuda-rādhita-pāda-yugaṁ
+  "verses": `
+sujanārbuda-rādhita-pāda-yugaṁ
     yuga-dharma-dhurandhara-pātra-varam
 varadābhaya-dāyaka pūja-padaṁ
     praṇamāmi sadā prabhupāda-padam (1)

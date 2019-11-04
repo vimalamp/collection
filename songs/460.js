@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `e mana! ki kare varaṇa-kula
+  "verses": `
+e mana! ki kare varaṇa-kula
 jei kule kena, janama nā haya,
         kevala bhakti mūla (1)
 

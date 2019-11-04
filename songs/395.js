@@ -5,6 +5,7 @@ push({
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
+
 <i>dadāti pratigṛhnāti 
 guhyamākhyāti pṛcchati |
 bhuṅ_#kte bhojayate caiva 

@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-kṛṣṇa-rūpa-varṇana",
   "language": "bengali",
-  "verses": `kibā kāliyā rupera chaṭa
+  "verses": `
+kibā kāliyā rupera chaṭa
 kuvalayadala, dalita añcana,
         jiniyā jaladagaṭa (1)
 

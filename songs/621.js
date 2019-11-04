@@ -4,7 +4,8 @@ push({
   "category": "śrī-nāma-bhajana-praṇālī",
   "author": "Unknown",
   "language": "bengali",
-  "verses": `asādhu-saṅge bhāi, kṛṣṇa-nāma nāhi haya
+  "verses": `
+asādhu-saṅge bhāi, kṛṣṇa-nāma nāhi haya
 nāmākṣara vāhirāya vaṭe, tabu nāma kabhu naya (1)
 
 kabhu nāmābhāsa haya, sadā nāma-aparādha

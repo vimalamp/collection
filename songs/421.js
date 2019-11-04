@@ -5,6 +5,7 @@ push({
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
+
 mana, ĵogī ha’te tomāra bāsanā |
 ĵogaśāstra adhyayana,    niyama-ĵama-sādhana,
 prāṇāyāma, āsana-racanā ||1||

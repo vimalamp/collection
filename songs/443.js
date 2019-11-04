@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `e mana! tumi vā bhulecha kise
+  "verses": `
+e mana! tumi vā bhulecha kise
 tomāre dekhiyā, śamana-kiṅkara,
         hāte tāli diyā hāse (1)
 

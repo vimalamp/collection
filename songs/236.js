@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
-  "verses": `hari hari! ki mora karama-gati manda
+  "verses": `
+hari hari! ki mora karama-gati manda
 vraje rādhā-kṛṣṇa-pada, nā bhajinu tila-ādha,
         nā bujhinu rāgera sambandha (1)
 

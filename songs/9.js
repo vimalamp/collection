@@ -4,7 +4,8 @@ push({
   "category": "śrī-keśavācāryāṣṭakam",
   "author": "śrīmad-hari-dāsa-viracitam",
   "language": "sanskrit",
-  "verses": `sita-kṛṣṇa-padāmbuja-sakta-prabhuṁ
+  "verses": `
+sita-kṛṣṇa-padāmbuja-sakta-prabhuṁ
     raghu-rūpa-kṛpā-amṛta-sikta-guruṁ
 ayutā-yuta-sajana-sevya-padaṁ
     bhaja keśava-komala-kānta-padaṁ (1)

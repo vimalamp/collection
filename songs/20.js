@@ -4,7 +4,8 @@ push({
   "category": "śrī-śacī-tanayāṣṭakam",
   "author": "śrīla-sārvabhauma-bhaṭṭācārya viracitam",
   "language": "sanskrit",
-  "verses": `ujvala-varaṇa-gaura-vara-dehaṁ
+  "verses": `
+ujvala-varaṇa-gaura-vara-dehaṁ
     vilasita-niravadhi-bhāva-videham
 tri-bhuvana-pāvana-kṛpāyā leśaṁ
     taṁ praṇamāmi ca śrī-śacī-tanayam (1)

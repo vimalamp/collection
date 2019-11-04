@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! bhāviyā nā bujha āpanāke
+  "verses": `
+ore mana! bhāviyā nā bujha āpanāke
 jā’ra lāgi’ duḥkha kara, svadeśe videśe phira,
         se-jana ki sukha dibe toke? (1)
 

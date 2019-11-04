@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-rādhāṣṭaka",
   "language": "bengali",
-  "verses": `rādhikā śarada-indu-nindi mukha maṇḍalī
+  "verses": `
+rādhikā śarada-indu-nindi mukha maṇḍalī
         kuntale vicitra veṇī campaka-puṣpa-śobhanī
 nīlapaṭra aṅge śobhe tāhe ādha oḍanī
         vandiye śrī-pādapadma vṛṣabhānu-nandinī (1)

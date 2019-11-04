@@ -6,6 +6,7 @@ push({
   "subcategory": "śrīla-sanātana-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
+
 rūpera bairāgyakāle,    sanātana bandiśāle,
 biṣāda bhābaye mane mane |
 “śrīrūpe karuṇā kôri’,    trāṇa kailô gaurahari,

@@ -4,7 +4,8 @@ push({
   "category": "śrī-yugala-kiśorāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `nava-jaladhara-vidyud-dyata-varnau prasannau
+  "verses": `
+nava-jaladhara-vidyud-dyata-varnau prasannau
     vadana-nayana-padmau cāru-candrāvataṁsau
 alaka-tilaka-bhālau keśa-veśa-praphullau
     bhaja bhaja tu mano re rādhikā-kṛṣṇacandrau (1)

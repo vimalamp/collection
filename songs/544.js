@@ -5,6 +5,7 @@ push({
   "category": "prayojana-vijñāna-upalabdhi",
   "language": "bengali",
   "verses": `
+
 ‘jībana-samāpti-kāle kôribô bhajana,
 ebe kôri gṛhasukha |’ 
 kakhôna e kathā nāhi bôle bijñajana,

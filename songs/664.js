@@ -5,6 +5,7 @@ push({
   "category": "hindī-kīrtana",
   "language": "hindi",
   "verses": `
+
 sundaralālā śacīdulālā,
 nācata śrīhari kīrttana me |
 bhāle candana tilaka manohara,
@@ -33,5 +34,13 @@ koi gāota hyā.y_ hariguṇagāna ||5||
 mṛdaṅgatāla madhura rasāla,
 koi gāota hyā.y_ raṅgame |
 sundaralālā śacīdulālā,
-nācata śrīhari kīrttana me ||6||`
+nācata śrīhari kīrttana me ||6||`,
+  "translations": {
+    "en": "That beautiful boy, the darling of Śacī, dances in śrī hari-kīrtana. The sandalwood tilaka on His forehead steals the mind, and resplendent curls rest on His cheeks.
+
+His hair looks splendid in an extraordinary topknot, while a wildflower garland dances on His heart. The yellow sash He wears shines, and the bells around His ankles jingle.
+
+Someone sings the names of Rādhā and Kṛṣṇa, another extols the glories of Hari, mṛdaṅga and karatālas converge in sweet medley, and others, still, delight as they sing."
+  },
+  "word4word": ""
 })

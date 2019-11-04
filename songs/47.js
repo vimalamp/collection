@@ -4,7 +4,8 @@ push({
   "category": "śrī-yugalāṣṭakam",
   "author": "śrīla-jīva-goswāmī",
   "language": "sanskrit",
-  "verses": `kṛṣṇa-prema-mayī rādhā,
+  "verses": `
+kṛṣṇa-prema-mayī rādhā,
     rādhā prema-mayo hariḥ
 jīvane nidhane nityaṁ,
     rādhā-kṛṣṇau gatir mama (1)

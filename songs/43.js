@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śrī-gīta-govinda",
   "language": "sanskrit",
-  "verses": `<i>bhairavī rāga; yati tāla</i>
+  "verses": `
+<i>bhairavī rāga; yati tāla</i>
 hari! hari! yāhi mādhava yāhi keśava
     mā vada kaitava-bādaṁ
 tām anusara sarasīruha-locana

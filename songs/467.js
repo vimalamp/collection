@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
-  "verses": `<i>ānukūlyasya saṅkalpaḥ prātikūlya-vivarjanam
+  "verses": `
+<i>ānukūlyasya saṅkalpaḥ prātikūlya-vivarjanam
     rakṣiṣyatīti viśvāso goptṛtve varaṇaṁ tathā
 ātma-nikṣepa-kārpaṇye ṣaḍ-vidhā śaraṇāgatiḥ
     (vaiṣṇava-tantra-vākya)</i>

@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "śreyo-nirṇaya",
   "language": "bengali",
-  "verses": `pīriti saccidānande rūpavatī nārī
+  "verses": `
+pīriti saccidānande rūpavatī nārī
 dayādharma-ādi guṇa alaṅkāra saba tāhāri (1)
 
 jñāna–tā’ra paṭṭaśāṭī, yoga–gandha-paripāṭī

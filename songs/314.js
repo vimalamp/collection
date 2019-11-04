@@ -4,7 +4,8 @@ push({
   "author": "govinda-dāsa",
   "category": "śrī-kṛṣṇa dainyabodhikā prārthanā",
   "language": "bengali",
-  "verses": `(tuḍī-rāga)
+  "verses": `
+(tuḍī-rāga)
 sajala jalada aṅga manohara chaṭāye cāhila nahe
 īṣata hāsiyā-manera ākuti aruṇa nayāne kahe (1)
 

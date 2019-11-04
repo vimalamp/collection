@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! śuna śuna tu ati rvara
+  "verses": `
+ore mana! śuna śuna tu ati rvara
 śata-sandhi jarajara, pe’ye ei kalevara,
         kibā garva karicha antara (1)
 

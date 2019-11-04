@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `rati prema sneha māna praṇaya o rāgākhyāna
+  "verses": `
+rati prema sneha māna praṇaya o rāgākhyāna
         anurāga bhāva ei sāta
 rati jata gāḍha haya krame sapta nāma laya
         sthāyī bhāva sadā avadāta (1)

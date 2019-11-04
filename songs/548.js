@@ -6,6 +6,7 @@ push({
   "subcategory": "śrīmad-rūpa-gosvāmī-prabhura śocaka",
   "language": "bengali",
   "verses": `
+
 āre mora śrīrūpa gosāñi |
 gaurāṅga-cā̃dera bhāba,    pracāra kôriyā saba,
 jānāite henô āra nāi ||1||

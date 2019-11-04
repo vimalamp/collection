@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>pitā tvaṁ mātā tvaṁ dayita-tanayastvaṁ priyasuhatva-
 meva tvaṁ mitraṁ gururapi gatiścāsi jagatām_ |
 tvadīyastvad_#bhṛtyastava parijanastvad_#gatirahaṁ

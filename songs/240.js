@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
-  "verses": `hari baliba āra madana-mohana heriba go
+  "verses": `
+hari baliba āra madana-mohana heriba go
 ei rūpe vrajera pathe caliba go (1)
 
 jāba go vrajendra-pura, ha’ba gopīkāra nūpura,

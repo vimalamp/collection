@@ -4,7 +4,8 @@ push({
   "category": "śrīla-gaura-kiśorāṣṭakam",
   "author": "śrīla-bhakti-rakṣaka-śrīdhara-gosvāmī-mahārāja-viracitam",
   "language": "sanskrit",
-  "verses": `śrī-gauradhāmāśrita-śuddha-bhaktaṁ
+  "verses": `
+śrī-gauradhāmāśrita-śuddha-bhaktaṁ
     rūpānugādyaṁ niravadya-rūpam
 vairāgya-dharmojvala-vigrahaṁ taṁ
     vande prabhuṁ gaura-kiśora-saṁjñam (1)

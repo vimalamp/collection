@@ -5,6 +5,7 @@ push({
   "category": "prayojana-vijñāna-upalabdhi",
   "language": "bengali",
   "verses": `
+
 cijjaḓera dvaita ĵini karena sthāpana, 
 jaḓīya kutarkabale hāya! 
 bhramajāla tā’ra buddhi kare ācchādana,

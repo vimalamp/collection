@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `śrī ujvala rasa sāra svabhāvataḥ dvi-prakāra
+  "verses": `
+śrī ujvala rasa sāra svabhāvataḥ dvi-prakāra
         vipralambha sambhoga ākhyāna
 vinā vipralambhāśraya sambhogera puṣṭi naya
         tāi vipralambhera vidhāna (1)

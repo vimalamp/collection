@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! kena hena bujha viparīta
+  "verses": `
+ore mana! kena hena bujha viparīta
 daṇḍe pale āyu-kṣaya, tāte tora vodha naya,
         āise dina ithe haraṣita (1)
 

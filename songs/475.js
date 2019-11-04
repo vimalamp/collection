@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
-  "verses": `<i>dainya–aparādha o lajātmaka</i>
+  "verses": `
+<i>dainya–aparādha o lajātmaka</i>
 (prāṇeśvara) kahabu ki sarama ki bāt
         aichana pāpa nāhi, jo hāma karalu,
 sahasra sahasra veri nātha (1)

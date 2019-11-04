@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>amarĵyādaḥ kṣudraścalamatirasūyāprasavabhūḥ
 kṛtaghno durmmānī smaraparavaśo vañcanaparaḥ |
 nṛśaṁsaḥ pāpiṣṭhaḥ kathamahamito duḥkhajaladhe-

@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-tattva",
   "language": "bengali",
-  "verses": `śrī-kṛṣṇa-caitanya gorā śacīra dulāla
+  "verses": `
+śrī-kṛṣṇa-caitanya gorā śacīra dulāla
 ei se pūrave chila gokulera gopāla (1)
 
 keha bale,-‘jānakī-vallabha chila rāma’

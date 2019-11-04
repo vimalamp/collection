@@ -5,6 +5,7 @@ push({
   "category": "sagaṇa śrī-gaura-caraṇe prārthanā",
   "language": "bengali",
   "verses": `
+
 jayare jayare mora gaurāṅga rāya |
 jaya nityānandacandra,    jaya gaura-bhaktavṛnda,
 sītānātha dehô’ padachāya ||1||

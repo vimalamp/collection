@@ -4,7 +4,8 @@ push({
   "category": "śrī-keśavācāryāṣṭakam",
   "author": "śrīmad-bhaktivedānta-ūrddhvanmahī-mahārājena viracitam",
   "language": "sanskrit",
-  "verses": `cira-mukta-gaṇādṛta-kāmya-dhanaṁ
+  "verses": `
+cira-mukta-gaṇādṛta-kāmya-dhanaṁ
     dhana-depsita-vandita-kalpatarum
 taru-rājita-cinmaya-dhāma-caraṁ
     praṇamāmi ha keśava-pūta-padam (1)

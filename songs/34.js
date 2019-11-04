@@ -4,7 +4,8 @@ push({
   "category": "śrī-rādhikāṣṭakam",
   "author": "śrīmad-raghunātha-dāsa-gosvāmī",
   "language": "sanskrit",
-  "verses": `rasa-valita-mṛgākṣī-mauli-māṇikya-lakṣmīḥ
+  "verses": `
+rasa-valita-mṛgākṣī-mauli-māṇikya-lakṣmīḥ
     pramudita-mura-vairi-prema-vāpī-marālī
 vraja-vara-vṛṣabhānoḥ puṇya-gīrvāṇa-vallī
     snapayati nija-dāsye rādhikā māṁ kadā nu (1)

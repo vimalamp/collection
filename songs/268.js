@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `varaṇe taḍita, vāsa tārāvalī,
+  "verses": `
+varaṇe taḍita, vāsa tārāvalī,
         ‘kamala mañjarī’ nāma
 sāḍe bāra varṣa, vayasa satata,
         svānanda-sukhada-dhāma (1)

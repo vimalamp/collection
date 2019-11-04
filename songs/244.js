@@ -4,7 +4,8 @@ push({
   "author": "narahariyā",
   "category": "śrī-rādhā-janmalīlā",
   "language": "bengali",
-  "verses": `āju ki ānanda vraja bhariyā
+  "verses": `
+āju ki ānanda vraja bhariyā
 nava vāsabhuṣā pari, dhāyata gopanārī
         nā pāre dhṛti dhariyā (1)
 

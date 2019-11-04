@@ -5,6 +5,7 @@ push({
   "category": "śrī-guru-kṛpā-prārthanā",
   "language": "bengali",
   "verses": `
+
 lokanātha prabhu, tumi dayā karô more | 
 rādhākṛṣṇa-caraṇa ĵenô sadā citte sphure ||1||
 

@@ -4,7 +4,8 @@ push({
   "category": "śrī-narottama prārthanā",
   "author": "govinda-dāsa",
   "language": "bengali",
-  "verses": `jaya re jaya re jaya ṭhākura narottama
+  "verses": `
+jaya re jaya re jaya ṭhākura narottama
 prema-bhakti-mahārāja yāṁke mantrī ’bhinu kalevara
 rāmacandra kavirāja prema-mukuṭa-maṇi bhūṣaṇa bhāvāvali (1)
 

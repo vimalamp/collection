@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! ki rase haiyā raili bhora
+  "verses": `
+ore mana! ki rase haiyā raili bhora
 ki baliyā eli sethā, ki kāja kara vā hethā,
         tileka cetana nāhi tora (1)
 

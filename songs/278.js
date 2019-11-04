@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `prāṇeśvari! ei bāra karuṇā kara more
+  "verses": `
+prāṇeśvari! ei bāra karuṇā kara more
 daśanete tṛṇa dhari añjali mastake kari ei-jana nivedana kare (1)
 
 priya-sahacarī-saṅge sevana kariba raṅge aṅge beśa karibeka sādhe

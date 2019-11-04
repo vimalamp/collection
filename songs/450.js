@@ -4,7 +4,8 @@ push({
   "author": "premānanda",
   "category": "manaḥ-śikṣā",
   "language": "bengali",
-  "verses": `ore mana! āra ki haibe hena janma
+  "verses": `
+ore mana! āra ki haibe hena janma
 nā jāni ki puṇya-phale, mānuṣa-utama-kule,
         hele jā’ra nā bujhile marma (1)
 

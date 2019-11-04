@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `ke go tumi kāngāla-veśe, deśa-videśe gure veḍāo
+  "verses": `
+ke go tumi kāngāla-veśe, deśa-videśe gure veḍāo
 ati baḍa vyathāra vyathi, (tāi) nayana-jala vaksa bhāsāo (1)
 
 adhama patita ācaṇḍāle, snehera kole laogo tule,

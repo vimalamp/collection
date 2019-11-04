@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "sagaṇa śrī-gaura-kṛṣṇa dainyavodhikā prārthanā",
   "language": "bengali",
-  "verses": `hari hari! baḍa śela marame rahila
+  "verses": `
+hari hari! baḍa śela marame rahila
 pāiyā durllabha tanu, śrī-kṛṣṇa-bhajana vinu,
         janma mora viphala haila (1)
 

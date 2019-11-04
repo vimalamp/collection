@@ -5,7 +5,8 @@ push({
   "category": "pañca-tattva-mahimā",
   "subcategory": "śrī-gaura-mahimā",
   "language": "bengali",
-  "verses": `(vandanā-rāga)
+  "verses": `
+(vandanā-rāga)
 campaka śoṇa kusuma kanakācala
 jitala gaura-tanu-lābaṇi re (1)
 

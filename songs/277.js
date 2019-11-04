@@ -4,7 +4,8 @@ push({
   "author": "narottama",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `kadamba tarura ḍāla nāmiyāche bhūme bhāla-
+  "verses": `
+kadamba tarura ḍāla nāmiyāche bhūme bhāla-
         phuṭiyāche phula sāri sari
 parimale bharala sakala vṛndāvana
         keli kare bhramarā bhramarī (1)

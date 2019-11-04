@@ -4,7 +4,8 @@ push({
   "category": "śrī-nityānandāṣṭakam",
   "author": "śrīmad-vṛndāvana-dāsa-ṭhakura-viracitam",
   "language": "sanskrit",
-  "verses": `śarac-candra-brāntiṁ sphurad-amala-kāntiṁ gaja-gatiṁ
+  "verses": `
+śarac-candra-brāntiṁ sphurad-amala-kāntiṁ gaja-gatiṁ
     hari-premonmattaṁ dhṛta-parama-sattvaṁ smita-mukham
 sadā ghūrṇan-netraṁ kara-kalita-vetraṁ kalibhidaṁ
     bhaje nityānandaṁ bhajana-taru-kandaṁ niravadhi (1)

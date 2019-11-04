@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "naukāvihāra",
   "language": "bengali",
-  "verses": `sakhā-gaṇa saṅga, chāḍi yadunandana
+  "verses": `
+sakhā-gaṇa saṅga, chāḍi yadunandana
         calatahi nāgara rāje
 bhāvinī manoratha, calala vipina pathe
         sādhite manoratha kāje (1)

@@ -5,6 +5,7 @@ push({
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
+
 mana, taba kenô e saṁśaya? 
 jaḓa-prati ghṛṇā kôri’,    bhajite premera hari,
 svarūpa lakṣite karô’ bhaya ||1||

@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-janmalīlā",
   "language": "bengali",
   "verses": `
+
 prakāśa hô_ilā gauracandra | 
 daśa-dike uṭhilô ānanda ||1||
 

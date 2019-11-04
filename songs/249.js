@@ -4,7 +4,8 @@ push({
   "author": "narottama-dāsa",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `hari hari! kabe mora haibe sudine
+  "verses": `
+hari hari! kabe mora haibe sudine
 keli-kautūka-raṅge kariba sevane (1)
 
 lalitā-viśākhā sane jateka sakhīra gaṇe maṇḍalī kariba dohā mele

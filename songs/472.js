@@ -4,7 +4,8 @@ push({
   "author": "bhaktivinoda dāsa",
   "category": "ṣaḍ-aṅga-śaraṇāgati",
   "language": "bengali",
-  "verses": `<i>dainya–trāsātmaka</i>
+  "verses": `
+<i>dainya–trāsātmaka</i>
 (prabhu he!) tuyā pade e minati mora
         tuyā pada-pallava, tyajata maru-mana,
 viṣama-viṣaye bhela bhora (1)

@@ -4,7 +4,8 @@ push({
   "author": "govinda dāsa",
   "category": "jhulanalīlā",
   "language": "bengali",
-  "verses": `vṛṣabhānu nandinī, nava anurāginī,
+  "verses": `
+vṛṣabhānu nandinī, nava anurāginī,
         turite karala abhisāra
 saṅginī raṅginī, prema taraṅginī,
         mandira hoi bāhāra (1)

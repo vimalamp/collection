@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "nirveda-lakṣaṇa-upalabdhi",
   "language": "bengali",
-  "verses": `ore mana, bhāla nāhi lāge e saṁsāra
+  "verses": `
+ore mana, bhāla nāhi lāge e saṁsāra
 janama-maraṇa jarā, je saṁsāre āche bharā,
         tāhe kibā āche bala’ sāra (1)
 

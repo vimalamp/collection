@@ -5,6 +5,7 @@ push({
   "category": "śānta-dāsya-bhakti-sādhana-lālasā",
   "language": "bengali",
   "verses": `
+
 <i>na mṛṣā paramārthameva me 
 śṛṇu vijñāpanamekamagrataḥ |
 ĵadi me na dayiṣyase tato 

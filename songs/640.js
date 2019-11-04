@@ -4,7 +4,8 @@ push({
   "author": "Unknown",
   "category": "rūpānuga-bhajana-darpaṇa",
   "language": "bengali",
-  "verses": `su-ramya madhura-smita sarva-sal-lakhaṇānvita
+  "verses": `
+su-ramya madhura-smita sarva-sal-lakhaṇānvita
         balīyān taruṇa gambhīra
 bāvadūka priya-bhāṣī sudhī sapratibhāśvāsī
         vidagdha catura sukhī dhīra (1)

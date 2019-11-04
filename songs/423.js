@@ -5,6 +5,7 @@ push({
   "category": "upadeśa",
   "language": "bengali",
   "verses": `
+
 mana re, kenô āra barṇa-abhimāna |
 môrile pātakī ha’ye,    ĵamadūte ĵā’be la’ye,
 nā kôribe jātira sammāna ||1||

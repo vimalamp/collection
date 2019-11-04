@@ -4,7 +4,8 @@ push({
   "author": "śrīla bhaktivinoda ṭhākura",
   "category": "nirveda-lakṣaṇa-upalabdhi",
   "language": "bengali",
-  "verses": `ore mana, bāḍivāra āśā kena kara’?
+  "verses": `
+ore mana, bāḍivāra āśā kena kara’?
 pārthiba unnati jata, śeṣe avanati tata,
         śānta hao, mora vākya dhara’ (1)
 

@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-advaitācārya",
   "language": "bengali",
   "verses": `
+
 nāstikatā apadharmma juḓilô saṁsāra | 
 kṛṣṇapūjā kṛṣṇabhakti nāhi kothā āra ||1||
 

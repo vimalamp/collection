@@ -5,6 +5,7 @@ push({
   "category": "śrī-upadeśāmṛta",
   "language": "bengali",
   "verses": `
+
 <i>karmmibhyaḥ parito hareḥ priyatayā vyaktiṁ ĵayurjñānina-
 stebhyo jñānavimukta-bhaktiparamāḥ premaikaniṣṭhāstataḥ |
 tebhyastāḥ paśupālapaṅkajadṛśastābhyo^pi sā rādhikā

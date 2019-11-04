@@ -4,7 +4,8 @@ push({
   "category": "śrī-śrī-sva-niyama-dvādaśakam",
   "author": "śrīla-saccidānanda-bhaktivinoda-ṭhākura",
   "language": "sanskrit",
-  "verses": `gurau śrī-gaurāṅge tad-udita-su-bhakti-prakaraṇe
+  "verses": `
+gurau śrī-gaurāṅge tad-udita-su-bhakti-prakaraṇe
     śacī-sunor-līlā-vikasita-su-tīrthe nija-manau
 harer namni preṣṭhe hari-tithiṣu rupānuga-jane
     śuka-prokte śāstre prati-jani mamāstāṁ khalu ratiḥ (1)

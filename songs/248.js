@@ -4,7 +4,8 @@ push({
   "author": "narottama",
   "category": "siddhi-lālasā",
   "language": "bengali",
-  "verses": `hari hari! kata dine hena daśā haba
+  "verses": `
+hari hari! kata dine hena daśā haba
 śrī-rāsa-mañjarī saṅge śrī-maṇi-mañjarī rāṅge
         śrī-rūpera anugā haiba (1)
 

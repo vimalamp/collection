@@ -4,7 +4,8 @@ push({
   "author": "rūpānugā-gauḍīya-guru-varga",
   "category": "maṅgalācaraṇam",
   "language": "sanskrit",
-  "verses": `śrī-śrī-guru-gaurāṅga-gāndharvikā-giridhārī
+  "verses": `
+śrī-śrī-guru-gaurāṅga-gāndharvikā-giridhārī
 śrī-śrī-rādhā-vinoda-bihārī-jīu kī jaya,
 
 [ <eng>now your dīkṣā-guru’s name should be glorified</eng> ]

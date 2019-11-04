@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaura-guṇa-varṇana",
   "language": "bengali",
   "verses": `
+
 ki kahibô śata śata tuŵā abatāra | 
 ekalā gaurāṅgacā̃da parāṇa āmāra ||1||
 

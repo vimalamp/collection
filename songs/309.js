@@ -4,7 +4,8 @@ push({
   "author": "dāsa narottame",
   "category": "śrī-kṛṣṇa dainyabodhikā prārthanā",
   "language": "bengali",
-  "verses": `hari hari! (govinda gopinātha) kṛpā kari’ rākha nija pade
+  "verses": `
+hari hari! (govinda gopinātha) kṛpā kari’ rākha nija pade
 kāma-krodha chaya-jane, lao phire nānā-sthāne,
         viṣaya bhuñjāya nānā-mate (1)
 

@@ -6,6 +6,7 @@ push({
   "subcategory": "śrī-gaurasundare vijñapti",
   "language": "bengali",
   "verses": `
+
 āmi tô’ durjjana ati sadā durācāra | 
 koṭi koṭi janme mora nāhika uddhāra ||1||
 

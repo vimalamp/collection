@@ -4,7 +4,8 @@ push({
   "author": "rādhā-mohana",
   "category": "śrī-kṛṣṇa vijñapti",
   "language": "bengali",
-  "verses": `prāṇa-nātha! more tumi kṛpādṛṣṭi kara
+  "verses": `
+prāṇa-nātha! more tumi kṛpādṛṣṭi kara
 mui pāpī durācāra, more karu aṅgīkāra,
         e bhava-sāgara haite tāra’ (1)
 

@@ -5,7 +5,8 @@ push({
   "category": "śrī-saḍ-gosvāmī-śocaka",
   "subcategory": "śrīla-raghunātha-bhaṭṭa-gosvāmī-prabhura śocaka",
   "language": "bengali",
-  "verses": `tapana-miśrera putra raghunātha bhaṭṭācārya
+  "verses": `
+tapana-miśrera putra raghunātha bhaṭṭācārya
 prabhuke dekhite cale chāḍi’ sarvakārya (1)
 
 kāśī hate calilā gauḍa-patha diyā

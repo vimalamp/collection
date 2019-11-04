@@ -4,7 +4,8 @@ push({
   "category": "śrī caitanyāṣṭakam",
   "author": "śrīla-rūpa-gosvāmī",
   "language": "sanskrit",
-  "verses": `sadopāsyaḥ śrīmān dhṛta-manuja-kāyaiḥ praṇayitāṁ
+  "verses": `
+sadopāsyaḥ śrīmān dhṛta-manuja-kāyaiḥ praṇayitāṁ
     vahadbhir gīrvāṇair giriśa-parameṣṭhi-prabhṛtibhiḥ
 sva-bhaktebhyaḥ śuddhāṁ nija-bhajana-mudrām upadiśan
     sa caitanyaḥ kiṁ me punar api dṛśor yāsyati padam (1)
