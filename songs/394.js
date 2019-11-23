@@ -30,5 +30,13 @@ e hena daśāya, ahaitukī kṛpā,
 śrī-guru-āśraye, ḍākiba tomāya,
         kabe vā minati kari’ (4)
 `,
-  "translation": ""
+  "translations": {
+    "en": `
+O Hari! Enthusiasm in bhajana, faith in the process of bhakti, the asset of patience in attaining the goal of prema, the initiation of works favorable to bhakti, the abandonment of ill association...
+
+...and good behavior favorable to bhakti—I have never had any of these six qualities. O Lord, how will I serve Your lotus feet and give up my affiliation with māyā?
+
+I remain immersed in vile behavior, and I have never kept the company of saints. Yet taking the garb of a saint, I instruct others! This is māyā’s big joke.
+
+In such a condition, I shall receive Your causeless grace, O Hari. When, in the shelter of śrī guru, will I call out to You in supplication?`
 })

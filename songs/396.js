@@ -30,5 +30,13 @@ niṣkapaṭa-mati, vaiṣṇavera prati,
 kabe e saṁsāra-, sindhu pāra ha’ye,
         tava vraja-pure jā’ba (4)
 `,
-  "translation": ""
+  "translations": {
+    "en": `
+O Hari! Initiated or not, if one free from bad association sings Your name, I will mentally honor him, knowing him to be a kindred soul.
+
+To one who is initiated and serves Your feet, I will offer my obeisance. And to one experienced in one-pointed bhajana, I will serve, O Hari!
+
+I consider it my fortune to have received the darśana of that devotee who is equipoised in regard to all living beings. I know that having obtained his association, I have become successful.
+
+When will I achieve the virtue of being sincere in my attitude toward the Vaiṣṇavas? Oh, when will I cross over this ocean of worldly existence and reach Your abode of Vraja?`
 })

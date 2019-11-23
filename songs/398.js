@@ -30,5 +30,13 @@ anudina jena, tava nāma gāi,
 aparādha jā’ve, nāme ruci ha’be,
         āsvādiba nāmāsava (4)
 `,
-  "translation": ""
+  "translations": {
+    "en": `
+O Hari! Having forgotten You, my tongue is afflicted with the jaundice of ignorance. The ambrosia of the holy name of Kṛṣṇa is unpleasant for me, as I am engrossed in worldly pleasures.
+
+If, with loving regard, I daily chant that holy name, which acts like sugar candy that can destroy jaundice at its root, gradually that name will become sweet to me, O Hari!
+
+My misfortune is that I have not developed loving regard for that name, O merciful Lord! How will the ten offenses [to the holy name], which are the cause of my misfortune, ever be obliterated?
+
+If I sing Your holy name every day, by Your mercy, all my offenses will gradually disappear, a taste for Your holy name will develop within me, and I will relish the nectar of that name.`
 })

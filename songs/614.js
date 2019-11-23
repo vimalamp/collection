@@ -17,5 +17,9 @@ kṛṣṇa baḍa dayā-maya, karibāre jihvā jaya,
 sei annāmṛta pāo, rādhā-kṛṣṇa-guṇa gāo,
         preme ḍāka caitanya-nitāi (3)
 `,
-  "translation": ""
+  "translations": {
+    "en": `
+O brothers! The material body is a web of ignorance and its inert senses are the cause of its ruination, for they throw the soul into the ocean of material enjoyment. Among the senses, the tongue is the most greedy and wicked; it is very difficult to conquer in this world.
+
+Kṛṣṇa is so merciful that He has given us His own food remnants to help us conquer the tongue, O brothers. Honor these nectarean foods, sing the glories of Rādhā and Kṛṣṇa, and with prema call out, “Caitanya! Nitāi!”`
 })

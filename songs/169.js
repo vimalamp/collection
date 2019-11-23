@@ -20,5 +20,15 @@ golokera vaibhava līlā prakāśa karilā (3)
 <b>vāsudeva</b> ghoṣa bale kari’ yoḍa hāta
 jei gaura sei kṛṣṇa sei jagannātha (5)
 `,
-  "translation": ""
+  "translations": {
+    "en": `
+All glories, all glories to the dear son of Jagannātha Miśra and Śacī-devī. His lotus feet are worshiped by the three worlds.
+
+In Nīlācala He holds the conchshell, disc, club, and lotus flower, while in the town of Nadīyā He holds the staff of a renunciant and a water pot.
+
+Some say that in a previous age He killed the demon Rāvaṇa. Then [as Lord Kṛṣṇa,] He revealed the glorious pastimes of Goloka.
+
+Now, accepting the bhāva of Śrī Rādhā, He has come as the golden avatāra. Lord Gaura preaches the [chanting of the] Hare Kṛṣṇa mahā-mantra.
+
+With folded hands, Vāsudeva Ghoṣa says, “He who is Gaura is also Kṛṣṇa, as well as Jagannātha.”`
 })

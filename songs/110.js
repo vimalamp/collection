@@ -40,5 +40,29 @@ jagate durllabha hao prema-dhana luṭe (11)
 manera vāsanā pūrṇa acirāte haya
 <b>devakīnandana</b> dāsa ei lobhe kaya (12)
 `,
-  "translation": ""
+  "translations": {
+    "en": `
+First of all, I offer glorification at the feet of all the Vaiṣṇavas who are residents of Vṛndāvana.
+
+Falling to the ground [in prostration], I pray to the feet of Śrīman Mahāprabhu’s associates who are residents of Nīlācala.
+
+Becoming filled with loving attachment, I submit my glorification at the feet of all Mahāprabhu’s devotees who are residents of Navadvīpa.
+
+Bowing down in obeisance, I pray to the feet of all Mahāprabhu’s devotees who are situated in Gauḓa-deśa.
+
+Raising my arms, I offer glorification at the feet of all Gaurāṅga’s associates, in whichever country they may reside.
+
+Holding a straw between my teeth, I submit my glorification at the feet of all the servants of Mahāprabhu who ever were or will be.
+
+Each of His devotees possesses the power to deliver the entire universe. The Vedas and Purāṇas glorify this divine quality of the Vaiṣṇava to all willing to listen.
+
+All the associates of Mahāprabhu are saviors of the fallen, so I, a sinner, fervently take shelter of them.
+
+What power do I have to glorify them? Afflicted by ignorance, I only exhibit conceit.
+
+Yet, even one who is dumb [such as me] is greatly fortunate and joyful at heart [to have an opportunity to glorify them]. [O Vaiṣṇavas,] forgive the faults of this fallen soul and make me your own servant.
+
+[By the Vaiṣṇavas’ mercy] one’s desires are perfected, the fetters of Yama (the lord of death) are quickly released, and the treasure of prema, which is rare within this world, is plundered [and distributed].
+
+They quickly fulfill the heart’s longings. With this in mind, Devakīnandana utters this vaiṣṇava-vandanā.`
 })

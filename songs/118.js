@@ -28,5 +28,15 @@ bhajite bhajite, samaya āsile,
 prabhu-kṛpā lāgi’, vyākula antare,
         sadā kāde saṅgopane (5)
 `,
-  "translation": ""
+  "translations": {
+    "en": `
+O Hari! When will such a day be mine? I shall develop attachment to pure-hearted Vaiṣṇavas, by which my material desires will be subdued.
+
+No disparity shall remain between my internal and external behavior. I shall not desire honor for myself and shall instead offer respect to others. I shall remain constantly absorbed in chanting Kṛṣṇa's names and remembering Him.
+
+I shall perform my bodily activities out of habit, just to maintain my life. I shall become attached only to that which is favorable to bhajana of Śrī Kṛṣṇa.
+
+I shall firmly reject whatever is unfavorable for bhajana. Absorbed in bhajana, when the time comes, I shall readily give up this body.
+
+With these aspirations, Bhaktivinoda resides in the forest of Godruma. He always weeps in a solitary place, anxious at heart to receive the mercy of the Lord.`
 })
