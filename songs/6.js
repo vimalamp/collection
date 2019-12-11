@@ -14,6 +14,8 @@ mahā-prabhoḥ kīrtana-nṛtya-gīta-
 romāñca-kampāśru-taraṅga-bhājo
     vande guroḥ śrī-caraṇāravindam (2)
 
+TEST
+
 śrī-vigrahārādhana-nitya-nānā-
     śṛṅgāra-tan mandira-mārjanādau
 yuktasya-bhaktāṁś-ca-niyuñjato’pi
